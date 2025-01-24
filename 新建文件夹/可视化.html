@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Audio Visualization</title>
+    <style>
+        canvas {
+            width: 100%;
+            height: 100%;
+            background: black;
+        }
+    </style>
+</head>
+<body>
+    <canvas id="canvas"></canvas>
+    <input type="file" id="audioFile" accept="audio/*">
+
+    <script>
+        const canvas = document.getElementById('canvas');
+        const ctx = canvas.getContext('2d');
+        const audioFileInput = document.getElementById('audioFile');
+        const audioContext = new (window.AudioContext || window.webkitAudioContext)();
+        let analyser;
+
+        audioFileInput.addEventListener('change', function() {
+            const file = this.files[0];
+            const reader = new FileReader();
+
+            reader.onload = function(event) {
+                audioContext.decodeAudioData(event.target.result, function(buffer) {
+                    const source = audioContext.createBufferSource();
+                    source.buffer = buffer;
+
+                    analyser = audioContext.createAnalyser();
+                    source.connect(analyser);
+                    analyser.connect(audioContext.destination);
+
+                    source.start();
+                    visualize();
+                });
+            };
+
+            reader.readAsArrayBuffer(file);
+        });
+
+        function visualize() {
+            const bufferLength = analyser.frequencyBinCount;
+            const dataArray = new Uint8Array(bufferLength);
+
+            function draw() {
+                requestAnimationFrame(draw);
+                analyser.getByteFrequencyData(dataArray);
+                ctx.fillStyle = 'rgba(0, 0, 0, 0.1)';
+                ctx.fillRect(0, 0, canvas.width, canvas.height);
+
+                const barWidth = (canvas.width / bufferLength) * 2.5;
+                let barHeight;
+                let x = 0;
+
+                for (let i = 0; i < bufferLength; i++) {
+                    barHeight = dataArray[i];
+                    ctx.fillStyle = 'rgb(' + (barHeight + 100) + ',50,50)';
+                    ctx.fillRect(x, canvas.height - barHeight / 2, barWidth, barHeight / 2);
+                    x += barWidth + 1;
+                }
+            }
+
+            draw();
+        }
+    </script>
+</body>
+</html>
