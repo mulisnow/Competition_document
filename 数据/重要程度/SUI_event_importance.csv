@@ -1,0 +1,485 @@
+﻿Event,importance_score
+Aeronautics Mixed Aeronautics,0.5
+Alpinism Mixed Alpinism,1.0
+Archery Men's Individual,0.0
+Archery Women's Individual,0.0
+"Art Competitions Mixed Architecture, Architectural Designs",0.0
+"Art Competitions Mixed Architecture, Designs For Town Planning",0.6666666666666666
+Art Competitions Mixed Architecture,1.0
+"Art Competitions Mixed Literature, Dramatic Works",0.0
+"Art Competitions Mixed Literature, Epic Works",0.0
+"Art Competitions Mixed Literature, Lyric Works",0.0
+"Art Competitions Mixed Literature, Unknown Event",0.0
+Art Competitions Mixed Literature,0.0
+"Art Competitions Mixed Music, Compositions For Orchestra",0.0
+"Art Competitions Mixed Music, Compositions For Solo Or Chorus",0.0
+"Art Competitions Mixed Music, Instrumental And Chamber",0.0
+Art Competitions Mixed Music,0.0
+"Art Competitions Mixed Painting, Applied Arts",0.9999999999999999
+"Art Competitions Mixed Painting, Drawings And Water Colors",0.0
+"Art Competitions Mixed Painting, Graphic Arts",0.3333333333333333
+"Art Competitions Mixed Painting, Paintings",0.0
+"Art Competitions Mixed Painting, Unknown Event",0.0
+Art Competitions Mixed Painting,0.0
+"Art Competitions Mixed Sculpturing, Medals And Plaques",0.0
+"Art Competitions Mixed Sculpturing, Medals And Reliefs",0.0
+"Art Competitions Mixed Sculpturing, Medals",0.0
+"Art Competitions Mixed Sculpturing, Reliefs",0.0
+"Art Competitions Mixed Sculpturing, Statues",0.3333333333333333
+"Art Competitions Mixed Sculpturing, Unknown Event",0.0
+Art Competitions Mixed Sculpturing,0.0
+Art Competitions Mixed Unknown Event,0.0
+Men's All-Around,0.0
+Men's Floor Exercise,0.0
+Men's Horizontal Bar,0.0
+Men's Parallel Bars,0.0
+Men's Pommel Horse,0.0
+Men's Rings,0.0
+Men's Team,0.0
+Men's Vault,0.0
+Men,0.0
+Women's All-Around,0.0
+Women's Balance Beam,0.0
+Women's Floor Exercise,0.0
+Women's Uneven Bars,0.0
+Women's Vault,0.0
+Women,0.0
+4 x 400m Relay Mixed,0.0
+"Athletics Men's 1,500 metres",0.3333333333333333
+Athletics Men's 10 kilometres Walk,0.5
+"Athletics Men's 10,000 metres",0.0
+Athletics Men's 100 metres,0.0
+Athletics Men's 110 metres Hurdles,0.0
+Athletics Men's 20 kilometres Walk,0.0
+Athletics Men's 200 metres,0.0
+"Athletics Men's 3,000 metres Steeplechase",0.0
+"Athletics Men's 3,000 metres Walk",0.0
+Athletics Men's 4 x 100 metres Relay,0.0
+Athletics Men's 4 x 400 metres Relay,0.0
+Athletics Men's 400 metres Hurdles,0.0
+Athletics Men's 400 metres,0.0
+"Athletics Men's 5,000 metres",0.3333333333333333
+Athletics Men's 50 kilometres Walk,0.6666666666666666
+Athletics Men's 800 metres,0.3333333333333333
+Athletics Men's Decathlon,0.0
+Athletics Men's Discus Throw,0.0
+Athletics Men's Hammer Throw,0.0
+Athletics Men's High Jump,0.0
+Athletics Men's Javelin Throw,0.0
+Athletics Men's Long Jump,0.0
+Athletics Men's Marathon,0.0
+Athletics Men's Pentathlon,0.0
+Athletics Men's Pole Vault,0.0
+Athletics Men's Shot Put,0.16666666666666666
+"Athletics Women's 1,500 metres",0.0
+"Athletics Women's 10,000 metres",0.0
+Athletics Women's 100 metres Hurdles,0.0
+Athletics Women's 100 metres,0.0
+Athletics Women's 20 kilometres Walk,0.0
+Athletics Women's 200 metres,0.0
+"Athletics Women's 3,000 metres Steeplechase",0.0
+"Athletics Women's 3,000 metres",0.0
+Athletics Women's 4 x 100 metres Relay,0.0
+Athletics Women's 4 x 400 metres Relay,0.0
+Athletics Women's 400 metres Hurdles,0.0
+Athletics Women's 400 metres,0.0
+"Athletics Women's 5,000 metres",0.0
+Athletics Women's 80 metres Hurdles,0.0
+Athletics Women's 800 metres,0.0
+Athletics Women's Discus Throw,0.0
+Athletics Women's Heptathlon,0.0
+Athletics Women's High Jump,0.0
+Athletics Women's Javelin Throw,0.0
+Athletics Women's Long Jump,0.0
+Athletics Women's Marathon,0.0
+Athletics Women's Pentathlon,0.0
+Athletics Women's Pole Vault,0.0
+Athletics Women's Shot Put,0.0
+"Men's 10,000m",0.0
+Men's 100m,0.0
+Men's 110m Hurdles,0.0
+Men's 200m,0.0
+Men's 400m Hurdles,0.0
+Men's 400m,0.0
+Men's 5000m,0.0
+Men's High Jump,0.0
+Men's Long Jump,0.0
+Men's Marathon,0.0
+Women's 100m Hurdles,0.0
+Women's 100m,0.0
+Women's 200m,0.0
+Women's 4 x 100m Relay Team,0.0
+Women's 4 x 100m Relay,0.0
+Women's 4 x 400m Relay Team,0.0
+Women's 4 x 400m Relay,0.0
+Women's 400m Hurdles,0.0
+Women's 800m,0.0
+Women's Heptathlon,0.0
+Women's High Jump,0.0
+Women's Marathon,0.0
+Women's Pole Vault,0.0
+Badminton Men's Singles,0.0
+Badminton Mixed Doubles,0.0
+Badminton Women's Doubles,0.0
+Badminton Women's Singles,0.0
+Men's Singles,0.0
+Women's Singles,0.0
+Basketball Men's Basketball,0.0
+Beach Volleyball Men's Beach Volleyball,0.3333333333333333
+Beach Volleyball Women's Beach Volleyball,0.0
+Men Team,0.0
+Women Team,0.3333333333333333
+Women,0.3333333333333333
+Boxing Men's Bantamweight,0.0
+Boxing Men's Featherweight,0.0
+Boxing Men's Flyweight,0.0
+Boxing Men's Heavyweight,0.0
+Boxing Men's Light-Heavyweight,0.0
+Boxing Men's Light-Middleweight,0.0
+Boxing Men's Lightweight,0.0
+Boxing Men's Middleweight,0.0
+Boxing Men's Welterweight,0.0
+Men's Canoe,0.0
+Men's Kayak Cross,0.0
+Men's Kayak Single,0.0
+Men's Kayak,0.0
+Women's Canoe Single,0.0
+Women's Canoe,0.0
+Women's Kayak Cross,0.0
+Women's Kayak Single,0.0
+Women's Kayak,0.0
+"Canoeing Men's Canadian Doubles, Slalom",0.0
+"Canoeing Men's Canadian Singles, Slalom",0.0
+"Canoeing Men's Folding Kayak Doubles, 10 kilometres",0.0
+"Canoeing Men's Folding Kayak Singles, 10 kilometres",0.0
+"Canoeing Men's Kayak Doubles, 1,000 metres",0.0
+"Canoeing Men's Kayak Doubles, 10,000 metres",0.0
+"Canoeing Men's Kayak Doubles, 500 metres",0.0
+"Canoeing Men's Kayak Fours, 1,000 metres",0.0
+Canoeing Men's Kayak Relay 4 x 500 metres,0.0
+"Canoeing Men's Kayak Singles, 1,000 metres",0.0
+"Canoeing Men's Kayak Singles, 10,000 metres",0.0
+"Canoeing Men's Kayak Singles, 500 metres",0.0
+"Canoeing Men's Kayak Singles, Slalom",0.0
+"Canoeing Women's Kayak Doubles, 500 metres",0.0
+"Canoeing Women's Kayak Fours, 500 metres",1.3333333333333333
+"Canoeing Women's Kayak Singles, 500 metres",0.0
+"Canoeing Women's Kayak Singles, Slalom",0.0
+Women's Park,0.16666666666666666
+Men,0.0
+Women,0.16666666666666666
+Men's Cross-country,0.3333333333333333
+Women's Cross-country,0.9999999999999999
+Men's Individual Time Trial,0.0
+Men's Road Race,0.0
+Women's Individual Time Trial,0.3333333333333333
+Women's Road Race,0.0
+Men's Madison Team,0.0
+Men's Omnium,0.0
+Men's Team Pursuit Team,0.0
+Women's Madison,0.0
+Women's Omnium,0.0
+"Cycling Men's 1,000 metres Time Trial",0.0
+Cycling Men's 100 kilometres Team Time Trial,1.3333333333333333
+Cycling Men's 20 kilometres,0.0
+Cycling Men's 333 metres Time Trial,0.0
+"Cycling Men's 5,000 metres",0.0
+Cycling Men's BMX,0.0
+"Cycling Men's Individual Pursuit, 4,000 metres",0.9999999999999999
+Cycling Men's Individual Time Trial,1.0
+Cycling Men's Madison,0.6666666666666666
+"Cycling Men's Mountainbike, Cross-Country",1.4999999999999998
+Cycling Men's Omnium,0.0
+Cycling Men's Points Race,0.0
+"Cycling Men's Road Race, Individual",0.9999999999999999
+"Cycling Men's Road Race, Team",1.3333333333333333
+Cycling Men's Sprint,0.0
+"Cycling Men's Tandem Sprint, 2,000 metres",0.0
+"Cycling Men's Team Pursuit, 4,000 metres",0.0
+Cycling Women's BMX,0.0
+"Cycling Women's Individual Pursuit, 3,000 metres",0.0
+Cycling Women's Individual Time Trial,0.3333333333333333
+"Cycling Women's Mountainbike, Cross-Country",0.3333333333333333
+"Cycling Women's Road Race, Individual",0.0
+Diving Men's Platform,0.0
+Diving Men's Springboard,0.0
+Diving Women's Platform,0.0
+Diving Women's Springboard,0.0
+Diving Women's Synchronized Springboard,0.0
+Women's 3m Springboard,0.0
+"Equestrianism Men's Dressage, Individual",0.5
+"Equestrianism Men's Dressage, Team",0.0
+"Equestrianism Men's Jumping, Individual",0.6666666666666666
+"Equestrianism Men's Jumping, Team",1.3333333333333333
+"Equestrianism Men's Three-Day Event, Individual",0.16666666666666666
+"Equestrianism Men's Three-Day Event, Team",1.3333333333333333
+"Equestrianism Mixed Dressage, Individual",1.6666666666666665
+"Equestrianism Mixed Dressage, Team",6.333333333333333
+"Equestrianism Mixed Jumping, Individual",0.9999999999999999
+"Equestrianism Mixed Jumping, Team",2.0
+"Equestrianism Mixed Three-Day Event, Individual",0.0
+"Equestrianism Mixed Three-Day Event, Team",0.0
+Dressage Individual,0.0
+Eventing Individual,0.0
+Eventing Team,0.0
+Jumping Individual,0.3333333333333333
+Jumping Team,0.0
+"Fencing Men's epee, Individual",0.9999999999999999
+"Fencing Men's epee, Team",3.5
+"Fencing Men's Foil, Individual",0.0
+"Fencing Men's Foil, Team",0.0
+"Fencing Men's Sabre, Individual",0.0
+"Fencing Men's Sabre, Team",0.0
+"Fencing Women's epee, Individual",0.3333333333333333
+"Fencing Women's epee, Team",1.0
+"Fencing Women's Foil, Individual",0.0
+Men's Épée Individual,0.0
+Men's Épée Team,0.0
+Women's Épée Individual,0.0
+Figure Skating Men's Singles,0.0
+Football Men's Football,5.0
+Golf Women's Individual,0.0
+Men's Individual Stroke Play,0.0
+Women's Individual Stroke Play,0.0
+Gymnastics Men's Floor Exercise,1.3333333333333333
+Gymnastics Men's Horizontal Bar,2.6666666666666665
+Gymnastics Men's Horse Vault,1.1666666666666665
+"Gymnastics Men's Individual All-Around, Apparatus Work",0.5
+"Gymnastics Men's Individual All-Around, Field Sports",0.0
+Gymnastics Men's Individual All-Around,1.8333333333333333
+Gymnastics Men's Parallel Bars,2.833333333333333
+Gymnastics Men's Pommelled Horse,3.3333333333333335
+Gymnastics Men's Rings,0.9999999999999999
+Gymnastics Men's Rope Climbing,0.16666666666666666
+Gymnastics Men's Side Horse,0.0
+Gymnastics Men's Team All-Around,13.333333333333334
+Gymnastics Women's Balance Beam,0.0
+Gymnastics Women's Floor Exercise,0.0
+Gymnastics Women's Horse Vault,0.16666666666666666
+Gymnastics Women's Individual All-Around,0.0
+Gymnastics Women's Team All-Around,0.0
+Gymnastics Women's Uneven Bars,0.0
+Handball Men's Handball,2.833333333333333
+Hockey Men's Hockey,0.0
+Ice Hockey Men's Ice Hockey,0.0
+Judo Men's Extra-Lightweight,0.0
+Judo Men's Half-Heavyweight,0.16666666666666666
+Judo Men's Half-Lightweight,0.0
+Judo Men's Half-Middleweight,0.0
+Judo Men's Heavyweight,0.0
+Judo Men's Lightweight,0.3333333333333333
+Judo Men's Middleweight,0.6666666666666666
+Judo Men's Open Class,0.0
+Judo Women's Half-Lightweight,0.0
+Judo Women's Half-Middleweight,0.0
+Judo Women's Lightweight,0.0
+Judo Women's Middleweight,0.0
+Men -100 kg,0.0
+Men -73 kg,0.0
+Women -52 kg,0.0
+Women's Kumite +61kg,0.0
+Men's Individual,0.0
+Modern Pentathlon Men's Individual,0.0
+Modern Pentathlon Men's Team,0.0
+Modern Pentathlon Women's Individual,0.0
+Women's Individual,0.0
+Rhythmic Gymnastics Women's Individual,0.0
+Lightweight Men's Double Sculls,0.0
+Lightweight Women's Double Sculls Team,0.0
+Men's Double Sculls Team,0.0
+Men's Four Team,0.0
+Men's Four,0.0
+Men's Pair,0.3333333333333333
+Men's Quadruple Sculls,0.0
+Rowing Men's Coxed Eights,0.0
+Rowing Men's Coxed Fours,13.0
+Rowing Men's Coxed Pairs,3.5
+Rowing Men's Coxless Fours,1.3333333333333333
+Rowing Men's Coxless Pairs,1.6666666666666665
+Rowing Men's Double Sculls,1.3333333333333333
+Rowing Men's Lightweight Coxless Fours,2.0
+Rowing Men's Lightweight Double Sculls,1.0
+Rowing Men's Quadruple Sculls,0.0
+Rowing Men's Single Sculls,1.1666666666666665
+Rowing Women's Double Sculls,0.0
+Rowing Women's Lightweight Double Sculls,0.0
+Rowing Women's Single Sculls,0.0
+Women's Quadruple Sculls,0.0
+Women's Single Sculls,0.0
+Men's Skiff - 49er Team,0.0
+Men's Skiff,0.0
+Men's Windsurfer - RS:X,0.0
+Men's Windsurfing,0.0
+Mixed Dinghy,0.0
+Sailing Men's One Person Dinghy,0.0
+Sailing Men's Skiff,0.0
+Sailing Men's Two Person Dinghy,0.0
+Sailing Men's Two Person Keelboat,0.0
+Sailing Men's Windsurfer,0.0
+Sailing Mixed 1-2 Ton,2.5
+Sailing Mixed 5.5 metres,1.5
+Sailing Mixed 6 metres,0.0
+Sailing Mixed Multihull,0.0
+Sailing Mixed One Person Dinghy,0.0
+Sailing Mixed Open,0.0
+Sailing Mixed Skiff,0.0
+Sailing Mixed Three Person Keelboat,0.0
+Sailing Mixed Two Person Dinghy,0.0
+Sailing Mixed Two Person Heavyweight Dinghy,0.0
+Sailing Mixed Two Person Keelboat,0.0
+Sailing Mixed Windsurfer,0.0
+Sailing Women's One Person Dinghy,0.0
+Sailing Women's Two Person Dinghy,0.0
+Sailing Women's Windsurfer,0.0
+Women's Dinghy,0.0
+Women's Kite,0.0
+Women's One Person Dinghy - Laser Radial,0.0
+Women's Two Person Dinghy - 470 Team,0.0
+10m Air Pistol Men,0.0
+10m Air Pistol Women,0.0
+10m Air Rifle Women,0.3333333333333333
+25m Pistol Women,0.0
+50m Rifle 3 Positions Men,0.0
+50m Rifle 3 Positions Women,1.0
+"Shooting Men's Air Pistol, 10 metres",0.0
+"Shooting Men's Air Rifle, 10 metres",0.0
+"Shooting Men's Free Pistol, 25 metres",0.0
+"Shooting Men's Free Pistol, 50 metres, Team",2.5
+"Shooting Men's Free Pistol, 50 metres",0.9999999999999999
+"Shooting Men's Free Rifle, 400, 600 and 800 metres, Team",0.0
+"Shooting Men's Free Rifle, Any Position, 300 metres",0.8333333333333333
+"Shooting Men's Free Rifle, Kneeling, 300 metres",0.8333333333333333
+"Shooting Men's Free Rifle, Prone, 300 metres",0.0
+"Shooting Men's Free Rifle, Prone, 600 metres",0.0
+"Shooting Men's Free Rifle, Standing, 300 metres",0.0
+"Shooting Men's Free Rifle, Three Positions, 300 metres, Team",5.833333333333333
+"Shooting Men's Free Rifle, Three Positions, 300 metres",1.6666666666666665
+"Shooting Men's Military Pistol, 30 metres",0.16666666666666666
+"Shooting Men's Military Pistol, Team",0.8333333333333333
+"Shooting Men's Military Revolver, 1873-1874 Gras Model, 20 metres",0.0
+"Shooting Men's Military Revolver, 20 metres",0.5
+"Shooting Men's Military Rifle, 1873-1874 Gras Model, Kneeling Or Standing, 200 metres",0.5
+"Shooting Men's Military Rifle, 200 metres",0.0
+"Shooting Men's Military Rifle, 300 metres and 600 metres, Prone, Team",0.8333333333333333
+"Shooting Men's Military Rifle, Kneeling Or Standing, 300 metres",0.8333333333333333
+"Shooting Men's Military Rifle, Prone, 300 metres, Team",0.0
+"Shooting Men's Military Rifle, Prone, 300 metres",0.16666666666666666
+"Shooting Men's Military Rifle, Prone, 600 metres, Team",0.0
+"Shooting Men's Military Rifle, Standing, 300 metres, Team",0.0
+"Shooting Men's Rapid-Fire Pistol, 25 metres",0.3333333333333333
+Shooting Men's Skeet,0.0
+"Shooting Men's Small-Bore Rifle, Prone, 50 metres",0.16666666666666666
+"Shooting Men's Small-Bore Rifle, Three Positions, 50 metres",0.3333333333333333
+Shooting Men's Trap,0.0
+"Shooting Mixed Free Pistol, 50 metres",0.0
+"Shooting Mixed Free Rifle, Three Positions, 300 metres",0.16666666666666666
+"Shooting Mixed Rapid-Fire Pistol, 25 metres",0.0
+Shooting Mixed Skeet,0.0
+"Shooting Mixed Small-Bore Rifle, Prone, 50 metres",0.0
+"Shooting Mixed Small-Bore Rifle, Three Positions, 50 metres",0.0
+Shooting Mixed Trap,0.0
+"Shooting Women's Air Pistol, 10 metres",0.0
+"Shooting Women's Air Rifle, 10 metres",0.0
+"Shooting Women's Small-Bore Rifle, Three Positions, 50 metres",0.0
+"Shooting Women's Sporting Pistol, 25 metres",0.16666666666666666
+Men's Boulder & Lead,0.0
+Women's Combined,0.0
+Men's 100m Backstroke,0.0
+Men's 100m Breaststroke,0.0
+Men's 100m Butterfly,0.16666666666666666
+Men's 100m Freestyle,0.0
+Men's 200m Backstroke,0.16666666666666666
+Men's 200m Butterfly,0.0
+Men's 200m Freestyle,0.0
+Men's 200m Individual Medley,0.16666666666666666
+Men's 4 x 100m Freestyle Relay Team,0.0
+Men's 4 x 100m Medley Relay,0.0
+Men's 4 x 200m Freestyle Relay Team,0.0
+Men's 4 x 200m Freestyle Relay,0.0
+Men's 400m Freestyle,0.0
+Men's 400m Individual Medley,0.0
+Men's 50m Freestyle,0.0
+Relay Only Athlete,0.0
+"Swimming Men's 1,500 metres Freestyle",0.0
+Swimming Men's 100 metres Backstroke,0.0
+Swimming Men's 100 metres Breaststroke,0.0
+Swimming Men's 100 metres Butterfly,0.0
+Swimming Men's 100 metres Freestyle,0.0
+Swimming Men's 200 metres Backstroke,0.0
+Swimming Men's 200 metres Breaststroke,0.16666666666666666
+Swimming Men's 200 metres Butterfly,0.0
+Swimming Men's 200 metres Freestyle,0.0
+Swimming Men's 200 metres Individual Medley,0.0
+Swimming Men's 4 x 100 metres Freestyle Relay,0.0
+Swimming Men's 4 x 100 metres Medley Relay,0.0
+Swimming Men's 4 x 200 metres Freestyle Relay,0.0
+Swimming Men's 400 metres Breaststroke,0.0
+Swimming Men's 400 metres Freestyle,0.0
+Swimming Men's 400 metres Individual Medley,0.0
+Swimming Men's 50 metres Freestyle,0.0
+Swimming Women's 10 kilometres Open Water,0.0
+Swimming Women's 100 metres Backstroke,0.0
+Swimming Women's 100 metres Breaststroke,0.0
+Swimming Women's 100 metres Butterfly,0.0
+Swimming Women's 100 metres Freestyle,0.0
+Swimming Women's 200 metres Backstroke,0.0
+Swimming Women's 200 metres Breaststroke,0.0
+Swimming Women's 200 metres Butterfly,0.0
+Swimming Women's 200 metres Freestyle,0.0
+Swimming Women's 200 metres Individual Medley,0.0
+Swimming Women's 4 x 100 metres Freestyle Relay,0.0
+Swimming Women's 4 x 100 metres Medley Relay,0.0
+Swimming Women's 4 x 200 metres Freestyle Relay,0.0
+Swimming Women's 400 metres Freestyle,0.0
+Swimming Women's 400 metres Individual Medley,0.0
+Swimming Women's 50 metres Freestyle,0.0
+Swimming Women's 800 metres Freestyle,0.0
+Women's 100m Breaststroke,0.0
+Women's 100m Butterfly,0.0
+Women's 100m Freestyle,0.0
+Women's 200m Breaststroke,0.0
+Women's 200m Individual Medley,0.0
+Synchronized Swimming Women's Duet,0.0
+Synchronized Swimming Women's Solo,0.0
+Table Tennis Women's Singles,0.0
+Women's Singles,0.0
+Taekwondo Women's Flyweight,0.0
+Men's Singles,0.0
+Tennis Men's Doubles,1.0
+Tennis Men's Singles,0.8333333333333333
+Tennis Women's Doubles,0.6666666666666666
+Tennis Women's Singles,0.0
+Women's Doubles Team,0.6666666666666666
+Women's Singles,0.5
+Trampolining Men's Individual,0.0
+Men's Individual,0.0
+Mixed Relay Team,0.0
+Mixed Relay,0.0
+Triathlon Men's Olympic Distance,0.16666666666666666
+Triathlon Women's Olympic Distance,1.5
+Women's Individual,0.3333333333333333
+Water Polo Men's Water Polo,0.0
+Weightlifting Men's Bantamweight,0.0
+Weightlifting Men's Featherweight,0.3333333333333333
+Weightlifting Men's Heavyweight,0.0
+Weightlifting Men's Light-Heavyweight,0.6666666666666666
+Weightlifting Men's Lightweight,0.0
+Weightlifting Men's Middle-Heavyweight,0.0
+Weightlifting Men's Middleweight,0.0
+Men's Freestyle 86kg,0.0
+"Wrestling Men's Bantamweight, Freestyle",0.0
+"Wrestling Men's Bantamweight, Greco-Roman",0.0
+"Wrestling Men's Featherweight, Freestyle",0.3333333333333333
+"Wrestling Men's Featherweight, Greco-Roman",0.16666666666666666
+"Wrestling Men's Flyweight, Greco-Roman",0.0
+"Wrestling Men's Heavyweight, Freestyle",0.8333333333333333
+"Wrestling Men's Heavyweight, Greco-Roman",0.0
+"Wrestling Men's Light-Flyweight, Freestyle",0.16666666666666666
+"Wrestling Men's Light-Heavyweight, Freestyle",1.1666666666666667
+"Wrestling Men's Light-Heavyweight, Greco-Roman",0.0
+"Wrestling Men's Lightweight, Freestyle",0.16666666666666666
+"Wrestling Men's Lightweight, Greco-Roman",0.0
+"Wrestling Men's Middleweight, Freestyle",1.0
+"Wrestling Men's Middleweight, Greco-Roman",0.0
+"Wrestling Men's Welterweight, Freestyle",0.6666666666666666
+"Wrestling Men's Welterweight, Greco-Roman",0.0
