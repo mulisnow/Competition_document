@@ -1,0 +1,276 @@
+NOC,Sport,Event,athletes_number,gold_number,silver_number,bronze_number,total_number,Total Events,Year,gold_number_previous,silver_number_previous,bronze_number_previous,total_number_previous,,Gold,Silver,Bronze,Total,Host
+USA,3x3 Basketball,Men,4,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,3x3 Basketball,Women,4,0,0,4,4,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Archery,Men's Individual,1,0,1,0,1,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Archery,Mixed Team,2,0,0,2,2,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Archery,Women's Individual,3,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Archery,Women's Team,3,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Artistic Gymnastics,Men,5,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Artistic Gymnastics,Men's All-Around,3,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Artistic Gymnastics,Men's Floor Exercise,5,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Artistic Gymnastics,Men's Horizontal Bar,5,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Artistic Gymnastics,Men's Parallel Bars,5,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Artistic Gymnastics,Men's Pommel Horse,5,0,0,1,1,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Artistic Gymnastics,Men's Rings,5,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Artistic Gymnastics,Men's Team,5,0,0,5,5,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Artistic Gymnastics,Men's Vault,5,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Artistic Gymnastics,Women,5,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Artistic Gymnastics,Women's All-Around,3,1,0,1,2,234,2024,1,0,0,1,,40,44,42,126,1
+USA,Artistic Gymnastics,Women's Balance Beam,5,0,0,0,0,234,2024,0,0,1,1,,40,44,42,126,1
+USA,Artistic Gymnastics,Women's Floor Exercise,5,0,1,0,1,234,2024,1,0,0,1,,40,44,42,126,1
+USA,Artistic Gymnastics,Women's Team,5,5,0,0,5,234,2024,0,4,0,4,,40,44,42,126,1
+USA,Artistic Gymnastics,Women's Uneven Bars,5,0,0,1,1,234,2024,0,0,1,1,,40,44,42,126,1
+USA,Artistic Gymnastics,Women's Vault,5,1,0,1,2,234,2024,0,1,0,1,,40,44,42,126,1
+USA,Artistic Swimming,Duet,2,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Artistic Swimming,Team,9,0,9,0,9,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Athletics,4 x 400m Relay Mixed,8,0,6,0,6,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Athletics,"Men's 10,000m",3,0,0,1,1,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Athletics,Men's 100m,3,1,0,1,2,234,2024,0,1,0,1,,40,44,42,126,1
+USA,Athletics,Men's 110m Hurdles,3,1,1,0,2,234,2024,0,1,0,1,,40,44,42,126,1
+USA,Athletics,Men's 1500m,3,1,0,1,2,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Athletics,Men's 200m,3,0,1,1,2,234,2024,0,1,1,2,,40,44,42,126,1
+USA,Athletics,Men's 3000m Steeplechase,3,0,1,0,1,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Athletics,Men's 4 x 100m Relay,7,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Athletics,Men's 4 x 400m Relay,9,8,0,0,8,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Athletics,Men's 400m,3,1,0,0,1,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Athletics,Men's 400m Hurdles,3,1,0,0,1,234,2024,0,1,0,1,,40,44,42,126,1
+USA,Athletics,Men's 5000m,3,0,0,1,1,234,2024,0,0,1,1,,40,44,42,126,1
+USA,Athletics,Men's 800m,3,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Athletics,Men's Decathlon,3,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Athletics,Men's Discus Throw,3,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Athletics,Men's Hammer Throw,2,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Athletics,Men's High Jump,3,0,1,0,1,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Athletics,Men's Javelin Throw,1,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Athletics,Men's Long Jump,3,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Athletics,Men's Marathon,3,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Athletics,Men's Pole Vault,3,0,1,0,1,234,2024,0,1,0,1,,40,44,42,126,1
+USA,Athletics,Men's Shot Put,3,1,1,0,2,234,2024,1,1,0,2,,40,44,42,126,1
+USA,Athletics,Men's Triple Jump,3,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Athletics,"Women's 10,000m",3,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Athletics,Women's 100m,3,0,1,1,2,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Athletics,Women's 100m Hurdles,3,1,0,0,1,234,2024,0,1,0,1,,40,44,42,126,1
+USA,Athletics,Women's 1500m,3,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Athletics,Women's 200m,3,1,0,1,2,234,2024,0,0,1,1,,40,44,42,126,1
+USA,Athletics,Women's 3000m Steeplechase,3,0,0,0,0,234,2024,0,1,0,1,,40,44,42,126,1
+USA,Athletics,Women's 4 x 100m Relay,7,6,0,0,6,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Athletics,Women's 4 x 400m Relay,9,8,0,0,8,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Athletics,Women's 400m,3,0,0,0,0,234,2024,0,0,1,1,,40,44,42,126,1
+USA,Athletics,Women's 400m Hurdles,3,1,1,0,2,234,2024,1,1,0,2,,40,44,42,126,1
+USA,Athletics,Women's 5000m,3,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Athletics,Women's 800m,3,0,0,0,0,234,2024,1,0,1,2,,40,44,42,126,1
+USA,Athletics,Women's Discus Throw,3,1,0,0,1,234,2024,1,0,0,1,,40,44,42,126,1
+USA,Athletics,Women's Hammer Throw,3,0,1,0,1,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Athletics,Women's Heptathlon,3,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Athletics,Women's High Jump,2,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Athletics,Women's Javelin Throw,1,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Athletics,Women's Long Jump,3,1,0,1,2,234,2024,0,1,0,1,,40,44,42,126,1
+USA,Athletics,Women's Marathon,3,0,0,0,0,234,2024,0,0,1,1,,40,44,42,126,1
+USA,Athletics,Women's Pole Vault,3,0,1,0,1,234,2024,1,0,0,1,,40,44,42,126,1
+USA,Athletics,Women's Shot Put,3,0,0,0,0,234,2024,0,1,0,1,,40,44,42,126,1
+USA,Athletics,Women's Triple Jump,3,0,0,1,1,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Badminton,Men's Doubles,2,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Badminton,Men's Singles,1,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Badminton,Mixed Doubles,2,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Badminton,Women's Doubles,2,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Badminton,Women's Singles,1,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Basketball,Men,12,12,0,0,12,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Basketball,Women,12,12,0,0,12,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Beach Volleyball,Men,4,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Beach Volleyball,Women,4,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Boxing,Men's +92kg,1,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Boxing,Men's 51kg,1,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Boxing,Men's 57kg,1,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Boxing,Men's 71kg,1,0,0,1,1,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Boxing,Women's 50kg,1,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Boxing,Women's 57kg,1,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Boxing,Women's 60kg,1,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Boxing,Women's 66kg,1,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Breaking,B-Boys,2,0,0,1,1,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Breaking,B-Girls,2,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Canoe Slalom,Men's Canoe Single,1,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Canoe Slalom,Men's Kayak Cross,1,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Canoe Slalom,Women's Canoe Single,1,0,0,1,1,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Canoe Slalom,Women's Kayak Cross,1,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Canoe Slalom,Women's Kayak Single,1,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Canoe Sprint,Men's Kayak Double 500m,2,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Canoe Sprint,Men's Kayak Single 1000m,2,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Canoe Sprint,Women's Canoe Single 200m,1,0,1,0,1,234,2024,1,0,0,1,,40,44,42,126,1
+USA,Cycling BMX Freestyle,Men's Park,2,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Cycling BMX Freestyle,Women's Park,2,0,1,0,1,234,2024,0,1,0,1,,40,44,42,126,1
+USA,Cycling BMX Racing,Men,3,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Cycling BMX Racing,Women,4,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Cycling Mountain Bike,Men's Cross-country,2,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Cycling Mountain Bike,Women's Cross-country,2,0,1,0,1,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Cycling Road,Men's Individual Time Trial,2,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Cycling Road,Men's Road Race,3,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,"Cycling Road, Cycling Track",Women's Individual Time Trial,1,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,"Cycling Road, Cycling Track",Women's Road Race,2,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,"Cycling Road, Cycling Track",Women's Team Pursuit,2,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,"Cycling Road, Triathlon",Women's Individual,1,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,"Cycling Road, Triathlon",Women's Individual Time Trial,1,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Cycling Track,Men's Omnium,1,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Cycling Track,Women's Madison,2,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Cycling Track,Women's Omnium,2,1,0,0,1,234,2024,1,0,0,1,,40,44,42,126,1
+USA,Cycling Track,Women's Team Pursuit,4,4,0,0,4,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Diving,Men's 10m Platform,2,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Diving,Men's 3m Springboard,2,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Diving,Men's Synchronised 3m Springboard,2,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Diving,Women's 10m Platform,2,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Diving,Women's 3m Springboard,2,0,0,0,0,234,2024,0,0,1,1,,40,44,42,126,1
+USA,Diving,Women's Synchronised 10m Platform,2,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Diving,Women's Synchronised 3m Springboard,2,0,2,0,2,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Equestrian,Dressage Individual,3,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Equestrian,Dressage Team,4,0,0,0,0,234,2024,0,3,0,3,,40,44,42,126,1
+USA,Equestrian,Eventing Individual,4,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Equestrian,Eventing Team,4,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Equestrian,Jumping Individual,3,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Equestrian,Jumping Team,4,0,4,0,4,234,2024,0,4,0,4,,40,44,42,126,1
+USA,Fencing,Men's Foil Individual,3,0,0,1,1,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Fencing,Men's Foil Team,4,0,0,0,0,234,2024,0,0,4,4,,40,44,42,126,1
+USA,Fencing,Men's Sabre Individual,3,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Fencing,Men's Sabre Team,4,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Fencing,Women's Foil Individual,3,1,1,0,2,234,2024,1,0,0,1,,40,44,42,126,1
+USA,Fencing,Women's Foil Team,4,4,0,0,4,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Fencing,Women's Sabre Individual,3,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Fencing,Women's Sabre Team,4,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,
+USA,Football,Men,19,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Football,Women,20,20,0,0,20,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Golf,Men's Individual Stroke Play,4,1,0,0,1,234,2024,1,0,0,1,,40,44,42,126,1
+USA,Golf,Women's Individual Stroke Play,3,0,0,0,0,234,2024,1,0,0,1,,40,44,42,126,1
+USA,Hockey,Women,16,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Judo,Men -73 kg,1,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Judo,Men -90 kg,1,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Judo,Women -48 kg,1,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Judo,Women -52 kg,1,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Marathon Swimming,Men's 10km,1,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Marathon Swimming,Women's 10km,1,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,"Marathon Swimming, Swimming",Women's 10km,1,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,"Marathon Swimming, Swimming",Women's 1500m Freestyle,1,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,"Marathon Swimming, Swimming",Women's 400m Individual Medley,1,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Modern Pentathlon,Women's Individual,1,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Rhythmic Gymnastics,Individual All-Around,1,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Rowing,Lightweight Women's Double Sculls,2,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Rowing,Men's Double Sculls,2,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Rowing,Men's Eight,9,0,0,9,9,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Rowing,Men's Four,4,4,0,0,4,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Rowing,Men's Pair,2,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Rowing,Men's Single Sculls,1,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Rowing,Women's Double Sculls,2,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Rowing,Women's Eight,9,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Rowing,Women's Four,4,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Rowing,Women's Pair,2,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Rowing,Women's Quadruple Sculls,4,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Rowing,Women's Single Sculls,1,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Rugby Sevens,Men,14,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Rugby Sevens,Women,12,0,0,12,12,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Sailing,Men's Kite,1,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Sailing,Men's Skiff,2,0,0,2,2,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Sailing,Men's Windsurfing,1,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Sailing,Mixed Dinghy,2,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Sailing,Mixed Multihull,2,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Sailing,Women's Dinghy,1,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Sailing,Women's Kite,1,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Sailing,Women's Skiff,2,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Sailing,Women's Windsurfing,1,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Shooting,10m Air Pistol Women,2,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Shooting,10m Air Rifle Men,2,0,0,0,0,234,2024,1,0,0,1,,40,44,42,126,1
+USA,Shooting,10m Air Rifle Mixed Team,4,0,0,0,0,234,2024,0,2,0,2,,40,44,42,126,1
+USA,Shooting,10m Air Rifle Women,2,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Shooting,25m Pistol Women,2,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Shooting,25m Rapid Fire Pistol Men,2,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Shooting,50m Rifle 3 Positions Men,2,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Shooting,50m Rifle 3 Positions Women,2,0,1,0,1,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Shooting,Skeet Men,2,1,1,0,2,234,2024,1,0,0,1,,40,44,42,126,1
+USA,Shooting,Skeet Mixed Team,4,0,2,0,2,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Shooting,Skeet Women,2,0,0,1,1,234,2024,1,0,0,1,,40,44,42,126,1
+USA,Shooting,Trap Men,2,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Shooting,Trap Women,2,0,0,0,0,234,2024,0,1,0,1,,40,44,42,126,1
+USA,Skateboarding,Men's Park,3,0,1,0,1,234,2024,0,0,1,1,,40,44,42,126,1
+USA,Skateboarding,Men's Street,3,0,1,1,2,234,2024,0,0,1,1,,40,44,42,126,1
+USA,Skateboarding,Women's Park,3,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Skateboarding,Women's Street,3,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Sport Climbing,Men's Boulder & Lead,2,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Sport Climbing,Men's Speed,2,0,0,1,1,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Sport Climbing,Women's Boulder & Lead,2,0,1,0,1,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Sport Climbing,Women's Speed,2,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Surfing,Men,2,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Surfing,Women,3,1,0,0,1,234,2024,1,0,0,1,,40,44,42,126,1
+USA,Swimming,Men's 100m Backstroke,2,0,0,1,1,234,2024,0,0,1,1,,40,44,42,126,1
+USA,Swimming,Men's 100m Breaststroke,2,0,1,0,1,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Swimming,Men's 100m Butterfly,2,0,0,0,0,234,2024,1,0,0,1,,40,44,42,126,1
+USA,Swimming,Men's 100m Freestyle,2,0,0,0,0,234,2024,1,0,0,1,,40,44,42,126,1
+USA,Swimming,Men's 1500m Freestyle,2,1,0,0,1,234,2024,1,0,0,1,,40,44,42,126,1
+USA,Swimming,Men's 200m Backstroke,2,0,0,0,0,234,2024,0,1,0,1,,40,44,42,126,1
+USA,Swimming,Men's 200m Breaststroke,2,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Swimming,Men's 200m Butterfly,2,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Swimming,Men's 200m Freestyle,2,0,0,1,1,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Swimming,Men's 200m Individual Medley,2,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Swimming,Men's 4 x 100m Freestyle Relay,6,6,0,0,6,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Swimming,Men's 4 x 100m Medley Relay,7,0,7,0,7,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Swimming,Men's 4 x 200m Freestyle Relay,7,0,7,0,7,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Swimming,Men's 400m Freestyle,2,0,0,0,0,234,2024,0,0,1,1,,40,44,42,126,1
+USA,Swimming,Men's 400m Individual Medley,2,0,0,1,1,234,2024,1,1,0,2,,40,44,42,126,1
+USA,Swimming,Men's 50m Freestyle,2,0,0,0,0,234,2024,1,0,0,1,,40,44,42,126,1
+USA,Swimming,Men's 800m Freestyle,2,0,1,0,1,234,2024,1,0,0,1,,40,44,42,126,1
+USA,Swimming,Mixed 4 x 100m Medley Relay,8,8,0,0,8,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Swimming,Relay Only Athlete,8,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Swimming,Women's 100m Backstroke,2,0,1,1,2,234,2024,0,0,1,1,,40,44,42,126,1
+USA,Swimming,Women's 100m Breaststroke,2,0,0,0,0,234,2024,1,0,1,2,,40,44,42,126,1
+USA,Swimming,Women's 100m Butterfly,2,1,1,0,2,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Swimming,Women's 100m Freestyle,2,0,1,0,1,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Swimming,Women's 1500m Freestyle,1,1,0,0,1,234,2024,1,1,0,2,,40,44,42,126,1
+USA,Swimming,Women's 200m Backstroke,2,0,1,0,1,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Swimming,Women's 200m Breaststroke,2,1,0,0,1,234,2024,0,1,1,2,,40,44,42,126,1
+USA,Swimming,Women's 200m Butterfly,2,0,1,0,1,234,2024,0,1,1,2,,40,44,42,126,1
+USA,Swimming,Women's 200m Freestyle,2,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Swimming,Women's 200m Individual Medley,2,0,1,0,1,234,2024,0,1,1,2,,40,44,42,126,1
+USA,Swimming,Women's 4 x 100m Freestyle Relay,6,0,6,0,6,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Swimming,Women's 4 x 100m Medley Relay,8,8,0,0,8,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Swimming,Women's 4 x 200m Freestyle Relay,7,0,7,0,7,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Swimming,Women's 400m Freestyle,2,0,0,1,1,234,2024,0,1,0,1,,40,44,42,126,1
+USA,Swimming,Women's 400m Individual Medley,1,0,0,1,1,234,2024,0,1,1,2,,40,44,42,126,1
+USA,Swimming,Women's 50m Freestyle,2,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Swimming,Women's 800m Freestyle,2,1,0,1,2,234,2024,1,0,0,1,,40,44,42,126,1
+USA,Table Tennis,Men's Singles,1,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Table Tennis,Women's Singles,2,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Table Tennis,Women's Team,3,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Taekwondo,Men +80kg,1,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Taekwondo,Men -80kg,1,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Taekwondo,Women -57kg,1,0,0,0,0,234,2024,1,0,0,1,,40,44,42,126,1
+USA,Taekwondo,Women -67kg,1,0,0,1,1,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Tennis,Men's Doubles,4,0,2,2,4,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Tennis,Men's Singles,4,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Tennis,Mixed Doubles,2,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Tennis,Women's Doubles,4,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Tennis,Women's Singles,4,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Trampoline Gymnastics,Men,1,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Trampoline Gymnastics,Women,1,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Triathlon,Men's Individual,2,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Triathlon,Women's Individual,2,0,0,0,0,234,2024,0,0,1,1,,40,44,42,126,1
+USA,Volleyball,Men,13,0,0,13,13,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Volleyball,Women,13,0,13,0,13,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Water Polo,Men,13,0,0,13,13,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Water Polo,Women,13,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Weightlifting,Men's 102kg,1,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Weightlifting,Men's 61kg,1,0,0,1,1,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Weightlifting,Women's +81kg,1,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Weightlifting,Women's 49kg,1,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Weightlifting,Women's 71kg,1,1,0,0,1,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Wrestling,Men's Freestyle 125kg,1,0,0,0,0,234,2024,1,0,0,1,,40,44,42,126,1
+USA,Wrestling,Men's Freestyle 57kg,1,0,1,0,1,234,2024,0,0,1,1,,40,44,42,126,1
+USA,Wrestling,Men's Freestyle 65kg,1,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Wrestling,Men's Freestyle 74kg,1,0,0,1,1,234,2024,0,0,1,1,,40,44,42,126,1
+USA,Wrestling,Men's Freestyle 86kg,1,0,0,1,1,234,2024,1,0,0,1,,40,44,42,126,1
+USA,Wrestling,Men's Freestyle 97kg,1,0,0,0,0,234,2024,0,1,0,1,,40,44,42,126,1
+USA,Wrestling,Men's Greco-Roman 130kg,1,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Wrestling,Men's Greco-Roman 77kg,1,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Wrestling,Men's Greco-Roman 87kg,1,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Wrestling,Men's Greco-Roman 97kg,1,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Wrestling,Women's Freestyle 50kg,1,1,0,0,1,234,2024,0,0,1,1,,40,44,42,126,1
+USA,Wrestling,Women's Freestyle 53kg,1,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Wrestling,Women's Freestyle 57kg,1,0,0,1,1,234,2024,0,0,1,1,,40,44,42,126,1
+USA,Wrestling,Women's Freestyle 62kg,1,0,0,0,0,234,2024,0,0,0,0,,40,44,42,126,1
+USA,Wrestling,Women's Freestyle 68kg,1,1,0,0,1,234,2024,1,0,0,1,,40,44,42,126,1
+USA,Wrestling,Women's Freestyle 76kg,1,0,1,0,1,234,2024,0,1,0,1,,40,44,42,126,1

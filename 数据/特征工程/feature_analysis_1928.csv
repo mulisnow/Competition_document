@@ -1,0 +1,1645 @@
+NOC,Sport,Event,athletes_number,gold_number,silver_number,bronze_number,total_number,Total Events,Year,gold_number_previous,silver_number_previous,bronze_number_previous,total_number_previous,Host,Gold,Silver,Bronze,Total
+ARG,Athletics,"Athletics Men's 1,500 metres",2,0,0,0,0,40,1928,0.0,0.0,0.0,0.0,0,3.0,3.0,1.0,7.0
+ARG,Athletics,Athletics Men's 100 metres,3,0,0,0,0,40,1928,0.0,0.0,0.0,0.0,0,3.0,3.0,1.0,7.0
+ARG,Athletics,Athletics Men's 110 metres Hurdles,1,0,0,0,0,40,1928,0.0,0.0,0.0,0.0,0,3.0,3.0,1.0,7.0
+ARG,Athletics,Athletics Men's 200 metres,2,0,0,0,0,40,1928,0.0,0.0,0.0,0.0,0,3.0,3.0,1.0,7.0
+ARG,Athletics,Athletics Men's 800 metres,2,0,0,0,0,40,1928,0.0,0.0,0.0,0.0,0,3.0,3.0,1.0,7.0
+ARG,Athletics,Athletics Men's Hammer Throw,1,0,0,0,0,40,1928,0.0,0.0,0.0,0.0,0,3.0,3.0,1.0,7.0
+ARG,Athletics,Athletics Men's High Jump,1,0,0,0,0,40,1928,0.0,0.0,0.0,0.0,0,3.0,3.0,1.0,7.0
+ARG,Boxing,Boxing Men's Bantamweight,1,0,0,0,0,40,1928,0.0,0.0,0.0,0.0,0,3.0,3.0,1.0,7.0
+ARG,Boxing,Boxing Men's Featherweight,1,0,1,0,1,40,1928,0.0,0.0,1.0,1.0,0,3.0,3.0,1.0,7.0
+ARG,Boxing,Boxing Men's Flyweight,1,0,0,0,0,40,1928,0.0,0.0,0.0,0.0,0,3.0,3.0,1.0,7.0
+ARG,Boxing,Boxing Men's Heavyweight,1,1,0,0,1,40,1928,0.0,0.0,1.0,1.0,0,3.0,3.0,1.0,7.0
+ARG,Boxing,Boxing Men's Light-Heavyweight,1,1,0,0,1,40,1928,0.0,0.0,0.0,0.0,0,3.0,3.0,1.0,7.0
+ARG,Boxing,Boxing Men's Lightweight,1,0,0,0,0,40,1928,0.0,1.0,0.0,1.0,0,3.0,3.0,1.0,7.0
+ARG,Boxing,Boxing Men's Middleweight,1,0,0,0,0,40,1928,0.0,0.0,0.0,0.0,0,3.0,3.0,1.0,7.0
+ARG,Boxing,Boxing Men's Welterweight,1,0,1,0,1,40,1928,0.0,1.0,0.0,1.0,0,3.0,3.0,1.0,7.0
+ARG,Cycling,"Cycling Men's 1,000 metres Time Trial",1,0,0,0,0,40,1928,0.0,0.0,0.0,0.0,0,3.0,3.0,1.0,7.0
+ARG,Cycling,"Cycling Men's Road Race, Individual",4,0,0,0,0,40,1928,0.0,0.0,0.0,0.0,0,3.0,3.0,1.0,7.0
+ARG,Cycling,"Cycling Men's Road Race, Team",4,0,0,0,0,40,1928,0.0,0.0,0.0,0.0,0,3.0,3.0,1.0,7.0
+ARG,Cycling,Cycling Men's Sprint,1,0,0,0,0,40,1928,0.0,0.0,0.0,0.0,0,3.0,3.0,1.0,7.0
+ARG,Equestrianism,"Equestrianism Men's Jumping, Individual",3,0,0,0,0,40,1928,0.0,0.0,0.0,0.0,0,3.0,3.0,1.0,7.0
+ARG,Equestrianism,"Equestrianism Men's Jumping, Team",3,0,0,0,0,40,1928,0.0,0.0,0.0,0.0,0,3.0,3.0,1.0,7.0
+ARG,Fencing,"Fencing Men's Foil, Individual",1,0,0,0,0,40,1928,0.0,0.0,0.0,0.0,0,3.0,3.0,1.0,7.0
+ARG,Fencing,"Fencing Men's Foil, Team",5,0,0,5,5,40,1928,0.0,0.0,0.0,0.0,0,3.0,3.0,1.0,7.0
+ARG,Fencing,"Fencing Men's epee, Individual",3,0,0,0,0,40,1928,0.0,0.0,0.0,0.0,0,3.0,3.0,1.0,7.0
+ARG,Football,Football Men's Football,16,0,16,0,16,40,1928,0.0,0.0,0.0,0.0,0,3.0,3.0,1.0,7.0
+ARG,Rowing,Rowing Men's Coxed Eights,9,0,0,0,0,40,1928,0.0,0.0,0.0,0.0,0,3.0,3.0,1.0,7.0
+ARG,Sailing,Sailing Mixed 8 metres,5,0,0,0,0,40,1928,0.0,0.0,0.0,0.0,0,3.0,3.0,1.0,7.0
+ARG,Swimming,"Swimming Men's 1,500 metres Freestyle",1,0,0,0,0,40,1928,0.0,0.0,0.0,0.0,0,3.0,3.0,1.0,7.0
+ARG,Swimming,Swimming Men's 100 metres Freestyle,2,0,0,0,0,40,1928,0.0,0.0,0.0,0.0,0,3.0,3.0,1.0,7.0
+ARG,Swimming,Swimming Men's 4 x 200 metres Freestyle Relay,4,0,0,0,0,40,1928,0.0,0.0,0.0,0.0,0,3.0,3.0,1.0,7.0
+ARG,Swimming,Swimming Men's 400 metres Freestyle,1,1,0,0,1,40,1928,0.0,0.0,0.0,0.0,0,3.0,3.0,1.0,7.0
+ARG,Water Polo,Water Polo Men's Water Polo,7,0,0,0,0,40,1928,0.0,0.0,0.0,0.0,0,3.0,3.0,1.0,7.0
+ARG,Weightlifting,Weightlifting Men's Featherweight,1,0,0,0,0,40,1928,0.0,0.0,0.0,0.0,0,3.0,3.0,1.0,7.0
+ARG,Weightlifting,Weightlifting Men's Lightweight,1,0,0,0,0,40,1928,0.0,0.0,0.0,0.0,0,3.0,3.0,1.0,7.0
+ARG,Weightlifting,Weightlifting Men's Middleweight,1,0,0,0,0,40,1928,0.0,0.0,0.0,0.0,0,3.0,3.0,1.0,7.0
+ARG,Wrestling,"Wrestling Men's Bantamweight, Greco-Roman",1,0,0,0,0,40,1928,0.0,0.0,0.0,0.0,0,3.0,3.0,1.0,7.0
+ARG,Wrestling,"Wrestling Men's Featherweight, Greco-Roman",1,0,0,0,0,40,1928,0.0,0.0,0.0,0.0,0,3.0,3.0,1.0,7.0
+ARG,Wrestling,"Wrestling Men's Heavyweight, Greco-Roman",1,0,0,0,0,40,1928,0.0,0.0,0.0,0.0,0,3.0,3.0,1.0,7.0
+ARG,Wrestling,"Wrestling Men's Lightweight, Greco-Roman",1,0,0,0,0,40,1928,0.0,0.0,0.0,0.0,0,3.0,3.0,1.0,7.0
+ARG,Wrestling,"Wrestling Men's Middleweight, Greco-Roman",1,0,0,0,0,40,1928,0.0,0.0,0.0,0.0,0,3.0,3.0,1.0,7.0
+AUS,Athletics,"Athletics Men's 1,500 metres",2,0,0,0,0,26,1928,0.0,0.0,0.0,0.0,0,1.0,2.0,1.0,4.0
+AUS,Athletics,Athletics Men's 100 metres,1,0,0,0,0,26,1928,0.0,0.0,0.0,0.0,0,1.0,2.0,1.0,4.0
+AUS,Athletics,Athletics Men's 110 metres Hurdles,1,0,0,0,0,26,1928,0.0,0.0,0.0,0.0,0,1.0,2.0,1.0,4.0
+AUS,Athletics,Athletics Men's 200 metres,1,0,0,0,0,26,1928,0.0,0.0,0.0,0.0,0,1.0,2.0,1.0,4.0
+AUS,Athletics,Athletics Men's 400 metres,1,0,0,0,0,26,1928,0.0,0.0,0.0,0.0,0,1.0,2.0,1.0,4.0
+AUS,Athletics,Athletics Men's 400 metres Hurdles,1,0,0,0,0,26,1928,0.0,0.0,0.0,0.0,0,1.0,2.0,1.0,4.0
+AUS,Athletics,"Athletics Men's 5,000 metres",1,0,0,0,0,26,1928,0.0,0.0,0.0,0.0,0,1.0,2.0,1.0,4.0
+AUS,Athletics,Athletics Men's 800 metres,2,0,0,0,0,26,1928,0.0,0.0,0.0,0.0,0,1.0,2.0,1.0,4.0
+AUS,Athletics,Athletics Men's Triple Jump,1,0,0,0,0,26,1928,1.0,0.0,0.0,1.0,0,1.0,2.0,1.0,4.0
+AUS,Athletics,Athletics Women's 100 metres,1,0,0,0,0,26,1928,0.0,0.0,0.0,0.0,0,1.0,2.0,1.0,4.0
+AUS,Athletics,Athletics Women's 800 metres,1,0,0,0,0,26,1928,0.0,0.0,0.0,0.0,0,1.0,2.0,1.0,4.0
+AUS,Cycling,"Cycling Men's 1,000 metres Time Trial",1,0,0,1,1,26,1928,0.0,0.0,0.0,0.0,0,1.0,2.0,1.0,4.0
+AUS,Cycling,Cycling Men's Sprint,1,0,0,0,0,26,1928,0.0,0.0,0.0,0.0,0,1.0,2.0,1.0,4.0
+AUS,Diving,Diving Men's Platform,1,0,0,0,0,26,1928,0.0,0.0,0.0,0.0,0,1.0,2.0,1.0,4.0
+AUS,Diving,Diving Men's Springboard,1,0,0,0,0,26,1928,0.0,0.0,0.0,0.0,0,1.0,2.0,1.0,4.0
+AUS,Rowing,Rowing Men's Single Sculls,1,1,0,0,1,26,1928,0.0,0.0,0.0,0.0,0,1.0,2.0,1.0,4.0
+AUS,Swimming,"Swimming Men's 1,500 metres Freestyle",1,0,1,0,1,26,1928,1.0,0.0,1.0,2.0,0,1.0,2.0,1.0,4.0
+AUS,Swimming,Swimming Men's 100 metres Backstroke,1,0,0,0,0,26,1928,0.0,0.0,0.0,0.0,0,1.0,2.0,1.0,4.0
+AUS,Swimming,Swimming Men's 400 metres Freestyle,1,0,1,0,1,26,1928,0.0,0.0,1.0,1.0,0,1.0,2.0,1.0,4.0
+AUS,Swimming,Swimming Women's 100 metres Backstroke,1,0,0,0,0,26,1928,0.0,0.0,0.0,0.0,0,1.0,2.0,1.0,4.0
+AUS,Swimming,Swimming Women's 100 metres Freestyle,2,0,0,0,0,26,1928,0.0,0.0,0.0,0.0,0,1.0,2.0,1.0,4.0
+AUS,Swimming,Swimming Women's 200 metres Breaststroke,1,0,0,0,0,26,1928,0.0,0.0,0.0,0.0,0,1.0,2.0,1.0,4.0
+AUS,Swimming,Swimming Women's 400 metres Freestyle,1,0,0,0,0,26,1928,0.0,0.0,0.0,0.0,0,1.0,2.0,1.0,4.0
+AUS,Wrestling,"Wrestling Men's Bantamweight, Freestyle",1,0,0,0,0,26,1928,0.0,0.0,0.0,0.0,0,1.0,2.0,1.0,4.0
+AUS,Wrestling,"Wrestling Men's Middleweight, Freestyle",1,0,0,0,0,26,1928,0.0,0.0,0.0,0.0,0,1.0,2.0,1.0,4.0
+AUS,Wrestling,"Wrestling Men's Welterweight, Freestyle",1,0,0,0,0,26,1928,0.0,0.0,0.0,0.0,0,1.0,2.0,1.0,4.0
+AUT,Art Competitions,"Art Competitions Mixed Architecture, Architectural Designs",2,0,0,0,0,39,1928,0.0,0.0,0.0,0.0,0,2.0,0.0,1.0,3.0
+AUT,Art Competitions,"Art Competitions Mixed Architecture, Designs For Town Planning",2,0,0,0,0,39,1928,0.0,0.0,0.0,0.0,0,2.0,0.0,1.0,3.0
+AUT,Art Competitions,"Art Competitions Mixed Literature, Epic Works",3,0,0,0,0,39,1928,0.0,0.0,0.0,0.0,0,2.0,0.0,1.0,3.0
+AUT,Art Competitions,"Art Competitions Mixed Literature, Lyric Works",3,0,0,0,0,39,1928,0.0,0.0,0.0,0.0,0,2.0,0.0,1.0,3.0
+AUT,Art Competitions,"Art Competitions Mixed Painting, Drawings And Water Colors",2,0,0,0,0,39,1928,0.0,0.0,0.0,0.0,0,2.0,0.0,1.0,3.0
+AUT,Art Competitions,"Art Competitions Mixed Painting, Paintings",9,0,0,0,0,39,1928,0.0,0.0,0.0,0.0,0,2.0,0.0,1.0,3.0
+AUT,Art Competitions,"Art Competitions Mixed Sculpturing, Medals And Reliefs",1,1,0,0,1,39,1928,0.0,0.0,0.0,0.0,0,2.0,0.0,1.0,3.0
+AUT,Art Competitions,"Art Competitions Mixed Sculpturing, Statues",3,0,0,0,0,39,1928,0.0,0.0,0.0,0.0,0,2.0,0.0,1.0,3.0
+AUT,Athletics,Athletics Men's 100 metres,1,0,0,0,0,39,1928,0.0,0.0,0.0,0.0,0,2.0,0.0,1.0,3.0
+AUT,Athletics,Athletics Men's 110 metres Hurdles,1,0,0,0,0,39,1928,0.0,0.0,0.0,0.0,0,2.0,0.0,1.0,3.0
+AUT,Athletics,Athletics Men's 200 metres,1,0,0,0,0,39,1928,0.0,0.0,0.0,0.0,0,2.0,0.0,1.0,3.0
+AUT,Athletics,Athletics Men's 400 metres,1,0,0,0,0,39,1928,0.0,0.0,0.0,0.0,0,2.0,0.0,1.0,3.0
+AUT,Athletics,Athletics Men's Decathlon,1,0,0,0,0,39,1928,0.0,0.0,0.0,0.0,0,2.0,0.0,1.0,3.0
+AUT,Athletics,Athletics Women's 800 metres,1,0,0,0,0,39,1928,0.0,0.0,0.0,0.0,0,2.0,0.0,1.0,3.0
+AUT,Athletics,Athletics Women's Discus Throw,1,0,0,0,0,39,1928,0.0,0.0,0.0,0.0,0,2.0,0.0,1.0,3.0
+AUT,Boxing,Boxing Men's Welterweight,1,0,0,0,0,39,1928,0.0,0.0,0.0,0.0,0,2.0,0.0,1.0,3.0
+AUT,Cycling,"Cycling Men's 1,000 metres Time Trial",1,0,0,0,0,39,1928,0.0,0.0,0.0,0.0,0,2.0,0.0,1.0,3.0
+AUT,Cycling,Cycling Men's Sprint,1,0,0,0,0,39,1928,0.0,0.0,0.0,0.0,0,2.0,0.0,1.0,3.0
+AUT,Cycling,"Cycling Men's Tandem Sprint, 2,000 metres",2,0,0,0,0,39,1928,0.0,0.0,0.0,0.0,0,2.0,0.0,1.0,3.0
+AUT,Diving,Diving Men's Platform,1,0,0,0,0,39,1928,0.0,0.0,0.0,0.0,0,2.0,0.0,1.0,3.0
+AUT,Diving,Diving Men's Springboard,1,0,0,0,0,39,1928,0.0,0.0,0.0,0.0,0,2.0,0.0,1.0,3.0
+AUT,Diving,Diving Women's Springboard,1,0,0,0,0,39,1928,0.0,0.0,0.0,0.0,0,2.0,0.0,1.0,3.0
+AUT,Equestrianism,"Equestrianism Men's Dressage, Individual",3,0,0,0,0,39,1928,0.0,0.0,0.0,0.0,0,2.0,0.0,1.0,3.0
+AUT,Equestrianism,"Equestrianism Men's Dressage, Team",3,0,0,0,0,39,1928,0.0,0.0,0.0,0.0,0,2.0,0.0,1.0,3.0
+AUT,Fencing,"Fencing Men's Foil, Individual",3,0,0,0,0,39,1928,0.0,0.0,0.0,0.0,0,2.0,0.0,1.0,3.0
+AUT,Fencing,"Fencing Men's Foil, Team",6,0,0,0,0,39,1928,0.0,0.0,0.0,0.0,0,2.0,0.0,1.0,3.0
+AUT,Hockey,Hockey Men's Hockey,16,0,0,0,0,39,1928,0.0,0.0,0.0,0.0,0,2.0,0.0,1.0,3.0
+AUT,Rowing,Rowing Men's Double Sculls,2,0,0,2,2,39,1928,0.0,0.0,0.0,0.0,0,2.0,0.0,1.0,3.0
+AUT,Sailing,Sailing Mixed One Person Dinghy,1,0,0,0,0,39,1928,0.0,0.0,0.0,0.0,0,2.0,0.0,1.0,3.0
+AUT,Swimming,Swimming Men's 200 metres Breaststroke,1,0,0,0,0,39,1928,0.0,0.0,0.0,0.0,0,2.0,0.0,1.0,3.0
+AUT,Swimming,Swimming Women's 200 metres Breaststroke,1,0,0,0,0,39,1928,0.0,0.0,0.0,0.0,0,2.0,0.0,1.0,3.0
+AUT,Swimming,Swimming Women's 400 metres Freestyle,1,0,0,0,0,39,1928,0.0,0.0,0.0,0.0,0,2.0,0.0,1.0,3.0
+AUT,Weightlifting,Weightlifting Men's Featherweight,2,1,0,0,1,39,1928,0.0,1.0,0.0,1.0,0,2.0,0.0,1.0,3.0
+AUT,Weightlifting,Weightlifting Men's Heavyweight,2,0,0,0,0,39,1928,0.0,1.0,0.0,1.0,0,2.0,0.0,1.0,3.0
+AUT,Weightlifting,Weightlifting Men's Light-Heavyweight,2,0,0,0,0,39,1928,0.0,0.0,1.0,1.0,0,2.0,0.0,1.0,3.0
+AUT,Weightlifting,Weightlifting Men's Lightweight,2,1,0,0,1,39,1928,0.0,1.0,0.0,1.0,0,2.0,0.0,1.0,3.0
+AUT,Weightlifting,Weightlifting Men's Middleweight,2,0,0,0,0,39,1928,0.0,0.0,0.0,0.0,0,2.0,0.0,1.0,3.0
+AUT,Wrestling,"Wrestling Men's Featherweight, Greco-Roman",1,0,0,0,0,39,1928,0.0,0.0,0.0,0.0,0,2.0,0.0,1.0,3.0
+AUT,Wrestling,"Wrestling Men's Heavyweight, Greco-Roman",1,0,0,0,0,39,1928,0.0,0.0,0.0,0.0,0,2.0,0.0,1.0,3.0
+BEL,Art Competitions,"Art Competitions Mixed Architecture, Architectural Designs",1,0,0,0,0,90,1928,0.0,0.0,0.0,0.0,0,0.0,1.0,2.0,3.0
+BEL,Art Competitions,"Art Competitions Mixed Architecture, Designs For Town Planning",1,0,0,0,0,90,1928,0.0,0.0,0.0,0.0,0,0.0,1.0,2.0,3.0
+BEL,Art Competitions,"Art Competitions Mixed Literature, Epic Works",1,0,0,0,0,90,1928,0.0,0.0,0.0,0.0,0,0.0,1.0,2.0,3.0
+BEL,Art Competitions,"Art Competitions Mixed Literature, Lyric Works",3,0,0,0,0,90,1928,0.0,0.0,0.0,0.0,0,0.0,1.0,2.0,3.0
+BEL,Art Competitions,"Art Competitions Mixed Music, Compositions For Orchestra",1,0,0,0,0,90,1928,0.0,0.0,0.0,0.0,0,0.0,1.0,2.0,3.0
+BEL,Art Competitions,"Art Competitions Mixed Music, Instrumental And Chamber",1,0,0,0,0,90,1928,0.0,0.0,0.0,0.0,0,0.0,1.0,2.0,3.0
+BEL,Art Competitions,"Art Competitions Mixed Painting, Drawings And Water Colors",2,0,0,0,0,90,1928,0.0,0.0,0.0,0.0,0,0.0,1.0,2.0,3.0
+BEL,Art Competitions,"Art Competitions Mixed Painting, Paintings",1,0,0,0,0,90,1928,0.0,0.0,0.0,0.0,0,0.0,1.0,2.0,3.0
+BEL,Art Competitions,"Art Competitions Mixed Sculpturing, Medals And Reliefs",1,0,0,0,0,90,1928,0.0,0.0,0.0,0.0,0,0.0,1.0,2.0,3.0
+BEL,Art Competitions,"Art Competitions Mixed Sculpturing, Statues",6,0,0,0,0,90,1928,0.0,0.0,0.0,0.0,0,0.0,1.0,2.0,3.0
+BEL,Athletics,"Athletics Men's 10,000 metres",1,0,0,0,0,90,1928,0.0,0.0,0.0,0.0,0,0.0,1.0,2.0,3.0
+BEL,Athletics,Athletics Men's 100 metres,4,0,0,0,0,90,1928,0.0,0.0,0.0,0.0,0,0.0,1.0,2.0,3.0
+BEL,Athletics,Athletics Men's 110 metres Hurdles,2,0,0,0,0,90,1928,0.0,0.0,0.0,0.0,0,0.0,1.0,2.0,3.0
+BEL,Athletics,Athletics Men's 200 metres,4,0,0,0,0,90,1928,0.0,0.0,0.0,0.0,0,0.0,1.0,2.0,3.0
+BEL,Athletics,"Athletics Men's 3,000 metres Steeplechase",2,0,0,0,0,90,1928,0.0,0.0,0.0,0.0,0,0.0,1.0,2.0,3.0
+BEL,Athletics,Athletics Men's 4 x 100 metres Relay,4,0,0,0,0,90,1928,0.0,0.0,0.0,0.0,0,0.0,1.0,2.0,3.0
+BEL,Athletics,Athletics Men's 4 x 400 metres Relay,4,0,0,0,0,90,1928,0.0,0.0,0.0,0.0,0,0.0,1.0,2.0,3.0
+BEL,Athletics,Athletics Men's 400 metres,2,0,0,0,0,90,1928,0.0,0.0,0.0,0.0,0,0.0,1.0,2.0,3.0
+BEL,Athletics,Athletics Men's 400 metres Hurdles,1,0,0,0,0,90,1928,0.0,0.0,0.0,0.0,0,0.0,1.0,2.0,3.0
+BEL,Athletics,"Athletics Men's 5,000 metres",1,0,0,0,0,90,1928,0.0,0.0,0.0,0.0,0,0.0,1.0,2.0,3.0
+BEL,Athletics,Athletics Men's 800 metres,2,0,0,0,0,90,1928,0.0,0.0,0.0,0.0,0,0.0,1.0,2.0,3.0
+BEL,Athletics,Athletics Men's Decathlon,3,0,0,0,0,90,1928,0.0,0.0,0.0,0.0,0,0.0,1.0,2.0,3.0
+BEL,Athletics,Athletics Men's Discus Throw,1,0,0,0,0,90,1928,0.0,0.0,0.0,0.0,0,0.0,1.0,2.0,3.0
+BEL,Athletics,Athletics Men's Javelin Throw,2,0,0,0,0,90,1928,0.0,0.0,0.0,0.0,0,0.0,1.0,2.0,3.0
+BEL,Athletics,Athletics Men's Marathon,4,0,0,0,0,90,1928,0.0,0.0,0.0,0.0,0,0.0,1.0,2.0,3.0
+BEL,Athletics,Athletics Men's Pole Vault,3,0,0,0,0,90,1928,0.0,0.0,0.0,0.0,0,0.0,1.0,2.0,3.0
+BEL,Athletics,Athletics Men's Shot Put,1,0,0,0,0,90,1928,0.0,0.0,0.0,0.0,0,0.0,1.0,2.0,3.0
+BEL,Athletics,Athletics Women's 100 metres,1,0,0,0,0,90,1928,0.0,0.0,0.0,0.0,0,0.0,1.0,2.0,3.0
+BEL,Athletics,Athletics Women's 4 x 100 metres Relay,4,0,0,0,0,90,1928,0.0,0.0,0.0,0.0,0,0.0,1.0,2.0,3.0
+BEL,Athletics,Athletics Women's 800 metres,2,0,0,0,0,90,1928,0.0,0.0,0.0,0.0,0,0.0,1.0,2.0,3.0
+BEL,Athletics,Athletics Women's Discus Throw,2,0,0,0,0,90,1928,0.0,0.0,0.0,0.0,0,0.0,1.0,2.0,3.0
+BEL,Athletics,Athletics Women's High Jump,3,0,0,0,0,90,1928,0.0,0.0,0.0,0.0,0,0.0,1.0,2.0,3.0
+BEL,Boxing,Boxing Men's Bantamweight,1,0,0,0,0,90,1928,0.0,0.0,0.0,0.0,0,0.0,1.0,2.0,3.0
+BEL,Boxing,Boxing Men's Featherweight,1,0,0,0,0,90,1928,0.0,0.0,0.0,0.0,0,0.0,1.0,2.0,3.0
+BEL,Boxing,Boxing Men's Flyweight,1,0,0,0,0,90,1928,0.0,0.0,0.0,0.0,0,0.0,1.0,2.0,3.0
+BEL,Boxing,Boxing Men's Lightweight,1,0,0,0,0,90,1928,0.0,0.0,0.0,0.0,0,0.0,1.0,2.0,3.0
+BEL,Boxing,Boxing Men's Middleweight,1,0,0,1,1,90,1928,0.0,0.0,1.0,1.0,0,0.0,1.0,2.0,3.0
+BEL,Boxing,Boxing Men's Welterweight,1,0,0,0,0,90,1928,1.0,0.0,0.0,1.0,0,0.0,1.0,2.0,3.0
+BEL,Cycling,"Cycling Men's 1,000 metres Time Trial",1,0,0,0,0,90,1928,0.0,0.0,0.0,0.0,0,0.0,1.0,2.0,3.0
+BEL,Cycling,"Cycling Men's Road Race, Individual",4,0,0,0,0,90,1928,0.0,1.0,0.0,1.0,0,0.0,1.0,2.0,3.0
+BEL,Cycling,"Cycling Men's Road Race, Team",4,0,0,0,0,90,1928,0.0,4.0,0.0,4.0,0,0.0,1.0,2.0,3.0
+BEL,Cycling,Cycling Men's Sprint,1,0,0,0,0,90,1928,0.0,0.0,0.0,0.0,0,0.0,1.0,2.0,3.0
+BEL,Cycling,"Cycling Men's Team Pursuit, 4,000 metres",4,0,0,0,0,90,1928,0.0,0.0,4.0,4.0,0,0.0,1.0,2.0,3.0
+BEL,Equestrianism,"Equestrianism Men's Dressage, Individual",3,0,0,0,0,90,1928,0.0,0.0,0.0,0.0,0,0.0,1.0,2.0,3.0
+BEL,Equestrianism,"Equestrianism Men's Dressage, Team",3,0,0,0,0,90,1928,0.0,0.0,0.0,0.0,0,0.0,1.0,2.0,3.0
+BEL,Equestrianism,"Equestrianism Men's Jumping, Individual",3,0,0,0,0,90,1928,0.0,0.0,0.0,0.0,0,0.0,1.0,2.0,3.0
+BEL,Equestrianism,"Equestrianism Men's Jumping, Team",3,0,0,0,0,90,1928,0.0,0.0,0.0,0.0,0,0.0,1.0,2.0,3.0
+BEL,Equestrianism,"Equestrianism Men's Three-Day Event, Individual",3,0,0,0,0,90,1928,0.0,0.0,0.0,0.0,0,0.0,1.0,2.0,3.0
+BEL,Equestrianism,"Equestrianism Men's Three-Day Event, Team",3,0,0,0,0,90,1928,0.0,0.0,0.0,0.0,0,0.0,1.0,2.0,3.0
+BEL,Fencing,"Fencing Men's Foil, Individual",3,0,0,0,0,90,1928,0.0,0.0,1.0,1.0,0,0.0,1.0,2.0,3.0
+BEL,Fencing,"Fencing Men's Foil, Team",6,0,0,0,0,90,1928,0.0,6.0,0.0,6.0,0,0.0,1.0,2.0,3.0
+BEL,Fencing,"Fencing Men's Sabre, Individual",3,0,0,0,0,90,1928,0.0,0.0,0.0,0.0,0,0.0,1.0,2.0,3.0
+BEL,Fencing,"Fencing Men's Sabre, Team",5,0,0,0,0,90,1928,0.0,0.0,0.0,0.0,0,0.0,1.0,2.0,3.0
+BEL,Fencing,"Fencing Men's epee, Individual",3,0,0,0,0,90,1928,1.0,0.0,0.0,1.0,0,0.0,1.0,2.0,3.0
+BEL,Fencing,"Fencing Men's epee, Team",6,0,0,0,0,90,1928,0.0,6.0,0.0,6.0,0,0.0,1.0,2.0,3.0
+BEL,Fencing,"Fencing Women's Foil, Individual",3,0,0,0,0,90,1928,0.0,0.0,0.0,0.0,0,0.0,1.0,2.0,3.0
+BEL,Football,Football Men's Football,14,0,0,0,0,90,1928,0.0,0.0,0.0,0.0,0,0.0,1.0,2.0,3.0
+BEL,Hockey,Hockey Men's Hockey,18,0,0,0,0,90,1928,0.0,0.0,0.0,0.0,0,0.0,1.0,2.0,3.0
+BEL,Modern Pentathlon,Modern Pentathlon Men's Individual,3,0,0,0,0,90,1928,0.0,0.0,0.0,0.0,0,0.0,1.0,2.0,3.0
+BEL,Rowing,Rowing Men's Coxed Eights,9,0,0,0,0,90,1928,0.0,0.0,0.0,0.0,0,0.0,1.0,2.0,3.0
+BEL,Rowing,Rowing Men's Coxed Fours,5,0,0,0,0,90,1928,0.0,0.0,0.0,0.0,0,0.0,1.0,2.0,3.0
+BEL,Rowing,Rowing Men's Coxed Pairs,3,0,0,3,3,90,1928,0.0,0.0,0.0,0.0,0,0.0,1.0,2.0,3.0
+BEL,Rowing,Rowing Men's Coxless Pairs,2,0,0,0,0,90,1928,0.0,0.0,0.0,0.0,0,0.0,1.0,2.0,3.0
+BEL,Rowing,Rowing Men's Double Sculls,2,0,0,0,0,90,1928,0.0,0.0,0.0,0.0,0,0.0,1.0,2.0,3.0
+BEL,Rowing,Rowing Men's Single Sculls,1,0,0,0,0,90,1928,0.0,0.0,0.0,0.0,0,0.0,1.0,2.0,3.0
+BEL,Sailing,Sailing Mixed 6 metres,5,0,0,0,0,90,1928,0.0,0.0,0.0,0.0,0,0.0,1.0,2.0,3.0
+BEL,Sailing,Sailing Mixed One Person Dinghy,1,0,0,0,0,90,1928,1.0,0.0,0.0,1.0,0,0.0,1.0,2.0,3.0
+BEL,Swimming,Swimming Men's 100 metres Backstroke,1,0,0,0,0,90,1928,0.0,0.0,0.0,0.0,0,0.0,1.0,2.0,3.0
+BEL,Swimming,Swimming Men's 100 metres Freestyle,1,0,0,0,0,90,1928,0.0,0.0,0.0,0.0,0,0.0,1.0,2.0,3.0
+BEL,Swimming,Swimming Men's 200 metres Breaststroke,2,0,0,0,0,90,1928,0.0,1.0,0.0,1.0,0,0.0,1.0,2.0,3.0
+BEL,Swimming,Swimming Men's 4 x 200 metres Freestyle Relay,4,0,0,0,0,90,1928,0.0,0.0,0.0,0.0,0,0.0,1.0,2.0,3.0
+BEL,Water Polo,Water Polo Men's Water Polo,10,0,0,0,0,90,1928,0.0,11.0,0.0,11.0,0,0.0,1.0,2.0,3.0
+BEL,Weightlifting,Weightlifting Men's Featherweight,2,0,0,0,0,90,1928,0.0,0.0,0.0,0.0,0,0.0,1.0,2.0,3.0
+BEL,Weightlifting,Weightlifting Men's Heavyweight,1,0,0,0,0,90,1928,0.0,0.0,0.0,0.0,0,0.0,1.0,2.0,3.0
+BEL,Weightlifting,Weightlifting Men's Light-Heavyweight,1,0,0,0,0,90,1928,0.0,0.0,0.0,0.0,0,0.0,1.0,2.0,3.0
+BEL,Weightlifting,Weightlifting Men's Lightweight,2,0,0,0,0,90,1928,0.0,0.0,0.0,0.0,0,0.0,1.0,2.0,3.0
+BEL,Weightlifting,Weightlifting Men's Middleweight,2,0,0,0,0,90,1928,0.0,0.0,0.0,0.0,0,0.0,1.0,2.0,3.0
+BEL,Wrestling,"Wrestling Men's Bantamweight, Freestyle",1,0,1,0,1,90,1928,0.0,0.0,0.0,0.0,0,0.0,1.0,2.0,3.0
+BEL,Wrestling,"Wrestling Men's Bantamweight, Greco-Roman",1,0,0,0,0,90,1928,0.0,0.0,0.0,0.0,0,0.0,1.0,2.0,3.0
+BEL,Wrestling,"Wrestling Men's Featherweight, Freestyle",1,0,0,0,0,90,1928,0.0,0.0,0.0,0.0,0,0.0,1.0,2.0,3.0
+BEL,Wrestling,"Wrestling Men's Featherweight, Greco-Roman",1,0,0,0,0,90,1928,0.0,0.0,0.0,0.0,0,0.0,1.0,2.0,3.0
+BEL,Wrestling,"Wrestling Men's Heavyweight, Freestyle",1,0,0,0,0,90,1928,0.0,0.0,0.0,0.0,0,0.0,1.0,2.0,3.0
+BEL,Wrestling,"Wrestling Men's Heavyweight, Greco-Roman",1,0,0,0,0,90,1928,0.0,0.0,0.0,0.0,0,0.0,1.0,2.0,3.0
+BEL,Wrestling,"Wrestling Men's Light-Heavyweight, Freestyle",1,0,0,0,0,90,1928,0.0,0.0,0.0,0.0,0,0.0,1.0,2.0,3.0
+BEL,Wrestling,"Wrestling Men's Light-Heavyweight, Greco-Roman",1,0,0,0,0,90,1928,0.0,0.0,0.0,0.0,0,0.0,1.0,2.0,3.0
+BEL,Wrestling,"Wrestling Men's Lightweight, Freestyle",1,0,0,0,0,90,1928,0.0,0.0,0.0,0.0,0,0.0,1.0,2.0,3.0
+BEL,Wrestling,"Wrestling Men's Lightweight, Greco-Roman",1,0,0,0,0,90,1928,0.0,0.0,0.0,0.0,0,0.0,1.0,2.0,3.0
+BEL,Wrestling,"Wrestling Men's Middleweight, Freestyle",1,0,0,0,0,90,1928,0.0,1.0,0.0,1.0,0,0.0,1.0,2.0,3.0
+BEL,Wrestling,"Wrestling Men's Middleweight, Greco-Roman",1,0,0,0,0,90,1928,0.0,0.0,0.0,0.0,0,0.0,1.0,2.0,3.0
+BEL,Wrestling,"Wrestling Men's Welterweight, Freestyle",1,0,0,0,0,90,1928,0.0,0.0,0.0,0.0,0,0.0,1.0,2.0,3.0
+BUL,Equestrianism,"Equestrianism Men's Dressage, Individual",1,0,0,0,0,5,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+BUL,Equestrianism,"Equestrianism Men's Three-Day Event, Individual",3,0,0,0,0,5,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+BUL,Equestrianism,"Equestrianism Men's Three-Day Event, Team",3,0,0,0,0,5,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+BUL,Fencing,"Fencing Men's Sabre, Individual",2,0,0,0,0,5,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+BUL,Fencing,"Fencing Men's epee, Individual",1,0,0,0,0,5,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+CAN,Art Competitions,"Art Competitions Mixed Sculpturing, Statues",1,0,0,0,0,49,1928,0.0,0.0,0.0,0.0,0,4.0,4.0,7.0,15.0
+CAN,Athletics,"Athletics Men's 1,500 metres",4,0,0,0,0,49,1928,0.0,0.0,0.0,0.0,0,4.0,4.0,7.0,15.0
+CAN,Athletics,Athletics Men's 100 metres,4,1,0,0,1,49,1928,0.0,0.0,0.0,0.0,0,4.0,4.0,7.0,15.0
+CAN,Athletics,Athletics Men's 200 metres,4,1,0,0,1,49,1928,0.0,0.0,0.0,0.0,0,4.0,4.0,7.0,15.0
+CAN,Athletics,"Athletics Men's 3,000 metres Steeplechase",1,0,0,0,0,49,1928,0.0,0.0,0.0,0.0,0,4.0,4.0,7.0,15.0
+CAN,Athletics,Athletics Men's 4 x 100 metres Relay,4,0,0,0,0,49,1928,0.0,0.0,0.0,0.0,0,4.0,4.0,7.0,15.0
+CAN,Athletics,Athletics Men's 4 x 400 metres Relay,4,0,0,4,4,49,1928,0.0,0.0,0.0,0.0,0,4.0,4.0,7.0,15.0
+CAN,Athletics,Athletics Men's 400 metres,4,0,1,0,1,49,1928,0.0,0.0,0.0,0.0,0,4.0,4.0,7.0,15.0
+CAN,Athletics,Athletics Men's 400 metres Hurdles,1,0,0,0,0,49,1928,0.0,0.0,0.0,0.0,0,4.0,4.0,7.0,15.0
+CAN,Athletics,"Athletics Men's 5,000 metres",3,0,0,0,0,49,1928,0.0,0.0,0.0,0.0,0,4.0,4.0,7.0,15.0
+CAN,Athletics,Athletics Men's 800 metres,4,0,0,0,0,49,1928,0.0,0.0,0.0,0.0,0,4.0,4.0,7.0,15.0
+CAN,Athletics,Athletics Men's High Jump,1,0,0,0,0,49,1928,0.0,0.0,0.0,0.0,0,4.0,4.0,7.0,15.0
+CAN,Athletics,Athletics Men's Javelin Throw,1,0,0,0,0,49,1928,0.0,0.0,0.0,0.0,0,4.0,4.0,7.0,15.0
+CAN,Athletics,Athletics Men's Marathon,5,0,0,0,0,49,1928,0.0,0.0,0.0,0.0,0,4.0,4.0,7.0,15.0
+CAN,Athletics,Athletics Men's Pole Vault,1,0,0,0,0,49,1928,0.0,0.0,0.0,0.0,0,4.0,4.0,7.0,15.0
+CAN,Athletics,Athletics Men's Triple Jump,1,0,0,0,0,49,1928,0.0,0.0,0.0,0.0,0,4.0,4.0,7.0,15.0
+CAN,Athletics,Athletics Women's 100 metres,4,0,1,1,2,49,1928,0.0,0.0,0.0,0.0,0,4.0,4.0,7.0,15.0
+CAN,Athletics,Athletics Women's 4 x 100 metres Relay,4,4,0,0,4,49,1928,0.0,0.0,0.0,0.0,0,4.0,4.0,7.0,15.0
+CAN,Athletics,Athletics Women's 800 metres,2,0,0,0,0,49,1928,0.0,0.0,0.0,0.0,0,4.0,4.0,7.0,15.0
+CAN,Athletics,Athletics Women's High Jump,1,1,0,0,1,49,1928,0.0,0.0,0.0,0.0,0,4.0,4.0,7.0,15.0
+CAN,Boxing,Boxing Men's Bantamweight,1,0,0,0,0,49,1928,0.0,0.0,0.0,0.0,0,4.0,4.0,7.0,15.0
+CAN,Boxing,Boxing Men's Featherweight,1,0,0,0,0,49,1928,0.0,0.0,0.0,0.0,0,4.0,4.0,7.0,15.0
+CAN,Boxing,Boxing Men's Flyweight,1,0,0,0,0,49,1928,0.0,0.0,0.0,0.0,0,4.0,4.0,7.0,15.0
+CAN,Boxing,Boxing Men's Light-Heavyweight,1,0,0,0,0,49,1928,0.0,0.0,0.0,0.0,0,4.0,4.0,7.0,15.0
+CAN,Boxing,Boxing Men's Lightweight,1,0,0,0,0,49,1928,0.0,0.0,0.0,0.0,0,4.0,4.0,7.0,15.0
+CAN,Boxing,Boxing Men's Middleweight,1,0,0,0,0,49,1928,0.0,0.0,0.0,0.0,0,4.0,4.0,7.0,15.0
+CAN,Boxing,Boxing Men's Welterweight,1,0,0,1,1,49,1928,0.0,0.0,1.0,1.0,0,4.0,4.0,7.0,15.0
+CAN,Cycling,"Cycling Men's 1,000 metres Time Trial",1,0,0,0,0,49,1928,0.0,0.0,0.0,0.0,0,4.0,4.0,7.0,15.0
+CAN,Cycling,"Cycling Men's Road Race, Individual",4,0,0,0,0,49,1928,0.0,0.0,0.0,0.0,0,4.0,4.0,7.0,15.0
+CAN,Cycling,"Cycling Men's Road Race, Team",3,0,0,0,0,49,1928,0.0,0.0,0.0,0.0,0,4.0,4.0,7.0,15.0
+CAN,Cycling,Cycling Men's Sprint,1,0,0,0,0,49,1928,0.0,0.0,0.0,0.0,0,4.0,4.0,7.0,15.0
+CAN,Cycling,"Cycling Men's Team Pursuit, 4,000 metres",4,0,0,0,0,49,1928,0.0,0.0,0.0,0.0,0,4.0,4.0,7.0,15.0
+CAN,Diving,Diving Men's Platform,1,0,0,0,0,49,1928,0.0,0.0,0.0,0.0,0,4.0,4.0,7.0,15.0
+CAN,Diving,Diving Men's Springboard,1,0,0,0,0,49,1928,0.0,0.0,0.0,0.0,0,4.0,4.0,7.0,15.0
+CAN,Rowing,Rowing Men's Coxed Eights,9,0,0,9,9,49,1928,0.0,9.0,0.0,9.0,0,4.0,4.0,7.0,15.0
+CAN,Rowing,Rowing Men's Double Sculls,2,0,2,0,2,49,1928,0.0,0.0,0.0,0.0,0,4.0,4.0,7.0,15.0
+CAN,Rowing,Rowing Men's Single Sculls,1,0,0,0,0,49,1928,0.0,0.0,0.0,0.0,0,4.0,4.0,7.0,15.0
+CAN,Swimming,"Swimming Men's 1,500 metres Freestyle",2,0,0,0,0,49,1928,0.0,0.0,0.0,0.0,0,4.0,4.0,7.0,15.0
+CAN,Swimming,Swimming Men's 100 metres Backstroke,1,0,0,0,0,49,1928,0.0,0.0,0.0,0.0,0,4.0,4.0,7.0,15.0
+CAN,Swimming,Swimming Men's 100 metres Freestyle,2,0,0,0,0,49,1928,0.0,0.0,0.0,0.0,0,4.0,4.0,7.0,15.0
+CAN,Swimming,Swimming Men's 200 metres Breaststroke,2,0,0,0,0,49,1928,0.0,0.0,0.0,0.0,0,4.0,4.0,7.0,15.0
+CAN,Swimming,Swimming Men's 4 x 200 metres Freestyle Relay,4,0,0,4,4,49,1928,0.0,0.0,0.0,0.0,0,4.0,4.0,7.0,15.0
+CAN,Swimming,Swimming Men's 400 metres Freestyle,2,0,0,0,0,49,1928,0.0,0.0,0.0,0.0,0,4.0,4.0,7.0,15.0
+CAN,Swimming,Swimming Women's 200 metres Breaststroke,1,0,0,0,0,49,1928,0.0,0.0,0.0,0.0,0,4.0,4.0,7.0,15.0
+CAN,Wrestling,"Wrestling Men's Bantamweight, Freestyle",1,0,0,1,1,49,1928,0.0,0.0,0.0,0.0,0,4.0,4.0,7.0,15.0
+CAN,Wrestling,"Wrestling Men's Featherweight, Freestyle",1,0,0,0,0,49,1928,0.0,0.0,0.0,0.0,0,4.0,4.0,7.0,15.0
+CAN,Wrestling,"Wrestling Men's Heavyweight, Freestyle",1,0,0,0,0,49,1928,0.0,0.0,0.0,0.0,0,4.0,4.0,7.0,15.0
+CAN,Wrestling,"Wrestling Men's Middleweight, Freestyle",1,0,1,0,1,49,1928,0.0,0.0,0.0,0.0,0,4.0,4.0,7.0,15.0
+CAN,Wrestling,"Wrestling Men's Welterweight, Freestyle",1,0,0,1,1,49,1928,0.0,0.0,0.0,0.0,0,4.0,4.0,7.0,15.0
+CHI,Athletics,Athletics Men's 100 metres,2,0,0,0,0,22,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+CHI,Athletics,Athletics Men's 110 metres Hurdles,1,0,0,0,0,22,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+CHI,Athletics,Athletics Men's 200 metres,1,0,0,0,0,22,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+CHI,Athletics,Athletics Men's 400 metres,2,0,0,0,0,22,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+CHI,Athletics,Athletics Men's Discus Throw,1,0,0,0,0,22,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+CHI,Athletics,Athletics Men's Hammer Throw,1,0,0,0,0,22,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+CHI,Athletics,Athletics Men's Long Jump,1,0,0,0,0,22,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+CHI,Athletics,Athletics Men's Marathon,1,0,1,0,1,22,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+CHI,Boxing,Boxing Men's Bantamweight,1,0,0,0,0,22,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+CHI,Boxing,Boxing Men's Flyweight,1,0,0,0,0,22,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+CHI,Boxing,Boxing Men's Light-Heavyweight,1,0,0,0,0,22,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+CHI,Boxing,Boxing Men's Lightweight,1,0,0,0,0,22,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+CHI,Cycling,"Cycling Men's 1,000 metres Time Trial",1,0,0,0,0,22,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+CHI,Cycling,Cycling Men's Sprint,1,0,0,0,0,22,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+CHI,Cycling,"Cycling Men's Team Pursuit, 4,000 metres",4,0,0,0,0,22,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+CHI,Fencing,"Fencing Men's Foil, Individual",1,0,0,0,0,22,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+CHI,Fencing,"Fencing Men's Sabre, Individual",3,0,0,0,0,22,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+CHI,Fencing,"Fencing Men's Sabre, Team",6,0,0,0,0,22,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+CHI,Fencing,"Fencing Men's epee, Individual",1,0,0,0,0,22,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+CHI,Football,Football Men's Football,11,0,0,0,0,22,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+CHI,Swimming,Swimming Men's 100 metres Freestyle,3,0,0,0,0,22,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+CHI,Swimming,Swimming Men's 400 metres Freestyle,1,0,0,0,0,22,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+CUB,Athletics,Athletics Men's 100 metres,1,0,0,0,0,1,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+DEN,Art Competitions,"Art Competitions Mixed Architecture, Architectural Designs",7,0,1,0,1,55,1928,0.0,0.0,0.0,0.0,0,3.0,1.0,2.0,6.0
+DEN,Art Competitions,"Art Competitions Mixed Architecture, Designs For Town Planning",7,0,0,0,0,55,1928,0.0,0.0,0.0,0.0,0,3.0,1.0,2.0,6.0
+DEN,Art Competitions,"Art Competitions Mixed Literature, Epic Works",1,0,0,0,0,55,1928,0.0,0.0,0.0,0.0,0,3.0,1.0,2.0,6.0
+DEN,Art Competitions,"Art Competitions Mixed Literature, Lyric Works",2,0,0,1,1,55,1928,0.0,0.0,0.0,0.0,0,3.0,1.0,2.0,6.0
+DEN,Art Competitions,"Art Competitions Mixed Music, Compositions For Orchestra",2,0,0,1,1,55,1928,0.0,0.0,0.0,0.0,0,3.0,1.0,2.0,6.0
+DEN,Art Competitions,"Art Competitions Mixed Sculpturing, Statues",1,0,0,0,0,55,1928,0.0,0.0,0.0,0.0,0,3.0,1.0,2.0,6.0
+DEN,Athletics,"Athletics Men's 1,500 metres",1,0,0,0,0,55,1928,0.0,0.0,0.0,0.0,0,3.0,1.0,2.0,6.0
+DEN,Athletics,Athletics Men's 100 metres,1,0,0,0,0,55,1928,0.0,0.0,0.0,0.0,0,3.0,1.0,2.0,6.0
+DEN,Athletics,Athletics Men's 110 metres Hurdles,1,0,0,0,0,55,1928,0.0,0.0,0.0,0.0,0,3.0,1.0,2.0,6.0
+DEN,Athletics,Athletics Men's 400 metres,1,0,0,0,0,55,1928,0.0,0.0,0.0,0.0,0,3.0,1.0,2.0,6.0
+DEN,Athletics,Athletics Men's 400 metres Hurdles,2,0,0,0,0,55,1928,0.0,0.0,0.0,0.0,0,3.0,1.0,2.0,6.0
+DEN,Athletics,"Athletics Men's 5,000 metres",1,0,0,0,0,55,1928,0.0,0.0,0.0,0.0,0,3.0,1.0,2.0,6.0
+DEN,Athletics,Athletics Men's 800 metres,1,0,0,0,0,55,1928,0.0,0.0,0.0,0.0,0,3.0,1.0,2.0,6.0
+DEN,Athletics,Athletics Men's Long Jump,1,0,0,0,0,55,1928,0.0,0.0,0.0,0.0,0,3.0,1.0,2.0,6.0
+DEN,Athletics,Athletics Men's Marathon,3,0,0,0,0,55,1928,0.0,0.0,0.0,0.0,0,3.0,1.0,2.0,6.0
+DEN,Athletics,Athletics Men's Pole Vault,1,0,0,0,0,55,1928,0.0,0.0,0.0,0.0,0,3.0,1.0,2.0,6.0
+DEN,Athletics,Athletics Men's Triple Jump,1,0,0,0,0,55,1928,0.0,0.0,0.0,0.0,0,3.0,1.0,2.0,6.0
+DEN,Boxing,Boxing Men's Bantamweight,1,0,0,0,0,55,1928,0.0,0.0,0.0,0.0,0,3.0,1.0,2.0,6.0
+DEN,Boxing,Boxing Men's Featherweight,1,0,0,0,0,55,1928,0.0,0.0,0.0,0.0,0,3.0,1.0,2.0,6.0
+DEN,Boxing,Boxing Men's Heavyweight,1,0,0,1,1,55,1928,0.0,1.0,0.0,1.0,0,3.0,1.0,2.0,6.0
+DEN,Boxing,Boxing Men's Lightweight,1,0,0,0,0,55,1928,1.0,0.0,0.0,1.0,0,3.0,1.0,2.0,6.0
+DEN,Boxing,Boxing Men's Middleweight,1,0,0,0,0,55,1928,0.0,0.0,0.0,0.0,0,3.0,1.0,2.0,6.0
+DEN,Boxing,Boxing Men's Welterweight,1,0,0,0,0,55,1928,0.0,0.0,0.0,0.0,0,3.0,1.0,2.0,6.0
+DEN,Cycling,"Cycling Men's 1,000 metres Time Trial",1,1,0,0,1,55,1928,0.0,0.0,0.0,0.0,0,3.0,1.0,2.0,6.0
+DEN,Cycling,"Cycling Men's Road Race, Individual",4,1,0,0,1,55,1928,0.0,0.0,0.0,0.0,0,3.0,1.0,2.0,6.0
+DEN,Cycling,"Cycling Men's Road Race, Team",4,4,0,0,4,55,1928,0.0,0.0,0.0,0.0,0,3.0,1.0,2.0,6.0
+DEN,Cycling,Cycling Men's Sprint,1,0,0,1,1,55,1928,0.0,0.0,0.0,0.0,0,3.0,1.0,2.0,6.0
+DEN,Diving,Diving Women's Platform,1,0,0,0,0,55,1928,0.0,0.0,0.0,0.0,0,3.0,1.0,2.0,6.0
+DEN,Equestrianism,"Equestrianism Men's Dressage, Individual",1,0,0,0,0,55,1928,0.0,0.0,0.0,0.0,0,3.0,1.0,2.0,6.0
+DEN,Equestrianism,"Equestrianism Men's Three-Day Event, Individual",2,0,0,0,0,55,1928,0.0,1.0,0.0,1.0,0,3.0,1.0,2.0,6.0
+DEN,Fencing,"Fencing Men's Foil, Individual",3,0,0,0,0,55,1928,0.0,0.0,0.0,0.0,0,3.0,1.0,2.0,6.0
+DEN,Fencing,"Fencing Men's Foil, Team",4,0,0,0,0,55,1928,0.0,0.0,0.0,0.0,0,3.0,1.0,2.0,6.0
+DEN,Fencing,"Fencing Men's Sabre, Individual",3,0,0,0,0,55,1928,0.0,0.0,0.0,0.0,0,3.0,1.0,2.0,6.0
+DEN,Fencing,"Fencing Men's epee, Individual",3,0,0,0,0,55,1928,0.0,0.0,0.0,0.0,0,3.0,1.0,2.0,6.0
+DEN,Fencing,"Fencing Men's epee, Team",5,0,0,0,0,55,1928,0.0,0.0,0.0,0.0,0,3.0,1.0,2.0,6.0
+DEN,Fencing,"Fencing Women's Foil, Individual",3,0,0,0,0,55,1928,1.0,0.0,1.0,2.0,0,3.0,1.0,2.0,6.0
+DEN,Hockey,Hockey Men's Hockey,13,0,0,0,0,55,1928,0.0,0.0,0.0,0.0,0,3.0,1.0,2.0,6.0
+DEN,Modern Pentathlon,Modern Pentathlon Men's Individual,2,0,0,0,0,55,1928,0.0,0.0,0.0,0.0,0,3.0,1.0,2.0,6.0
+DEN,Rowing,Rowing Men's Coxed Eights,9,0,0,0,0,55,1928,0.0,0.0,0.0,0.0,0,3.0,1.0,2.0,6.0
+DEN,Rowing,Rowing Men's Single Sculls,1,0,0,0,0,55,1928,0.0,0.0,0.0,0.0,0,3.0,1.0,2.0,6.0
+DEN,Sailing,Sailing Mixed 6 metres,4,0,4,0,4,55,1928,0.0,3.0,0.0,3.0,0,3.0,1.0,2.0,6.0
+DEN,Sailing,Sailing Mixed One Person Dinghy,1,0,0,0,0,55,1928,0.0,0.0,0.0,0.0,0,3.0,1.0,2.0,6.0
+DEN,Swimming,Swimming Women's 100 metres Backstroke,1,0,0,0,0,55,1928,0.0,0.0,0.0,0.0,0,3.0,1.0,2.0,6.0
+DEN,Swimming,Swimming Women's 100 metres Freestyle,2,0,0,0,0,55,1928,0.0,0.0,0.0,0.0,0,3.0,1.0,2.0,6.0
+DEN,Swimming,Swimming Women's 200 metres Breaststroke,1,0,0,0,0,55,1928,0.0,0.0,0.0,0.0,0,3.0,1.0,2.0,6.0
+DEN,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,4,0,0,0,0,55,1928,0.0,0.0,0.0,0.0,0,3.0,1.0,2.0,6.0
+DEN,Weightlifting,Weightlifting Men's Lightweight,1,0,0,0,0,55,1928,0.0,0.0,0.0,0.0,0,3.0,1.0,2.0,6.0
+DEN,Wrestling,"Wrestling Men's Bantamweight, Greco-Roman",1,0,0,0,0,55,1928,0.0,0.0,0.0,0.0,0,3.0,1.0,2.0,6.0
+DEN,Wrestling,"Wrestling Men's Featherweight, Greco-Roman",1,0,0,0,0,55,1928,0.0,0.0,0.0,0.0,0,3.0,1.0,2.0,6.0
+DEN,Wrestling,"Wrestling Men's Heavyweight, Greco-Roman",1,0,0,0,0,55,1928,0.0,0.0,0.0,0.0,0,3.0,1.0,2.0,6.0
+DEN,Wrestling,"Wrestling Men's Light-Heavyweight, Greco-Roman",1,0,0,0,0,55,1928,0.0,0.0,0.0,0.0,0,3.0,1.0,2.0,6.0
+DEN,Wrestling,"Wrestling Men's Lightweight, Freestyle",1,0,0,0,0,55,1928,0.0,0.0,0.0,0.0,0,3.0,1.0,2.0,6.0
+DEN,Wrestling,"Wrestling Men's Lightweight, Greco-Roman",1,0,0,0,0,55,1928,0.0,0.0,0.0,0.0,0,3.0,1.0,2.0,6.0
+DEN,Wrestling,"Wrestling Men's Middleweight, Greco-Roman",1,0,0,0,0,55,1928,0.0,0.0,0.0,0.0,0,3.0,1.0,2.0,6.0
+DEN,Wrestling,"Wrestling Men's Welterweight, Freestyle",1,0,0,0,0,55,1928,0.0,0.0,0.0,0.0,0,3.0,1.0,2.0,6.0
+EGY,Diving,Diving Men's Platform,2,0,1,0,1,14,1928,0.0,0.0,0.0,0.0,0,2.0,1.0,1.0,4.0
+EGY,Diving,Diving Men's Springboard,1,0,0,1,1,14,1928,0.0,0.0,0.0,0.0,0,2.0,1.0,1.0,4.0
+EGY,Fencing,"Fencing Men's Foil, Individual",3,0,0,0,0,14,1928,0.0,0.0,0.0,0.0,0,2.0,1.0,1.0,4.0
+EGY,Fencing,"Fencing Men's Foil, Team",5,0,0,0,0,14,1928,0.0,0.0,0.0,0.0,0,2.0,1.0,1.0,4.0
+EGY,Fencing,"Fencing Men's Sabre, Individual",2,0,0,0,0,14,1928,0.0,0.0,0.0,0.0,0,2.0,1.0,1.0,4.0
+EGY,Fencing,"Fencing Men's epee, Individual",3,0,0,0,0,14,1928,0.0,0.0,0.0,0.0,0,2.0,1.0,1.0,4.0
+EGY,Fencing,"Fencing Men's epee, Team",5,0,0,0,0,14,1928,0.0,0.0,0.0,0.0,0,2.0,1.0,1.0,4.0
+EGY,Football,Football Men's Football,16,0,0,0,0,14,1928,0.0,0.0,0.0,0.0,0,2.0,1.0,1.0,4.0
+EGY,Weightlifting,Weightlifting Men's Light-Heavyweight,1,1,0,0,1,14,1928,0.0,0.0,0.0,0.0,0,2.0,1.0,1.0,4.0
+EGY,Weightlifting,Weightlifting Men's Middleweight,1,0,0,0,0,14,1928,0.0,0.0,0.0,0.0,0,2.0,1.0,1.0,4.0
+EGY,Wrestling,"Wrestling Men's Bantamweight, Greco-Roman",1,0,0,0,0,14,1928,0.0,0.0,0.0,0.0,0,2.0,1.0,1.0,4.0
+EGY,Wrestling,"Wrestling Men's Featherweight, Greco-Roman",1,0,0,0,0,14,1928,0.0,0.0,0.0,0.0,0,2.0,1.0,1.0,4.0
+EGY,Wrestling,"Wrestling Men's Heavyweight, Greco-Roman",1,0,0,0,0,14,1928,0.0,0.0,0.0,0.0,0,2.0,1.0,1.0,4.0
+EGY,Wrestling,"Wrestling Men's Light-Heavyweight, Greco-Roman",1,1,0,0,1,14,1928,0.0,0.0,0.0,0.0,0,2.0,1.0,1.0,4.0
+ESP,Athletics,"Athletics Men's 10,000 metres",1,0,0,0,0,34,1928,0.0,0.0,0.0,0.0,0,1.0,0.0,0.0,1.0
+ESP,Athletics,Athletics Men's 100 metres,4,0,0,0,0,34,1928,0.0,0.0,0.0,0.0,0,1.0,0.0,0.0,1.0
+ESP,Athletics,Athletics Men's 200 metres,2,0,0,0,0,34,1928,0.0,0.0,0.0,0.0,0,1.0,0.0,0.0,1.0
+ESP,Athletics,Athletics Men's 4 x 100 metres Relay,4,0,0,0,0,34,1928,0.0,0.0,0.0,0.0,0,1.0,0.0,0.0,1.0
+ESP,Athletics,Athletics Men's 400 metres,1,0,0,0,0,34,1928,0.0,0.0,0.0,0.0,0,1.0,0.0,0.0,1.0
+ESP,Athletics,"Athletics Men's 5,000 metres",2,0,0,0,0,34,1928,0.0,0.0,0.0,0.0,0,1.0,0.0,0.0,1.0
+ESP,Athletics,Athletics Men's 800 metres,1,0,0,0,0,34,1928,0.0,0.0,0.0,0.0,0,1.0,0.0,0.0,1.0
+ESP,Athletics,Athletics Men's Long Jump,1,0,0,0,0,34,1928,0.0,0.0,0.0,0.0,0,1.0,0.0,0.0,1.0
+ESP,Athletics,Athletics Men's Marathon,1,0,0,0,0,34,1928,0.0,0.0,0.0,0.0,0,1.0,0.0,0.0,1.0
+ESP,Athletics,Athletics Men's Pole Vault,1,0,0,0,0,34,1928,0.0,0.0,0.0,0.0,0,1.0,0.0,0.0,1.0
+ESP,Boxing,Boxing Men's Featherweight,1,0,0,0,0,34,1928,0.0,0.0,0.0,0.0,0,1.0,0.0,0.0,1.0
+ESP,Boxing,Boxing Men's Flyweight,1,0,0,0,0,34,1928,0.0,0.0,0.0,0.0,0,1.0,0.0,0.0,1.0
+ESP,Boxing,Boxing Men's Light-Heavyweight,1,0,0,0,0,34,1928,0.0,0.0,0.0,0.0,0,1.0,0.0,0.0,1.0
+ESP,Boxing,Boxing Men's Lightweight,1,0,0,0,0,34,1928,0.0,0.0,0.0,0.0,0,1.0,0.0,0.0,1.0
+ESP,Boxing,Boxing Men's Middleweight,1,0,0,0,0,34,1928,0.0,0.0,0.0,0.0,0,1.0,0.0,0.0,1.0
+ESP,Boxing,Boxing Men's Welterweight,1,0,0,0,0,34,1928,0.0,0.0,0.0,0.0,0,1.0,0.0,0.0,1.0
+ESP,Cycling,Cycling Men's Sprint,1,0,0,0,0,34,1928,0.0,0.0,0.0,0.0,0,1.0,0.0,0.0,1.0
+ESP,Equestrianism,"Equestrianism Men's Jumping, Individual",3,0,0,0,0,34,1928,0.0,0.0,0.0,0.0,0,1.0,0.0,0.0,1.0
+ESP,Equestrianism,"Equestrianism Men's Jumping, Team",3,3,0,0,3,34,1928,0.0,0.0,0.0,0.0,0,1.0,0.0,0.0,1.0
+ESP,Equestrianism,"Equestrianism Men's Three-Day Event, Individual",3,0,0,0,0,34,1928,0.0,0.0,0.0,0.0,0,1.0,0.0,0.0,1.0
+ESP,Equestrianism,"Equestrianism Men's Three-Day Event, Team",3,0,0,0,0,34,1928,0.0,0.0,0.0,0.0,0,1.0,0.0,0.0,1.0
+ESP,Fencing,"Fencing Men's Foil, Individual",3,0,0,0,0,34,1928,0.0,0.0,0.0,0.0,0,1.0,0.0,0.0,1.0
+ESP,Fencing,"Fencing Men's Foil, Team",5,0,0,0,0,34,1928,0.0,0.0,0.0,0.0,0,1.0,0.0,0.0,1.0
+ESP,Fencing,"Fencing Men's Sabre, Individual",3,0,0,0,0,34,1928,0.0,0.0,0.0,0.0,0,1.0,0.0,0.0,1.0
+ESP,Fencing,"Fencing Men's epee, Individual",2,0,0,0,0,34,1928,0.0,0.0,0.0,0.0,0,1.0,0.0,0.0,1.0
+ESP,Fencing,"Fencing Men's epee, Team",5,0,0,0,0,34,1928,0.0,0.0,0.0,0.0,0,1.0,0.0,0.0,1.0
+ESP,Football,Football Men's Football,17,0,0,0,0,34,1928,0.0,0.0,0.0,0.0,0,1.0,0.0,0.0,1.0
+ESP,Hockey,Hockey Men's Hockey,15,0,0,0,0,34,1928,0.0,0.0,0.0,0.0,0,1.0,0.0,0.0,1.0
+ESP,Sailing,Sailing Mixed 6 metres,5,0,0,0,0,34,1928,0.0,0.0,0.0,0.0,0,1.0,0.0,0.0,1.0
+ESP,Sailing,Sailing Mixed One Person Dinghy,1,0,0,0,0,34,1928,0.0,0.0,0.0,0.0,0,1.0,0.0,0.0,1.0
+ESP,Swimming,Swimming Men's 100 metres Freestyle,1,0,0,0,0,34,1928,0.0,0.0,0.0,0.0,0,1.0,0.0,0.0,1.0
+ESP,Swimming,Swimming Men's 200 metres Breaststroke,1,0,0,0,0,34,1928,0.0,0.0,0.0,0.0,0,1.0,0.0,0.0,1.0
+ESP,Swimming,Swimming Men's 4 x 200 metres Freestyle Relay,4,0,0,0,0,34,1928,0.0,0.0,0.0,0.0,0,1.0,0.0,0.0,1.0
+ESP,Water Polo,Water Polo Men's Water Polo,7,0,0,0,0,34,1928,0.0,0.0,0.0,0.0,0,1.0,0.0,0.0,1.0
+EST,Athletics,Athletics Men's Decathlon,1,0,0,0,0,19,1928,0.0,0.0,1.0,1.0,0,2.0,1.0,2.0,5.0
+EST,Athletics,Athletics Men's Discus Throw,1,0,0,0,0,19,1928,0.0,0.0,0.0,0.0,0,2.0,1.0,2.0,5.0
+EST,Athletics,Athletics Men's Javelin Throw,1,0,0,0,0,19,1928,0.0,0.0,0.0,0.0,0,2.0,1.0,2.0,5.0
+EST,Athletics,Athletics Men's Marathon,1,0,0,0,0,19,1928,0.0,0.0,0.0,0.0,0,2.0,1.0,2.0,5.0
+EST,Athletics,Athletics Men's Shot Put,1,0,0,0,0,19,1928,0.0,0.0,0.0,0.0,0,2.0,1.0,2.0,5.0
+EST,Boxing,Boxing Men's Welterweight,1,0,0,0,0,19,1928,0.0,0.0,0.0,0.0,0,2.0,1.0,2.0,5.0
+EST,Sailing,Sailing Mixed 6 metres,5,0,0,5,5,19,1928,0.0,0.0,0.0,0.0,0,2.0,1.0,2.0,5.0
+EST,Weightlifting,Weightlifting Men's Featherweight,1,0,0,0,0,19,1928,0.0,0.0,0.0,0.0,0,2.0,1.0,2.0,5.0
+EST,Weightlifting,Weightlifting Men's Heavyweight,1,0,1,0,1,19,1928,0.0,0.0,1.0,1.0,0,2.0,1.0,2.0,5.0
+EST,Weightlifting,Weightlifting Men's Light-Heavyweight,1,0,0,0,0,19,1928,0.0,0.0,0.0,0.0,0,2.0,1.0,2.0,5.0
+EST,Weightlifting,Weightlifting Men's Middleweight,1,0,0,0,0,19,1928,0.0,1.0,1.0,2.0,0,2.0,1.0,2.0,5.0
+EST,Wrestling,"Wrestling Men's Bantamweight, Greco-Roman",1,0,0,0,0,19,1928,1.0,0.0,0.0,1.0,0,2.0,1.0,2.0,5.0
+EST,Wrestling,"Wrestling Men's Featherweight, Freestyle",1,0,0,0,0,19,1928,0.0,0.0,0.0,0.0,0,2.0,1.0,2.0,5.0
+EST,Wrestling,"Wrestling Men's Featherweight, Greco-Roman",1,1,0,0,1,19,1928,0.0,0.0,0.0,0.0,0,2.0,1.0,2.0,5.0
+EST,Wrestling,"Wrestling Men's Light-Heavyweight, Greco-Roman",1,0,0,0,0,19,1928,0.0,0.0,0.0,0.0,0,2.0,1.0,2.0,5.0
+EST,Wrestling,"Wrestling Men's Lightweight, Freestyle",1,1,0,0,1,19,1928,0.0,0.0,0.0,0.0,0,2.0,1.0,2.0,5.0
+EST,Wrestling,"Wrestling Men's Lightweight, Greco-Roman",1,0,0,0,0,19,1928,0.0,0.0,0.0,0.0,0,2.0,1.0,2.0,5.0
+EST,Wrestling,"Wrestling Men's Middleweight, Greco-Roman",1,0,0,1,1,19,1928,0.0,0.0,1.0,1.0,0,2.0,1.0,2.0,5.0
+EST,Wrestling,"Wrestling Men's Welterweight, Freestyle",1,0,0,0,0,19,1928,0.0,0.0,0.0,0.0,0,2.0,1.0,2.0,5.0
+FIN,Athletics,"Athletics Men's 1,500 metres",4,1,0,1,2,48,1928,1.0,0.0,0.0,1.0,0,8.0,8.0,9.0,25.0
+FIN,Athletics,"Athletics Men's 10,000 metres",4,1,1,0,2,48,1928,1.0,0.0,1.0,2.0,0,8.0,8.0,9.0,25.0
+FIN,Athletics,Athletics Men's 100 metres,1,0,0,0,0,48,1928,0.0,0.0,0.0,0.0,0,8.0,8.0,9.0,25.0
+FIN,Athletics,Athletics Men's 110 metres Hurdles,1,0,0,0,0,48,1928,0.0,0.0,0.0,0.0,0,8.0,8.0,9.0,25.0
+FIN,Athletics,"Athletics Men's 3,000 metres Steeplechase",4,1,1,1,3,48,1928,1.0,1.0,0.0,2.0,0,8.0,8.0,9.0,25.0
+FIN,Athletics,Athletics Men's 400 metres Hurdles,2,0,0,0,0,48,1928,0.0,1.0,0.0,1.0,0,8.0,8.0,9.0,25.0
+FIN,Athletics,"Athletics Men's 5,000 metres",4,1,1,0,2,48,1928,1.0,1.0,0.0,2.0,0,8.0,8.0,9.0,25.0
+FIN,Athletics,Athletics Men's Decathlon,4,1,1,0,2,48,1928,0.0,0.0,0.0,0.0,0,8.0,8.0,9.0,25.0
+FIN,Athletics,Athletics Men's Discus Throw,3,0,1,0,1,48,1928,0.0,1.0,0.0,1.0,0,8.0,8.0,9.0,25.0
+FIN,Athletics,Athletics Men's Hammer Throw,1,0,0,0,0,48,1928,0.0,0.0,0.0,0.0,0,8.0,8.0,9.0,25.0
+FIN,Athletics,Athletics Men's High Jump,2,0,0,0,0,48,1928,0.0,0.0,0.0,0.0,0,8.0,8.0,9.0,25.0
+FIN,Athletics,Athletics Men's Javelin Throw,4,0,0,0,0,48,1928,1.0,0.0,0.0,1.0,0,8.0,8.0,9.0,25.0
+FIN,Athletics,Athletics Men's Long Jump,2,0,0,0,0,48,1928,0.0,0.0,0.0,0.0,0,8.0,8.0,9.0,25.0
+FIN,Athletics,Athletics Men's Marathon,6,0,0,1,1,48,1928,1.0,0.0,0.0,1.0,0,8.0,8.0,9.0,25.0
+FIN,Athletics,Athletics Men's Shot Put,2,0,0,0,0,48,1928,0.0,0.0,0.0,0.0,0,8.0,8.0,9.0,25.0
+FIN,Athletics,Athletics Men's Triple Jump,4,0,0,1,1,48,1928,0.0,0.0,1.0,1.0,0,8.0,8.0,9.0,25.0
+FIN,Boxing,Boxing Men's Featherweight,1,0,0,0,0,48,1928,0.0,0.0,0.0,0.0,0,8.0,8.0,9.0,25.0
+FIN,Boxing,Boxing Men's Lightweight,1,0,0,0,0,48,1928,0.0,0.0,0.0,0.0,0,8.0,8.0,9.0,25.0
+FIN,Boxing,Boxing Men's Welterweight,1,0,0,0,0,48,1928,0.0,0.0,0.0,0.0,0,8.0,8.0,9.0,25.0
+FIN,Cycling,"Cycling Men's Road Race, Individual",1,0,0,0,0,48,1928,0.0,0.0,0.0,0.0,0,8.0,8.0,9.0,25.0
+FIN,Diving,Diving Men's Platform,1,0,0,0,0,48,1928,0.0,0.0,0.0,0.0,0,8.0,8.0,9.0,25.0
+FIN,Diving,Diving Women's Platform,1,0,0,0,0,48,1928,0.0,0.0,0.0,0.0,0,8.0,8.0,9.0,25.0
+FIN,Equestrianism,"Equestrianism Men's Three-Day Event, Individual",1,0,0,0,0,48,1928,0.0,0.0,0.0,0.0,0,8.0,8.0,9.0,25.0
+FIN,Fencing,"Fencing Men's Foil, Individual",1,0,0,0,0,48,1928,0.0,0.0,0.0,0.0,0,8.0,8.0,9.0,25.0
+FIN,Fencing,"Fencing Men's epee, Individual",2,0,0,0,0,48,1928,0.0,0.0,0.0,0.0,0,8.0,8.0,9.0,25.0
+FIN,Gymnastics,Gymnastics Men's Horizontal Bar,8,0,0,0,0,48,1928,0.0,0.0,0.0,0.0,0,8.0,8.0,9.0,25.0
+FIN,Gymnastics,Gymnastics Men's Horse Vault,8,0,0,0,0,48,1928,0.0,0.0,0.0,0.0,0,8.0,8.0,9.0,25.0
+FIN,Gymnastics,Gymnastics Men's Individual All-Around,8,0,0,0,0,48,1928,0.0,0.0,0.0,0.0,0,8.0,8.0,9.0,25.0
+FIN,Gymnastics,Gymnastics Men's Parallel Bars,8,0,0,0,0,48,1928,0.0,0.0,0.0,0.0,0,8.0,8.0,9.0,25.0
+FIN,Gymnastics,Gymnastics Men's Pommelled Horse,8,0,0,1,1,48,1928,0.0,0.0,0.0,0.0,0,8.0,8.0,9.0,25.0
+FIN,Gymnastics,Gymnastics Men's Rings,8,0,0,0,0,48,1928,0.0,0.0,0.0,0.0,0,8.0,8.0,9.0,25.0
+FIN,Gymnastics,Gymnastics Men's Team All-Around,8,0,0,0,0,48,1928,0.0,0.0,0.0,0.0,0,8.0,8.0,9.0,25.0
+FIN,Modern Pentathlon,Modern Pentathlon Men's Individual,3,0,0,0,0,48,1928,0.0,0.0,0.0,0.0,0,8.0,8.0,9.0,25.0
+FIN,Sailing,Sailing Mixed One Person Dinghy,1,0,0,1,1,48,1928,0.0,0.0,1.0,1.0,0,8.0,8.0,9.0,25.0
+FIN,Swimming,Swimming Women's 400 metres Freestyle,1,0,0,0,0,48,1928,0.0,0.0,0.0,0.0,0,8.0,8.0,9.0,25.0
+FIN,Wrestling,"Wrestling Men's Bantamweight, Freestyle",1,1,0,0,1,48,1928,1.0,1.0,0.0,2.0,0,8.0,8.0,9.0,25.0
+FIN,Wrestling,"Wrestling Men's Bantamweight, Greco-Roman",1,0,0,0,0,48,1928,0.0,1.0,1.0,2.0,0,8.0,8.0,9.0,25.0
+FIN,Wrestling,"Wrestling Men's Featherweight, Freestyle",1,0,1,0,1,48,1928,0.0,0.0,0.0,0.0,0,8.0,8.0,9.0,25.0
+FIN,Wrestling,"Wrestling Men's Featherweight, Greco-Roman",1,0,0,0,0,48,1928,1.0,1.0,0.0,2.0,0,8.0,8.0,9.0,25.0
+FIN,Wrestling,"Wrestling Men's Heavyweight, Freestyle",1,0,1,0,1,48,1928,0.0,0.0,0.0,0.0,0,8.0,8.0,9.0,25.0
+FIN,Wrestling,"Wrestling Men's Heavyweight, Greco-Roman",1,0,1,0,1,48,1928,0.0,1.0,0.0,1.0,0,8.0,8.0,9.0,25.0
+FIN,Wrestling,"Wrestling Men's Light-Heavyweight, Freestyle",1,0,0,0,0,48,1928,0.0,0.0,0.0,0.0,0,8.0,8.0,9.0,25.0
+FIN,Wrestling,"Wrestling Men's Light-Heavyweight, Greco-Roman",1,0,0,1,1,48,1928,0.0,0.0,1.0,1.0,0,8.0,8.0,9.0,25.0
+FIN,Wrestling,"Wrestling Men's Lightweight, Freestyle",1,0,0,1,1,48,1928,0.0,1.0,1.0,2.0,0,8.0,8.0,9.0,25.0
+FIN,Wrestling,"Wrestling Men's Lightweight, Greco-Roman",1,0,0,1,1,48,1928,1.0,0.0,1.0,2.0,0,8.0,8.0,9.0,25.0
+FIN,Wrestling,"Wrestling Men's Middleweight, Freestyle",1,0,0,0,0,48,1928,0.0,0.0,1.0,1.0,0,8.0,8.0,9.0,25.0
+FIN,Wrestling,"Wrestling Men's Middleweight, Greco-Roman",1,1,0,0,1,48,1928,1.0,1.0,0.0,2.0,0,8.0,8.0,9.0,25.0
+FIN,Wrestling,"Wrestling Men's Welterweight, Freestyle",1,1,0,0,1,48,1928,0.0,1.0,0.0,1.0,0,8.0,8.0,9.0,25.0
+FRA,Art Competitions,"Art Competitions Mixed Architecture, Architectural Designs",8,0,0,1,1,112,1928,0.0,0.0,0.0,0.0,0,6.0,10.0,5.0,21.0
+FRA,Art Competitions,"Art Competitions Mixed Architecture, Designs For Town Planning",8,0,1,0,1,112,1928,0.0,0.0,0.0,0.0,0,6.0,10.0,5.0,21.0
+FRA,Art Competitions,"Art Competitions Mixed Literature, Dramatic Works",1,0,0,0,0,112,1928,0.0,0.0,0.0,0.0,0,6.0,10.0,5.0,21.0
+FRA,Art Competitions,"Art Competitions Mixed Literature, Lyric Works",2,0,0,0,0,112,1928,0.0,0.0,0.0,0.0,0,6.0,10.0,5.0,21.0
+FRA,Art Competitions,"Art Competitions Mixed Music, Compositions For Solo Or Chorus",1,0,0,0,0,112,1928,0.0,0.0,0.0,0.0,0,6.0,10.0,5.0,21.0
+FRA,Art Competitions,"Art Competitions Mixed Painting, Drawings And Water Colors",2,0,1,0,1,112,1928,0.0,0.0,0.0,0.0,0,6.0,10.0,5.0,21.0
+FRA,Art Competitions,"Art Competitions Mixed Painting, Paintings",6,0,0,0,0,112,1928,0.0,0.0,0.0,0.0,0,6.0,10.0,5.0,21.0
+FRA,Art Competitions,"Art Competitions Mixed Sculpturing, Statues",5,1,0,0,1,112,1928,0.0,0.0,0.0,0.0,0,6.0,10.0,5.0,21.0
+FRA,Athletics,"Athletics Men's 1,500 metres",3,0,1,0,1,112,1928,0.0,0.0,0.0,0.0,0,6.0,10.0,5.0,21.0
+FRA,Athletics,"Athletics Men's 10,000 metres",3,0,0,0,0,112,1928,0.0,0.0,0.0,0.0,0,6.0,10.0,5.0,21.0
+FRA,Athletics,Athletics Men's 100 metres,4,0,0,0,0,112,1928,0.0,0.0,0.0,0.0,0,6.0,10.0,5.0,21.0
+FRA,Athletics,Athletics Men's 110 metres Hurdles,2,0,0,0,0,112,1928,0.0,0.0,0.0,0.0,0,6.0,10.0,5.0,21.0
+FRA,Athletics,Athletics Men's 200 metres,4,0,0,0,0,112,1928,0.0,0.0,0.0,0.0,0,6.0,10.0,5.0,21.0
+FRA,Athletics,"Athletics Men's 3,000 metres Steeplechase",2,0,0,0,0,112,1928,0.0,0.0,1.0,1.0,0,6.0,10.0,5.0,21.0
+FRA,Athletics,Athletics Men's 4 x 100 metres Relay,4,0,0,0,0,112,1928,0.0,0.0,0.0,0.0,0,6.0,10.0,5.0,21.0
+FRA,Athletics,Athletics Men's 4 x 400 metres Relay,4,0,0,0,0,112,1928,0.0,0.0,0.0,0.0,0,6.0,10.0,5.0,21.0
+FRA,Athletics,Athletics Men's 400 metres,4,0,0,0,0,112,1928,0.0,0.0,0.0,0.0,0,6.0,10.0,5.0,21.0
+FRA,Athletics,Athletics Men's 400 metres Hurdles,4,0,0,0,0,112,1928,0.0,0.0,0.0,0.0,0,6.0,10.0,5.0,21.0
+FRA,Athletics,"Athletics Men's 5,000 metres",3,0,0,0,0,112,1928,0.0,0.0,0.0,0.0,0,6.0,10.0,5.0,21.0
+FRA,Athletics,Athletics Men's 800 metres,4,0,0,0,0,112,1928,0.0,0.0,0.0,0.0,0,6.0,10.0,5.0,21.0
+FRA,Athletics,Athletics Men's Discus Throw,2,0,0,0,0,112,1928,0.0,0.0,0.0,0.0,0,6.0,10.0,5.0,21.0
+FRA,Athletics,Athletics Men's High Jump,3,0,0,1,1,112,1928,0.0,0.0,1.0,1.0,0,6.0,10.0,5.0,21.0
+FRA,Athletics,Athletics Men's Javelin Throw,1,0,0,0,0,112,1928,0.0,0.0,0.0,0.0,0,6.0,10.0,5.0,21.0
+FRA,Athletics,Athletics Men's Long Jump,2,0,0,0,0,112,1928,0.0,0.0,0.0,0.0,0,6.0,10.0,5.0,21.0
+FRA,Athletics,Athletics Men's Marathon,4,1,0,0,1,112,1928,0.0,0.0,0.0,0.0,0,6.0,10.0,5.0,21.0
+FRA,Athletics,Athletics Men's Pole Vault,2,0,0,0,0,112,1928,0.0,0.0,0.0,0.0,0,6.0,10.0,5.0,21.0
+FRA,Athletics,Athletics Men's Shot Put,2,0,0,0,0,112,1928,0.0,0.0,0.0,0.0,0,6.0,10.0,5.0,21.0
+FRA,Athletics,Athletics Women's 100 metres,4,0,0,0,0,112,1928,0.0,0.0,0.0,0.0,0,6.0,10.0,5.0,21.0
+FRA,Athletics,Athletics Women's 4 x 100 metres Relay,4,0,0,0,0,112,1928,0.0,0.0,0.0,0.0,0,6.0,10.0,5.0,21.0
+FRA,Athletics,Athletics Women's 800 metres,2,0,0,0,0,112,1928,0.0,0.0,0.0,0.0,0,6.0,10.0,5.0,21.0
+FRA,Athletics,Athletics Women's Discus Throw,1,0,0,0,0,112,1928,0.0,0.0,0.0,0.0,0,6.0,10.0,5.0,21.0
+FRA,Athletics,Athletics Women's High Jump,3,0,0,0,0,112,1928,0.0,0.0,0.0,0.0,0,6.0,10.0,5.0,21.0
+FRA,Boxing,Boxing Men's Bantamweight,1,0,0,0,0,112,1928,0.0,0.0,1.0,1.0,0,6.0,10.0,5.0,21.0
+FRA,Boxing,Boxing Men's Featherweight,1,0,0,0,0,112,1928,0.0,0.0,0.0,0.0,0,6.0,10.0,5.0,21.0
+FRA,Boxing,Boxing Men's Flyweight,1,0,1,0,1,112,1928,0.0,0.0,0.0,0.0,0,6.0,10.0,5.0,21.0
+FRA,Boxing,Boxing Men's Heavyweight,1,0,0,0,0,112,1928,0.0,0.0,0.0,0.0,0,6.0,10.0,5.0,21.0
+FRA,Boxing,Boxing Men's Light-Heavyweight,1,0,0,0,0,112,1928,0.0,0.0,0.0,0.0,0,6.0,10.0,5.0,21.0
+FRA,Boxing,Boxing Men's Lightweight,1,0,0,0,0,112,1928,0.0,0.0,0.0,0.0,0,6.0,10.0,5.0,21.0
+FRA,Boxing,Boxing Men's Middleweight,1,0,0,0,0,112,1928,0.0,0.0,0.0,0.0,0,6.0,10.0,5.0,21.0
+FRA,Boxing,Boxing Men's Welterweight,1,0,0,0,0,112,1928,0.0,0.0,0.0,0.0,0,6.0,10.0,5.0,21.0
+FRA,Cycling,"Cycling Men's 1,000 metres Time Trial",1,0,0,0,0,112,1928,0.0,0.0,0.0,0.0,0,6.0,10.0,5.0,21.0
+FRA,Cycling,"Cycling Men's Road Race, Individual",4,0,0,0,0,112,1928,1.0,0.0,1.0,2.0,0,6.0,10.0,5.0,21.0
+FRA,Cycling,"Cycling Men's Road Race, Team",4,0,0,0,0,112,1928,4.0,0.0,0.0,4.0,0,6.0,10.0,5.0,21.0
+FRA,Cycling,Cycling Men's Sprint,1,1,0,0,1,112,1928,1.0,0.0,1.0,2.0,0,6.0,10.0,5.0,21.0
+FRA,Cycling,"Cycling Men's Tandem Sprint, 2,000 metres",2,0,0,0,0,112,1928,2.0,0.0,0.0,2.0,0,6.0,10.0,5.0,21.0
+FRA,Cycling,"Cycling Men's Team Pursuit, 4,000 metres",4,0,0,0,0,112,1928,0.0,0.0,0.0,0.0,0,6.0,10.0,5.0,21.0
+FRA,Diving,Diving Men's Platform,2,0,0,0,0,112,1928,0.0,0.0,0.0,0.0,0,6.0,10.0,5.0,21.0
+FRA,Diving,Diving Men's Springboard,2,0,0,0,0,112,1928,0.0,0.0,0.0,0.0,0,6.0,10.0,5.0,21.0
+FRA,Diving,Diving Women's Platform,1,0,0,0,0,112,1928,0.0,0.0,0.0,0.0,0,6.0,10.0,5.0,21.0
+FRA,Equestrianism,"Equestrianism Men's Dressage, Individual",3,0,1,0,1,112,1928,0.0,0.0,1.0,1.0,0,6.0,10.0,5.0,21.0
+FRA,Equestrianism,"Equestrianism Men's Dressage, Team",3,0,0,0,0,112,1928,0.0,0.0,0.0,0.0,0,6.0,10.0,5.0,21.0
+FRA,Equestrianism,"Equestrianism Men's Jumping, Individual",3,0,1,0,1,112,1928,0.0,0.0,0.0,0.0,0,6.0,10.0,5.0,21.0
+FRA,Equestrianism,"Equestrianism Men's Jumping, Team",3,0,0,0,0,112,1928,0.0,0.0,0.0,0.0,0,6.0,10.0,5.0,21.0
+FRA,Equestrianism,"Equestrianism Men's Three-Day Event, Individual",3,0,0,0,0,112,1928,0.0,0.0,0.0,0.0,0,6.0,10.0,5.0,21.0
+FRA,Equestrianism,"Equestrianism Men's Three-Day Event, Team",3,0,0,0,0,112,1928,0.0,0.0,0.0,0.0,0,6.0,10.0,5.0,21.0
+FRA,Fencing,"Fencing Men's Foil, Individual",3,1,0,0,1,112,1928,1.0,1.0,0.0,2.0,0,6.0,10.0,5.0,21.0
+FRA,Fencing,"Fencing Men's Foil, Team",6,0,6,0,6,112,1928,8.0,0.0,0.0,8.0,0,6.0,10.0,5.0,21.0
+FRA,Fencing,"Fencing Men's Sabre, Individual",3,0,0,0,0,112,1928,0.0,1.0,0.0,1.0,0,6.0,10.0,5.0,21.0
+FRA,Fencing,"Fencing Men's Sabre, Team",6,0,0,0,0,112,1928,0.0,0.0,0.0,0.0,0,6.0,10.0,5.0,21.0
+FRA,Fencing,"Fencing Men's epee, Individual",3,1,1,0,2,112,1928,0.0,1.0,0.0,1.0,0,6.0,10.0,5.0,21.0
+FRA,Fencing,"Fencing Men's epee, Team",6,0,6,0,6,112,1928,7.0,0.0,0.0,7.0,0,6.0,10.0,5.0,21.0
+FRA,Fencing,"Fencing Women's Foil, Individual",3,0,0,0,0,112,1928,0.0,0.0,0.0,0.0,0,6.0,10.0,5.0,21.0
+FRA,Football,Football Men's Football,11,0,0,0,0,112,1928,0.0,0.0,0.0,0.0,0,6.0,10.0,5.0,21.0
+FRA,Gymnastics,Gymnastics Men's Horizontal Bar,7,0,0,0,0,112,1928,0.0,0.0,1.0,1.0,0,6.0,10.0,5.0,21.0
+FRA,Gymnastics,Gymnastics Men's Horse Vault,7,0,0,0,0,112,1928,0.0,0.0,0.0,0.0,0,6.0,10.0,5.0,21.0
+FRA,Gymnastics,Gymnastics Men's Individual All-Around,8,0,0,0,0,112,1928,0.0,0.0,0.0,0.0,0,6.0,10.0,5.0,21.0
+FRA,Gymnastics,Gymnastics Men's Parallel Bars,7,0,0,0,0,112,1928,0.0,0.0,0.0,0.0,0,6.0,10.0,5.0,21.0
+FRA,Gymnastics,Gymnastics Men's Pommelled Horse,8,0,0,0,0,112,1928,0.0,0.0,0.0,0.0,0,6.0,10.0,5.0,21.0
+FRA,Gymnastics,Gymnastics Men's Rings,8,0,0,0,0,112,1928,0.0,0.0,0.0,0.0,0,6.0,10.0,5.0,21.0
+FRA,Gymnastics,Gymnastics Men's Team All-Around,8,0,0,0,0,112,1928,0.0,8.0,0.0,8.0,0,6.0,10.0,5.0,21.0
+FRA,Gymnastics,Gymnastics Women's Team All-Around,12,0,0,0,0,112,1928,0.0,0.0,0.0,0.0,0,6.0,10.0,5.0,21.0
+FRA,Hockey,Hockey Men's Hockey,15,0,0,0,0,112,1928,0.0,0.0,0.0,0.0,0,6.0,10.0,5.0,21.0
+FRA,Modern Pentathlon,Modern Pentathlon Men's Individual,3,0,0,0,0,112,1928,0.0,0.0,0.0,0.0,0,6.0,10.0,5.0,21.0
+FRA,Rowing,Rowing Men's Coxed Eights,9,0,0,0,0,112,1928,0.0,0.0,0.0,0.0,0,6.0,10.0,5.0,21.0
+FRA,Rowing,Rowing Men's Coxed Fours,5,0,0,0,0,112,1928,0.0,5.0,0.0,5.0,0,6.0,10.0,5.0,21.0
+FRA,Rowing,Rowing Men's Coxed Pairs,3,0,3,0,3,112,1928,0.0,0.0,0.0,0.0,0,6.0,10.0,5.0,21.0
+FRA,Rowing,Rowing Men's Coxless Fours,4,0,0,0,0,112,1928,0.0,0.0,0.0,0.0,0,6.0,10.0,5.0,21.0
+FRA,Rowing,Rowing Men's Coxless Pairs,2,0,0,0,0,112,1928,0.0,2.0,0.0,2.0,0,6.0,10.0,5.0,21.0
+FRA,Rowing,Rowing Men's Double Sculls,2,0,0,0,0,112,1928,0.0,2.0,0.0,2.0,0,6.0,10.0,5.0,21.0
+FRA,Rowing,Rowing Men's Single Sculls,1,0,0,0,0,112,1928,0.0,0.0,0.0,0.0,0,6.0,10.0,5.0,21.0
+FRA,Sailing,Sailing Mixed 6 metres,5,0,0,0,0,112,1928,0.0,0.0,0.0,0.0,0,6.0,10.0,5.0,21.0
+FRA,Sailing,Sailing Mixed 8 metres,6,6,0,0,6,112,1928,0.0,0.0,5.0,5.0,0,6.0,10.0,5.0,21.0
+FRA,Sailing,Sailing Mixed One Person Dinghy,2,0,0,0,0,112,1928,0.0,0.0,0.0,0.0,0,6.0,10.0,5.0,21.0
+FRA,Swimming,"Swimming Men's 1,500 metres Freestyle",1,0,0,0,0,112,1928,0.0,0.0,0.0,0.0,0,6.0,10.0,5.0,21.0
+FRA,Swimming,Swimming Men's 100 metres Backstroke,1,0,0,0,0,112,1928,0.0,0.0,0.0,0.0,0,6.0,10.0,5.0,21.0
+FRA,Swimming,Swimming Men's 100 metres Freestyle,1,0,0,0,0,112,1928,0.0,0.0,0.0,0.0,0,6.0,10.0,5.0,21.0
+FRA,Swimming,Swimming Men's 200 metres Breaststroke,2,0,0,0,0,112,1928,0.0,0.0,0.0,0.0,0,6.0,10.0,5.0,21.0
+FRA,Swimming,Swimming Men's 4 x 200 metres Freestyle Relay,4,0,0,0,0,112,1928,0.0,0.0,0.0,0.0,0,6.0,10.0,5.0,21.0
+FRA,Swimming,Swimming Men's 400 metres Freestyle,1,0,0,0,0,112,1928,0.0,0.0,0.0,0.0,0,6.0,10.0,5.0,21.0
+FRA,Swimming,Swimming Women's 100 metres Freestyle,3,0,0,0,0,112,1928,0.0,0.0,0.0,0.0,0,6.0,10.0,5.0,21.0
+FRA,Swimming,Swimming Women's 200 metres Breaststroke,1,0,0,0,0,112,1928,0.0,0.0,0.0,0.0,0,6.0,10.0,5.0,21.0
+FRA,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,5,0,0,0,0,112,1928,0.0,0.0,0.0,0.0,0,6.0,10.0,5.0,21.0
+FRA,Swimming,Swimming Women's 400 metres Freestyle,2,0,0,0,0,112,1928,0.0,0.0,0.0,0.0,0,6.0,10.0,5.0,21.0
+FRA,Water Polo,Water Polo Men's Water Polo,9,0,0,9,9,112,1928,7.0,0.0,0.0,7.0,0,6.0,10.0,5.0,21.0
+FRA,Weightlifting,Weightlifting Men's Featherweight,2,0,0,0,0,112,1928,0.0,0.0,0.0,0.0,0,6.0,10.0,5.0,21.0
+FRA,Weightlifting,Weightlifting Men's Heavyweight,2,0,0,0,0,112,1928,0.0,0.0,0.0,0.0,0,6.0,10.0,5.0,21.0
+FRA,Weightlifting,Weightlifting Men's Light-Heavyweight,2,0,1,0,1,112,1928,1.0,0.0,0.0,1.0,0,6.0,10.0,5.0,21.0
+FRA,Weightlifting,Weightlifting Men's Lightweight,2,0,0,1,1,112,1928,1.0,0.0,0.0,1.0,0,6.0,10.0,5.0,21.0
+FRA,Weightlifting,Weightlifting Men's Middleweight,2,1,0,0,1,112,1928,0.0,0.0,0.0,0.0,0,6.0,10.0,5.0,21.0
+FRA,Wrestling,"Wrestling Men's Bantamweight, Freestyle",1,0,0,0,0,112,1928,0.0,0.0,0.0,0.0,0,6.0,10.0,5.0,21.0
+FRA,Wrestling,"Wrestling Men's Bantamweight, Greco-Roman",1,0,0,0,0,112,1928,0.0,0.0,0.0,0.0,0,6.0,10.0,5.0,21.0
+FRA,Wrestling,"Wrestling Men's Featherweight, Freestyle",1,0,0,0,0,112,1928,0.0,0.0,0.0,0.0,0,6.0,10.0,5.0,21.0
+FRA,Wrestling,"Wrestling Men's Featherweight, Greco-Roman",1,0,0,0,0,112,1928,0.0,0.0,0.0,0.0,0,6.0,10.0,5.0,21.0
+FRA,Wrestling,"Wrestling Men's Heavyweight, Freestyle",1,0,0,1,1,112,1928,0.0,0.0,0.0,0.0,0,6.0,10.0,5.0,21.0
+FRA,Wrestling,"Wrestling Men's Heavyweight, Greco-Roman",1,0,0,0,0,112,1928,1.0,0.0,0.0,1.0,0,6.0,10.0,5.0,21.0
+FRA,Wrestling,"Wrestling Men's Light-Heavyweight, Freestyle",1,0,0,1,1,112,1928,0.0,0.0,0.0,0.0,0,6.0,10.0,5.0,21.0
+FRA,Wrestling,"Wrestling Men's Light-Heavyweight, Greco-Roman",1,0,0,0,0,112,1928,0.0,0.0,0.0,0.0,0,6.0,10.0,5.0,21.0
+FRA,Wrestling,"Wrestling Men's Lightweight, Freestyle",1,0,1,0,1,112,1928,0.0,0.0,0.0,0.0,0,6.0,10.0,5.0,21.0
+FRA,Wrestling,"Wrestling Men's Lightweight, Greco-Roman",1,0,0,0,0,112,1928,0.0,0.0,0.0,0.0,0,6.0,10.0,5.0,21.0
+FRA,Wrestling,"Wrestling Men's Middleweight, Freestyle",1,0,0,0,0,112,1928,0.0,0.0,0.0,0.0,0,6.0,10.0,5.0,21.0
+FRA,Wrestling,"Wrestling Men's Middleweight, Greco-Roman",1,0,0,0,0,112,1928,0.0,0.0,0.0,0.0,0,6.0,10.0,5.0,21.0
+FRA,Wrestling,"Wrestling Men's Welterweight, Freestyle",1,0,0,0,0,112,1928,0.0,0.0,0.0,0.0,0,6.0,10.0,5.0,21.0
+GBR,Art Competitions,"Art Competitions Mixed Painting, Drawings And Water Colors",17,0,0,0,0,84,1928,0.0,0.0,0.0,0.0,0,3.0,10.0,7.0,20.0
+GBR,Art Competitions,"Art Competitions Mixed Painting, Graphic Arts",5,1,0,0,1,84,1928,0.0,0.0,0.0,0.0,0,3.0,10.0,7.0,20.0
+GBR,Art Competitions,"Art Competitions Mixed Painting, Paintings",20,0,1,0,1,84,1928,0.0,0.0,0.0,0.0,0,3.0,10.0,7.0,20.0
+GBR,Art Competitions,"Art Competitions Mixed Sculpturing, Statues",2,0,0,0,0,84,1928,0.0,0.0,0.0,0.0,0,3.0,10.0,7.0,20.0
+GBR,Athletics,"Athletics Men's 1,500 metres",4,0,0,0,0,84,1928,0.0,0.0,1.0,1.0,0,3.0,10.0,7.0,20.0
+GBR,Athletics,"Athletics Men's 10,000 metres",4,0,0,0,0,84,1928,0.0,0.0,0.0,0.0,0,3.0,10.0,7.0,20.0
+GBR,Athletics,Athletics Men's 100 metres,4,0,1,0,1,84,1928,1.0,0.0,0.0,1.0,0,3.0,10.0,7.0,20.0
+GBR,Athletics,Athletics Men's 110 metres Hurdles,4,0,0,0,0,84,1928,0.0,0.0,0.0,0.0,0,3.0,10.0,7.0,20.0
+GBR,Athletics,Athletics Men's 200 metres,4,0,1,0,1,84,1928,0.0,0.0,1.0,1.0,0,3.0,10.0,7.0,20.0
+GBR,Athletics,"Athletics Men's 3,000 metres Steeplechase",4,0,0,0,0,84,1928,0.0,0.0,0.0,0.0,0,3.0,10.0,7.0,20.0
+GBR,Athletics,Athletics Men's 4 x 100 metres Relay,4,0,0,4,4,84,1928,0.0,4.0,0.0,4.0,0,3.0,10.0,7.0,20.0
+GBR,Athletics,Athletics Men's 4 x 400 metres Relay,4,0,0,0,0,84,1928,0.0,0.0,4.0,4.0,0,3.0,10.0,7.0,20.0
+GBR,Athletics,Athletics Men's 400 metres,4,0,0,0,0,84,1928,1.0,0.0,1.0,2.0,0,3.0,10.0,7.0,20.0
+GBR,Athletics,Athletics Men's 400 metres Hurdles,4,1,0,0,1,84,1928,0.0,0.0,0.0,0.0,0,3.0,10.0,7.0,20.0
+GBR,Athletics,"Athletics Men's 5,000 metres",4,0,0,0,0,84,1928,0.0,0.0,0.0,0.0,0,3.0,10.0,7.0,20.0
+GBR,Athletics,Athletics Men's 800 metres,4,1,0,0,1,84,1928,1.0,0.0,0.0,1.0,0,3.0,10.0,7.0,20.0
+GBR,Athletics,Athletics Men's Decathlon,1,0,0,0,0,84,1928,0.0,0.0,0.0,0.0,0,3.0,10.0,7.0,20.0
+GBR,Athletics,Athletics Men's Hammer Throw,1,0,0,0,0,84,1928,0.0,0.0,1.0,1.0,0,3.0,10.0,7.0,20.0
+GBR,Athletics,Athletics Men's High Jump,4,0,0,0,0,84,1928,0.0,0.0,0.0,0.0,0,3.0,10.0,7.0,20.0
+GBR,Athletics,Athletics Men's Long Jump,2,0,0,0,0,84,1928,0.0,0.0,0.0,0.0,0,3.0,10.0,7.0,20.0
+GBR,Athletics,Athletics Men's Marathon,6,0,0,0,0,84,1928,0.0,0.0,0.0,0.0,0,3.0,10.0,7.0,20.0
+GBR,Athletics,Athletics Men's Pole Vault,1,0,0,0,0,84,1928,0.0,0.0,0.0,0.0,0,3.0,10.0,7.0,20.0
+GBR,Athletics,Athletics Men's Shot Put,2,0,0,0,0,84,1928,0.0,0.0,0.0,0.0,0,3.0,10.0,7.0,20.0
+GBR,Boxing,Boxing Men's Bantamweight,1,0,0,0,0,84,1928,0.0,0.0,0.0,0.0,0,3.0,10.0,7.0,20.0
+GBR,Boxing,Boxing Men's Featherweight,1,0,0,0,0,84,1928,0.0,0.0,0.0,0.0,0,3.0,10.0,7.0,20.0
+GBR,Boxing,Boxing Men's Flyweight,1,0,0,0,0,84,1928,0.0,1.0,0.0,1.0,0,3.0,10.0,7.0,20.0
+GBR,Boxing,Boxing Men's Heavyweight,1,0,0,0,0,84,1928,0.0,0.0,0.0,0.0,0,3.0,10.0,7.0,20.0
+GBR,Boxing,Boxing Men's Light-Heavyweight,1,0,0,0,0,84,1928,1.0,0.0,0.0,1.0,0,3.0,10.0,7.0,20.0
+GBR,Boxing,Boxing Men's Lightweight,1,0,0,0,0,84,1928,0.0,0.0,0.0,0.0,0,3.0,10.0,7.0,20.0
+GBR,Boxing,Boxing Men's Middleweight,1,0,0,0,0,84,1928,1.0,1.0,0.0,2.0,0,3.0,10.0,7.0,20.0
+GBR,Boxing,Boxing Men's Welterweight,1,0,0,0,0,84,1928,0.0,0.0,0.0,0.0,0,3.0,10.0,7.0,20.0
+GBR,Cycling,"Cycling Men's 1,000 metres Time Trial",1,0,0,0,0,84,1928,0.0,0.0,0.0,0.0,0,3.0,10.0,7.0,20.0
+GBR,Cycling,"Cycling Men's Road Race, Individual",4,0,1,0,1,84,1928,0.0,0.0,0.0,0.0,0,3.0,10.0,7.0,20.0
+GBR,Cycling,"Cycling Men's Road Race, Team",4,0,4,0,4,84,1928,0.0,0.0,0.0,0.0,0,3.0,10.0,7.0,20.0
+GBR,Cycling,Cycling Men's Sprint,1,0,0,0,0,84,1928,0.0,0.0,0.0,0.0,0,3.0,10.0,7.0,20.0
+GBR,Cycling,"Cycling Men's Tandem Sprint, 2,000 metres",2,0,2,0,2,84,1928,0.0,0.0,0.0,0.0,0,3.0,10.0,7.0,20.0
+GBR,Cycling,"Cycling Men's Team Pursuit, 4,000 metres",4,0,0,4,4,84,1928,0.0,0.0,0.0,0.0,0,3.0,10.0,7.0,20.0
+GBR,Diving,Diving Men's Platform,3,0,0,0,0,84,1928,0.0,0.0,0.0,0.0,0,3.0,10.0,7.0,20.0
+GBR,Diving,Diving Men's Springboard,1,0,0,0,0,84,1928,0.0,0.0,0.0,0.0,0,3.0,10.0,7.0,20.0
+GBR,Diving,Diving Women's Platform,3,0,0,0,0,84,1928,0.0,0.0,0.0,0.0,0,3.0,10.0,7.0,20.0
+GBR,Fencing,"Fencing Men's Foil, Individual",3,0,0,0,0,84,1928,0.0,0.0,0.0,0.0,0,3.0,10.0,7.0,20.0
+GBR,Fencing,"Fencing Men's Foil, Team",6,0,0,0,0,84,1928,0.0,0.0,0.0,0.0,0,3.0,10.0,7.0,20.0
+GBR,Fencing,"Fencing Men's Sabre, Individual",3,0,0,0,0,84,1928,0.0,0.0,0.0,0.0,0,3.0,10.0,7.0,20.0
+GBR,Fencing,"Fencing Men's Sabre, Team",6,0,0,0,0,84,1928,0.0,0.0,0.0,0.0,0,3.0,10.0,7.0,20.0
+GBR,Fencing,"Fencing Men's epee, Individual",3,0,0,0,0,84,1928,0.0,0.0,0.0,0.0,0,3.0,10.0,7.0,20.0
+GBR,Fencing,"Fencing Men's epee, Team",4,0,0,0,0,84,1928,0.0,0.0,0.0,0.0,0,3.0,10.0,7.0,20.0
+GBR,Fencing,"Fencing Women's Foil, Individual",3,0,1,0,1,84,1928,0.0,1.0,0.0,1.0,0,3.0,10.0,7.0,20.0
+GBR,Gymnastics,Gymnastics Men's Horizontal Bar,8,0,0,0,0,84,1928,0.0,0.0,0.0,0.0,0,3.0,10.0,7.0,20.0
+GBR,Gymnastics,Gymnastics Men's Horse Vault,7,0,0,0,0,84,1928,0.0,0.0,0.0,0.0,0,3.0,10.0,7.0,20.0
+GBR,Gymnastics,Gymnastics Men's Individual All-Around,8,0,0,0,0,84,1928,0.0,0.0,0.0,0.0,0,3.0,10.0,7.0,20.0
+GBR,Gymnastics,Gymnastics Men's Parallel Bars,7,0,0,0,0,84,1928,0.0,0.0,0.0,0.0,0,3.0,10.0,7.0,20.0
+GBR,Gymnastics,Gymnastics Men's Pommelled Horse,8,0,0,0,0,84,1928,0.0,0.0,0.0,0.0,0,3.0,10.0,7.0,20.0
+GBR,Gymnastics,Gymnastics Men's Rings,8,0,0,0,0,84,1928,0.0,0.0,0.0,0.0,0,3.0,10.0,7.0,20.0
+GBR,Gymnastics,Gymnastics Men's Team All-Around,8,0,0,0,0,84,1928,0.0,0.0,0.0,0.0,0,3.0,10.0,7.0,20.0
+GBR,Gymnastics,Gymnastics Women's Team All-Around,12,0,0,12,12,84,1928,0.0,0.0,0.0,0.0,0,3.0,10.0,7.0,20.0
+GBR,Modern Pentathlon,Modern Pentathlon Men's Individual,3,0,0,0,0,84,1928,0.0,0.0,0.0,0.0,0,3.0,10.0,7.0,20.0
+GBR,Rowing,Rowing Men's Coxed Eights,9,0,9,0,9,84,1928,0.0,0.0,0.0,0.0,0,3.0,10.0,7.0,20.0
+GBR,Rowing,Rowing Men's Coxed Fours,5,0,0,0,0,84,1928,0.0,0.0,0.0,0.0,0,3.0,10.0,7.0,20.0
+GBR,Rowing,Rowing Men's Coxless Fours,4,4,0,0,4,84,1928,4.0,0.0,0.0,4.0,0,3.0,10.0,7.0,20.0
+GBR,Rowing,Rowing Men's Coxless Pairs,2,0,2,0,2,84,1928,0.0,0.0,0.0,0.0,0,3.0,10.0,7.0,20.0
+GBR,Rowing,Rowing Men's Double Sculls,2,0,0,0,0,84,1928,0.0,0.0,0.0,0.0,0,3.0,10.0,7.0,20.0
+GBR,Rowing,Rowing Men's Single Sculls,1,0,0,1,1,84,1928,1.0,0.0,0.0,1.0,0,3.0,10.0,7.0,20.0
+GBR,Sailing,Sailing Mixed 8 metres,6,0,0,0,0,84,1928,0.0,5.0,0.0,5.0,0,3.0,10.0,7.0,20.0
+GBR,Sailing,Sailing Mixed One Person Dinghy,2,0,0,0,0,84,1928,0.0,0.0,0.0,0.0,0,3.0,10.0,7.0,20.0
+GBR,Swimming,Swimming Men's 100 metres Backstroke,2,0,0,0,0,84,1928,0.0,0.0,0.0,0.0,0,3.0,10.0,7.0,20.0
+GBR,Swimming,Swimming Men's 100 metres Freestyle,2,0,0,0,0,84,1928,0.0,0.0,0.0,0.0,0,3.0,10.0,7.0,20.0
+GBR,Swimming,Swimming Men's 200 metres Breaststroke,2,0,0,0,0,84,1928,0.0,0.0,0.0,0.0,0,3.0,10.0,7.0,20.0
+GBR,Swimming,Swimming Men's 4 x 200 metres Freestyle Relay,4,0,0,0,0,84,1928,0.0,0.0,0.0,0.0,0,3.0,10.0,7.0,20.0
+GBR,Swimming,Swimming Men's 400 metres Freestyle,2,0,0,0,0,84,1928,0.0,0.0,0.0,0.0,0,3.0,10.0,7.0,20.0
+GBR,Swimming,Swimming Women's 100 metres Backstroke,3,0,1,1,2,84,1928,0.0,1.0,0.0,1.0,0,3.0,10.0,7.0,20.0
+GBR,Swimming,Swimming Women's 100 metres Freestyle,3,0,0,1,1,84,1928,0.0,0.0,0.0,0.0,0,3.0,10.0,7.0,20.0
+GBR,Swimming,Swimming Women's 200 metres Breaststroke,3,0,0,0,0,84,1928,1.0,0.0,1.0,2.0,0,3.0,10.0,7.0,20.0
+GBR,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,4,0,4,0,4,84,1928,0.0,4.0,0.0,4.0,0,3.0,10.0,7.0,20.0
+GBR,Swimming,Swimming Women's 400 metres Freestyle,3,0,0,0,0,84,1928,0.0,0.0,0.0,0.0,0,3.0,10.0,7.0,20.0
+GBR,Water Polo,Water Polo Men's Water Polo,9,0,0,0,0,84,1928,0.0,0.0,0.0,0.0,0,3.0,10.0,7.0,20.0
+GBR,Weightlifting,Weightlifting Men's Featherweight,2,0,0,0,0,84,1928,0.0,0.0,0.0,0.0,0,3.0,10.0,7.0,20.0
+GBR,Weightlifting,Weightlifting Men's Heavyweight,1,0,0,0,0,84,1928,0.0,0.0,0.0,0.0,0,3.0,10.0,7.0,20.0
+GBR,Weightlifting,Weightlifting Men's Middleweight,2,0,0,0,0,84,1928,0.0,0.0,0.0,0.0,0,3.0,10.0,7.0,20.0
+GBR,Wrestling,"Wrestling Men's Bantamweight, Freestyle",1,0,0,0,0,84,1928,0.0,0.0,0.0,0.0,0,3.0,10.0,7.0,20.0
+GBR,Wrestling,"Wrestling Men's Featherweight, Freestyle",1,0,0,0,0,84,1928,0.0,0.0,0.0,0.0,0,3.0,10.0,7.0,20.0
+GBR,Wrestling,"Wrestling Men's Light-Heavyweight, Freestyle",1,0,0,0,0,84,1928,0.0,0.0,0.0,0.0,0,3.0,10.0,7.0,20.0
+GBR,Wrestling,"Wrestling Men's Lightweight, Freestyle",1,0,0,0,0,84,1928,0.0,0.0,0.0,0.0,0,3.0,10.0,7.0,20.0
+GBR,Wrestling,"Wrestling Men's Middleweight, Freestyle",1,0,0,1,1,84,1928,0.0,0.0,0.0,0.0,0,3.0,10.0,7.0,20.0
+GBR,Wrestling,"Wrestling Men's Welterweight, Freestyle",1,0,0,0,0,84,1928,0.0,0.0,0.0,0.0,0,3.0,10.0,7.0,20.0
+GER,Art Competitions,"Art Competitions Mixed Architecture, Architectural Designs",17,0,0,0,0,95,1928,0.0,0.0,0.0,0.0,0,10.0,7.0,14.0,31.0
+GER,Art Competitions,"Art Competitions Mixed Architecture, Designs For Town Planning",17,1,0,1,2,95,1928,0.0,0.0,0.0,0.0,0,10.0,7.0,14.0,31.0
+GER,Art Competitions,"Art Competitions Mixed Literature, Epic Works",3,0,1,0,1,95,1928,0.0,0.0,0.0,0.0,0,10.0,7.0,14.0,31.0
+GER,Art Competitions,"Art Competitions Mixed Literature, Lyric Works",3,0,1,0,1,95,1928,0.0,0.0,0.0,0.0,0,10.0,7.0,14.0,31.0
+GER,Art Competitions,"Art Competitions Mixed Music, Compositions For Solo Or Chorus",1,0,0,0,0,95,1928,0.0,0.0,0.0,0.0,0,10.0,7.0,14.0,31.0
+GER,Art Competitions,"Art Competitions Mixed Painting, Drawings And Water Colors",4,0,0,0,0,95,1928,0.0,0.0,0.0,0.0,0,10.0,7.0,14.0,31.0
+GER,Art Competitions,"Art Competitions Mixed Painting, Graphic Arts",9,0,0,1,1,95,1928,0.0,0.0,0.0,0.0,0,10.0,7.0,14.0,31.0
+GER,Art Competitions,"Art Competitions Mixed Painting, Paintings",22,0,0,1,1,95,1928,0.0,0.0,0.0,0.0,0,10.0,7.0,14.0,31.0
+GER,Art Competitions,"Art Competitions Mixed Sculpturing, Medals And Reliefs",11,0,0,1,1,95,1928,0.0,0.0,0.0,0.0,0,10.0,7.0,14.0,31.0
+GER,Art Competitions,"Art Competitions Mixed Sculpturing, Statues",18,0,0,1,1,95,1928,0.0,0.0,0.0,0.0,0,10.0,7.0,14.0,31.0
+GER,Athletics,"Athletics Men's 1,500 metres",4,0,0,0,0,95,1928,0.0,0.0,0.0,0.0,0,10.0,7.0,14.0,31.0
+GER,Athletics,Athletics Men's 100 metres,3,0,0,1,1,95,1928,0.0,0.0,0.0,0.0,0,10.0,7.0,14.0,31.0
+GER,Athletics,Athletics Men's 110 metres Hurdles,1,0,0,0,0,95,1928,0.0,0.0,0.0,0.0,0,10.0,7.0,14.0,31.0
+GER,Athletics,Athletics Men's 200 metres,3,0,0,1,1,95,1928,0.0,0.0,0.0,0.0,0,10.0,7.0,14.0,31.0
+GER,Athletics,Athletics Men's 4 x 100 metres Relay,4,0,4,0,4,95,1928,0.0,0.0,0.0,0.0,0,10.0,7.0,14.0,31.0
+GER,Athletics,Athletics Men's 4 x 400 metres Relay,4,0,4,0,4,95,1928,0.0,0.0,0.0,0.0,0,10.0,7.0,14.0,31.0
+GER,Athletics,Athletics Men's 400 metres,4,0,0,1,1,95,1928,0.0,0.0,0.0,0.0,0,10.0,7.0,14.0,31.0
+GER,Athletics,"Athletics Men's 5,000 metres",2,0,0,0,0,95,1928,0.0,0.0,0.0,0.0,0,10.0,7.0,14.0,31.0
+GER,Athletics,Athletics Men's 800 metres,4,0,0,1,1,95,1928,0.0,0.0,0.0,0.0,0,10.0,7.0,14.0,31.0
+GER,Athletics,Athletics Men's Decathlon,4,0,0,0,0,95,1928,0.0,0.0,0.0,0.0,0,10.0,7.0,14.0,31.0
+GER,Athletics,Athletics Men's Discus Throw,3,0,0,0,0,95,1928,0.0,0.0,0.0,0.0,0,10.0,7.0,14.0,31.0
+GER,Athletics,Athletics Men's High Jump,3,0,0,0,0,95,1928,0.0,0.0,0.0,0.0,0,10.0,7.0,14.0,31.0
+GER,Athletics,Athletics Men's Javelin Throw,2,0,0,0,0,95,1928,0.0,0.0,0.0,0.0,0,10.0,7.0,14.0,31.0
+GER,Athletics,Athletics Men's Long Jump,4,0,0,0,0,95,1928,0.0,0.0,0.0,0.0,0,10.0,7.0,14.0,31.0
+GER,Athletics,Athletics Men's Marathon,6,0,0,0,0,95,1928,0.0,0.0,0.0,0.0,0,10.0,7.0,14.0,31.0
+GER,Athletics,Athletics Men's Pole Vault,1,0,0,0,0,95,1928,0.0,0.0,0.0,0.0,0,10.0,7.0,14.0,31.0
+GER,Athletics,Athletics Men's Shot Put,2,0,0,1,1,95,1928,0.0,0.0,0.0,0.0,0,10.0,7.0,14.0,31.0
+GER,Athletics,Athletics Women's 100 metres,4,0,0,0,0,95,1928,0.0,0.0,0.0,0.0,0,10.0,7.0,14.0,31.0
+GER,Athletics,Athletics Women's 4 x 100 metres Relay,4,0,0,4,4,95,1928,0.0,0.0,0.0,0.0,0,10.0,7.0,14.0,31.0
+GER,Athletics,Athletics Women's 800 metres,4,1,0,0,1,95,1928,0.0,0.0,0.0,0.0,0,10.0,7.0,14.0,31.0
+GER,Athletics,Athletics Women's Discus Throw,4,0,0,0,0,95,1928,0.0,0.0,0.0,0.0,0,10.0,7.0,14.0,31.0
+GER,Athletics,Athletics Women's High Jump,3,0,0,0,0,95,1928,0.0,0.0,0.0,0.0,0,10.0,7.0,14.0,31.0
+GER,Boxing,Boxing Men's Bantamweight,1,0,0,0,0,95,1928,0.0,0.0,0.0,0.0,0,10.0,7.0,14.0,31.0
+GER,Boxing,Boxing Men's Featherweight,1,0,0,0,0,95,1928,0.0,0.0,0.0,0.0,0,10.0,7.0,14.0,31.0
+GER,Boxing,Boxing Men's Flyweight,1,0,0,0,0,95,1928,0.0,0.0,0.0,0.0,0,10.0,7.0,14.0,31.0
+GER,Boxing,Boxing Men's Heavyweight,1,0,0,0,0,95,1928,0.0,0.0,0.0,0.0,0,10.0,7.0,14.0,31.0
+GER,Boxing,Boxing Men's Light-Heavyweight,1,0,1,0,1,95,1928,0.0,0.0,0.0,0.0,0,10.0,7.0,14.0,31.0
+GER,Boxing,Boxing Men's Lightweight,1,0,0,0,0,95,1928,0.0,0.0,0.0,0.0,0,10.0,7.0,14.0,31.0
+GER,Boxing,Boxing Men's Middleweight,1,0,0,0,0,95,1928,0.0,0.0,0.0,0.0,0,10.0,7.0,14.0,31.0
+GER,Boxing,Boxing Men's Welterweight,1,0,0,0,0,95,1928,0.0,0.0,0.0,0.0,0,10.0,7.0,14.0,31.0
+GER,Cycling,"Cycling Men's 1,000 metres Time Trial",1,0,0,0,0,95,1928,0.0,0.0,0.0,0.0,0,10.0,7.0,14.0,31.0
+GER,Cycling,"Cycling Men's Road Race, Individual",4,0,0,0,0,95,1928,0.0,0.0,0.0,0.0,0,10.0,7.0,14.0,31.0
+GER,Cycling,Cycling Men's Sprint,1,0,0,0,0,95,1928,0.0,0.0,0.0,0.0,0,10.0,7.0,14.0,31.0
+GER,Cycling,"Cycling Men's Tandem Sprint, 2,000 metres",2,0,0,2,2,95,1928,0.0,0.0,0.0,0.0,0,10.0,7.0,14.0,31.0
+GER,Cycling,"Cycling Men's Team Pursuit, 4,000 metres",4,0,0,0,0,95,1928,0.0,0.0,0.0,0.0,0,10.0,7.0,14.0,31.0
+GER,Diving,Diving Men's Platform,3,0,0,0,0,95,1928,0.0,0.0,0.0,0.0,0,10.0,7.0,14.0,31.0
+GER,Diving,Diving Men's Springboard,3,0,0,0,0,95,1928,0.0,0.0,0.0,0.0,0,10.0,7.0,14.0,31.0
+GER,Diving,Diving Women's Platform,2,0,0,0,0,95,1928,0.0,0.0,0.0,0.0,0,10.0,7.0,14.0,31.0
+GER,Diving,Diving Women's Springboard,3,0,0,0,0,95,1928,0.0,0.0,0.0,0.0,0,10.0,7.0,14.0,31.0
+GER,Equestrianism,"Equestrianism Men's Dressage, Individual",3,1,0,0,1,95,1928,0.0,0.0,0.0,0.0,0,10.0,7.0,14.0,31.0
+GER,Equestrianism,"Equestrianism Men's Dressage, Team",3,3,0,0,3,95,1928,0.0,0.0,0.0,0.0,0,10.0,7.0,14.0,31.0
+GER,Equestrianism,"Equestrianism Men's Jumping, Individual",3,0,0,0,0,95,1928,0.0,0.0,0.0,0.0,0,10.0,7.0,14.0,31.0
+GER,Equestrianism,"Equestrianism Men's Jumping, Team",3,0,0,0,0,95,1928,0.0,0.0,0.0,0.0,0,10.0,7.0,14.0,31.0
+GER,Equestrianism,"Equestrianism Men's Three-Day Event, Individual",3,0,0,1,1,95,1928,0.0,0.0,0.0,0.0,0,10.0,7.0,14.0,31.0
+GER,Equestrianism,"Equestrianism Men's Three-Day Event, Team",3,0,0,0,0,95,1928,0.0,0.0,0.0,0.0,0,10.0,7.0,14.0,31.0
+GER,Fencing,"Fencing Men's Foil, Individual",3,0,1,0,1,95,1928,0.0,0.0,0.0,0.0,0,10.0,7.0,14.0,31.0
+GER,Fencing,"Fencing Men's Foil, Team",6,0,0,0,0,95,1928,0.0,0.0,0.0,0.0,0,10.0,7.0,14.0,31.0
+GER,Fencing,"Fencing Men's Sabre, Individual",3,0,0,0,0,95,1928,0.0,0.0,0.0,0.0,0,10.0,7.0,14.0,31.0
+GER,Fencing,"Fencing Men's Sabre, Team",4,0,0,0,0,95,1928,0.0,0.0,0.0,0.0,0,10.0,7.0,14.0,31.0
+GER,Fencing,"Fencing Men's epee, Individual",3,0,0,0,0,95,1928,0.0,0.0,0.0,0.0,0,10.0,7.0,14.0,31.0
+GER,Fencing,"Fencing Men's epee, Team",4,0,0,0,0,95,1928,0.0,0.0,0.0,0.0,0,10.0,7.0,14.0,31.0
+GER,Fencing,"Fencing Women's Foil, Individual",3,1,0,1,2,95,1928,0.0,0.0,0.0,0.0,0,10.0,7.0,14.0,31.0
+GER,Football,Football Men's Football,11,0,0,0,0,95,1928,0.0,0.0,0.0,0.0,0,10.0,7.0,14.0,31.0
+GER,Hockey,Hockey Men's Hockey,19,0,0,19,19,95,1928,0.0,0.0,0.0,0.0,0,10.0,7.0,14.0,31.0
+GER,Modern Pentathlon,Modern Pentathlon Men's Individual,3,0,0,1,1,95,1928,0.0,0.0,0.0,0.0,0,10.0,7.0,14.0,31.0
+GER,Rowing,Rowing Men's Coxed Eights,9,0,0,0,0,95,1928,0.0,0.0,0.0,0.0,0,10.0,7.0,14.0,31.0
+GER,Rowing,Rowing Men's Coxed Fours,5,0,0,0,0,95,1928,0.0,0.0,0.0,0.0,0,10.0,7.0,14.0,31.0
+GER,Rowing,Rowing Men's Coxless Fours,4,0,0,0,0,95,1928,0.0,0.0,0.0,0.0,0,10.0,7.0,14.0,31.0
+GER,Rowing,Rowing Men's Coxless Pairs,2,2,0,0,2,95,1928,0.0,0.0,0.0,0.0,0,10.0,7.0,14.0,31.0
+GER,Rowing,Rowing Men's Double Sculls,2,0,0,0,0,95,1928,0.0,0.0,0.0,0.0,0,10.0,7.0,14.0,31.0
+GER,Rowing,Rowing Men's Single Sculls,1,0,0,0,0,95,1928,0.0,0.0,0.0,0.0,0,10.0,7.0,14.0,31.0
+GER,Sailing,Sailing Mixed 6 metres,5,0,0,0,0,95,1928,0.0,0.0,0.0,0.0,0,10.0,7.0,14.0,31.0
+GER,Sailing,Sailing Mixed One Person Dinghy,1,0,0,0,0,95,1928,0.0,0.0,0.0,0.0,0,10.0,7.0,14.0,31.0
+GER,Swimming,"Swimming Men's 1,500 metres Freestyle",1,0,0,0,0,95,1928,0.0,0.0,0.0,0.0,0,10.0,7.0,14.0,31.0
+GER,Swimming,Swimming Men's 100 metres Backstroke,3,0,0,0,0,95,1928,0.0,0.0,0.0,0.0,0,10.0,7.0,14.0,31.0
+GER,Swimming,Swimming Men's 100 metres Freestyle,3,0,0,0,0,95,1928,0.0,0.0,0.0,0.0,0,10.0,7.0,14.0,31.0
+GER,Swimming,Swimming Men's 200 metres Breaststroke,3,0,1,0,1,95,1928,0.0,0.0,0.0,0.0,0,10.0,7.0,14.0,31.0
+GER,Swimming,Swimming Men's 4 x 200 metres Freestyle Relay,4,0,0,0,0,95,1928,0.0,0.0,0.0,0.0,0,10.0,7.0,14.0,31.0
+GER,Swimming,Swimming Men's 400 metres Freestyle,3,0,0,0,0,95,1928,0.0,0.0,0.0,0.0,0,10.0,7.0,14.0,31.0
+GER,Swimming,Swimming Women's 100 metres Freestyle,2,0,0,0,0,95,1928,0.0,0.0,0.0,0.0,0,10.0,7.0,14.0,31.0
+GER,Swimming,Swimming Women's 200 metres Breaststroke,3,1,0,1,2,95,1928,0.0,0.0,0.0,0.0,0,10.0,7.0,14.0,31.0
+GER,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,4,0,0,0,0,95,1928,0.0,0.0,0.0,0.0,0,10.0,7.0,14.0,31.0
+GER,Swimming,Swimming Women's 400 metres Freestyle,3,0,0,0,0,95,1928,0.0,0.0,0.0,0.0,0,10.0,7.0,14.0,31.0
+GER,Water Polo,Water Polo Men's Water Polo,8,8,0,0,8,95,1928,0.0,0.0,0.0,0.0,0,10.0,7.0,14.0,31.0
+GER,Weightlifting,Weightlifting Men's Featherweight,2,0,0,1,1,95,1928,0.0,0.0,0.0,0.0,0,10.0,7.0,14.0,31.0
+GER,Weightlifting,Weightlifting Men's Heavyweight,2,1,0,0,1,95,1928,0.0,0.0,0.0,0.0,0,10.0,7.0,14.0,31.0
+GER,Weightlifting,Weightlifting Men's Light-Heavyweight,2,0,0,0,0,95,1928,0.0,0.0,0.0,0.0,0,10.0,7.0,14.0,31.0
+GER,Weightlifting,Weightlifting Men's Lightweight,2,1,0,0,1,95,1928,0.0,0.0,0.0,0.0,0,10.0,7.0,14.0,31.0
+GER,Weightlifting,Weightlifting Men's Middleweight,2,0,0,0,0,95,1928,0.0,0.0,0.0,0.0,0,10.0,7.0,14.0,31.0
+GER,Wrestling,"Wrestling Men's Bantamweight, Greco-Roman",1,1,0,0,1,95,1928,0.0,0.0,0.0,0.0,0,10.0,7.0,14.0,31.0
+GER,Wrestling,"Wrestling Men's Featherweight, Greco-Roman",1,0,0,0,0,95,1928,0.0,0.0,0.0,0.0,0,10.0,7.0,14.0,31.0
+GER,Wrestling,"Wrestling Men's Heavyweight, Greco-Roman",1,0,0,1,1,95,1928,0.0,0.0,0.0,0.0,0,10.0,7.0,14.0,31.0
+GER,Wrestling,"Wrestling Men's Light-Heavyweight, Greco-Roman",1,0,1,0,1,95,1928,0.0,0.0,0.0,0.0,0,10.0,7.0,14.0,31.0
+GER,Wrestling,"Wrestling Men's Lightweight, Greco-Roman",1,0,1,0,1,95,1928,0.0,0.0,0.0,0.0,0,10.0,7.0,14.0,31.0
+GER,Wrestling,"Wrestling Men's Middleweight, Greco-Roman",1,0,0,0,0,95,1928,0.0,0.0,0.0,0.0,0,10.0,7.0,14.0,31.0
+GRE,Athletics,Athletics Men's 100 metres,3,0,0,0,0,26,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+GRE,Athletics,Athletics Men's 110 metres Hurdles,1,0,0,0,0,26,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+GRE,Athletics,Athletics Men's 200 metres,2,0,0,0,0,26,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+GRE,Athletics,Athletics Men's 4 x 100 metres Relay,4,0,0,0,0,26,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+GRE,Athletics,Athletics Men's 4 x 400 metres Relay,4,0,0,0,0,26,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+GRE,Athletics,Athletics Men's 400 metres,1,0,0,0,0,26,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+GRE,Athletics,Athletics Men's 400 metres Hurdles,1,0,0,0,0,26,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+GRE,Athletics,"Athletics Men's 5,000 metres",1,0,0,0,0,26,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+GRE,Athletics,Athletics Men's 800 metres,2,0,0,0,0,26,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+GRE,Athletics,Athletics Men's Decathlon,1,0,0,0,0,26,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+GRE,Athletics,Athletics Men's Discus Throw,1,0,0,0,0,26,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+GRE,Athletics,Athletics Men's High Jump,2,0,0,0,0,26,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+GRE,Athletics,Athletics Men's Javelin Throw,1,0,0,0,0,26,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+GRE,Athletics,Athletics Men's Long Jump,1,0,0,0,0,26,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+GRE,Athletics,Athletics Men's Pole Vault,2,0,0,0,0,26,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+GRE,Athletics,Athletics Men's Shot Put,1,0,0,0,0,26,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+GRE,Athletics,Athletics Men's Triple Jump,1,0,0,0,0,26,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+GRE,Boxing,Boxing Men's Flyweight,1,0,0,0,0,26,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+GRE,Boxing,Boxing Men's Middleweight,1,0,0,0,0,26,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+GRE,Fencing,"Fencing Men's Foil, Individual",2,0,0,0,0,26,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+GRE,Fencing,"Fencing Men's Sabre, Team",4,0,0,0,0,26,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+GRE,Fencing,"Fencing Men's epee, Individual",3,0,0,0,0,26,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+GRE,Fencing,"Fencing Men's epee, Team",4,0,0,0,0,26,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+GRE,Wrestling,"Wrestling Men's Bantamweight, Greco-Roman",1,0,0,0,0,26,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+GRE,Wrestling,"Wrestling Men's Lightweight, Greco-Roman",1,0,0,0,0,26,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+GRE,Wrestling,"Wrestling Men's Welterweight, Freestyle",1,0,0,0,0,26,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+HAI,Athletics,Athletics Men's 100 metres,1,0,0,0,0,3,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+HAI,Athletics,Athletics Men's 200 metres,1,0,0,0,0,3,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+HAI,Athletics,Athletics Men's Long Jump,1,0,1,0,1,3,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+HUN,Art Competitions,"Art Competitions Mixed Architecture, Architectural Designs",1,0,0,0,0,63,1928,0.0,0.0,0.0,0.0,0,4.0,5.0,0.0,9.0
+HUN,Art Competitions,"Art Competitions Mixed Architecture, Designs For Town Planning",1,0,0,0,0,63,1928,0.0,0.0,0.0,0.0,0,4.0,5.0,0.0,9.0
+HUN,Art Competitions,"Art Competitions Mixed Literature, Epic Works",2,1,0,0,1,63,1928,0.0,0.0,0.0,0.0,0,4.0,5.0,0.0,9.0
+HUN,Art Competitions,"Art Competitions Mixed Painting, Drawings And Water Colors",1,0,0,0,0,63,1928,0.0,0.0,0.0,0.0,0,4.0,5.0,0.0,9.0
+HUN,Art Competitions,"Art Competitions Mixed Painting, Paintings",1,0,0,0,0,63,1928,0.0,0.0,0.0,0.0,0,4.0,5.0,0.0,9.0
+HUN,Art Competitions,"Art Competitions Mixed Sculpturing, Statues",1,0,0,0,0,63,1928,0.0,0.0,0.0,0.0,0,4.0,5.0,0.0,9.0
+HUN,Athletics,"Athletics Men's 1,500 metres",2,0,0,0,0,63,1928,0.0,0.0,0.0,0.0,0,4.0,5.0,0.0,9.0
+HUN,Athletics,Athletics Men's 100 metres,3,0,0,0,0,63,1928,0.0,0.0,0.0,0.0,0,4.0,5.0,0.0,9.0
+HUN,Athletics,Athletics Men's 200 metres,1,0,0,0,0,63,1928,0.0,0.0,0.0,0.0,0,4.0,5.0,0.0,9.0
+HUN,Athletics,Athletics Men's 4 x 100 metres Relay,4,0,0,0,0,63,1928,0.0,0.0,0.0,0.0,0,4.0,5.0,0.0,9.0
+HUN,Athletics,Athletics Men's 4 x 400 metres Relay,4,0,0,0,0,63,1928,0.0,0.0,0.0,0.0,0,4.0,5.0,0.0,9.0
+HUN,Athletics,Athletics Men's 400 metres,4,0,0,0,0,63,1928,0.0,0.0,0.0,0.0,0,4.0,5.0,0.0,9.0
+HUN,Athletics,Athletics Men's 800 metres,1,0,0,0,0,63,1928,0.0,0.0,0.0,0.0,0,4.0,5.0,0.0,9.0
+HUN,Athletics,Athletics Men's Decathlon,1,0,0,0,0,63,1928,0.0,0.0,0.0,0.0,0,4.0,5.0,0.0,9.0
+HUN,Athletics,Athletics Men's Discus Throw,3,0,0,0,0,63,1928,0.0,0.0,0.0,0.0,0,4.0,5.0,0.0,9.0
+HUN,Athletics,Athletics Men's High Jump,2,0,0,0,0,63,1928,0.0,0.0,0.0,0.0,0,4.0,5.0,0.0,9.0
+HUN,Athletics,Athletics Men's Javelin Throw,1,0,1,0,1,63,1928,0.0,0.0,0.0,0.0,0,4.0,5.0,0.0,9.0
+HUN,Athletics,Athletics Men's Long Jump,3,0,0,0,0,63,1928,0.0,0.0,0.0,0.0,0,4.0,5.0,0.0,9.0
+HUN,Athletics,Athletics Men's Marathon,1,0,0,0,0,63,1928,0.0,0.0,0.0,0.0,0,4.0,5.0,0.0,9.0
+HUN,Athletics,Athletics Men's Pole Vault,1,0,0,0,0,63,1928,0.0,0.0,0.0,0.0,0,4.0,5.0,0.0,9.0
+HUN,Athletics,Athletics Men's Shot Put,1,0,0,0,0,63,1928,0.0,0.0,0.0,0.0,0,4.0,5.0,0.0,9.0
+HUN,Athletics,Athletics Men's Triple Jump,2,0,0,0,0,63,1928,0.0,0.0,0.0,0.0,0,4.0,5.0,0.0,9.0
+HUN,Athletics,Athletics Women's Discus Throw,1,0,0,0,0,63,1928,0.0,0.0,0.0,0.0,0,4.0,5.0,0.0,9.0
+HUN,Boxing,Boxing Men's Bantamweight,1,0,0,0,0,63,1928,0.0,0.0,0.0,0.0,0,4.0,5.0,0.0,9.0
+HUN,Boxing,Boxing Men's Featherweight,1,0,0,0,0,63,1928,0.0,0.0,0.0,0.0,0,4.0,5.0,0.0,9.0
+HUN,Boxing,Boxing Men's Flyweight,1,1,0,0,1,63,1928,0.0,0.0,0.0,0.0,0,4.0,5.0,0.0,9.0
+HUN,Boxing,Boxing Men's Lightweight,1,0,0,0,0,63,1928,0.0,0.0,0.0,0.0,0,4.0,5.0,0.0,9.0
+HUN,Equestrianism,"Equestrianism Men's Jumping, Individual",3,0,0,0,0,63,1928,0.0,0.0,0.0,0.0,0,4.0,5.0,0.0,9.0
+HUN,Equestrianism,"Equestrianism Men's Jumping, Team",3,0,0,0,0,63,1928,0.0,0.0,0.0,0.0,0,4.0,5.0,0.0,9.0
+HUN,Equestrianism,"Equestrianism Men's Three-Day Event, Individual",3,0,0,0,0,63,1928,0.0,0.0,0.0,0.0,0,4.0,5.0,0.0,9.0
+HUN,Equestrianism,"Equestrianism Men's Three-Day Event, Team",3,0,0,0,0,63,1928,0.0,0.0,0.0,0.0,0,4.0,5.0,0.0,9.0
+HUN,Fencing,"Fencing Men's Foil, Individual",3,0,0,0,0,63,1928,0.0,0.0,0.0,0.0,0,4.0,5.0,0.0,9.0
+HUN,Fencing,"Fencing Men's Foil, Team",6,0,0,0,0,63,1928,0.0,0.0,5.0,5.0,0,4.0,5.0,0.0,9.0
+HUN,Fencing,"Fencing Men's Sabre, Individual",3,1,1,0,2,63,1928,1.0,0.0,1.0,2.0,0,4.0,5.0,0.0,9.0
+HUN,Fencing,"Fencing Men's Sabre, Team",6,6,0,0,6,63,1928,0.0,8.0,0.0,8.0,0,4.0,5.0,0.0,9.0
+HUN,Fencing,"Fencing Men's epee, Individual",3,0,0,0,0,63,1928,0.0,0.0,0.0,0.0,0,4.0,5.0,0.0,9.0
+HUN,Fencing,"Fencing Men's epee, Team",5,0,0,0,0,63,1928,0.0,0.0,0.0,0.0,0,4.0,5.0,0.0,9.0
+HUN,Fencing,"Fencing Women's Foil, Individual",3,0,0,0,0,63,1928,0.0,0.0,0.0,0.0,0,4.0,5.0,0.0,9.0
+HUN,Gymnastics,Gymnastics Men's Horizontal Bar,7,0,0,0,0,63,1928,0.0,0.0,0.0,0.0,0,4.0,5.0,0.0,9.0
+HUN,Gymnastics,Gymnastics Men's Horse Vault,7,0,0,0,0,63,1928,0.0,0.0,0.0,0.0,0,4.0,5.0,0.0,9.0
+HUN,Gymnastics,Gymnastics Men's Individual All-Around,8,0,0,0,0,63,1928,0.0,0.0,0.0,0.0,0,4.0,5.0,0.0,9.0
+HUN,Gymnastics,Gymnastics Men's Parallel Bars,7,0,0,0,0,63,1928,0.0,0.0,0.0,0.0,0,4.0,5.0,0.0,9.0
+HUN,Gymnastics,Gymnastics Men's Pommelled Horse,8,0,0,0,0,63,1928,0.0,0.0,0.0,0.0,0,4.0,5.0,0.0,9.0
+HUN,Gymnastics,Gymnastics Men's Rings,8,0,0,0,0,63,1928,0.0,0.0,0.0,0.0,0,4.0,5.0,0.0,9.0
+HUN,Gymnastics,Gymnastics Men's Team All-Around,8,0,0,0,0,63,1928,0.0,0.0,0.0,0.0,0,4.0,5.0,0.0,9.0
+HUN,Gymnastics,Gymnastics Women's Team All-Around,10,0,0,0,0,63,1928,0.0,0.0,0.0,0.0,0,4.0,5.0,0.0,9.0
+HUN,Modern Pentathlon,Modern Pentathlon Men's Individual,1,0,0,0,0,63,1928,0.0,0.0,0.0,0.0,0,4.0,5.0,0.0,9.0
+HUN,Rowing,Rowing Men's Coxed Fours,5,0,0,0,0,63,1928,0.0,0.0,0.0,0.0,0,4.0,5.0,0.0,9.0
+HUN,Rowing,Rowing Men's Single Sculls,1,0,0,0,0,63,1928,0.0,0.0,0.0,0.0,0,4.0,5.0,0.0,9.0
+HUN,Sailing,Sailing Mixed 6 metres,5,0,0,0,0,63,1928,0.0,0.0,0.0,0.0,0,4.0,5.0,0.0,9.0
+HUN,Sailing,Sailing Mixed One Person Dinghy,1,0,0,0,0,63,1928,0.0,0.0,0.0,0.0,0,4.0,5.0,0.0,9.0
+HUN,Swimming,Swimming Men's 100 metres Backstroke,1,0,0,0,0,63,1928,0.0,0.0,1.0,1.0,0,4.0,5.0,0.0,9.0
+HUN,Swimming,Swimming Men's 100 metres Freestyle,3,0,1,0,1,63,1928,0.0,0.0,0.0,0.0,0,4.0,5.0,0.0,9.0
+HUN,Swimming,Swimming Men's 4 x 200 metres Freestyle Relay,4,0,0,0,0,63,1928,0.0,0.0,0.0,0.0,0,4.0,5.0,0.0,9.0
+HUN,Swimming,Swimming Men's 400 metres Freestyle,2,0,0,0,0,63,1928,0.0,0.0,0.0,0.0,0,4.0,5.0,0.0,9.0
+HUN,Swimming,Swimming Women's 100 metres Freestyle,2,0,0,0,0,63,1928,0.0,0.0,0.0,0.0,0,4.0,5.0,0.0,9.0
+HUN,Water Polo,Water Polo Men's Water Polo,7,0,7,0,7,63,1928,0.0,0.0,0.0,0.0,0,4.0,5.0,0.0,9.0
+HUN,Wrestling,"Wrestling Men's Bantamweight, Greco-Roman",1,0,0,0,0,63,1928,0.0,0.0,0.0,0.0,0,4.0,5.0,0.0,9.0
+HUN,Wrestling,"Wrestling Men's Featherweight, Greco-Roman",1,0,0,0,0,63,1928,0.0,0.0,0.0,0.0,0,4.0,5.0,0.0,9.0
+HUN,Wrestling,"Wrestling Men's Heavyweight, Greco-Roman",1,0,0,0,0,63,1928,0.0,0.0,1.0,1.0,0,4.0,5.0,0.0,9.0
+HUN,Wrestling,"Wrestling Men's Light-Heavyweight, Greco-Roman",1,0,0,0,0,63,1928,0.0,0.0,0.0,0.0,0,4.0,5.0,0.0,9.0
+HUN,Wrestling,"Wrestling Men's Lightweight, Greco-Roman",1,1,0,0,1,63,1928,0.0,1.0,0.0,1.0,0,4.0,5.0,0.0,9.0
+HUN,Wrestling,"Wrestling Men's Middleweight, Greco-Roman",1,0,1,0,1,63,1928,0.0,0.0,0.0,0.0,0,4.0,5.0,0.0,9.0
+IND,Athletics,"Athletics Men's 10,000 metres",1,0,0,0,0,10,1928,0.0,0.0,0.0,0.0,0,1.0,0.0,0.0,1.0
+IND,Athletics,Athletics Men's 100 metres,1,0,0,0,0,10,1928,0.0,0.0,0.0,0.0,0,1.0,0.0,0.0,1.0
+IND,Athletics,Athletics Men's 110 metres Hurdles,1,0,0,0,0,10,1928,0.0,0.0,0.0,0.0,0,1.0,0.0,0.0,1.0
+IND,Athletics,Athletics Men's 200 metres,2,0,0,0,0,10,1928,0.0,0.0,0.0,0.0,0,1.0,0.0,0.0,1.0
+IND,Athletics,Athletics Men's 400 metres,1,0,0,0,0,10,1928,0.0,0.0,0.0,0.0,0,1.0,0.0,0.0,1.0
+IND,Athletics,Athletics Men's 400 metres Hurdles,1,0,0,0,0,10,1928,0.0,0.0,0.0,0.0,0,1.0,0.0,0.0,1.0
+IND,Athletics,"Athletics Men's 5,000 metres",1,0,0,0,0,10,1928,0.0,0.0,0.0,0.0,0,1.0,0.0,0.0,1.0
+IND,Athletics,Athletics Men's 800 metres,1,0,0,0,0,10,1928,0.0,0.0,0.0,0.0,0,1.0,0.0,0.0,1.0
+IND,Athletics,Athletics Men's Long Jump,1,0,0,0,0,10,1928,0.0,0.0,0.0,0.0,0,1.0,0.0,0.0,1.0
+IND,Hockey,Hockey Men's Hockey,14,14,0,0,14,10,1928,0.0,0.0,0.0,0.0,0,1.0,0.0,0.0,1.0
+IRL,Art Competitions,"Art Competitions Mixed Painting, Drawings And Water Colors",5,0,0,0,0,27,1928,0.0,0.0,0.0,0.0,0,1.0,0.0,0.0,1.0
+IRL,Art Competitions,"Art Competitions Mixed Painting, Paintings",6,0,0,0,0,27,1928,0.0,0.0,0.0,0.0,0,1.0,0.0,0.0,1.0
+IRL,Art Competitions,"Art Competitions Mixed Sculpturing, Statues",1,0,0,0,0,27,1928,0.0,0.0,0.0,0.0,0,1.0,0.0,0.0,1.0
+IRL,Athletics,Athletics Men's 100 metres,1,0,0,0,0,27,1928,0.0,0.0,0.0,0.0,0,1.0,0.0,0.0,1.0
+IRL,Athletics,Athletics Men's 110 metres Hurdles,1,0,0,0,0,27,1928,0.0,0.0,0.0,0.0,0,1.0,0.0,0.0,1.0
+IRL,Athletics,Athletics Men's 200 metres,2,0,0,0,0,27,1928,0.0,0.0,0.0,0.0,0,1.0,0.0,0.0,1.0
+IRL,Athletics,"Athletics Men's 3,000 metres Steeplechase",1,0,0,0,0,27,1928,0.0,0.0,0.0,0.0,0,1.0,0.0,0.0,1.0
+IRL,Athletics,Athletics Men's 400 metres,1,0,0,0,0,27,1928,0.0,0.0,0.0,0.0,0,1.0,0.0,0.0,1.0
+IRL,Athletics,Athletics Men's 800 metres,2,0,0,0,0,27,1928,0.0,0.0,0.0,0.0,0,1.0,0.0,0.0,1.0
+IRL,Athletics,Athletics Men's Decathlon,1,0,0,0,0,27,1928,0.0,0.0,0.0,0.0,0,1.0,0.0,0.0,1.0
+IRL,Athletics,Athletics Men's Hammer Throw,1,1,0,0,1,27,1928,0.0,0.0,0.0,0.0,0,1.0,0.0,0.0,1.0
+IRL,Athletics,Athletics Men's Long Jump,1,0,0,0,0,27,1928,0.0,0.0,0.0,0.0,0,1.0,0.0,0.0,1.0
+IRL,Athletics,Athletics Men's Triple Jump,1,0,0,0,0,27,1928,0.0,0.0,0.0,0.0,0,1.0,0.0,0.0,1.0
+IRL,Boxing,Boxing Men's Bantamweight,1,0,0,0,0,27,1928,0.0,0.0,0.0,0.0,0,1.0,0.0,0.0,1.0
+IRL,Boxing,Boxing Men's Featherweight,1,0,0,0,0,27,1928,0.0,0.0,0.0,0.0,0,1.0,0.0,0.0,1.0
+IRL,Boxing,Boxing Men's Flyweight,1,0,0,0,0,27,1928,0.0,0.0,0.0,0.0,0,1.0,0.0,0.0,1.0
+IRL,Boxing,Boxing Men's Heavyweight,1,0,0,0,0,27,1928,0.0,0.0,0.0,0.0,0,1.0,0.0,0.0,1.0
+IRL,Boxing,Boxing Men's Light-Heavyweight,1,0,0,0,0,27,1928,0.0,0.0,0.0,0.0,0,1.0,0.0,0.0,1.0
+IRL,Boxing,Boxing Men's Lightweight,1,0,0,0,0,27,1928,0.0,0.0,0.0,0.0,0,1.0,0.0,0.0,1.0
+IRL,Boxing,Boxing Men's Middleweight,1,0,0,0,0,27,1928,0.0,0.0,0.0,0.0,0,1.0,0.0,0.0,1.0
+IRL,Boxing,Boxing Men's Welterweight,1,0,0,0,0,27,1928,0.0,0.0,0.0,0.0,0,1.0,0.0,0.0,1.0
+IRL,Cycling,"Cycling Men's 1,000 metres Time Trial",1,0,0,0,0,27,1928,0.0,0.0,0.0,0.0,0,1.0,0.0,0.0,1.0
+IRL,Cycling,"Cycling Men's Road Race, Individual",1,0,0,0,0,27,1928,0.0,0.0,0.0,0.0,0,1.0,0.0,0.0,1.0
+IRL,Cycling,Cycling Men's Sprint,1,0,0,0,0,27,1928,0.0,0.0,0.0,0.0,0,1.0,0.0,0.0,1.0
+IRL,Swimming,Swimming Men's 400 metres Freestyle,1,0,0,0,0,27,1928,0.0,0.0,0.0,0.0,0,1.0,0.0,0.0,1.0
+IRL,Swimming,Swimming Women's 100 metres Freestyle,1,0,0,0,0,27,1928,0.0,0.0,0.0,0.0,0,1.0,0.0,0.0,1.0
+IRL,Water Polo,Water Polo Men's Water Polo,7,0,0,0,0,27,1928,0.0,0.0,0.0,0.0,0,1.0,0.0,0.0,1.0
+ITA,Art Competitions,"Art Competitions Mixed Architecture, Architectural Designs",6,0,0,0,0,81,1928,0.0,0.0,0.0,0.0,0,7.0,5.0,7.0,19.0
+ITA,Art Competitions,"Art Competitions Mixed Architecture, Designs For Town Planning",6,0,0,0,0,81,1928,0.0,0.0,0.0,0.0,0,7.0,5.0,7.0,19.0
+ITA,Art Competitions,"Art Competitions Mixed Literature, Dramatic Works",1,0,1,0,1,81,1928,0.0,0.0,0.0,0.0,0,7.0,5.0,7.0,19.0
+ITA,Art Competitions,"Art Competitions Mixed Literature, Lyric Works",1,0,0,0,0,81,1928,0.0,0.0,0.0,0.0,0,7.0,5.0,7.0,19.0
+ITA,Art Competitions,"Art Competitions Mixed Painting, Paintings",1,0,0,0,0,81,1928,0.0,0.0,0.0,0.0,0,7.0,5.0,7.0,19.0
+ITA,Art Competitions,"Art Competitions Mixed Sculpturing, Medals And Reliefs",1,0,0,0,0,81,1928,0.0,0.0,0.0,0.0,0,7.0,5.0,7.0,19.0
+ITA,Art Competitions,"Art Competitions Mixed Sculpturing, Statues",1,0,0,0,0,81,1928,0.0,0.0,0.0,0.0,0,7.0,5.0,7.0,19.0
+ITA,Athletics,"Athletics Men's 1,500 metres",1,0,0,0,0,81,1928,0.0,0.0,0.0,0.0,0,7.0,5.0,7.0,19.0
+ITA,Athletics,Athletics Men's 100 metres,2,0,0,0,0,81,1928,0.0,0.0,0.0,0.0,0,7.0,5.0,7.0,19.0
+ITA,Athletics,Athletics Men's 110 metres Hurdles,1,0,0,0,0,81,1928,0.0,0.0,0.0,0.0,0,7.0,5.0,7.0,19.0
+ITA,Athletics,Athletics Men's 200 metres,2,0,0,0,0,81,1928,0.0,0.0,0.0,0.0,0,7.0,5.0,7.0,19.0
+ITA,Athletics,"Athletics Men's 3,000 metres Steeplechase",1,0,0,0,0,81,1928,0.0,0.0,0.0,0.0,0,7.0,5.0,7.0,19.0
+ITA,Athletics,Athletics Men's 4 x 100 metres Relay,4,0,0,0,0,81,1928,0.0,0.0,0.0,0.0,0,7.0,5.0,7.0,19.0
+ITA,Athletics,Athletics Men's 4 x 400 metres Relay,4,0,0,0,0,81,1928,0.0,0.0,0.0,0.0,0,7.0,5.0,7.0,19.0
+ITA,Athletics,Athletics Men's 400 metres Hurdles,1,0,0,0,0,81,1928,0.0,0.0,0.0,0.0,0,7.0,5.0,7.0,19.0
+ITA,Athletics,Athletics Men's 800 metres,2,0,0,0,0,81,1928,0.0,0.0,0.0,0.0,0,7.0,5.0,7.0,19.0
+ITA,Athletics,Athletics Men's Discus Throw,2,0,0,0,0,81,1928,0.0,0.0,0.0,0.0,0,7.0,5.0,7.0,19.0
+ITA,Athletics,Athletics Men's Hammer Throw,2,0,0,0,0,81,1928,0.0,0.0,0.0,0.0,0,7.0,5.0,7.0,19.0
+ITA,Athletics,Athletics Men's Long Jump,2,0,0,0,0,81,1928,0.0,0.0,0.0,0.0,0,7.0,5.0,7.0,19.0
+ITA,Athletics,Athletics Men's Marathon,4,0,0,0,0,81,1928,0.0,1.0,0.0,1.0,0,7.0,5.0,7.0,19.0
+ITA,Athletics,Athletics Women's 100 metres,3,0,0,0,0,81,1928,0.0,0.0,0.0,0.0,0,7.0,5.0,7.0,19.0
+ITA,Athletics,Athletics Women's 4 x 100 metres Relay,4,0,0,0,0,81,1928,0.0,0.0,0.0,0.0,0,7.0,5.0,7.0,19.0
+ITA,Athletics,Athletics Women's 800 metres,1,0,0,0,0,81,1928,0.0,0.0,0.0,0.0,0,7.0,5.0,7.0,19.0
+ITA,Athletics,Athletics Women's Discus Throw,1,0,0,0,0,81,1928,0.0,0.0,0.0,0.0,0,7.0,5.0,7.0,19.0
+ITA,Boxing,Boxing Men's Bantamweight,1,1,0,0,1,81,1928,0.0,0.0,0.0,0.0,0,7.0,5.0,7.0,19.0
+ITA,Boxing,Boxing Men's Featherweight,1,0,0,0,0,81,1928,0.0,0.0,0.0,0.0,0,7.0,5.0,7.0,19.0
+ITA,Boxing,Boxing Men's Flyweight,1,0,0,1,1,81,1928,0.0,0.0,0.0,0.0,0,7.0,5.0,7.0,19.0
+ITA,Boxing,Boxing Men's Light-Heavyweight,1,0,0,0,0,81,1928,0.0,0.0,0.0,0.0,0,7.0,5.0,7.0,19.0
+ITA,Boxing,Boxing Men's Lightweight,1,1,0,0,1,81,1928,0.0,0.0,0.0,0.0,0,7.0,5.0,7.0,19.0
+ITA,Boxing,Boxing Men's Middleweight,1,1,0,0,1,81,1928,0.0,0.0,0.0,0.0,0,7.0,5.0,7.0,19.0
+ITA,Boxing,Boxing Men's Welterweight,1,0,0,0,0,81,1928,0.0,0.0,0.0,0.0,0,7.0,5.0,7.0,19.0
+ITA,Cycling,"Cycling Men's 1,000 metres Time Trial",1,0,0,0,0,81,1928,0.0,0.0,0.0,0.0,0,7.0,5.0,7.0,19.0
+ITA,Cycling,"Cycling Men's Road Race, Individual",4,0,0,0,0,81,1928,0.0,0.0,0.0,0.0,0,7.0,5.0,7.0,19.0
+ITA,Cycling,"Cycling Men's Road Race, Team",4,0,0,0,0,81,1928,0.0,0.0,0.0,0.0,0,7.0,5.0,7.0,19.0
+ITA,Cycling,Cycling Men's Sprint,1,0,0,0,0,81,1928,0.0,0.0,0.0,0.0,0,7.0,5.0,7.0,19.0
+ITA,Cycling,"Cycling Men's Tandem Sprint, 2,000 metres",2,0,0,0,0,81,1928,0.0,0.0,0.0,0.0,0,7.0,5.0,7.0,19.0
+ITA,Cycling,"Cycling Men's Team Pursuit, 4,000 metres",4,4,0,0,4,81,1928,4.0,0.0,0.0,4.0,0,7.0,5.0,7.0,19.0
+ITA,Diving,Diving Men's Platform,2,0,0,0,0,81,1928,0.0,0.0,0.0,0.0,0,7.0,5.0,7.0,19.0
+ITA,Diving,Diving Men's Springboard,1,0,0,0,0,81,1928,0.0,0.0,0.0,0.0,0,7.0,5.0,7.0,19.0
+ITA,Equestrianism,"Equestrianism Men's Jumping, Individual",3,0,0,0,0,81,1928,0.0,1.0,0.0,1.0,0,7.0,5.0,7.0,19.0
+ITA,Equestrianism,"Equestrianism Men's Jumping, Team",3,0,0,0,0,81,1928,0.0,0.0,0.0,0.0,0,7.0,5.0,7.0,19.0
+ITA,Equestrianism,"Equestrianism Men's Three-Day Event, Individual",3,0,0,0,0,81,1928,0.0,0.0,0.0,0.0,0,7.0,5.0,7.0,19.0
+ITA,Equestrianism,"Equestrianism Men's Three-Day Event, Team",3,0,0,0,0,81,1928,0.0,0.0,4.0,4.0,0,7.0,5.0,7.0,19.0
+ITA,Fencing,"Fencing Men's Foil, Individual",3,0,0,1,1,81,1928,0.0,0.0,0.0,0.0,0,7.0,5.0,7.0,19.0
+ITA,Fencing,"Fencing Men's Foil, Team",6,6,0,0,6,81,1928,0.0,0.0,0.0,0.0,0,7.0,5.0,7.0,19.0
+ITA,Fencing,"Fencing Men's Sabre, Individual",3,0,0,1,1,81,1928,0.0,0.0,0.0,0.0,0,7.0,5.0,7.0,19.0
+ITA,Fencing,"Fencing Men's Sabre, Team",6,0,6,0,6,81,1928,8.0,0.0,0.0,8.0,0,7.0,5.0,7.0,19.0
+ITA,Fencing,"Fencing Men's epee, Team",6,6,0,0,6,81,1928,0.0,0.0,6.0,6.0,0,7.0,5.0,7.0,19.0
+ITA,Football,Football Men's Football,17,0,0,17,17,81,1928,0.0,0.0,0.0,0.0,0,7.0,5.0,7.0,19.0
+ITA,Gymnastics,Gymnastics Men's Horizontal Bar,8,0,1,0,1,81,1928,0.0,0.0,0.0,0.0,0,7.0,5.0,7.0,19.0
+ITA,Gymnastics,Gymnastics Men's Horse Vault,8,0,0,0,0,81,1928,0.0,0.0,0.0,0.0,0,7.0,5.0,7.0,19.0
+ITA,Gymnastics,Gymnastics Men's Individual All-Around,8,0,0,0,0,81,1928,0.0,0.0,0.0,0.0,0,7.0,5.0,7.0,19.0
+ITA,Gymnastics,Gymnastics Men's Parallel Bars,8,0,0,0,0,81,1928,0.0,0.0,1.0,1.0,0,7.0,5.0,7.0,19.0
+ITA,Gymnastics,Gymnastics Men's Pommelled Horse,8,0,0,0,0,81,1928,0.0,0.0,0.0,0.0,0,7.0,5.0,7.0,19.0
+ITA,Gymnastics,Gymnastics Men's Rings,8,0,0,0,0,81,1928,1.0,0.0,0.0,1.0,0,7.0,5.0,7.0,19.0
+ITA,Gymnastics,Gymnastics Men's Team All-Around,8,0,0,0,0,81,1928,8.0,0.0,0.0,8.0,0,7.0,5.0,7.0,19.0
+ITA,Gymnastics,Gymnastics Women's Team All-Around,12,0,12,0,12,81,1928,0.0,0.0,0.0,0.0,0,7.0,5.0,7.0,19.0
+ITA,Modern Pentathlon,Modern Pentathlon Men's Individual,3,0,0,0,0,81,1928,0.0,0.0,0.0,0.0,0,7.0,5.0,7.0,19.0
+ITA,Rowing,Rowing Men's Coxed Eights,9,0,0,0,0,81,1928,0.0,0.0,9.0,9.0,0,7.0,5.0,7.0,19.0
+ITA,Rowing,Rowing Men's Coxed Fours,5,5,0,0,5,81,1928,0.0,0.0,0.0,0.0,0,7.0,5.0,7.0,19.0
+ITA,Rowing,Rowing Men's Coxed Pairs,3,0,0,0,0,81,1928,0.0,3.0,0.0,3.0,0,7.0,5.0,7.0,19.0
+ITA,Rowing,Rowing Men's Coxless Fours,4,0,0,4,4,81,1928,0.0,0.0,0.0,0.0,0,7.0,5.0,7.0,19.0
+ITA,Rowing,Rowing Men's Coxless Pairs,2,0,0,0,0,81,1928,0.0,0.0,0.0,0.0,0,7.0,5.0,7.0,19.0
+ITA,Rowing,Rowing Men's Double Sculls,2,0,0,0,0,81,1928,0.0,0.0,0.0,0.0,0,7.0,5.0,7.0,19.0
+ITA,Rowing,Rowing Men's Single Sculls,1,0,0,0,0,81,1928,0.0,0.0,0.0,0.0,0,7.0,5.0,7.0,19.0
+ITA,Sailing,Sailing Mixed 6 metres,5,0,0,0,0,81,1928,0.0,0.0,0.0,0.0,0,7.0,5.0,7.0,19.0
+ITA,Sailing,Sailing Mixed 8 metres,6,0,0,0,0,81,1928,0.0,0.0,0.0,0.0,0,7.0,5.0,7.0,19.0
+ITA,Sailing,Sailing Mixed One Person Dinghy,1,0,0,0,0,81,1928,0.0,0.0,0.0,0.0,0,7.0,5.0,7.0,19.0
+ITA,Swimming,"Swimming Men's 1,500 metres Freestyle",2,0,0,0,0,81,1928,0.0,0.0,0.0,0.0,0,7.0,5.0,7.0,19.0
+ITA,Swimming,Swimming Men's 100 metres Freestyle,2,0,0,0,0,81,1928,0.0,0.0,0.0,0.0,0,7.0,5.0,7.0,19.0
+ITA,Swimming,Swimming Men's 4 x 200 metres Freestyle Relay,4,0,0,0,0,81,1928,0.0,0.0,0.0,0.0,0,7.0,5.0,7.0,19.0
+ITA,Swimming,Swimming Men's 400 metres Freestyle,1,0,0,0,0,81,1928,0.0,0.0,0.0,0.0,0,7.0,5.0,7.0,19.0
+ITA,Weightlifting,Weightlifting Men's Featherweight,2,0,1,0,1,81,1928,1.0,0.0,0.0,1.0,0,7.0,5.0,7.0,19.0
+ITA,Weightlifting,Weightlifting Men's Heavyweight,2,0,0,0,0,81,1928,1.0,0.0,0.0,1.0,0,7.0,5.0,7.0,19.0
+ITA,Weightlifting,Weightlifting Men's Lightweight,1,0,0,0,0,81,1928,0.0,0.0,0.0,0.0,0,7.0,5.0,7.0,19.0
+ITA,Weightlifting,Weightlifting Men's Middleweight,1,0,1,0,1,81,1928,1.0,0.0,0.0,1.0,0,7.0,5.0,7.0,19.0
+ITA,Wrestling,"Wrestling Men's Bantamweight, Greco-Roman",1,0,0,1,1,81,1928,0.0,0.0,0.0,0.0,0,7.0,5.0,7.0,19.0
+ITA,Wrestling,"Wrestling Men's Featherweight, Greco-Roman",1,0,0,1,1,81,1928,0.0,0.0,0.0,0.0,0,7.0,5.0,7.0,19.0
+ITA,Wrestling,"Wrestling Men's Heavyweight, Greco-Roman",1,0,0,0,0,81,1928,0.0,0.0,0.0,0.0,0,7.0,5.0,7.0,19.0
+ITA,Wrestling,"Wrestling Men's Lightweight, Greco-Roman",1,0,0,0,0,81,1928,0.0,0.0,0.0,0.0,0,7.0,5.0,7.0,19.0
+ITA,Wrestling,"Wrestling Men's Middleweight, Greco-Roman",1,0,0,0,0,81,1928,0.0,0.0,0.0,0.0,0,7.0,5.0,7.0,19.0
+JPN,Athletics,"Athletics Men's 10,000 metres",1,0,0,0,0,31,1928,0.0,0.0,0.0,0.0,0,2.0,2.0,1.0,5.0
+JPN,Athletics,Athletics Men's 100 metres,1,0,0,0,0,31,1928,0.0,0.0,0.0,0.0,0,2.0,2.0,1.0,5.0
+JPN,Athletics,Athletics Men's 110 metres Hurdles,1,0,0,0,0,31,1928,0.0,0.0,0.0,0.0,0,2.0,2.0,1.0,5.0
+JPN,Athletics,Athletics Men's 200 metres,1,0,0,0,0,31,1928,0.0,0.0,0.0,0.0,0,2.0,2.0,1.0,5.0
+JPN,Athletics,Athletics Men's 4 x 100 metres Relay,4,0,0,0,0,31,1928,0.0,0.0,0.0,0.0,0,2.0,2.0,1.0,5.0
+JPN,Athletics,Athletics Men's Decathlon,2,0,0,0,0,31,1928,0.0,0.0,0.0,0.0,0,2.0,2.0,1.0,5.0
+JPN,Athletics,Athletics Men's Discus Throw,2,0,0,0,0,31,1928,0.0,0.0,0.0,0.0,0,2.0,2.0,1.0,5.0
+JPN,Athletics,Athletics Men's Hammer Throw,1,0,0,0,0,31,1928,0.0,0.0,0.0,0.0,0,2.0,2.0,1.0,5.0
+JPN,Athletics,Athletics Men's High Jump,2,0,0,0,0,31,1928,0.0,0.0,0.0,0.0,0,2.0,2.0,1.0,5.0
+JPN,Athletics,Athletics Men's Javelin Throw,1,0,0,0,0,31,1928,0.0,0.0,0.0,0.0,0,2.0,2.0,1.0,5.0
+JPN,Athletics,Athletics Men's Long Jump,2,0,0,0,0,31,1928,0.0,0.0,0.0,0.0,0,2.0,2.0,1.0,5.0
+JPN,Athletics,Athletics Men's Marathon,3,0,0,0,0,31,1928,0.0,0.0,0.0,0.0,0,2.0,2.0,1.0,5.0
+JPN,Athletics,Athletics Men's Pole Vault,1,0,0,0,0,31,1928,0.0,0.0,0.0,0.0,0,2.0,2.0,1.0,5.0
+JPN,Athletics,Athletics Men's Triple Jump,2,1,0,0,1,31,1928,0.0,0.0,0.0,0.0,0,2.0,2.0,1.0,5.0
+JPN,Athletics,Athletics Women's 100 metres,1,0,0,0,0,31,1928,0.0,0.0,0.0,0.0,0,2.0,2.0,1.0,5.0
+JPN,Athletics,Athletics Women's 800 metres,1,0,1,0,1,31,1928,0.0,0.0,0.0,0.0,0,2.0,2.0,1.0,5.0
+JPN,Boxing,Boxing Men's Bantamweight,1,0,0,0,0,31,1928,0.0,0.0,0.0,0.0,0,2.0,2.0,1.0,5.0
+JPN,Boxing,Boxing Men's Welterweight,1,0,0,0,0,31,1928,0.0,0.0,0.0,0.0,0,2.0,2.0,1.0,5.0
+JPN,Diving,Diving Men's Springboard,1,0,0,0,0,31,1928,0.0,0.0,0.0,0.0,0,2.0,2.0,1.0,5.0
+JPN,Equestrianism,"Equestrianism Men's Dressage, Individual",2,0,0,0,0,31,1928,0.0,0.0,0.0,0.0,0,2.0,2.0,1.0,5.0
+JPN,Equestrianism,"Equestrianism Men's Jumping, Individual",1,0,0,0,0,31,1928,0.0,0.0,0.0,0.0,0,2.0,2.0,1.0,5.0
+JPN,Equestrianism,"Equestrianism Men's Three-Day Event, Individual",1,0,0,0,0,31,1928,0.0,0.0,0.0,0.0,0,2.0,2.0,1.0,5.0
+JPN,Rowing,Rowing Men's Coxed Fours,5,0,0,0,0,31,1928,0.0,0.0,0.0,0.0,0,2.0,2.0,1.0,5.0
+JPN,Rowing,Rowing Men's Single Sculls,1,0,0,0,0,31,1928,0.0,0.0,0.0,0.0,0,2.0,2.0,1.0,5.0
+JPN,Swimming,"Swimming Men's 1,500 metres Freestyle",3,0,0,0,0,31,1928,0.0,0.0,0.0,0.0,0,2.0,2.0,1.0,5.0
+JPN,Swimming,Swimming Men's 100 metres Backstroke,2,0,0,0,0,31,1928,0.0,0.0,0.0,0.0,0,2.0,2.0,1.0,5.0
+JPN,Swimming,Swimming Men's 100 metres Freestyle,1,0,0,1,1,31,1928,0.0,0.0,0.0,0.0,0,2.0,2.0,1.0,5.0
+JPN,Swimming,Swimming Men's 200 metres Breaststroke,2,1,0,0,1,31,1928,0.0,0.0,0.0,0.0,0,2.0,2.0,1.0,5.0
+JPN,Swimming,Swimming Men's 4 x 200 metres Freestyle Relay,5,0,5,0,5,31,1928,0.0,0.0,0.0,0.0,0,2.0,2.0,1.0,5.0
+JPN,Swimming,Swimming Men's 400 metres Freestyle,3,0,0,0,0,31,1928,0.0,0.0,0.0,0.0,0,2.0,2.0,1.0,5.0
+JPN,Wrestling,"Wrestling Men's Lightweight, Freestyle",1,0,0,0,0,31,1928,0.0,0.0,0.0,0.0,0,2.0,2.0,1.0,5.0
+LAT,Art Competitions,"Art Competitions Mixed Painting, Drawings And Water Colors",1,0,0,0,0,14,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+LAT,Art Competitions,"Art Competitions Mixed Painting, Paintings",1,0,0,0,0,14,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+LAT,Athletics,"Athletics Men's 10,000 metres",1,0,0,0,0,14,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+LAT,Athletics,"Athletics Men's 5,000 metres",1,0,0,0,0,14,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+LAT,Athletics,Athletics Men's Discus Throw,1,0,0,0,0,14,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+LAT,Athletics,Athletics Men's Marathon,2,0,0,0,0,14,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+LAT,Athletics,Athletics Women's 100 metres,1,0,0,0,0,14,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+LAT,Athletics,Athletics Women's Discus Throw,1,0,0,0,0,14,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+LAT,Cycling,Cycling Men's Sprint,1,0,0,0,0,14,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+LAT,Cycling,"Cycling Men's Team Pursuit, 4,000 metres",4,0,0,0,0,14,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+LAT,Sailing,Sailing Mixed One Person Dinghy,1,0,0,0,0,14,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+LAT,Weightlifting,Weightlifting Men's Heavyweight,1,0,0,0,0,14,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+LAT,Wrestling,"Wrestling Men's Heavyweight, Greco-Roman",1,0,0,0,0,14,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+LAT,Wrestling,"Wrestling Men's Light-Heavyweight, Greco-Roman",1,0,0,0,0,14,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+LTU,Athletics,Athletics Men's 100 metres,1,0,0,0,0,10,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+LTU,Athletics,Athletics Men's 200 metres,1,0,0,0,0,10,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+LTU,Athletics,"Athletics Men's 5,000 metres",1,0,0,0,0,10,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+LTU,Athletics,Athletics Men's High Jump,1,0,0,0,0,10,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+LTU,Athletics,Athletics Men's Javelin Throw,1,0,0,0,0,10,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+LTU,Athletics,Athletics Women's 800 metres,1,0,0,0,0,10,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+LTU,Boxing,Boxing Men's Light-Heavyweight,1,0,0,0,0,10,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+LTU,Boxing,Boxing Men's Lightweight,1,0,0,0,0,10,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+LTU,Cycling,"Cycling Men's Road Race, Individual",4,0,0,0,0,10,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+LTU,Weightlifting,Weightlifting Men's Middleweight,1,0,0,0,0,10,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+LUX,Art Competitions,"Art Competitions Mixed Painting, Drawings And Water Colors",1,1,0,0,1,31,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+LUX,Art Competitions,"Art Competitions Mixed Painting, Paintings",1,0,0,0,0,31,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+LUX,Athletics,Athletics Men's 100 metres,3,0,0,0,0,31,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+LUX,Athletics,Athletics Men's 200 metres,1,0,0,0,0,31,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+LUX,Athletics,Athletics Men's 400 metres,1,0,0,0,0,31,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+LUX,Athletics,Athletics Men's 800 metres,1,0,0,0,0,31,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+LUX,Boxing,Boxing Men's Flyweight,1,0,0,0,0,31,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+LUX,Boxing,Boxing Men's Light-Heavyweight,1,0,0,0,0,31,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+LUX,Boxing,Boxing Men's Lightweight,1,0,0,0,0,31,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+LUX,Boxing,Boxing Men's Middleweight,1,0,0,0,0,31,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+LUX,Boxing,Boxing Men's Welterweight,1,0,0,0,0,31,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+LUX,Cycling,"Cycling Men's Road Race, Individual",4,0,0,0,0,31,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+LUX,Cycling,"Cycling Men's Road Race, Team",3,0,0,0,0,31,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+LUX,Football,Football Men's Football,11,0,0,0,0,31,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+LUX,Gymnastics,Gymnastics Men's Horizontal Bar,8,0,0,0,0,31,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+LUX,Gymnastics,Gymnastics Men's Horse Vault,8,0,0,0,0,31,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+LUX,Gymnastics,Gymnastics Men's Individual All-Around,8,0,0,0,0,31,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+LUX,Gymnastics,Gymnastics Men's Parallel Bars,8,0,0,0,0,31,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+LUX,Gymnastics,Gymnastics Men's Pommelled Horse,8,0,0,0,0,31,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+LUX,Gymnastics,Gymnastics Men's Rings,8,0,0,0,0,31,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+LUX,Gymnastics,Gymnastics Men's Team All-Around,8,0,0,0,0,31,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+LUX,Swimming,Swimming Men's 100 metres Backstroke,1,0,0,0,0,31,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+LUX,Swimming,Swimming Women's 100 metres Backstroke,1,0,0,0,0,31,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+LUX,Swimming,Swimming Women's 200 metres Breaststroke,1,0,0,0,0,31,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+LUX,Water Polo,Water Polo Men's Water Polo,7,0,0,0,0,31,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+LUX,Weightlifting,Weightlifting Men's Light-Heavyweight,1,0,0,0,0,31,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+LUX,Weightlifting,Weightlifting Men's Lightweight,1,0,0,0,0,31,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+LUX,Weightlifting,Weightlifting Men's Middleweight,1,0,0,0,0,31,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+LUX,Wrestling,"Wrestling Men's Bantamweight, Greco-Roman",1,0,0,0,0,31,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+LUX,Wrestling,"Wrestling Men's Lightweight, Greco-Roman",1,0,0,0,0,31,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+LUX,Wrestling,"Wrestling Men's Middleweight, Greco-Roman",1,0,0,0,0,31,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+MEX,Art Competitions,"Art Competitions Mixed Painting, Paintings",1,0,0,0,0,18,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+MEX,Athletics,Athletics Men's 100 metres,3,0,0,0,0,18,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+MEX,Athletics,Athletics Men's 200 metres,2,0,0,0,0,18,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+MEX,Athletics,Athletics Men's 4 x 400 metres Relay,4,0,0,0,0,18,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+MEX,Athletics,Athletics Men's 400 metres,4,0,0,0,0,18,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+MEX,Athletics,"Athletics Men's 5,000 metres",1,0,0,0,0,18,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+MEX,Athletics,Athletics Men's 800 metres,2,0,0,0,0,18,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+MEX,Athletics,Athletics Men's Discus Throw,1,0,0,0,0,18,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+MEX,Athletics,Athletics Men's Long Jump,1,0,0,0,0,18,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+MEX,Athletics,Athletics Men's Marathon,2,0,0,0,0,18,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+MEX,Athletics,Athletics Men's Shot Put,1,0,0,0,0,18,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+MEX,Boxing,Boxing Men's Bantamweight,1,0,0,0,0,18,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+MEX,Boxing,Boxing Men's Featherweight,1,0,0,0,0,18,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+MEX,Boxing,Boxing Men's Flyweight,1,0,0,0,0,18,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+MEX,Boxing,Boxing Men's Lightweight,1,0,0,0,0,18,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+MEX,Diving,Diving Men's Springboard,1,0,0,0,0,18,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+MEX,Fencing,"Fencing Men's epee, Individual",2,0,0,0,0,18,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+MEX,Football,Football Men's Football,11,0,0,0,0,18,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+MLT,Water Polo,Water Polo Men's Water Polo,9,0,0,0,0,1,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+MON,Art Competitions,"Art Competitions Mixed Architecture, Architectural Designs",1,0,0,0,0,8,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+MON,Art Competitions,"Art Competitions Mixed Architecture, Designs For Town Planning",1,0,0,0,0,8,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+MON,Art Competitions,"Art Competitions Mixed Music, Compositions For Orchestra",1,0,0,0,0,8,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+MON,Art Competitions,"Art Competitions Mixed Painting, Paintings",1,0,0,0,0,8,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+MON,Athletics,Athletics Men's Decathlon,1,0,0,0,0,8,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+MON,Athletics,Athletics Men's Long Jump,1,0,0,0,0,8,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+MON,Rowing,Rowing Men's Coxed Fours,5,0,0,0,0,8,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+MON,Sailing,Sailing Mixed One Person Dinghy,1,0,0,0,0,8,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+NED,Art Competitions,"Art Competitions Mixed Architecture, Architectural Designs",1,1,0,0,1,103,1928,0.0,0.0,0.0,0.0,1,6.0,9.0,4.0,19.0
+NED,Art Competitions,"Art Competitions Mixed Architecture, Designs For Town Planning",1,0,0,0,0,103,1928,0.0,0.0,0.0,0.0,1,6.0,9.0,4.0,19.0
+NED,Art Competitions,"Art Competitions Mixed Literature, Dramatic Works",1,0,0,0,0,103,1928,0.0,0.0,0.0,0.0,1,6.0,9.0,4.0,19.0
+NED,Art Competitions,"Art Competitions Mixed Literature, Epic Works",3,0,0,2,2,103,1928,0.0,0.0,0.0,0.0,1,6.0,9.0,4.0,19.0
+NED,Art Competitions,"Art Competitions Mixed Literature, Lyric Works",1,0,0,0,0,103,1928,0.0,0.0,0.0,0.0,1,6.0,9.0,4.0,19.0
+NED,Art Competitions,"Art Competitions Mixed Music, Compositions For Orchestra",1,0,0,0,0,103,1928,0.0,0.0,0.0,0.0,1,6.0,9.0,4.0,19.0
+NED,Art Competitions,"Art Competitions Mixed Music, Compositions For Solo Or Chorus",1,0,0,0,0,103,1928,0.0,0.0,0.0,0.0,1,6.0,9.0,4.0,19.0
+NED,Art Competitions,"Art Competitions Mixed Painting, Drawings And Water Colors",9,0,0,0,0,103,1928,0.0,0.0,0.0,0.0,1,6.0,9.0,4.0,19.0
+NED,Art Competitions,"Art Competitions Mixed Painting, Graphic Arts",1,0,0,0,0,103,1928,0.0,0.0,0.0,0.0,1,6.0,9.0,4.0,19.0
+NED,Art Competitions,"Art Competitions Mixed Painting, Paintings",29,1,0,0,1,103,1928,0.0,0.0,0.0,0.0,1,6.0,9.0,4.0,19.0
+NED,Art Competitions,"Art Competitions Mixed Sculpturing, Medals And Reliefs",2,0,1,0,1,103,1928,0.0,0.0,0.0,0.0,1,6.0,9.0,4.0,19.0
+NED,Art Competitions,"Art Competitions Mixed Sculpturing, Statues",4,0,0,0,0,103,1928,0.0,0.0,0.0,0.0,1,6.0,9.0,4.0,19.0
+NED,Athletics,"Athletics Men's 1,500 metres",4,0,0,0,0,103,1928,0.0,0.0,0.0,0.0,1,6.0,9.0,4.0,19.0
+NED,Athletics,Athletics Men's 100 metres,4,0,0,0,0,103,1928,0.0,0.0,0.0,0.0,1,6.0,9.0,4.0,19.0
+NED,Athletics,Athletics Men's 110 metres Hurdles,4,0,0,0,0,103,1928,0.0,0.0,0.0,0.0,1,6.0,9.0,4.0,19.0
+NED,Athletics,Athletics Men's 200 metres,2,0,0,0,0,103,1928,0.0,0.0,0.0,0.0,1,6.0,9.0,4.0,19.0
+NED,Athletics,Athletics Men's 4 x 400 metres Relay,4,0,0,0,0,103,1928,0.0,0.0,0.0,0.0,1,6.0,9.0,4.0,19.0
+NED,Athletics,Athletics Men's 400 metres,4,0,0,0,0,103,1928,0.0,0.0,0.0,0.0,1,6.0,9.0,4.0,19.0
+NED,Athletics,"Athletics Men's 5,000 metres",3,0,0,0,0,103,1928,0.0,0.0,0.0,0.0,1,6.0,9.0,4.0,19.0
+NED,Athletics,Athletics Men's 800 metres,3,0,0,0,0,103,1928,0.0,0.0,0.0,0.0,1,6.0,9.0,4.0,19.0
+NED,Athletics,Athletics Men's Discus Throw,2,0,0,0,0,103,1928,0.0,0.0,0.0,0.0,1,6.0,9.0,4.0,19.0
+NED,Athletics,Athletics Men's Hammer Throw,1,0,0,0,0,103,1928,0.0,0.0,0.0,0.0,1,6.0,9.0,4.0,19.0
+NED,Athletics,Athletics Men's High Jump,3,0,0,0,0,103,1928,0.0,0.0,0.0,0.0,1,6.0,9.0,4.0,19.0
+NED,Athletics,Athletics Men's Javelin Throw,2,0,0,0,0,103,1928,0.0,0.0,0.0,0.0,1,6.0,9.0,4.0,19.0
+NED,Athletics,Athletics Men's Long Jump,3,0,0,0,0,103,1928,0.0,0.0,0.0,0.0,1,6.0,9.0,4.0,19.0
+NED,Athletics,Athletics Men's Marathon,6,0,0,0,0,103,1928,0.0,0.0,0.0,0.0,1,6.0,9.0,4.0,19.0
+NED,Athletics,Athletics Men's Pole Vault,1,0,0,0,0,103,1928,0.0,0.0,0.0,0.0,1,6.0,9.0,4.0,19.0
+NED,Athletics,Athletics Men's Triple Jump,4,0,0,0,0,103,1928,0.0,0.0,0.0,0.0,1,6.0,9.0,4.0,19.0
+NED,Athletics,Athletics Women's 100 metres,4,0,0,0,0,103,1928,0.0,0.0,0.0,0.0,1,6.0,9.0,4.0,19.0
+NED,Athletics,Athletics Women's 4 x 100 metres Relay,4,0,0,0,0,103,1928,0.0,0.0,0.0,0.0,1,6.0,9.0,4.0,19.0
+NED,Athletics,Athletics Women's 800 metres,3,0,0,0,0,103,1928,0.0,0.0,0.0,0.0,1,6.0,9.0,4.0,19.0
+NED,Athletics,Athletics Women's Discus Throw,2,0,0,0,0,103,1928,0.0,0.0,0.0,0.0,1,6.0,9.0,4.0,19.0
+NED,Athletics,Athletics Women's High Jump,2,0,1,0,1,103,1928,0.0,0.0,0.0,0.0,1,6.0,9.0,4.0,19.0
+NED,Boxing,Boxing Men's Featherweight,1,1,0,0,1,103,1928,0.0,0.0,0.0,0.0,1,6.0,9.0,4.0,19.0
+NED,Boxing,Boxing Men's Flyweight,1,0,0,0,0,103,1928,0.0,0.0,0.0,0.0,1,6.0,9.0,4.0,19.0
+NED,Boxing,Boxing Men's Heavyweight,1,0,0,0,0,103,1928,0.0,0.0,0.0,0.0,1,6.0,9.0,4.0,19.0
+NED,Boxing,Boxing Men's Light-Heavyweight,1,0,0,1,1,103,1928,0.0,0.0,0.0,0.0,1,6.0,9.0,4.0,19.0
+NED,Boxing,Boxing Men's Lightweight,1,0,0,0,0,103,1928,0.0,0.0,0.0,0.0,1,6.0,9.0,4.0,19.0
+NED,Boxing,Boxing Men's Welterweight,1,0,0,0,0,103,1928,0.0,0.0,0.0,0.0,1,6.0,9.0,4.0,19.0
+NED,Cycling,"Cycling Men's 1,000 metres Time Trial",1,0,1,0,1,103,1928,0.0,0.0,0.0,0.0,1,6.0,9.0,4.0,19.0
+NED,Cycling,"Cycling Men's Road Race, Individual",4,0,0,0,0,103,1928,0.0,0.0,0.0,0.0,1,6.0,9.0,4.0,19.0
+NED,Cycling,"Cycling Men's Road Race, Team",3,0,0,0,0,103,1928,0.0,0.0,0.0,0.0,1,6.0,9.0,4.0,19.0
+NED,Cycling,Cycling Men's Sprint,1,0,1,0,1,103,1928,0.0,1.0,0.0,1.0,1,6.0,9.0,4.0,19.0
+NED,Cycling,"Cycling Men's Tandem Sprint, 2,000 metres",2,2,0,0,2,103,1928,0.0,0.0,2.0,2.0,1,6.0,9.0,4.0,19.0
+NED,Cycling,"Cycling Men's Team Pursuit, 4,000 metres",5,0,5,0,5,103,1928,0.0,0.0,0.0,0.0,1,6.0,9.0,4.0,19.0
+NED,Diving,Diving Men's Platform,2,0,0,0,0,103,1928,0.0,0.0,0.0,0.0,1,6.0,9.0,4.0,19.0
+NED,Diving,Diving Men's Springboard,2,0,0,0,0,103,1928,0.0,0.0,0.0,0.0,1,6.0,9.0,4.0,19.0
+NED,Diving,Diving Women's Platform,3,0,0,0,0,103,1928,0.0,0.0,0.0,0.0,1,6.0,9.0,4.0,19.0
+NED,Diving,Diving Women's Springboard,3,0,0,0,0,103,1928,0.0,0.0,0.0,0.0,1,6.0,9.0,4.0,19.0
+NED,Equestrianism,"Equestrianism Men's Dressage, Individual",3,0,0,0,0,103,1928,0.0,0.0,0.0,0.0,1,6.0,9.0,4.0,19.0
+NED,Equestrianism,"Equestrianism Men's Dressage, Team",3,0,0,3,3,103,1928,0.0,0.0,0.0,0.0,1,6.0,9.0,4.0,19.0
+NED,Equestrianism,"Equestrianism Men's Jumping, Individual",3,0,0,0,0,103,1928,0.0,0.0,0.0,0.0,1,6.0,9.0,4.0,19.0
+NED,Equestrianism,"Equestrianism Men's Jumping, Team",3,0,0,0,0,103,1928,0.0,0.0,0.0,0.0,1,6.0,9.0,4.0,19.0
+NED,Equestrianism,"Equestrianism Men's Three-Day Event, Individual",3,1,1,0,2,103,1928,1.0,0.0,0.0,1.0,1,6.0,9.0,4.0,19.0
+NED,Equestrianism,"Equestrianism Men's Three-Day Event, Team",3,3,0,0,3,103,1928,4.0,0.0,0.0,4.0,1,6.0,9.0,4.0,19.0
+NED,Fencing,"Fencing Men's Foil, Individual",3,0,0,0,0,103,1928,0.0,0.0,0.0,0.0,1,6.0,9.0,4.0,19.0
+NED,Fencing,"Fencing Men's Foil, Team",6,0,0,0,0,103,1928,0.0,0.0,0.0,0.0,1,6.0,9.0,4.0,19.0
+NED,Fencing,"Fencing Men's Sabre, Individual",3,0,0,0,0,103,1928,0.0,0.0,0.0,0.0,1,6.0,9.0,4.0,19.0
+NED,Fencing,"Fencing Men's Sabre, Team",6,0,0,0,0,103,1928,0.0,0.0,6.0,6.0,1,6.0,9.0,4.0,19.0
+NED,Fencing,"Fencing Men's epee, Individual",3,0,0,0,0,103,1928,0.0,0.0,0.0,0.0,1,6.0,9.0,4.0,19.0
+NED,Fencing,"Fencing Men's epee, Team",6,0,0,0,0,103,1928,0.0,0.0,0.0,0.0,1,6.0,9.0,4.0,19.0
+NED,Fencing,"Fencing Women's Foil, Individual",3,0,0,0,0,103,1928,0.0,0.0,0.0,0.0,1,6.0,9.0,4.0,19.0
+NED,Football,Football Men's Football,11,0,0,0,0,103,1928,0.0,0.0,0.0,0.0,1,6.0,9.0,4.0,19.0
+NED,Gymnastics,Gymnastics Men's Horizontal Bar,8,0,0,0,0,103,1928,0.0,0.0,0.0,0.0,1,6.0,9.0,4.0,19.0
+NED,Gymnastics,Gymnastics Men's Horse Vault,8,0,0,0,0,103,1928,0.0,0.0,0.0,0.0,1,6.0,9.0,4.0,19.0
+NED,Gymnastics,Gymnastics Men's Individual All-Around,8,0,0,0,0,103,1928,0.0,0.0,0.0,0.0,1,6.0,9.0,4.0,19.0
+NED,Gymnastics,Gymnastics Men's Parallel Bars,8,0,0,0,0,103,1928,0.0,0.0,0.0,0.0,1,6.0,9.0,4.0,19.0
+NED,Gymnastics,Gymnastics Men's Pommelled Horse,8,0,0,0,0,103,1928,0.0,0.0,0.0,0.0,1,6.0,9.0,4.0,19.0
+NED,Gymnastics,Gymnastics Men's Rings,8,0,0,0,0,103,1928,0.0,0.0,0.0,0.0,1,6.0,9.0,4.0,19.0
+NED,Gymnastics,Gymnastics Men's Team All-Around,8,0,0,0,0,103,1928,0.0,0.0,0.0,0.0,1,6.0,9.0,4.0,19.0
+NED,Gymnastics,Gymnastics Women's Team All-Around,10,10,0,0,10,103,1928,0.0,0.0,0.0,0.0,1,6.0,9.0,4.0,19.0
+NED,Hockey,Hockey Men's Hockey,11,0,11,0,11,103,1928,0.0,0.0,0.0,0.0,1,6.0,9.0,4.0,19.0
+NED,Modern Pentathlon,Modern Pentathlon Men's Individual,3,0,0,0,0,103,1928,0.0,0.0,0.0,0.0,1,6.0,9.0,4.0,19.0
+NED,Rowing,Rowing Men's Coxed Eights,9,0,0,0,0,103,1928,0.0,0.0,0.0,0.0,1,6.0,9.0,4.0,19.0
+NED,Rowing,Rowing Men's Coxed Pairs,3,0,0,0,0,103,1928,0.0,0.0,0.0,0.0,1,6.0,9.0,4.0,19.0
+NED,Rowing,Rowing Men's Coxless Fours,4,0,0,0,0,103,1928,0.0,0.0,0.0,0.0,1,6.0,9.0,4.0,19.0
+NED,Rowing,Rowing Men's Coxless Pairs,2,0,0,0,0,103,1928,2.0,0.0,0.0,2.0,1,6.0,9.0,4.0,19.0
+NED,Rowing,Rowing Men's Double Sculls,2,0,0,0,0,103,1928,0.0,0.0,0.0,0.0,1,6.0,9.0,4.0,19.0
+NED,Rowing,Rowing Men's Single Sculls,1,0,0,0,0,103,1928,0.0,0.0,0.0,0.0,1,6.0,9.0,4.0,19.0
+NED,Sailing,Sailing Mixed 6 metres,5,0,0,0,0,103,1928,0.0,0.0,3.0,3.0,1,6.0,9.0,4.0,19.0
+NED,Sailing,Sailing Mixed 8 metres,6,0,6,0,6,103,1928,0.0,0.0,0.0,0.0,1,6.0,9.0,4.0,19.0
+NED,Sailing,Sailing Mixed One Person Dinghy,1,0,0,0,0,103,1928,0.0,0.0,0.0,0.0,1,6.0,9.0,4.0,19.0
+NED,Swimming,"Swimming Men's 1,500 metres Freestyle",1,0,0,0,0,103,1928,0.0,0.0,0.0,0.0,1,6.0,9.0,4.0,19.0
+NED,Swimming,Swimming Men's 100 metres Freestyle,1,0,0,0,0,103,1928,0.0,0.0,0.0,0.0,1,6.0,9.0,4.0,19.0
+NED,Swimming,Swimming Men's 200 metres Breaststroke,1,0,0,0,0,103,1928,0.0,0.0,0.0,0.0,1,6.0,9.0,4.0,19.0
+NED,Swimming,Swimming Men's 4 x 200 metres Freestyle Relay,4,0,0,0,0,103,1928,0.0,0.0,0.0,0.0,1,6.0,9.0,4.0,19.0
+NED,Swimming,Swimming Women's 100 metres Backstroke,2,1,0,0,1,103,1928,0.0,0.0,0.0,0.0,1,6.0,9.0,4.0,19.0
+NED,Swimming,Swimming Women's 100 metres Freestyle,1,0,0,0,0,103,1928,0.0,0.0,0.0,0.0,1,6.0,9.0,4.0,19.0
+NED,Swimming,Swimming Women's 200 metres Breaststroke,3,0,1,0,1,103,1928,0.0,0.0,0.0,0.0,1,6.0,9.0,4.0,19.0
+NED,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,4,0,0,0,0,103,1928,0.0,0.0,0.0,0.0,1,6.0,9.0,4.0,19.0
+NED,Swimming,Swimming Women's 400 metres Freestyle,2,0,1,0,1,103,1928,0.0,0.0,0.0,0.0,1,6.0,9.0,4.0,19.0
+NED,Water Polo,Water Polo Men's Water Polo,9,0,0,0,0,103,1928,0.0,0.0,0.0,0.0,1,6.0,9.0,4.0,19.0
+NED,Weightlifting,Weightlifting Men's Featherweight,2,0,0,0,0,103,1928,0.0,0.0,0.0,0.0,1,6.0,9.0,4.0,19.0
+NED,Weightlifting,Weightlifting Men's Heavyweight,2,0,0,0,0,103,1928,0.0,0.0,0.0,0.0,1,6.0,9.0,4.0,19.0
+NED,Weightlifting,Weightlifting Men's Light-Heavyweight,2,0,0,1,1,103,1928,0.0,0.0,0.0,0.0,1,6.0,9.0,4.0,19.0
+NED,Weightlifting,Weightlifting Men's Lightweight,2,0,0,0,0,103,1928,0.0,0.0,0.0,0.0,1,6.0,9.0,4.0,19.0
+NED,Weightlifting,Weightlifting Men's Middleweight,2,0,0,1,1,103,1928,0.0,0.0,0.0,0.0,1,6.0,9.0,4.0,19.0
+NED,Wrestling,"Wrestling Men's Bantamweight, Greco-Roman",1,0,0,0,0,103,1928,0.0,0.0,0.0,0.0,1,6.0,9.0,4.0,19.0
+NED,Wrestling,"Wrestling Men's Featherweight, Greco-Roman",1,0,0,0,0,103,1928,0.0,0.0,0.0,0.0,1,6.0,9.0,4.0,19.0
+NED,Wrestling,"Wrestling Men's Heavyweight, Greco-Roman",1,0,0,0,0,103,1928,0.0,0.0,0.0,0.0,1,6.0,9.0,4.0,19.0
+NED,Wrestling,"Wrestling Men's Light-Heavyweight, Greco-Roman",1,0,0,0,0,103,1928,0.0,0.0,0.0,0.0,1,6.0,9.0,4.0,19.0
+NED,Wrestling,"Wrestling Men's Lightweight, Greco-Roman",1,0,0,0,0,103,1928,0.0,0.0,0.0,0.0,1,6.0,9.0,4.0,19.0
+NED,Wrestling,"Wrestling Men's Middleweight, Greco-Roman",1,0,0,0,0,103,1928,0.0,0.0,0.0,0.0,1,6.0,9.0,4.0,19.0
+NOR,Art Competitions,"Art Competitions Mixed Architecture, Architectural Designs",1,0,0,0,0,42,1928,0.0,0.0,0.0,0.0,0,1.0,2.0,1.0,4.0
+NOR,Art Competitions,"Art Competitions Mixed Architecture, Designs For Town Planning",1,0,0,0,0,42,1928,0.0,0.0,0.0,0.0,0,1.0,2.0,1.0,4.0
+NOR,Art Competitions,"Art Competitions Mixed Music, Compositions For Solo Or Chorus",1,0,0,0,0,42,1928,0.0,0.0,0.0,0.0,0,1.0,2.0,1.0,4.0
+NOR,Art Competitions,"Art Competitions Mixed Music, Instrumental And Chamber",1,0,0,0,0,42,1928,0.0,0.0,0.0,0.0,0,1.0,2.0,1.0,4.0
+NOR,Athletics,"Athletics Men's 1,500 metres",1,0,0,0,0,42,1928,0.0,0.0,0.0,0.0,0,1.0,2.0,1.0,4.0
+NOR,Athletics,Athletics Men's 800 metres,1,0,0,0,0,42,1928,0.0,0.0,0.0,0.0,0,1.0,2.0,1.0,4.0
+NOR,Athletics,Athletics Men's Decathlon,2,0,0,0,0,42,1928,0.0,0.0,0.0,0.0,0,1.0,2.0,1.0,4.0
+NOR,Athletics,Athletics Men's Discus Throw,3,0,0,0,0,42,1928,0.0,0.0,0.0,0.0,0,1.0,2.0,1.0,4.0
+NOR,Athletics,Athletics Men's Hammer Throw,1,0,0,0,0,42,1928,0.0,0.0,0.0,0.0,0,1.0,2.0,1.0,4.0
+NOR,Athletics,Athletics Men's High Jump,2,0,0,0,0,42,1928,0.0,0.0,0.0,0.0,0,1.0,2.0,1.0,4.0
+NOR,Athletics,Athletics Men's Javelin Throw,1,0,0,1,1,42,1928,0.0,0.0,0.0,0.0,0,1.0,2.0,1.0,4.0
+NOR,Athletics,Athletics Men's Long Jump,2,0,0,0,0,42,1928,0.0,0.0,1.0,1.0,0,1.0,2.0,1.0,4.0
+NOR,Athletics,Athletics Men's Marathon,1,0,0,0,0,42,1928,0.0,0.0,0.0,0.0,0,1.0,2.0,1.0,4.0
+NOR,Athletics,Athletics Men's Shot Put,1,0,0,0,0,42,1928,0.0,0.0,0.0,0.0,0,1.0,2.0,1.0,4.0
+NOR,Athletics,Athletics Men's Triple Jump,1,0,0,0,0,42,1928,0.0,0.0,0.0,0.0,0,1.0,2.0,1.0,4.0
+NOR,Boxing,Boxing Men's Bantamweight,1,0,0,0,0,42,1928,0.0,0.0,0.0,0.0,0,1.0,2.0,1.0,4.0
+NOR,Boxing,Boxing Men's Featherweight,1,0,0,0,0,42,1928,0.0,0.0,0.0,0.0,0,1.0,2.0,1.0,4.0
+NOR,Boxing,Boxing Men's Flyweight,1,0,0,0,0,42,1928,0.0,0.0,0.0,0.0,0,1.0,2.0,1.0,4.0
+NOR,Boxing,Boxing Men's Heavyweight,1,0,0,0,0,42,1928,1.0,0.0,0.0,1.0,0,1.0,2.0,1.0,4.0
+NOR,Boxing,Boxing Men's Lightweight,1,0,0,0,0,42,1928,0.0,0.0,0.0,0.0,0,1.0,2.0,1.0,4.0
+NOR,Cycling,"Cycling Men's Road Race, Individual",4,0,0,0,0,42,1928,0.0,0.0,0.0,0.0,0,1.0,2.0,1.0,4.0
+NOR,Equestrianism,"Equestrianism Men's Dressage, Individual",1,0,0,0,0,42,1928,0.0,0.0,0.0,0.0,0,1.0,2.0,1.0,4.0
+NOR,Equestrianism,"Equestrianism Men's Jumping, Individual",3,0,0,0,0,42,1928,0.0,0.0,0.0,0.0,0,1.0,2.0,1.0,4.0
+NOR,Equestrianism,"Equestrianism Men's Jumping, Team",3,0,0,0,0,42,1928,0.0,0.0,0.0,0.0,0,1.0,2.0,1.0,4.0
+NOR,Equestrianism,"Equestrianism Men's Three-Day Event, Individual",3,0,0,0,0,42,1928,0.0,0.0,0.0,0.0,0,1.0,2.0,1.0,4.0
+NOR,Equestrianism,"Equestrianism Men's Three-Day Event, Team",3,0,3,0,3,42,1928,0.0,0.0,0.0,0.0,0,1.0,2.0,1.0,4.0
+NOR,Fencing,"Fencing Men's Foil, Individual",3,0,0,0,0,42,1928,0.0,0.0,0.0,0.0,0,1.0,2.0,1.0,4.0
+NOR,Fencing,"Fencing Men's Foil, Team",4,0,0,0,0,42,1928,0.0,0.0,0.0,0.0,0,1.0,2.0,1.0,4.0
+NOR,Fencing,"Fencing Men's Sabre, Individual",1,0,0,0,0,42,1928,0.0,0.0,0.0,0.0,0,1.0,2.0,1.0,4.0
+NOR,Fencing,"Fencing Men's epee, Individual",3,0,0,0,0,42,1928,0.0,0.0,0.0,0.0,0,1.0,2.0,1.0,4.0
+NOR,Fencing,"Fencing Men's epee, Team",4,0,0,0,0,42,1928,0.0,0.0,0.0,0.0,0,1.0,2.0,1.0,4.0
+NOR,Sailing,Sailing Mixed 6 metres,4,4,0,0,4,42,1928,3.0,0.0,0.0,3.0,0,1.0,2.0,1.0,4.0
+NOR,Sailing,Sailing Mixed 8 metres,4,0,0,0,0,42,1928,5.0,0.0,0.0,5.0,0,1.0,2.0,1.0,4.0
+NOR,Sailing,Sailing Mixed One Person Dinghy,1,0,1,0,1,42,1928,0.0,1.0,0.0,1.0,0,1.0,2.0,1.0,4.0
+NOR,Swimming,Swimming Men's 100 metres Freestyle,1,0,0,0,0,42,1928,0.0,0.0,0.0,0.0,0,1.0,2.0,1.0,4.0
+NOR,Wrestling,"Wrestling Men's Bantamweight, Greco-Roman",1,0,0,0,0,42,1928,0.0,0.0,0.0,0.0,0,1.0,2.0,1.0,4.0
+NOR,Wrestling,"Wrestling Men's Featherweight, Freestyle",1,0,0,0,0,42,1928,0.0,0.0,0.0,0.0,0,1.0,2.0,1.0,4.0
+NOR,Wrestling,"Wrestling Men's Featherweight, Greco-Roman",1,0,0,0,0,42,1928,0.0,0.0,0.0,0.0,0,1.0,2.0,1.0,4.0
+NOR,Wrestling,"Wrestling Men's Light-Heavyweight, Greco-Roman",1,0,0,0,0,42,1928,0.0,0.0,0.0,0.0,0,1.0,2.0,1.0,4.0
+NOR,Wrestling,"Wrestling Men's Lightweight, Freestyle",1,0,0,0,0,42,1928,0.0,0.0,0.0,0.0,0,1.0,2.0,1.0,4.0
+NOR,Wrestling,"Wrestling Men's Lightweight, Greco-Roman",1,0,0,0,0,42,1928,0.0,0.0,0.0,0.0,0,1.0,2.0,1.0,4.0
+NOR,Wrestling,"Wrestling Men's Middleweight, Greco-Roman",1,0,0,0,0,42,1928,0.0,0.0,0.0,0.0,0,1.0,2.0,1.0,4.0
+NZL,Athletics,Athletics Men's 110 metres Hurdles,1,0,0,0,0,12,1928,0.0,0.0,0.0,0.0,0,1.0,0.0,0.0,1.0
+NZL,Athletics,Athletics Men's Javelin Throw,1,0,0,0,0,12,1928,0.0,0.0,0.0,0.0,0,1.0,0.0,0.0,1.0
+NZL,Athletics,Athletics Men's Triple Jump,1,0,0,0,0,12,1928,0.0,0.0,0.0,0.0,0,1.0,0.0,0.0,1.0
+NZL,Athletics,Athletics Women's 100 metres,1,0,0,0,0,12,1928,0.0,0.0,0.0,0.0,0,1.0,0.0,0.0,1.0
+NZL,Boxing,Boxing Men's Light-Heavyweight,1,0,0,0,0,12,1928,0.0,0.0,0.0,0.0,0,1.0,0.0,0.0,1.0
+NZL,Boxing,Boxing Men's Welterweight,1,1,0,0,1,12,1928,0.0,0.0,0.0,0.0,0,1.0,0.0,0.0,1.0
+NZL,Swimming,"Swimming Men's 1,500 metres Freestyle",1,0,0,0,0,12,1928,0.0,0.0,0.0,0.0,0,1.0,0.0,0.0,1.0
+NZL,Swimming,Swimming Men's 100 metres Backstroke,1,0,0,0,0,12,1928,0.0,0.0,0.0,0.0,0,1.0,0.0,0.0,1.0
+NZL,Swimming,Swimming Men's 400 metres Freestyle,1,0,0,0,0,12,1928,0.0,0.0,0.0,0.0,0,1.0,0.0,0.0,1.0
+NZL,Swimming,Swimming Women's 100 metres Backstroke,1,0,0,0,0,12,1928,0.0,0.0,0.0,0.0,0,1.0,0.0,0.0,1.0
+NZL,Swimming,Swimming Women's 100 metres Freestyle,2,0,0,0,0,12,1928,0.0,0.0,0.0,0.0,0,1.0,0.0,0.0,1.0
+NZL,Swimming,Swimming Women's 400 metres Freestyle,1,0,0,0,0,12,1928,0.0,0.0,0.0,0.0,0,1.0,0.0,0.0,1.0
+PAN,Swimming,Swimming Men's 100 metres Freestyle,1,0,0,0,0,2,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+PAN,Swimming,Swimming Men's 400 metres Freestyle,1,0,0,0,0,2,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+PHI,Athletics,Athletics Men's 100 metres,1,0,0,0,0,6,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,1.0,1.0
+PHI,Athletics,Athletics Men's 200 metres,1,0,0,0,0,6,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,1.0,1.0
+PHI,Athletics,Athletics Men's High Jump,1,0,0,0,0,6,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,1.0,1.0
+PHI,Swimming,"Swimming Men's 1,500 metres Freestyle",1,0,0,0,0,6,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,1.0,1.0
+PHI,Swimming,Swimming Men's 200 metres Breaststroke,1,0,0,1,1,6,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,1.0,1.0
+PHI,Swimming,Swimming Men's 400 metres Freestyle,1,0,0,0,0,6,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,1.0,1.0
+POL,Art Competitions,"Art Competitions Mixed Literature, Lyric Works",2,1,0,0,1,44,1928,0.0,0.0,0.0,0.0,0,1.0,1.0,3.0,5.0
+POL,Art Competitions,"Art Competitions Mixed Music, Compositions For Orchestra",1,0,0,0,0,44,1928,0.0,0.0,0.0,0.0,0,1.0,1.0,3.0,5.0
+POL,Art Competitions,"Art Competitions Mixed Painting, Drawings And Water Colors",4,0,0,1,1,44,1928,0.0,0.0,0.0,0.0,0,1.0,1.0,3.0,5.0
+POL,Art Competitions,"Art Competitions Mixed Painting, Graphic Arts",9,0,0,0,0,44,1928,0.0,0.0,0.0,0.0,0,1.0,1.0,3.0,5.0
+POL,Art Competitions,"Art Competitions Mixed Painting, Paintings",12,0,0,0,0,44,1928,0.0,0.0,0.0,0.0,0,1.0,1.0,3.0,5.0
+POL,Art Competitions,"Art Competitions Mixed Sculpturing, Medals And Reliefs",1,0,0,0,0,44,1928,0.0,0.0,0.0,0.0,0,1.0,1.0,3.0,5.0
+POL,Art Competitions,"Art Competitions Mixed Sculpturing, Statues",1,0,0,0,0,44,1928,0.0,0.0,0.0,0.0,0,1.0,1.0,3.0,5.0
+POL,Athletics,"Athletics Men's 1,500 metres",2,0,0,0,0,44,1928,0.0,0.0,0.0,0.0,0,1.0,1.0,3.0,5.0
+POL,Athletics,Athletics Men's 110 metres Hurdles,1,0,0,0,0,44,1928,0.0,0.0,0.0,0.0,0,1.0,1.0,3.0,5.0
+POL,Athletics,Athletics Men's 4 x 400 metres Relay,4,0,0,0,0,44,1928,0.0,0.0,0.0,0.0,0,1.0,1.0,3.0,5.0
+POL,Athletics,Athletics Men's 400 metres,4,0,0,0,0,44,1928,0.0,0.0,0.0,0.0,0,1.0,1.0,3.0,5.0
+POL,Athletics,Athletics Men's 400 metres Hurdles,1,0,0,0,0,44,1928,0.0,0.0,0.0,0.0,0,1.0,1.0,3.0,5.0
+POL,Athletics,Athletics Men's 800 metres,1,0,0,0,0,44,1928,0.0,0.0,0.0,0.0,0,1.0,1.0,3.0,5.0
+POL,Athletics,Athletics Men's Decathlon,1,0,0,0,0,44,1928,0.0,0.0,0.0,0.0,0,1.0,1.0,3.0,5.0
+POL,Athletics,Athletics Men's Discus Throw,1,0,0,0,0,44,1928,0.0,0.0,0.0,0.0,0,1.0,1.0,3.0,5.0
+POL,Athletics,Athletics Men's Long Jump,1,0,0,0,0,44,1928,0.0,0.0,0.0,0.0,0,1.0,1.0,3.0,5.0
+POL,Athletics,Athletics Women's 800 metres,2,0,0,0,0,44,1928,0.0,0.0,0.0,0.0,0,1.0,1.0,3.0,5.0
+POL,Athletics,Athletics Women's Discus Throw,2,1,0,0,1,44,1928,0.0,0.0,0.0,0.0,0,1.0,1.0,3.0,5.0
+POL,Boxing,Boxing Men's Bantamweight,1,0,0,0,0,44,1928,0.0,0.0,0.0,0.0,0,1.0,1.0,3.0,5.0
+POL,Boxing,Boxing Men's Featherweight,1,0,0,0,0,44,1928,0.0,0.0,0.0,0.0,0,1.0,1.0,3.0,5.0
+POL,Boxing,Boxing Men's Lightweight,1,0,0,0,0,44,1928,0.0,0.0,0.0,0.0,0,1.0,1.0,3.0,5.0
+POL,Boxing,Boxing Men's Middleweight,1,0,0,0,0,44,1928,0.0,0.0,0.0,0.0,0,1.0,1.0,3.0,5.0
+POL,Cycling,"Cycling Men's 1,000 metres Time Trial",1,0,0,0,0,44,1928,0.0,0.0,0.0,0.0,0,1.0,1.0,3.0,5.0
+POL,Cycling,"Cycling Men's Road Race, Individual",4,0,0,0,0,44,1928,0.0,0.0,0.0,0.0,0,1.0,1.0,3.0,5.0
+POL,Cycling,"Cycling Men's Road Race, Team",4,0,0,0,0,44,1928,0.0,0.0,0.0,0.0,0,1.0,1.0,3.0,5.0
+POL,Cycling,Cycling Men's Sprint,1,0,0,0,0,44,1928,0.0,0.0,0.0,0.0,0,1.0,1.0,3.0,5.0
+POL,Cycling,"Cycling Men's Tandem Sprint, 2,000 metres",2,0,0,0,0,44,1928,0.0,0.0,0.0,0.0,0,1.0,1.0,3.0,5.0
+POL,Cycling,"Cycling Men's Team Pursuit, 4,000 metres",4,0,0,0,0,44,1928,0.0,4.0,0.0,4.0,0,1.0,1.0,3.0,5.0
+POL,Equestrianism,"Equestrianism Men's Jumping, Individual",3,0,0,0,0,44,1928,0.0,0.0,1.0,1.0,0,1.0,1.0,3.0,5.0
+POL,Equestrianism,"Equestrianism Men's Jumping, Team",3,0,3,0,3,44,1928,0.0,0.0,0.0,0.0,0,1.0,1.0,3.0,5.0
+POL,Equestrianism,"Equestrianism Men's Three-Day Event, Individual",3,0,0,0,0,44,1928,0.0,0.0,0.0,0.0,0,1.0,1.0,3.0,5.0
+POL,Equestrianism,"Equestrianism Men's Three-Day Event, Team",3,0,0,3,3,44,1928,0.0,0.0,0.0,0.0,0,1.0,1.0,3.0,5.0
+POL,Fencing,"Fencing Men's Foil, Individual",1,0,0,0,0,44,1928,0.0,0.0,0.0,0.0,0,1.0,1.0,3.0,5.0
+POL,Fencing,"Fencing Men's Sabre, Team",6,0,0,6,6,44,1928,0.0,0.0,0.0,0.0,0,1.0,1.0,3.0,5.0
+POL,Modern Pentathlon,Modern Pentathlon Men's Individual,3,0,0,0,0,44,1928,0.0,0.0,0.0,0.0,0,1.0,1.0,3.0,5.0
+POL,Rowing,Rowing Men's Coxed Eights,9,0,0,0,0,44,1928,0.0,0.0,0.0,0.0,0,1.0,1.0,3.0,5.0
+POL,Rowing,Rowing Men's Coxed Fours,5,0,0,5,5,44,1928,0.0,0.0,0.0,0.0,0,1.0,1.0,3.0,5.0
+POL,Sailing,Sailing Mixed One Person Dinghy,2,0,0,0,0,44,1928,0.0,0.0,0.0,0.0,0,1.0,1.0,3.0,5.0
+POL,Swimming,Swimming Men's 100 metres Freestyle,1,0,0,0,0,44,1928,0.0,0.0,0.0,0.0,0,1.0,1.0,3.0,5.0
+POL,Swimming,Swimming Women's 200 metres Breaststroke,1,0,0,0,0,44,1928,0.0,0.0,0.0,0.0,0,1.0,1.0,3.0,5.0
+POL,Wrestling,"Wrestling Men's Bantamweight, Greco-Roman",1,0,0,0,0,44,1928,0.0,0.0,0.0,0.0,0,1.0,1.0,3.0,5.0
+POL,Wrestling,"Wrestling Men's Featherweight, Greco-Roman",1,0,0,0,0,44,1928,0.0,0.0,0.0,0.0,0,1.0,1.0,3.0,5.0
+POL,Wrestling,"Wrestling Men's Light-Heavyweight, Greco-Roman",1,0,0,0,0,44,1928,0.0,0.0,0.0,0.0,0,1.0,1.0,3.0,5.0
+POL,Wrestling,"Wrestling Men's Lightweight, Greco-Roman",1,0,0,0,0,44,1928,0.0,0.0,0.0,0.0,0,1.0,1.0,3.0,5.0
+POR,Athletics,Athletics Men's 100 metres,1,0,0,0,0,14,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,1.0,1.0
+POR,Athletics,Athletics Men's 110 metres Hurdles,1,0,0,0,0,14,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,1.0,1.0
+POR,Athletics,Athletics Men's 200 metres,1,0,0,0,0,14,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,1.0,1.0
+POR,Athletics,"Athletics Men's 3,000 metres Steeplechase",1,0,0,0,0,14,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,1.0,1.0
+POR,Equestrianism,"Equestrianism Men's Jumping, Individual",3,0,0,0,0,14,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,1.0,1.0
+POR,Equestrianism,"Equestrianism Men's Jumping, Team",3,0,0,0,0,14,1928,0.0,0.0,4.0,4.0,0,0.0,0.0,1.0,1.0
+POR,Fencing,"Fencing Men's Foil, Individual",1,0,0,0,0,14,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,1.0,1.0
+POR,Fencing,"Fencing Men's epee, Individual",3,0,0,0,0,14,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,1.0,1.0
+POR,Fencing,"Fencing Men's epee, Team",6,0,0,6,6,14,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,1.0,1.0
+POR,Football,Football Men's Football,12,0,0,0,0,14,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,1.0,1.0
+POR,Modern Pentathlon,Modern Pentathlon Men's Individual,1,0,0,0,0,14,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,1.0,1.0
+POR,Sailing,Sailing Mixed 6 metres,4,0,0,0,0,14,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,1.0,1.0
+POR,Weightlifting,Weightlifting Men's Featherweight,1,0,0,0,0,14,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,1.0,1.0
+POR,Wrestling,"Wrestling Men's Featherweight, Greco-Roman",1,0,0,0,0,14,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,1.0,1.0
+ROU,Athletics,Athletics Men's 100 metres,1,0,0,0,0,16,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+ROU,Athletics,Athletics Men's 110 metres Hurdles,2,0,0,0,0,16,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+ROU,Athletics,Athletics Men's 200 metres,1,0,0,0,0,16,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+ROU,Athletics,Athletics Men's Decathlon,3,0,0,0,0,16,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+ROU,Athletics,Athletics Men's Discus Throw,1,0,0,0,0,16,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+ROU,Athletics,Athletics Men's High Jump,2,0,0,0,0,16,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+ROU,Athletics,Athletics Men's Javelin Throw,1,0,0,0,0,16,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+ROU,Athletics,Athletics Men's Marathon,1,0,0,0,0,16,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+ROU,Athletics,Athletics Men's Shot Put,2,0,0,0,0,16,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+ROU,Athletics,Athletics Women's Discus Throw,1,0,0,0,0,16,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+ROU,Athletics,Athletics Women's High Jump,1,0,0,0,0,16,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+ROU,Fencing,"Fencing Men's Foil, Individual",2,0,0,0,0,16,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+ROU,Fencing,"Fencing Men's Foil, Team",5,0,0,0,0,16,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+ROU,Fencing,"Fencing Men's Sabre, Individual",2,0,0,0,0,16,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+ROU,Fencing,"Fencing Men's epee, Individual",3,0,0,0,0,16,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+ROU,Fencing,"Fencing Men's epee, Team",5,0,0,0,0,16,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+RSA,Athletics,"Athletics Men's 1,500 metres",1,0,0,0,0,25,1928,0.0,0.0,0.0,0.0,0,1.0,0.0,2.0,3.0
+RSA,Athletics,"Athletics Men's 10,000 metres",1,0,0,0,0,25,1928,0.0,0.0,0.0,0.0,0,1.0,0.0,2.0,3.0
+RSA,Athletics,Athletics Men's 100 metres,4,0,0,0,0,25,1928,0.0,0.0,0.0,0.0,0,1.0,0.0,2.0,3.0
+RSA,Athletics,Athletics Men's 110 metres Hurdles,3,1,0,0,1,25,1928,0.0,1.0,0.0,1.0,0,1.0,0.0,2.0,3.0
+RSA,Athletics,Athletics Men's 200 metres,3,0,0,0,0,25,1928,0.0,0.0,0.0,0.0,0,1.0,0.0,2.0,3.0
+RSA,Athletics,Athletics Men's Decathlon,2,0,0,0,0,25,1928,0.0,0.0,0.0,0.0,0,1.0,0.0,2.0,3.0
+RSA,Athletics,Athletics Men's Javelin Throw,1,0,0,0,0,25,1928,0.0,0.0,0.0,0.0,0,1.0,0.0,2.0,3.0
+RSA,Athletics,Athletics Men's Long Jump,1,0,0,0,0,25,1928,0.0,0.0,0.0,0.0,0,1.0,0.0,2.0,3.0
+RSA,Athletics,Athletics Men's Marathon,1,0,0,0,0,25,1928,0.0,0.0,0.0,0.0,0,1.0,0.0,2.0,3.0
+RSA,Athletics,Athletics Men's Triple Jump,1,0,0,0,0,25,1928,0.0,0.0,0.0,0.0,0,1.0,0.0,2.0,3.0
+RSA,Athletics,Athletics Women's 100 metres,1,0,0,0,0,25,1928,0.0,0.0,0.0,0.0,0,1.0,0.0,2.0,3.0
+RSA,Athletics,Athletics Women's High Jump,1,0,0,0,0,25,1928,0.0,0.0,0.0,0.0,0,1.0,0.0,2.0,3.0
+RSA,Boxing,Boxing Men's Bantamweight,1,0,0,1,1,25,1928,1.0,0.0,0.0,1.0,0,1.0,0.0,2.0,3.0
+RSA,Boxing,Boxing Men's Flyweight,1,0,0,0,0,25,1928,0.0,0.0,0.0,0.0,0,1.0,0.0,2.0,3.0
+RSA,Boxing,Boxing Men's Light-Heavyweight,1,0,0,0,0,25,1928,0.0,0.0,0.0,0.0,0,1.0,0.0,2.0,3.0
+RSA,Boxing,Boxing Men's Lightweight,1,0,0,0,0,25,1928,0.0,0.0,0.0,0.0,0,1.0,0.0,2.0,3.0
+RSA,Boxing,Boxing Men's Middleweight,1,0,0,0,0,25,1928,0.0,0.0,0.0,0.0,0,1.0,0.0,2.0,3.0
+RSA,Boxing,Boxing Men's Welterweight,1,0,0,0,0,25,1928,0.0,0.0,0.0,0.0,0,1.0,0.0,2.0,3.0
+RSA,Cycling,"Cycling Men's Road Race, Individual",1,0,0,0,0,25,1928,0.0,0.0,0.0,0.0,0,1.0,0.0,2.0,3.0
+RSA,Rowing,Rowing Men's Single Sculls,1,0,0,0,0,25,1928,0.0,0.0,0.0,0.0,0,1.0,0.0,2.0,3.0
+RSA,Sailing,Sailing Mixed One Person Dinghy,1,0,0,0,0,25,1928,0.0,0.0,0.0,0.0,0,1.0,0.0,2.0,3.0
+RSA,Swimming,Swimming Women's 100 metres Freestyle,3,0,0,0,0,25,1928,0.0,0.0,0.0,0.0,0,1.0,0.0,2.0,3.0
+RSA,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,4,0,0,4,4,25,1928,0.0,0.0,0.0,0.0,0,1.0,0.0,2.0,3.0
+RSA,Swimming,Swimming Women's 400 metres Freestyle,3,0,0,0,0,25,1928,0.0,0.0,0.0,0.0,0,1.0,0.0,2.0,3.0
+RSA,Wrestling,"Wrestling Men's Middleweight, Freestyle",1,0,0,0,0,25,1928,0.0,0.0,0.0,0.0,0,1.0,0.0,2.0,3.0
+SUI,Art Competitions,"Art Competitions Mixed Architecture, Architectural Designs",1,0,0,0,0,70,1928,0.0,0.0,0.0,0.0,0,7.0,4.0,4.0,15.0
+SUI,Art Competitions,"Art Competitions Mixed Architecture, Designs For Town Planning",1,0,0,0,0,70,1928,0.0,0.0,0.0,0.0,0,7.0,4.0,4.0,15.0
+SUI,Art Competitions,"Art Competitions Mixed Literature, Dramatic Works",2,0,0,0,0,70,1928,0.0,0.0,0.0,0.0,0,7.0,4.0,4.0,15.0
+SUI,Art Competitions,"Art Competitions Mixed Literature, Epic Works",2,0,0,0,0,70,1928,0.0,0.0,0.0,0.0,0,7.0,4.0,4.0,15.0
+SUI,Art Competitions,"Art Competitions Mixed Literature, Lyric Works",2,0,0,0,0,70,1928,0.0,0.0,0.0,0.0,0,7.0,4.0,4.0,15.0
+SUI,Art Competitions,"Art Competitions Mixed Music, Compositions For Orchestra",3,0,0,0,0,70,1928,0.0,0.0,0.0,0.0,0,7.0,4.0,4.0,15.0
+SUI,Art Competitions,"Art Competitions Mixed Music, Compositions For Solo Or Chorus",1,0,0,0,0,70,1928,0.0,0.0,0.0,0.0,0,7.0,4.0,4.0,15.0
+SUI,Art Competitions,"Art Competitions Mixed Music, Instrumental And Chamber",3,0,0,0,0,70,1928,0.0,0.0,0.0,0.0,0,7.0,4.0,4.0,15.0
+SUI,Art Competitions,"Art Competitions Mixed Painting, Graphic Arts",2,0,1,0,1,70,1928,0.0,0.0,0.0,0.0,0,7.0,4.0,4.0,15.0
+SUI,Art Competitions,"Art Competitions Mixed Sculpturing, Medals And Reliefs",3,0,0,0,0,70,1928,0.0,0.0,0.0,0.0,0,7.0,4.0,4.0,15.0
+SUI,Art Competitions,"Art Competitions Mixed Sculpturing, Statues",5,0,1,0,1,70,1928,0.0,0.0,0.0,0.0,0,7.0,4.0,4.0,15.0
+SUI,Athletics,"Athletics Men's 1,500 metres",1,0,0,0,0,70,1928,0.0,1.0,0.0,1.0,0,7.0,4.0,4.0,15.0
+SUI,Athletics,Athletics Men's 100 metres,3,0,0,0,0,70,1928,0.0,0.0,0.0,0.0,0,7.0,4.0,4.0,15.0
+SUI,Athletics,Athletics Men's 200 metres,2,0,0,0,0,70,1928,0.0,0.0,0.0,0.0,0,7.0,4.0,4.0,15.0
+SUI,Athletics,Athletics Men's 4 x 100 metres Relay,4,0,0,0,0,70,1928,0.0,0.0,0.0,0.0,0,7.0,4.0,4.0,15.0
+SUI,Athletics,Athletics Men's 800 metres,1,0,0,0,0,70,1928,0.0,1.0,0.0,1.0,0,7.0,4.0,4.0,15.0
+SUI,Athletics,Athletics Men's Decathlon,1,0,0,0,0,70,1928,0.0,0.0,0.0,0.0,0,7.0,4.0,4.0,15.0
+SUI,Athletics,Athletics Men's Discus Throw,1,0,0,0,0,70,1928,0.0,0.0,0.0,0.0,0,7.0,4.0,4.0,15.0
+SUI,Athletics,Athletics Men's Long Jump,2,0,0,0,0,70,1928,0.0,0.0,0.0,0.0,0,7.0,4.0,4.0,15.0
+SUI,Athletics,Athletics Men's Shot Put,1,0,0,0,0,70,1928,0.0,0.0,0.0,0.0,0,7.0,4.0,4.0,15.0
+SUI,Cycling,"Cycling Men's 1,000 metres Time Trial",1,0,0,0,0,70,1928,0.0,0.0,0.0,0.0,0,7.0,4.0,4.0,15.0
+SUI,Cycling,"Cycling Men's Road Race, Individual",4,0,0,0,0,70,1928,0.0,0.0,0.0,0.0,0,7.0,4.0,4.0,15.0
+SUI,Cycling,"Cycling Men's Road Race, Team",3,0,0,0,0,70,1928,0.0,0.0,0.0,0.0,0,7.0,4.0,4.0,15.0
+SUI,Cycling,Cycling Men's Sprint,1,0,0,0,0,70,1928,0.0,0.0,0.0,0.0,0,7.0,4.0,4.0,15.0
+SUI,Cycling,"Cycling Men's Team Pursuit, 4,000 metres",4,0,0,0,0,70,1928,0.0,0.0,0.0,0.0,0,7.0,4.0,4.0,15.0
+SUI,Diving,Diving Men's Springboard,1,0,0,0,0,70,1928,0.0,0.0,0.0,0.0,0,7.0,4.0,4.0,15.0
+SUI,Equestrianism,"Equestrianism Men's Dressage, Individual",3,0,0,0,0,70,1928,0.0,0.0,0.0,0.0,0,7.0,4.0,4.0,15.0
+SUI,Equestrianism,"Equestrianism Men's Dressage, Team",3,0,0,0,0,70,1928,0.0,0.0,0.0,0.0,0,7.0,4.0,4.0,15.0
+SUI,Equestrianism,"Equestrianism Men's Jumping, Individual",3,0,0,1,1,70,1928,1.0,0.0,0.0,1.0,0,7.0,4.0,4.0,15.0
+SUI,Equestrianism,"Equestrianism Men's Jumping, Team",3,0,0,0,0,70,1928,0.0,4.0,0.0,4.0,0,7.0,4.0,4.0,15.0
+SUI,Equestrianism,"Equestrianism Men's Three-Day Event, Individual",3,0,0,0,0,70,1928,0.0,0.0,0.0,0.0,0,7.0,4.0,4.0,15.0
+SUI,Equestrianism,"Equestrianism Men's Three-Day Event, Team",3,0,0,0,0,70,1928,0.0,0.0,0.0,0.0,0,7.0,4.0,4.0,15.0
+SUI,Fencing,"Fencing Men's Foil, Individual",3,0,0,0,0,70,1928,0.0,0.0,0.0,0.0,0,7.0,4.0,4.0,15.0
+SUI,Fencing,"Fencing Men's Foil, Team",6,0,0,0,0,70,1928,0.0,0.0,0.0,0.0,0,7.0,4.0,4.0,15.0
+SUI,Fencing,"Fencing Men's epee, Individual",3,0,0,0,0,70,1928,0.0,0.0,0.0,0.0,0,7.0,4.0,4.0,15.0
+SUI,Fencing,"Fencing Men's epee, Team",6,0,0,0,0,70,1928,0.0,0.0,0.0,0.0,0,7.0,4.0,4.0,15.0
+SUI,Fencing,"Fencing Women's Foil, Individual",1,0,0,0,0,70,1928,0.0,0.0,0.0,0.0,0,7.0,4.0,4.0,15.0
+SUI,Football,Football Men's Football,11,0,0,0,0,70,1928,0.0,15.0,0.0,15.0,0,7.0,4.0,4.0,15.0
+SUI,Gymnastics,Gymnastics Men's Horizontal Bar,8,1,0,1,2,70,1928,0.0,1.0,0.0,1.0,0,7.0,4.0,4.0,15.0
+SUI,Gymnastics,Gymnastics Men's Horse Vault,8,1,0,0,1,70,1928,0.0,0.0,0.0,0.0,0,7.0,4.0,4.0,15.0
+SUI,Gymnastics,Gymnastics Men's Individual All-Around,8,1,1,0,2,70,1928,0.0,0.0,0.0,0.0,0,7.0,4.0,4.0,15.0
+SUI,Gymnastics,Gymnastics Men's Parallel Bars,8,0,0,1,1,70,1928,1.0,0.0,0.0,1.0,0,7.0,4.0,4.0,15.0
+SUI,Gymnastics,Gymnastics Men's Pommelled Horse,8,1,1,0,2,70,1928,1.0,1.0,1.0,3.0,0,7.0,4.0,4.0,15.0
+SUI,Gymnastics,Gymnastics Men's Rings,8,0,0,0,0,70,1928,0.0,0.0,0.0,0.0,0,7.0,4.0,4.0,15.0
+SUI,Gymnastics,Gymnastics Men's Team All-Around,8,8,0,0,8,70,1928,0.0,0.0,8.0,8.0,0,7.0,4.0,4.0,15.0
+SUI,Hockey,Hockey Men's Hockey,16,0,0,0,0,70,1928,0.0,0.0,0.0,0.0,0,7.0,4.0,4.0,15.0
+SUI,Rowing,Rowing Men's Coxed Fours,5,0,5,0,5,70,1928,6.0,0.0,0.0,6.0,0,7.0,4.0,4.0,15.0
+SUI,Rowing,Rowing Men's Coxed Pairs,3,3,0,0,3,70,1928,3.0,0.0,0.0,3.0,0,7.0,4.0,4.0,15.0
+SUI,Rowing,Rowing Men's Coxless Pairs,2,0,0,0,0,70,1928,0.0,0.0,0.0,0.0,0,7.0,4.0,4.0,15.0
+SUI,Rowing,Rowing Men's Double Sculls,2,0,0,0,0,70,1928,0.0,0.0,2.0,2.0,0,7.0,4.0,4.0,15.0
+SUI,Rowing,Rowing Men's Single Sculls,1,0,0,0,0,70,1928,0.0,0.0,1.0,1.0,0,7.0,4.0,4.0,15.0
+SUI,Sailing,Sailing Mixed One Person Dinghy,1,0,0,0,0,70,1928,0.0,0.0,0.0,0.0,0,7.0,4.0,4.0,15.0
+SUI,Swimming,Swimming Men's 200 metres Breaststroke,1,0,0,0,0,70,1928,0.0,0.0,0.0,0.0,0,7.0,4.0,4.0,15.0
+SUI,Water Polo,Water Polo Men's Water Polo,7,0,0,0,0,70,1928,0.0,0.0,0.0,0.0,0,7.0,4.0,4.0,15.0
+SUI,Weightlifting,Weightlifting Men's Featherweight,2,0,0,0,0,70,1928,0.0,0.0,1.0,1.0,0,7.0,4.0,4.0,15.0
+SUI,Weightlifting,Weightlifting Men's Heavyweight,2,0,0,0,0,70,1928,0.0,0.0,0.0,0.0,0,7.0,4.0,4.0,15.0
+SUI,Weightlifting,Weightlifting Men's Light-Heavyweight,2,0,0,0,0,70,1928,0.0,1.0,0.0,1.0,0,7.0,4.0,4.0,15.0
+SUI,Weightlifting,Weightlifting Men's Lightweight,2,0,0,0,0,70,1928,0.0,0.0,0.0,0.0,0,7.0,4.0,4.0,15.0
+SUI,Weightlifting,Weightlifting Men's Middleweight,2,0,0,0,0,70,1928,0.0,0.0,0.0,0.0,0,7.0,4.0,4.0,15.0
+SUI,Wrestling,"Wrestling Men's Bantamweight, Freestyle",1,0,0,0,0,70,1928,0.0,0.0,0.0,0.0,0,7.0,4.0,4.0,15.0
+SUI,Wrestling,"Wrestling Men's Featherweight, Freestyle",1,0,0,1,1,70,1928,0.0,0.0,0.0,0.0,0,7.0,4.0,4.0,15.0
+SUI,Wrestling,"Wrestling Men's Featherweight, Greco-Roman",1,0,0,0,0,70,1928,0.0,0.0,0.0,0.0,0,7.0,4.0,4.0,15.0
+SUI,Wrestling,"Wrestling Men's Heavyweight, Freestyle",1,0,0,0,0,70,1928,0.0,1.0,0.0,1.0,0,7.0,4.0,4.0,15.0
+SUI,Wrestling,"Wrestling Men's Light-Heavyweight, Freestyle",1,0,1,0,1,70,1928,0.0,0.0,1.0,1.0,0,7.0,4.0,4.0,15.0
+SUI,Wrestling,"Wrestling Men's Light-Heavyweight, Greco-Roman",1,0,0,0,0,70,1928,0.0,0.0,0.0,0.0,0,7.0,4.0,4.0,15.0
+SUI,Wrestling,"Wrestling Men's Lightweight, Freestyle",1,0,0,0,0,70,1928,0.0,0.0,0.0,0.0,0,7.0,4.0,4.0,15.0
+SUI,Wrestling,"Wrestling Men's Lightweight, Greco-Roman",1,0,0,0,0,70,1928,0.0,0.0,0.0,0.0,0,7.0,4.0,4.0,15.0
+SUI,Wrestling,"Wrestling Men's Middleweight, Freestyle",1,1,0,0,1,70,1928,1.0,0.0,0.0,1.0,0,7.0,4.0,4.0,15.0
+SUI,Wrestling,"Wrestling Men's Middleweight, Greco-Roman",1,0,0,0,0,70,1928,0.0,0.0,0.0,0.0,0,7.0,4.0,4.0,15.0
+SUI,Wrestling,"Wrestling Men's Welterweight, Freestyle",1,0,0,0,0,70,1928,1.0,0.0,1.0,2.0,0,7.0,4.0,4.0,15.0
+SWE,Athletics,"Athletics Men's 1,500 metres",1,0,0,0,0,66,1928,0.0,0.0,0.0,0.0,0,7.0,6.0,12.0,25.0
+SWE,Athletics,"Athletics Men's 10,000 metres",3,0,0,1,1,66,1928,0.0,1.0,0.0,1.0,0,7.0,6.0,12.0,25.0
+SWE,Athletics,Athletics Men's 110 metres Hurdles,4,0,0,0,0,66,1928,0.0,0.0,1.0,1.0,0,7.0,6.0,12.0,25.0
+SWE,Athletics,Athletics Men's 200 metres,1,0,0,0,0,66,1928,0.0,0.0,0.0,0.0,0,7.0,6.0,12.0,25.0
+SWE,Athletics,"Athletics Men's 3,000 metres Steeplechase",2,0,0,0,0,66,1928,0.0,0.0,0.0,0.0,0,7.0,6.0,12.0,25.0
+SWE,Athletics,Athletics Men's 4 x 400 metres Relay,4,0,0,0,0,66,1928,0.0,4.0,0.0,4.0,0,7.0,6.0,12.0,25.0
+SWE,Athletics,Athletics Men's 400 metres Hurdles,2,0,0,0,0,66,1928,0.0,0.0,0.0,0.0,0,7.0,6.0,12.0,25.0
+SWE,Athletics,"Athletics Men's 5,000 metres",3,0,0,1,1,66,1928,0.0,0.0,1.0,1.0,0,7.0,6.0,12.0,25.0
+SWE,Athletics,Athletics Men's 800 metres,1,0,1,0,1,66,1928,0.0,0.0,0.0,0.0,0,7.0,6.0,12.0,25.0
+SWE,Athletics,Athletics Men's Decathlon,4,0,0,0,0,66,1928,0.0,0.0,0.0,0.0,0,7.0,6.0,12.0,25.0
+SWE,Athletics,Athletics Men's Hammer Throw,2,0,1,0,1,66,1928,0.0,0.0,0.0,0.0,0,7.0,6.0,12.0,25.0
+SWE,Athletics,Athletics Men's High Jump,1,0,0,0,0,66,1928,0.0,0.0,0.0,0.0,0,7.0,6.0,12.0,25.0
+SWE,Athletics,Athletics Men's Javelin Throw,2,1,0,0,1,66,1928,0.0,1.0,0.0,1.0,0,7.0,6.0,12.0,25.0
+SWE,Athletics,Athletics Men's Long Jump,2,0,0,0,0,66,1928,0.0,0.0,0.0,0.0,0,7.0,6.0,12.0,25.0
+SWE,Athletics,Athletics Men's Marathon,2,0,0,0,0,66,1928,0.0,0.0,0.0,0.0,0,7.0,6.0,12.0,25.0
+SWE,Athletics,Athletics Men's Pole Vault,1,0,0,0,0,66,1928,0.0,0.0,0.0,0.0,0,7.0,6.0,12.0,25.0
+SWE,Athletics,Athletics Women's 100 metres,2,0,0,0,0,66,1928,0.0,0.0,0.0,0.0,0,7.0,6.0,12.0,25.0
+SWE,Athletics,Athletics Women's 4 x 100 metres Relay,4,0,0,0,0,66,1928,0.0,0.0,0.0,0.0,0,7.0,6.0,12.0,25.0
+SWE,Athletics,Athletics Women's 800 metres,2,0,0,1,1,66,1928,0.0,0.0,0.0,0.0,0,7.0,6.0,12.0,25.0
+SWE,Athletics,Athletics Women's Discus Throw,1,0,0,1,1,66,1928,0.0,0.0,0.0,0.0,0,7.0,6.0,12.0,25.0
+SWE,Athletics,Athletics Women's High Jump,2,0,0,0,0,66,1928,0.0,0.0,0.0,0.0,0,7.0,6.0,12.0,25.0
+SWE,Boxing,Boxing Men's Bantamweight,1,0,0,0,0,66,1928,0.0,0.0,0.0,0.0,0,7.0,6.0,12.0,25.0
+SWE,Boxing,Boxing Men's Featherweight,1,0,0,0,0,66,1928,0.0,0.0,0.0,0.0,0,7.0,6.0,12.0,25.0
+SWE,Boxing,Boxing Men's Flyweight,1,0,0,0,0,66,1928,0.0,0.0,0.0,0.0,0,7.0,6.0,12.0,25.0
+SWE,Boxing,Boxing Men's Heavyweight,1,0,1,0,1,66,1928,0.0,0.0,0.0,0.0,0,7.0,6.0,12.0,25.0
+SWE,Boxing,Boxing Men's Light-Heavyweight,1,0,0,0,0,66,1928,0.0,0.0,0.0,0.0,0,7.0,6.0,12.0,25.0
+SWE,Boxing,Boxing Men's Lightweight,1,0,0,1,1,66,1928,0.0,0.0,0.0,0.0,0,7.0,6.0,12.0,25.0
+SWE,Boxing,Boxing Men's Middleweight,1,0,0,0,0,66,1928,0.0,0.0,0.0,0.0,0,7.0,6.0,12.0,25.0
+SWE,Boxing,Boxing Men's Welterweight,1,0,0,0,0,66,1928,0.0,0.0,0.0,0.0,0,7.0,6.0,12.0,25.0
+SWE,Cycling,"Cycling Men's Road Race, Individual",4,0,0,1,1,66,1928,0.0,0.0,0.0,0.0,0,7.0,6.0,12.0,25.0
+SWE,Cycling,"Cycling Men's Road Race, Team",4,0,0,4,4,66,1928,0.0,0.0,4.0,4.0,0,7.0,6.0,12.0,25.0
+SWE,Diving,Diving Men's Platform,3,0,0,0,0,66,1928,0.0,0.0,0.0,0.0,0,7.0,6.0,12.0,25.0
+SWE,Diving,Diving Men's Springboard,2,0,0,0,0,66,1928,0.0,0.0,0.0,0.0,0,7.0,6.0,12.0,25.0
+SWE,Diving,Diving Women's Platform,3,0,0,1,1,66,1928,0.0,0.0,0.0,0.0,0,7.0,6.0,12.0,25.0
+SWE,Equestrianism,"Equestrianism Men's Dressage, Individual",3,0,0,1,1,66,1928,1.0,1.0,0.0,2.0,0,7.0,6.0,12.0,25.0
+SWE,Equestrianism,"Equestrianism Men's Dressage, Team",3,0,3,0,3,66,1928,0.0,0.0,0.0,0.0,0,7.0,6.0,12.0,25.0
+SWE,Equestrianism,"Equestrianism Men's Jumping, Individual",3,0,0,0,0,66,1928,0.0,0.0,0.0,0.0,0,7.0,6.0,12.0,25.0
+SWE,Equestrianism,"Equestrianism Men's Jumping, Team",3,0,0,3,3,66,1928,4.0,0.0,0.0,4.0,0,7.0,6.0,12.0,25.0
+SWE,Equestrianism,"Equestrianism Men's Three-Day Event, Individual",3,0,0,0,0,66,1928,0.0,0.0,0.0,0.0,0,7.0,6.0,12.0,25.0
+SWE,Equestrianism,"Equestrianism Men's Three-Day Event, Team",3,0,0,0,0,66,1928,0.0,4.0,0.0,4.0,0,7.0,6.0,12.0,25.0
+SWE,Fencing,"Fencing Men's Foil, Individual",2,0,0,0,0,66,1928,0.0,0.0,0.0,0.0,0,7.0,6.0,12.0,25.0
+SWE,Fencing,"Fencing Men's epee, Individual",3,0,0,0,0,66,1928,0.0,0.0,1.0,1.0,0,7.0,6.0,12.0,25.0
+SWE,Fencing,"Fencing Men's epee, Team",5,0,0,0,0,66,1928,0.0,0.0,0.0,0.0,0,7.0,6.0,12.0,25.0
+SWE,Fencing,"Fencing Women's Foil, Individual",2,0,0,0,0,66,1928,0.0,0.0,0.0,0.0,0,7.0,6.0,12.0,25.0
+SWE,Modern Pentathlon,Modern Pentathlon Men's Individual,3,1,1,0,2,66,1928,1.0,1.0,1.0,3.0,0,7.0,6.0,12.0,25.0
+SWE,Sailing,Sailing Mixed 6 metres,4,0,0,0,0,66,1928,0.0,0.0,0.0,0.0,0,7.0,6.0,12.0,25.0
+SWE,Sailing,Sailing Mixed 8 metres,6,0,0,6,6,66,1928,0.0,0.0,0.0,0.0,0,7.0,6.0,12.0,25.0
+SWE,Sailing,Sailing Mixed One Person Dinghy,1,1,0,0,1,66,1928,0.0,0.0,0.0,0.0,0,7.0,6.0,12.0,25.0
+SWE,Swimming,"Swimming Men's 1,500 metres Freestyle",1,1,0,0,1,66,1928,0.0,1.0,0.0,1.0,0,7.0,6.0,12.0,25.0
+SWE,Swimming,Swimming Men's 100 metres Backstroke,2,0,0,0,0,66,1928,0.0,0.0,0.0,0.0,0,7.0,6.0,12.0,25.0
+SWE,Swimming,Swimming Men's 100 metres Freestyle,2,0,0,0,0,66,1928,0.0,0.0,0.0,0.0,0,7.0,6.0,12.0,25.0
+SWE,Swimming,Swimming Men's 200 metres Breaststroke,2,0,0,0,0,66,1928,0.0,0.0,0.0,0.0,0,7.0,6.0,12.0,25.0
+SWE,Swimming,Swimming Men's 4 x 200 metres Freestyle Relay,4,0,0,0,0,66,1928,0.0,0.0,6.0,6.0,0,7.0,6.0,12.0,25.0
+SWE,Swimming,Swimming Men's 400 metres Freestyle,1,0,0,1,1,66,1928,0.0,1.0,0.0,1.0,0,7.0,6.0,12.0,25.0
+SWE,Swimming,Swimming Women's 200 metres Breaststroke,2,0,0,0,0,66,1928,0.0,0.0,0.0,0.0,0,7.0,6.0,12.0,25.0
+SWE,Weightlifting,Weightlifting Men's Lightweight,1,0,0,0,0,66,1928,0.0,0.0,0.0,0.0,0,7.0,6.0,12.0,25.0
+SWE,Weightlifting,Weightlifting Men's Middleweight,1,0,0,0,0,66,1928,0.0,0.0,0.0,0.0,0,7.0,6.0,12.0,25.0
+SWE,Wrestling,"Wrestling Men's Bantamweight, Greco-Roman",1,0,0,0,0,66,1928,0.0,0.0,0.0,0.0,0,7.0,6.0,12.0,25.0
+SWE,Wrestling,"Wrestling Men's Featherweight, Greco-Roman",1,0,1,0,1,66,1928,0.0,0.0,1.0,1.0,0,7.0,6.0,12.0,25.0
+SWE,Wrestling,"Wrestling Men's Heavyweight, Freestyle",1,1,0,0,1,66,1928,0.0,0.0,0.0,0.0,0,7.0,6.0,12.0,25.0
+SWE,Wrestling,"Wrestling Men's Heavyweight, Greco-Roman",1,1,0,0,1,66,1928,0.0,0.0,0.0,0.0,0,7.0,6.0,12.0,25.0
+SWE,Wrestling,"Wrestling Men's Light-Heavyweight, Freestyle",1,1,0,0,1,66,1928,0.0,1.0,0.0,1.0,0,7.0,6.0,12.0,25.0
+SWE,Wrestling,"Wrestling Men's Light-Heavyweight, Greco-Roman",1,0,0,0,0,66,1928,1.0,1.0,0.0,2.0,0,7.0,6.0,12.0,25.0
+SWE,Wrestling,"Wrestling Men's Lightweight, Freestyle",1,0,0,0,0,66,1928,0.0,0.0,0.0,0.0,0,7.0,6.0,12.0,25.0
+SWE,Wrestling,"Wrestling Men's Lightweight, Greco-Roman",1,0,0,0,0,66,1928,0.0,0.0,0.0,0.0,0,7.0,6.0,12.0,25.0
+SWE,Wrestling,"Wrestling Men's Middleweight, Greco-Roman",1,0,0,0,0,66,1928,0.0,0.0,0.0,0.0,0,7.0,6.0,12.0,25.0
+TCH,Athletics,"Athletics Men's 1,500 metres",2,0,0,0,0,51,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+TCH,Athletics,"Athletics Men's 10,000 metres",1,0,0,0,0,51,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+TCH,Athletics,Athletics Men's 100 metres,3,0,0,0,0,51,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+TCH,Athletics,Athletics Men's 110 metres Hurdles,1,0,0,0,0,51,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+TCH,Athletics,Athletics Men's 200 metres,3,0,0,0,0,51,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+TCH,Athletics,Athletics Men's 4 x 400 metres Relay,4,0,0,0,0,51,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+TCH,Athletics,Athletics Men's 400 metres,2,0,0,0,0,51,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+TCH,Athletics,"Athletics Men's 5,000 metres",2,0,0,0,0,51,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+TCH,Athletics,Athletics Men's 800 metres,2,0,0,0,0,51,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+TCH,Athletics,Athletics Men's Discus Throw,1,0,0,0,0,51,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+TCH,Athletics,Athletics Men's Marathon,2,0,0,0,0,51,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+TCH,Athletics,Athletics Men's Shot Put,1,0,0,0,0,51,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+TCH,Boxing,Boxing Men's Lightweight,1,0,0,0,0,51,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+TCH,Boxing,Boxing Men's Middleweight,1,0,1,0,1,51,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+TCH,Boxing,Boxing Men's Welterweight,1,0,0,0,0,51,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+TCH,Cycling,"Cycling Men's Road Race, Individual",4,0,0,0,0,51,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+TCH,Cycling,"Cycling Men's Road Race, Team",4,0,0,0,0,51,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+TCH,Diving,Diving Men's Springboard,2,0,0,0,0,51,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+TCH,Equestrianism,"Equestrianism Men's Dressage, Individual",3,0,0,0,0,51,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+TCH,Equestrianism,"Equestrianism Men's Dressage, Team",3,0,0,0,0,51,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+TCH,Equestrianism,"Equestrianism Men's Jumping, Individual",3,1,0,0,1,51,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+TCH,Equestrianism,"Equestrianism Men's Jumping, Team",3,0,0,0,0,51,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+TCH,Equestrianism,"Equestrianism Men's Three-Day Event, Individual",3,0,0,0,0,51,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+TCH,Equestrianism,"Equestrianism Men's Three-Day Event, Team",3,0,0,0,0,51,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+TCH,Fencing,"Fencing Men's epee, Individual",3,0,0,0,0,51,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+TCH,Fencing,"Fencing Men's epee, Team",6,0,0,0,0,51,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+TCH,Fencing,"Fencing Women's Foil, Individual",1,0,0,0,0,51,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+TCH,Gymnastics,Gymnastics Men's Horizontal Bar,8,0,0,0,0,51,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+TCH,Gymnastics,Gymnastics Men's Horse Vault,8,0,1,0,1,51,1928,0.0,1.0,1.0,2.0,0,0.0,0.0,0.0,0.0
+TCH,Gymnastics,Gymnastics Men's Individual All-Around,8,0,0,0,0,51,1928,0.0,1.0,1.0,2.0,0,0.0,0.0,0.0,0.0
+TCH,Gymnastics,Gymnastics Men's Parallel Bars,8,1,0,0,1,51,1928,0.0,1.0,0.0,1.0,0,0.0,0.0,0.0,0.0
+TCH,Gymnastics,Gymnastics Men's Pommelled Horse,8,0,0,0,0,51,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+TCH,Gymnastics,Gymnastics Men's Rings,8,0,1,1,2,51,1928,0.0,1.0,1.0,2.0,0,0.0,0.0,0.0,0.0
+TCH,Gymnastics,Gymnastics Men's Team All-Around,8,0,8,0,8,51,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+TCH,Modern Pentathlon,Modern Pentathlon Men's Individual,3,0,0,0,0,51,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+TCH,Rowing,Rowing Men's Single Sculls,1,0,0,0,0,51,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+TCH,Sailing,Sailing Mixed One Person Dinghy,1,0,0,0,0,51,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+TCH,Swimming,"Swimming Men's 1,500 metres Freestyle",1,0,0,0,0,51,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+TCH,Swimming,Swimming Men's 400 metres Freestyle,1,0,0,0,0,51,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+TCH,Water Polo,Water Polo Men's Water Polo,7,0,0,0,0,51,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+TCH,Weightlifting,Weightlifting Men's Featherweight,1,0,0,0,0,51,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+TCH,Weightlifting,Weightlifting Men's Heavyweight,1,0,0,1,1,51,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+TCH,Weightlifting,Weightlifting Men's Light-Heavyweight,1,0,0,0,0,51,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+TCH,Weightlifting,Weightlifting Men's Lightweight,1,0,0,0,0,51,1928,0.0,0.0,1.0,1.0,0,0.0,0.0,0.0,0.0
+TCH,Weightlifting,Weightlifting Men's Middleweight,2,0,0,0,0,51,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+TCH,Wrestling,"Wrestling Men's Bantamweight, Greco-Roman",1,0,1,0,1,51,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+TCH,Wrestling,"Wrestling Men's Featherweight, Greco-Roman",1,0,0,0,0,51,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+TCH,Wrestling,"Wrestling Men's Heavyweight, Greco-Roman",1,0,0,0,0,51,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+TCH,Wrestling,"Wrestling Men's Light-Heavyweight, Greco-Roman",1,0,0,0,0,51,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+TCH,Wrestling,"Wrestling Men's Lightweight, Greco-Roman",1,0,0,0,0,51,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+TCH,Wrestling,"Wrestling Men's Middleweight, Greco-Roman",1,0,0,0,0,51,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+TUR,Athletics,Athletics Men's 100 metres,3,0,0,0,0,17,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+TUR,Athletics,Athletics Men's 4 x 100 metres Relay,4,0,0,0,0,17,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+TUR,Athletics,Athletics Men's 800 metres,1,0,0,0,0,17,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+TUR,Athletics,Athletics Men's High Jump,1,0,0,0,0,17,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+TUR,Cycling,"Cycling Men's 1,000 metres Time Trial",1,0,0,0,0,17,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+TUR,Cycling,Cycling Men's Sprint,1,0,0,0,0,17,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+TUR,Cycling,"Cycling Men's Team Pursuit, 4,000 metres",4,0,0,0,0,17,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+TUR,Fencing,"Fencing Men's Sabre, Individual",3,0,0,0,0,17,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+TUR,Fencing,"Fencing Men's Sabre, Team",4,0,0,0,0,17,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+TUR,Football,Football Men's Football,11,0,0,0,0,17,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+TUR,Weightlifting,Weightlifting Men's Featherweight,1,0,0,0,0,17,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+TUR,Wrestling,"Wrestling Men's Bantamweight, Greco-Roman",1,0,0,0,0,17,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+TUR,Wrestling,"Wrestling Men's Featherweight, Greco-Roman",1,0,0,0,0,17,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+TUR,Wrestling,"Wrestling Men's Heavyweight, Greco-Roman",1,0,0,0,0,17,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+TUR,Wrestling,"Wrestling Men's Light-Heavyweight, Greco-Roman",1,0,0,0,0,17,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+TUR,Wrestling,"Wrestling Men's Lightweight, Greco-Roman",1,0,0,0,0,17,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+TUR,Wrestling,"Wrestling Men's Middleweight, Greco-Roman",1,0,0,0,0,17,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+URU,Football,Football Men's Football,17,17,0,0,17,1,1928,14.0,0.0,0.0,14.0,0,0.0,0.0,0.0,0.0
+USA,Art Competitions,"Art Competitions Mixed Architecture, Architectural Designs",11,0,0,0,0,96,1928,0.0,0.0,0.0,0.0,0,22.0,18.0,16.0,56.0
+USA,Art Competitions,"Art Competitions Mixed Architecture, Designs For Town Planning",11,0,0,0,0,96,1928,0.0,0.0,0.0,0.0,0,22.0,18.0,16.0,56.0
+USA,Art Competitions,"Art Competitions Mixed Painting, Drawings And Water Colors",1,0,0,0,0,96,1928,0.0,0.0,0.0,0.0,0,22.0,18.0,16.0,56.0
+USA,Art Competitions,"Art Competitions Mixed Painting, Paintings",12,0,0,0,0,96,1928,0.0,0.0,0.0,0.0,0,22.0,18.0,16.0,56.0
+USA,Art Competitions,"Art Competitions Mixed Sculpturing, Medals And Reliefs",1,0,0,0,0,96,1928,0.0,0.0,0.0,0.0,0,22.0,18.0,16.0,56.0
+USA,Art Competitions,"Art Competitions Mixed Sculpturing, Statues",21,0,0,0,0,96,1928,0.0,0.0,0.0,0.0,0,22.0,18.0,16.0,56.0
+USA,Athletics,"Athletics Men's 1,500 metres",4,0,0,0,0,96,1928,0.0,0.0,0.0,0.0,0,22.0,18.0,16.0,56.0
+USA,Athletics,"Athletics Men's 10,000 metres",3,0,0,0,0,96,1928,0.0,0.0,0.0,0.0,0,22.0,18.0,16.0,56.0
+USA,Athletics,Athletics Men's 100 metres,4,0,0,0,0,96,1928,0.0,1.0,0.0,1.0,0,22.0,18.0,16.0,56.0
+USA,Athletics,Athletics Men's 110 metres Hurdles,4,0,1,1,2,96,1928,1.0,0.0,0.0,1.0,0,22.0,18.0,16.0,56.0
+USA,Athletics,Athletics Men's 200 metres,4,0,0,0,0,96,1928,1.0,1.0,0.0,2.0,0,22.0,18.0,16.0,56.0
+USA,Athletics,"Athletics Men's 3,000 metres Steeplechase",4,0,0,0,0,96,1928,0.0,0.0,0.0,0.0,0,22.0,18.0,16.0,56.0
+USA,Athletics,Athletics Men's 4 x 100 metres Relay,4,4,0,0,4,96,1928,4.0,0.0,0.0,4.0,0,22.0,18.0,16.0,56.0
+USA,Athletics,Athletics Men's 4 x 400 metres Relay,4,4,0,0,4,96,1928,4.0,0.0,0.0,4.0,0,22.0,18.0,16.0,56.0
+USA,Athletics,Athletics Men's 400 metres,4,1,0,0,1,96,1928,0.0,1.0,0.0,1.0,0,22.0,18.0,16.0,56.0
+USA,Athletics,Athletics Men's 400 metres Hurdles,4,0,1,1,2,96,1928,1.0,0.0,1.0,2.0,0,22.0,18.0,16.0,56.0
+USA,Athletics,"Athletics Men's 5,000 metres",4,0,0,0,0,96,1928,0.0,0.0,0.0,0.0,0,22.0,18.0,16.0,56.0
+USA,Athletics,Athletics Men's 800 metres,4,0,0,0,0,96,1928,0.0,0.0,1.0,1.0,0,22.0,18.0,16.0,56.0
+USA,Athletics,Athletics Men's Decathlon,4,0,0,1,1,96,1928,1.0,1.0,0.0,2.0,0,22.0,18.0,16.0,56.0
+USA,Athletics,Athletics Men's Discus Throw,4,1,0,1,2,96,1928,1.0,0.0,1.0,2.0,0,22.0,18.0,16.0,56.0
+USA,Athletics,Athletics Men's Hammer Throw,4,0,0,1,1,96,1928,1.0,1.0,0.0,2.0,0,22.0,18.0,16.0,56.0
+USA,Athletics,Athletics Men's High Jump,4,1,1,0,2,96,1928,1.0,1.0,0.0,2.0,0,22.0,18.0,16.0,56.0
+USA,Athletics,Athletics Men's Javelin Throw,4,0,0,0,0,96,1928,0.0,0.0,1.0,1.0,0,22.0,18.0,16.0,56.0
+USA,Athletics,Athletics Men's Long Jump,4,1,0,1,2,96,1928,1.0,1.0,0.0,2.0,0,22.0,18.0,16.0,56.0
+USA,Athletics,Athletics Men's Marathon,6,0,0,0,0,96,1928,0.0,0.0,1.0,1.0,0,22.0,18.0,16.0,56.0
+USA,Athletics,Athletics Men's Pole Vault,4,1,1,1,3,96,1928,1.0,1.0,1.0,3.0,0,22.0,18.0,16.0,56.0
+USA,Athletics,Athletics Men's Shot Put,4,1,1,0,2,96,1928,1.0,1.0,1.0,3.0,0,22.0,18.0,16.0,56.0
+USA,Athletics,Athletics Men's Triple Jump,4,0,1,0,1,96,1928,0.0,0.0,0.0,0.0,0,22.0,18.0,16.0,56.0
+USA,Athletics,Athletics Women's 100 metres,4,1,0,0,1,96,1928,0.0,0.0,0.0,0.0,0,22.0,18.0,16.0,56.0
+USA,Athletics,Athletics Women's 4 x 100 metres Relay,4,0,4,0,4,96,1928,0.0,0.0,0.0,0.0,0,22.0,18.0,16.0,56.0
+USA,Athletics,Athletics Women's 800 metres,3,0,0,0,0,96,1928,0.0,0.0,0.0,0.0,0,22.0,18.0,16.0,56.0
+USA,Athletics,Athletics Women's Discus Throw,4,0,1,0,1,96,1928,0.0,0.0,0.0,0.0,0,22.0,18.0,16.0,56.0
+USA,Athletics,Athletics Women's High Jump,4,0,0,1,1,96,1928,0.0,0.0,0.0,0.0,0,22.0,18.0,16.0,56.0
+USA,Boxing,Boxing Men's Bantamweight,1,0,1,0,1,96,1928,0.0,1.0,0.0,1.0,0,22.0,18.0,16.0,56.0
+USA,Boxing,Boxing Men's Featherweight,1,0,0,1,1,96,1928,1.0,1.0,0.0,2.0,0,22.0,18.0,16.0,56.0
+USA,Boxing,Boxing Men's Flyweight,1,0,0,0,0,96,1928,1.0,0.0,1.0,2.0,0,22.0,18.0,16.0,56.0
+USA,Boxing,Boxing Men's Heavyweight,1,0,0,0,0,96,1928,0.0,0.0,0.0,0.0,0,22.0,18.0,16.0,56.0
+USA,Boxing,Boxing Men's Light-Heavyweight,1,0,0,0,0,96,1928,0.0,0.0,0.0,0.0,0,22.0,18.0,16.0,56.0
+USA,Boxing,Boxing Men's Lightweight,1,0,1,0,1,96,1928,0.0,0.0,1.0,1.0,0,22.0,18.0,16.0,56.0
+USA,Boxing,Boxing Men's Middleweight,1,0,0,0,0,96,1928,0.0,0.0,0.0,0.0,0,22.0,18.0,16.0,56.0
+USA,Boxing,Boxing Men's Welterweight,1,0,0,0,0,96,1928,0.0,0.0,0.0,0.0,0,22.0,18.0,16.0,56.0
+USA,Cycling,"Cycling Men's Road Race, Individual",4,0,0,0,0,96,1928,0.0,0.0,0.0,0.0,0,22.0,18.0,16.0,56.0
+USA,Cycling,"Cycling Men's Road Race, Team",3,0,0,0,0,96,1928,0.0,0.0,0.0,0.0,0,22.0,18.0,16.0,56.0
+USA,Diving,Diving Men's Platform,3,1,0,1,2,96,1928,1.0,1.0,1.0,3.0,0,22.0,18.0,16.0,56.0
+USA,Diving,Diving Men's Springboard,3,1,1,0,2,96,1928,1.0,1.0,1.0,3.0,0,22.0,18.0,16.0,56.0
+USA,Diving,Diving Women's Platform,3,1,1,0,2,96,1928,0.0,0.0,0.0,0.0,0,22.0,18.0,16.0,56.0
+USA,Diving,Diving Women's Springboard,3,1,1,1,3,96,1928,1.0,1.0,1.0,3.0,0,22.0,18.0,16.0,56.0
+USA,Equestrianism,"Equestrianism Men's Jumping, Individual",3,0,0,0,0,96,1928,0.0,0.0,0.0,0.0,0,22.0,18.0,16.0,56.0
+USA,Equestrianism,"Equestrianism Men's Jumping, Team",3,0,0,0,0,96,1928,0.0,0.0,0.0,0.0,0,22.0,18.0,16.0,56.0
+USA,Equestrianism,"Equestrianism Men's Three-Day Event, Individual",3,0,0,0,0,96,1928,0.0,0.0,1.0,1.0,0,22.0,18.0,16.0,56.0
+USA,Equestrianism,"Equestrianism Men's Three-Day Event, Team",3,0,0,0,0,96,1928,0.0,0.0,0.0,0.0,0,22.0,18.0,16.0,56.0
+USA,Fencing,"Fencing Men's Foil, Individual",3,0,0,0,0,96,1928,0.0,0.0,0.0,0.0,0,22.0,18.0,16.0,56.0
+USA,Fencing,"Fencing Men's Foil, Team",6,0,0,0,0,96,1928,0.0,0.0,0.0,0.0,0,22.0,18.0,16.0,56.0
+USA,Fencing,"Fencing Men's Sabre, Individual",3,0,0,0,0,96,1928,0.0,0.0,0.0,0.0,0,22.0,18.0,16.0,56.0
+USA,Fencing,"Fencing Men's Sabre, Team",6,0,0,0,0,96,1928,0.0,0.0,0.0,0.0,0,22.0,18.0,16.0,56.0
+USA,Fencing,"Fencing Men's epee, Individual",3,0,0,1,1,96,1928,0.0,0.0,0.0,0.0,0,22.0,18.0,16.0,56.0
+USA,Fencing,"Fencing Men's epee, Team",5,0,0,0,0,96,1928,0.0,0.0,0.0,0.0,0,22.0,18.0,16.0,56.0
+USA,Fencing,"Fencing Women's Foil, Individual",2,0,0,0,0,96,1928,0.0,0.0,0.0,0.0,0,22.0,18.0,16.0,56.0
+USA,Football,Football Men's Football,11,0,0,0,0,96,1928,0.0,0.0,0.0,0.0,0,22.0,18.0,16.0,56.0
+USA,Gymnastics,Gymnastics Men's Horizontal Bar,8,0,0,0,0,96,1928,0.0,0.0,0.0,0.0,0,22.0,18.0,16.0,56.0
+USA,Gymnastics,Gymnastics Men's Horse Vault,8,0,0,0,0,96,1928,1.0,0.0,0.0,1.0,0,22.0,18.0,16.0,56.0
+USA,Gymnastics,Gymnastics Men's Individual All-Around,8,0,0,0,0,96,1928,0.0,0.0,0.0,0.0,0,22.0,18.0,16.0,56.0
+USA,Gymnastics,Gymnastics Men's Parallel Bars,8,0,0,0,0,96,1928,0.0,0.0,0.0,0.0,0,22.0,18.0,16.0,56.0
+USA,Gymnastics,Gymnastics Men's Pommelled Horse,8,0,0,0,0,96,1928,0.0,0.0,0.0,0.0,0,22.0,18.0,16.0,56.0
+USA,Gymnastics,Gymnastics Men's Rings,8,0,0,0,0,96,1928,0.0,0.0,0.0,0.0,0,22.0,18.0,16.0,56.0
+USA,Gymnastics,Gymnastics Men's Team All-Around,8,0,0,0,0,96,1928,0.0,0.0,0.0,0.0,0,22.0,18.0,16.0,56.0
+USA,Modern Pentathlon,Modern Pentathlon Men's Individual,3,0,0,0,0,96,1928,0.0,0.0,0.0,0.0,0,22.0,18.0,16.0,56.0
+USA,Rowing,Rowing Men's Coxed Eights,9,9,0,0,9,96,1928,9.0,0.0,0.0,9.0,0,22.0,18.0,16.0,56.0
+USA,Rowing,Rowing Men's Coxed Fours,5,0,0,0,0,96,1928,0.0,0.0,5.0,5.0,0,22.0,18.0,16.0,56.0
+USA,Rowing,Rowing Men's Coxed Pairs,3,0,0,0,0,96,1928,0.0,0.0,3.0,3.0,0,22.0,18.0,16.0,56.0
+USA,Rowing,Rowing Men's Coxless Fours,4,0,4,0,4,96,1928,0.0,0.0,0.0,0.0,0,22.0,18.0,16.0,56.0
+USA,Rowing,Rowing Men's Coxless Pairs,2,0,0,2,2,96,1928,0.0,0.0,0.0,0.0,0,22.0,18.0,16.0,56.0
+USA,Rowing,Rowing Men's Double Sculls,2,2,0,0,2,96,1928,2.0,0.0,0.0,2.0,0,22.0,18.0,16.0,56.0
+USA,Rowing,Rowing Men's Single Sculls,1,0,1,0,1,96,1928,0.0,1.0,0.0,1.0,0,22.0,18.0,16.0,56.0
+USA,Sailing,Sailing Mixed 6 metres,5,0,0,0,0,96,1928,0.0,0.0,0.0,0.0,0,22.0,18.0,16.0,56.0
+USA,Sailing,Sailing Mixed 8 metres,5,0,0,0,0,96,1928,0.0,0.0,0.0,0.0,0,22.0,18.0,16.0,56.0
+USA,Sailing,Sailing Mixed One Person Dinghy,1,0,0,0,0,96,1928,0.0,0.0,0.0,0.0,0,22.0,18.0,16.0,56.0
+USA,Swimming,"Swimming Men's 1,500 metres Freestyle",3,0,0,1,1,96,1928,0.0,0.0,0.0,0.0,0,22.0,18.0,16.0,56.0
+USA,Swimming,Swimming Men's 100 metres Backstroke,3,1,1,1,3,96,1928,1.0,1.0,0.0,2.0,0,22.0,18.0,16.0,56.0
+USA,Swimming,Swimming Men's 100 metres Freestyle,3,1,0,0,1,96,1928,1.0,1.0,1.0,3.0,0,22.0,18.0,16.0,56.0
+USA,Swimming,Swimming Men's 200 metres Breaststroke,1,0,0,0,0,96,1928,1.0,0.0,1.0,2.0,0,22.0,18.0,16.0,56.0
+USA,Swimming,Swimming Men's 4 x 200 metres Freestyle Relay,6,6,0,0,6,96,1928,5.0,0.0,0.0,5.0,0,22.0,18.0,16.0,56.0
+USA,Swimming,Swimming Men's 400 metres Freestyle,3,0,0,0,0,96,1928,1.0,0.0,0.0,1.0,0,22.0,18.0,16.0,56.0
+USA,Swimming,Swimming Women's 100 metres Backstroke,3,0,0,0,0,96,1928,1.0,0.0,1.0,2.0,0,22.0,18.0,16.0,56.0
+USA,Swimming,Swimming Women's 100 metres Freestyle,3,1,1,0,2,96,1928,1.0,1.0,1.0,3.0,0,22.0,18.0,16.0,56.0
+USA,Swimming,Swimming Women's 200 metres Breaststroke,3,0,0,0,0,96,1928,0.0,1.0,0.0,1.0,0,22.0,18.0,16.0,56.0
+USA,Swimming,Swimming Women's 4 x 100 metres Freestyle Relay,6,6,0,0,6,96,1928,4.0,0.0,0.0,4.0,0,22.0,18.0,16.0,56.0
+USA,Swimming,Swimming Women's 400 metres Freestyle,3,1,0,1,2,96,1928,1.0,1.0,1.0,3.0,0,22.0,18.0,16.0,56.0
+USA,Water Polo,Water Polo Men's Water Polo,9,0,0,0,0,96,1928,0.0,0.0,9.0,9.0,0,22.0,18.0,16.0,56.0
+USA,Wrestling,"Wrestling Men's Bantamweight, Freestyle",1,0,0,0,0,96,1928,0.0,0.0,1.0,1.0,0,22.0,18.0,16.0,56.0
+USA,Wrestling,"Wrestling Men's Featherweight, Freestyle",1,1,0,0,1,96,1928,1.0,1.0,0.0,2.0,0,22.0,18.0,16.0,56.0
+USA,Wrestling,"Wrestling Men's Heavyweight, Freestyle",1,0,0,0,0,96,1928,1.0,0.0,0.0,1.0,0,22.0,18.0,16.0,56.0
+USA,Wrestling,"Wrestling Men's Light-Heavyweight, Freestyle",1,0,0,0,0,96,1928,1.0,0.0,0.0,1.0,0,22.0,18.0,16.0,56.0
+USA,Wrestling,"Wrestling Men's Lightweight, Freestyle",1,0,0,0,0,96,1928,1.0,0.0,0.0,1.0,0,22.0,18.0,16.0,56.0
+USA,Wrestling,"Wrestling Men's Middleweight, Freestyle",1,0,0,0,0,96,1928,0.0,0.0,0.0,0.0,0,22.0,18.0,16.0,56.0
+USA,Wrestling,"Wrestling Men's Welterweight, Freestyle",1,0,1,0,1,96,1928,0.0,0.0,0.0,0.0,0,22.0,18.0,16.0,56.0
+YUG,Athletics,"Athletics Men's 1,500 metres",1,0,0,0,0,21,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+YUG,Athletics,Athletics Men's Decathlon,1,0,0,0,0,21,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+YUG,Athletics,Athletics Men's Javelin Throw,1,0,0,0,0,21,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+YUG,Athletics,Athletics Men's Marathon,1,0,0,0,0,21,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+YUG,Cycling,"Cycling Men's Road Race, Individual",4,0,0,0,0,21,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+YUG,Cycling,"Cycling Men's Road Race, Team",4,0,0,0,0,21,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+YUG,Fencing,"Fencing Men's Foil, Individual",1,0,0,0,0,21,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+YUG,Fencing,"Fencing Men's Sabre, Individual",1,0,0,0,0,21,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+YUG,Football,Football Men's Football,11,0,0,0,0,21,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+YUG,Gymnastics,Gymnastics Men's Horizontal Bar,8,0,0,0,0,21,1928,1.0,0.0,0.0,1.0,0,0.0,0.0,0.0,0.0
+YUG,Gymnastics,Gymnastics Men's Horse Vault,8,0,0,1,1,21,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+YUG,Gymnastics,Gymnastics Men's Individual All-Around,8,0,0,1,1,21,1928,1.0,0.0,0.0,1.0,0,0.0,0.0,0.0,0.0
+YUG,Gymnastics,Gymnastics Men's Parallel Bars,8,0,1,0,1,21,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+YUG,Gymnastics,Gymnastics Men's Pommelled Horse,8,0,0,0,0,21,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+YUG,Gymnastics,Gymnastics Men's Rings,8,1,0,0,1,21,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+YUG,Gymnastics,Gymnastics Men's Team All-Around,8,0,0,8,8,21,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+YUG,Wrestling,"Wrestling Men's Bantamweight, Greco-Roman",1,0,0,0,0,21,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+YUG,Wrestling,"Wrestling Men's Featherweight, Greco-Roman",1,0,0,0,0,21,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+YUG,Wrestling,"Wrestling Men's Light-Heavyweight, Greco-Roman",1,0,0,0,0,21,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+YUG,Wrestling,"Wrestling Men's Lightweight, Greco-Roman",1,0,0,0,0,21,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+YUG,Wrestling,"Wrestling Men's Middleweight, Greco-Roman",1,0,0,0,0,21,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+ZIM,Boxing,Boxing Men's Lightweight,1,0,0,0,0,2,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
+ZIM,Boxing,Boxing Men's Welterweight,1,0,0,0,0,2,1928,0.0,0.0,0.0,0.0,0,0.0,0.0,0.0,0.0
