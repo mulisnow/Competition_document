@@ -1,0 +1,428 @@
+NOC,Sport,Year,gold_number,silver_number,bronze_number,total_number,athletes_number,score
+BRA,Wrestling,2024,0,0,0,0,1,0
+BRA,Taekwondo,2024,0,0,1,1,4,7
+BRA,Tennis,2024,0,0,0,0,10,0
+BRA,Triathlon,2024,0,0,0,0,4,0
+BRA,Fencing,2024,0,0,0,0,3,0
+BRA,Diving,2024,0,0,0,0,1,0
+BRA,Volleyball,2024,0,0,13,13,26,91
+BRA,Trampoline Gymnastics,2024,0,0,0,0,2,0
+BRA,Table Tennis,2024,0,0,0,0,12,0
+BRA,Badminton,2024,0,0,0,0,2,0
+BRA,Basketball,2024,0,0,0,0,12,0
+BRA,Beach Volleyball,2024,2,0,0,2,8,20
+BRA,Shooting,2024,0,0,0,0,4,0
+BRA,Sailing,2024,0,0,0,0,12,0
+BRA,Surfing,2024,0,1,1,2,6,15
+BRA,Skateboarding,2024,0,0,2,2,12,14
+BRA,Canoe Sprint,2024,0,1,0,1,7,8
+BRA,Canoe Slalom,2024,0,0,0,0,6,0
+BRA,Boxing,2024,0,0,1,1,10,7
+BRA,Swimming,2024,0,0,0,0,39,0
+BRA,Rugby Sevens,2024,0,0,0,0,14,0
+BRA,Rowing,2024,0,0,0,0,2,0
+BRA,Equestrian,2024,0,0,0,0,17,0
+BRA,Artistic Gymnastics,2024,1,2,5,8,43,61
+BRA,Athletics,2024,0,1,1,2,56,15
+BRA,Football,2024,0,22,0,22,22,176
+BRA,Judo,2024,1,1,11,13,23,95
+BRA,Handball,2024,0,0,0,0,17,0
+BRA,Marathon Swimming,2024,0,0,0,0,2,0
+BRA,"Marathon Swimming, Swimming",2024,0,0,0,0,5,0
+BRA,Cycling Mountain Bike,2024,0,0,0,0,2,0
+BRA,Cycling BMX Racing,2024,0,0,0,0,1,0
+BRA,Cycling BMX Freestyle,2024,0,0,0,0,1,0
+BRA,Cycling Road,2024,0,0,0,0,2,0
+BRA,Modern Pentathlon,2024,0,0,0,0,1,0
+BRA,Rhythmic Gymnastics,2024,0,0,0,0,6,0
+BRA,Archery,2024,0,0,0,0,4,0
+BRA,Weightlifting,2024,0,0,0,0,2,0
+BRA,Wrestling,2020,0,0,0,0,3,0
+BRA,Weightlifting,2020,0,0,0,0,2,0
+BRA,Fencing,2020,0,0,0,0,2,0
+BRA,Diving,2020,0,0,0,0,4,0
+BRA,Cycling Mountain Bike,2020,0,0,0,0,3,0
+BRA,Cycling BMX Racing,2020,0,0,0,0,2,0
+BRA,Archery,2020,0,0,0,0,4,0
+BRA,Volleyball,2020,0,12,0,12,24,96
+BRA,Athletics,2020,0,0,2,2,67,14
+BRA,Football,2020,22,0,0,22,44,220
+BRA,Equestrian,2020,0,0,0,0,17,0
+BRA,Judo,2020,0,0,2,2,24,14
+BRA,Handball,2020,0,0,0,0,31,0
+BRA,Marathon Swimming,2020,1,0,0,1,1,10
+BRA,Shooting,2020,0,0,0,0,1,0
+BRA,Rugby Sevens,2020,0,0,0,0,13,0
+BRA,Canoe Slalom,2020,0,0,0,0,3,0
+BRA,Canoe Sprint,2020,1,0,0,1,5,10
+BRA,Rowing,2020,0,0,0,0,1,0
+BRA,Boxing,2020,1,1,1,3,7,25
+BRA,Surfing,2020,1,0,0,1,4,10
+BRA,Skateboarding,2020,0,3,0,3,12,24
+BRA,Beach Volleyball,2020,0,0,0,0,8,0
+BRA,Table Tennis,2020,0,0,0,0,10,0
+BRA,Swimming,2020,0,0,2,2,46,14
+BRA,Badminton,2020,0,0,0,0,2,0
+BRA,Tennis,2020,0,0,2,2,8,14
+BRA,Taekwondo,2020,0,0,0,0,3,0
+BRA,Triathlon,2020,0,0,0,0,3,0
+BRA,Sailing,2020,2,0,0,2,13,20
+BRA,Modern Pentathlon,2020,0,0,0,0,1,0
+BRA,Rhythmic Gymnastics,2020,0,0,0,0,5,0
+BRA,Artistic Gymnastics,2020,1,1,0,2,43,18
+BRA,Wrestling,2016,0,0,0,0,5,0
+BRA,Archery,2016,0,0,0,0,12,0
+BRA,Water Polo,2016,0,0,0,0,26,0
+BRA,Fencing,2016,0,0,0,0,25,0
+BRA,Golf,2016,0,0,0,0,3,0
+BRA,Cycling,2016,0,0,0,0,10,0
+BRA,Diving,2016,0,0,0,0,12,0
+BRA,Hockey,2016,0,0,0,0,16,0
+BRA,Modern Pentathlon,2016,0,0,0,0,2,0
+BRA,Gymnastics,2016,0,2,1,3,46,23
+BRA,Boxing,2016,1,0,0,1,9,10
+BRA,Volleyball,2016,12,0,0,12,24,120
+BRA,Athletics,2016,1,0,0,1,72,10
+BRA,Swimming,2016,0,0,1,1,62,7
+BRA,Badminton,2016,0,0,0,0,2,0
+BRA,Basketball,2016,0,0,0,0,23,0
+BRA,Table Tennis,2016,0,0,0,0,10,0
+BRA,Trampolining,2016,0,0,0,0,1,0
+BRA,Triathlon,2016,0,0,0,0,2,0
+BRA,Taekwondo,2016,0,0,1,1,4,7
+BRA,Beach Volleyball,2016,2,2,0,4,8,36
+BRA,Synchronized Swimming,2016,0,0,0,0,11,0
+BRA,Shooting,2016,0,1,0,1,13,8
+BRA,Rowing,2016,0,0,0,0,4,0
+BRA,Canoeing,2016,0,3,1,4,18,31
+BRA,Rugby Sevens,2016,0,0,0,0,25,0
+BRA,Tennis,2016,0,0,0,0,11,0
+BRA,Sailing,2016,2,0,0,2,15,20
+BRA,Rhythmic Gymnastics,2016,0,0,0,0,6,0
+BRA,Handball,2016,0,0,0,0,28,0
+BRA,Weightlifting,2016,0,0,0,0,5,0
+BRA,Equestrianism,2016,0,0,0,0,24,0
+BRA,Judo,2016,1,0,2,3,14,24
+BRA,Football,2016,17,0,0,17,35,170
+BRA,Wrestling,2012,0,0,0,0,1,0
+BRA,Swimming,2012,0,1,1,2,31,15
+BRA,Boxing,2012,0,1,2,3,10,22
+BRA,Beach Volleyball,2012,0,2,2,4,8,30
+BRA,Taekwondo,2012,0,0,0,0,2,0
+BRA,Triathlon,2012,0,0,0,0,3,0
+BRA,Tennis,2012,0,0,0,0,5,0
+BRA,Basketball,2012,0,0,0,0,23,0
+BRA,Canoeing,2012,0,0,0,0,4,0
+BRA,Table Tennis,2012,0,0,0,0,10,0
+BRA,Synchronized Swimming,2012,0,0,0,0,2,0
+BRA,Rowing,2012,0,0,0,0,4,0
+BRA,Sailing,2012,0,0,2,2,9,14
+BRA,Shooting,2012,0,0,0,0,3,0
+BRA,Handball,2012,0,0,0,0,14,0
+BRA,Diving,2012,0,0,0,0,3,0
+BRA,Cycling,2012,0,0,0,0,11,0
+BRA,Modern Pentathlon,2012,0,0,1,1,1,7
+BRA,Judo,2012,1,0,3,4,14,31
+BRA,Gymnastics,2012,1,0,0,1,28,10
+BRA,Equestrianism,2012,0,0,0,0,16,0
+BRA,Football,2012,0,18,0,18,34,144
+BRA,Fencing,2012,0,0,0,0,3,0
+BRA,Weightlifting,2012,0,0,0,0,2,0
+BRA,Volleyball,2012,12,12,0,24,24,216
+BRA,Athletics,2012,0,0,0,0,40,0
+BRA,Archery,2012,0,0,0,0,1,0
+BRA,Archery,2008,0,0,0,0,1,0
+BRA,Table Tennis,2008,0,0,0,0,6,0
+BRA,Taekwondo,2008,0,0,1,1,3,7
+BRA,Football,2008,0,18,17,35,35,263
+BRA,Gymnastics,2008,0,0,0,0,30,0
+BRA,Canoeing,2008,0,0,0,0,3,0
+BRA,Fencing,2008,0,0,0,0,2,0
+BRA,Handball,2008,0,0,0,0,28,0
+BRA,Weightlifting,2008,0,0,0,0,1,0
+BRA,Equestrianism,2008,0,0,0,0,18,0
+BRA,Swimming,2008,1,0,1,2,50,17
+BRA,Synchronized Swimming,2008,0,0,0,0,2,0
+BRA,Tennis,2008,0,0,0,0,4,0
+BRA,Rowing,2008,0,0,0,0,6,0
+BRA,Beach Volleyball,2008,0,2,2,4,8,30
+BRA,Wrestling,2008,0,0,0,0,1,0
+BRA,Athletics,2008,1,0,4,5,49,38
+BRA,Volleyball,2008,12,12,0,24,24,216
+BRA,Basketball,2008,0,0,0,0,12,0
+BRA,Triathlon,2008,0,0,0,0,3,0
+BRA,Rhythmic Gymnastics,2008,0,0,0,0,6,0
+BRA,Cycling,2008,0,0,0,0,5,0
+BRA,Boxing,2008,0,0,0,0,6,0
+BRA,Diving,2008,0,0,0,0,4,0
+BRA,Sailing,2008,0,2,2,4,12,30
+BRA,Shooting,2008,0,0,0,0,5,0
+BRA,Judo,2008,0,0,3,3,13,21
+BRA,Modern Pentathlon,2008,0,0,0,0,1,0
+BRA,Sailing,2004,3,0,0,3,14,30
+BRA,Rowing,2004,0,0,0,0,4,0
+BRA,Cycling,2004,0,0,0,0,6,0
+BRA,Boxing,2004,0,0,0,0,5,0
+BRA,Diving,2004,0,0,0,0,5,0
+BRA,Rhythmic Gymnastics,2004,0,0,0,0,6,0
+BRA,Table Tennis,2004,0,0,0,0,7,0
+BRA,Synchronized Swimming,2004,0,0,0,0,2,0
+BRA,Taekwondo,2004,0,0,0,0,3,0
+BRA,Fencing,2004,0,0,0,0,3,0
+BRA,Canoeing,2004,0,0,0,0,4,0
+BRA,Football,2004,0,17,0,17,17,136
+BRA,Gymnastics,2004,0,0,0,0,39,0
+BRA,Equestrianism,2004,1,0,0,1,18,10
+BRA,Swimming,2004,0,0,0,0,42,0
+BRA,Handball,2004,0,0,0,0,30,0
+BRA,Basketball,2004,0,0,0,0,12,0
+BRA,Beach Volleyball,2004,2,2,0,4,8,36
+BRA,Volleyball,2004,12,0,0,12,24,120
+BRA,Athletics,2004,0,0,1,1,43,7
+BRA,Triathlon,2004,0,0,0,0,6,0
+BRA,Tennis,2004,0,0,0,0,4,0
+BRA,Modern Pentathlon,2004,0,0,0,0,2,0
+BRA,Judo,2004,0,0,2,2,12,14
+BRA,Shooting,2004,0,0,0,0,1,0
+BRA,Wrestling,2004,0,0,0,0,1,0
+BRA,Volleyball,2000,0,0,12,12,24,84
+BRA,Athletics,2000,0,5,0,5,23,40
+BRA,Taekwondo,2000,0,0,0,0,1,0
+BRA,Synchronized Swimming,2000,0,0,0,0,2,0
+BRA,Beach Volleyball,2000,0,4,2,6,8,46
+BRA,Basketball,2000,0,0,12,12,12,84
+BRA,Judo,2000,0,2,0,2,12,16
+BRA,Sailing,2000,0,1,2,3,12,22
+BRA,Rhythmic Gymnastics,2000,0,0,0,0,6,0
+BRA,Rowing,2000,0,0,0,0,1,0
+BRA,Canoeing,2000,0,0,0,0,7,0
+BRA,Football,2000,0,0,0,0,33,0
+BRA,Gymnastics,2000,0,0,0,0,10,0
+BRA,Handball,2000,0,0,0,0,14,0
+BRA,Fencing,2000,0,0,0,0,1,0
+BRA,Equestrianism,2000,0,0,4,4,15,28
+BRA,Weightlifting,2000,0,0,0,0,1,0
+BRA,Table Tennis,2000,0,0,0,0,4,0
+BRA,Swimming,2000,0,0,4,4,25,28
+BRA,Boxing,2000,0,0,0,0,6,0
+BRA,Diving,2000,0,0,0,0,4,0
+BRA,Cycling,2000,0,0,0,0,4,0
+BRA,Tennis,2000,0,0,0,0,5,0
+BRA,Triathlon,2000,0,0,0,0,6,0
+BRA,Canoeing,1996,0,0,0,0,4,0
+BRA,Cycling,1996,0,0,0,0,9,0
+BRA,Boxing,1996,0,0,0,0,6,0
+BRA,Football,1996,0,0,17,17,33,119
+BRA,Beach Volleyball,1996,2,2,0,4,8,36
+BRA,Volleyball,1996,0,0,12,12,23,84
+BRA,Athletics,1996,0,0,4,4,50,28
+BRA,Sailing,1996,3,0,2,5,14,44
+BRA,Judo,1996,0,0,2,2,12,14
+BRA,Shooting,1996,0,0,0,0,1,0
+BRA,Rowing,1996,0,0,0,0,6,0
+BRA,Basketball,1996,0,11,0,11,23,88
+BRA,Tennis,1996,0,0,0,0,3,0
+BRA,Table Tennis,1996,0,0,0,0,7,0
+BRA,Handball,1996,0,0,0,0,16,0
+BRA,Equestrianism,1996,0,0,4,4,13,28
+BRA,Swimming,1996,0,1,2,3,21,22
+BRA,Weightlifting,1996,0,0,0,0,1,0
+BRA,Shooting,1992,0,0,0,0,4,0
+BRA,Wrestling,1992,0,0,0,0,1,0
+BRA,Synchronized Swimming,1992,0,0,0,0,5,0
+BRA,Archery,1992,0,0,0,0,2,0
+BRA,Swimming,1992,0,1,0,1,23,8
+BRA,Weightlifting,1992,0,0,0,0,1,0
+BRA,Equestrianism,1992,0,0,0,0,10,0
+BRA,Gymnastics,1992,0,0,0,0,12,0
+BRA,Fencing,1992,0,0,0,0,4,0
+BRA,Table Tennis,1992,0,0,0,0,8,0
+BRA,Cycling,1992,0,0,0,0,9,0
+BRA,Diving,1992,0,0,0,0,1,0
+BRA,Basketball,1992,0,0,0,0,24,0
+BRA,Boxing,1992,0,0,0,0,4,0
+BRA,Tennis,1992,0,0,0,0,7,0
+BRA,Volleyball,1992,12,0,0,12,24,120
+BRA,Athletics,1992,0,0,0,0,31,0
+BRA,Sailing,1992,0,0,0,0,16,0
+BRA,Rowing,1992,0,0,0,0,8,0
+BRA,Rhythmic Gymnastics,1992,0,0,0,0,1,0
+BRA,Canoeing,1992,0,0,0,0,9,0
+BRA,Judo,1992,1,0,0,1,14,10
+BRA,Handball,1992,0,0,0,0,14,0
+BRA,Basketball,1988,0,0,0,0,12,0
+BRA,Archery,1988,0,0,0,0,2,0
+BRA,Fencing,1988,0,0,0,0,11,0
+BRA,Synchronized Swimming,1988,0,0,0,0,5,0
+BRA,Gymnastics,1988,0,0,0,0,12,0
+BRA,Diving,1988,0,0,0,0,1,0
+BRA,Boxing,1988,0,0,0,0,3,0
+BRA,Football,1988,0,16,0,16,16,128
+BRA,Swimming,1988,0,0,0,0,46,0
+BRA,Weightlifting,1988,0,0,0,0,2,0
+BRA,Wrestling,1988,0,0,0,0,4,0
+BRA,Judo,1988,1,0,0,1,7,10
+BRA,Table Tennis,1988,0,0,0,0,4,0
+BRA,Equestrianism,1988,0,0,0,0,8,0
+BRA,Volleyball,1988,0,0,0,0,24,0
+BRA,Sailing,1988,0,0,4,4,15,28
+BRA,Shooting,1988,0,0,0,0,6,0
+BRA,Cycling,1988,0,0,0,0,14,0
+BRA,Rowing,1988,0,0,0,0,10,0
+BRA,Tennis,1988,0,0,0,0,4,0
+BRA,Athletics,1988,0,1,1,2,26,15
+BRA,Athletics,1984,1,0,0,1,35,10
+BRA,Water Polo,1984,0,0,0,0,13,0
+BRA,Equestrianism,1984,0,0,0,0,7,0
+BRA,Football,1984,0,16,0,16,16,128
+BRA,Shooting,1984,0,0,0,0,8,0
+BRA,Diving,1984,0,0,0,0,2,0
+BRA,Cycling,1984,0,0,0,0,8,0
+BRA,Rowing,1984,0,0,0,0,10,0
+BRA,Sailing,1984,0,3,0,3,12,24
+BRA,Rhythmic Gymnastics,1984,0,0,0,0,1,0
+BRA,Volleyball,1984,0,12,0,12,24,96
+BRA,Synchronized Swimming,1984,0,0,0,0,4,0
+BRA,Gymnastics,1984,0,0,0,0,12,0
+BRA,Judo,1984,0,1,2,3,7,22
+BRA,Swimming,1984,0,1,0,1,25,8
+BRA,Archery,1984,0,0,0,0,1,0
+BRA,Basketball,1984,0,0,0,0,12,0
+BRA,Rowing,1980,0,0,0,0,10,0
+BRA,Athletics,1980,0,0,1,1,20,7
+BRA,Swimming,1980,0,0,4,4,27,28
+BRA,Basketball,1980,0,0,0,0,11,0
+BRA,Weightlifting,1980,0,0,0,0,2,0
+BRA,Archery,1980,0,0,0,0,2,0
+BRA,Judo,1980,0,0,0,0,8,0
+BRA,Boxing,1980,0,0,0,0,4,0
+BRA,Gymnastics,1980,0,0,0,0,12,0
+BRA,Shooting,1980,0,0,0,0,5,0
+BRA,Volleyball,1980,0,0,0,0,24,0
+BRA,Sailing,1980,4,0,0,4,12,40
+BRA,Diving,1980,0,0,0,0,2,0
+BRA,Cycling,1980,0,0,0,0,10,0
+BRA,Swimming,1976,0,0,0,0,16,0
+BRA,Boxing,1976,0,0,0,0,4,0
+BRA,Weightlifting,1976,0,0,0,0,1,0
+BRA,Athletics,1976,0,0,1,1,11,7
+BRA,Football,1976,0,0,0,0,17,0
+BRA,Shooting,1976,0,0,0,0,8,0
+BRA,Judo,1976,0,0,0,0,3,0
+BRA,Fencing,1976,0,0,0,0,1,0
+BRA,Diving,1976,0,0,0,0,1,0
+BRA,Sailing,1976,0,0,2,2,8,14
+BRA,Rowing,1976,0,0,0,0,7,0
+BRA,Volleyball,1976,0,0,0,0,12,0
+BRA,Rowing,1972,0,0,0,0,2,0
+BRA,Shooting,1972,0,0,0,0,4,0
+BRA,Volleyball,1972,0,0,0,0,12,0
+BRA,Swimming,1972,0,0,0,0,33,0
+BRA,Cycling,1972,0,0,0,0,2,0
+BRA,Football,1972,0,0,0,0,17,0
+BRA,Athletics,1972,0,0,1,1,3,7
+BRA,Sailing,1972,0,0,0,0,10,0
+BRA,Equestrianism,1972,0,0,0,0,3,0
+BRA,Basketball,1972,0,0,0,0,11,0
+BRA,Weightlifting,1972,0,0,0,0,2,0
+BRA,Judo,1972,0,0,1,1,3,7
+BRA,Boxing,1972,0,0,0,0,2,0
+BRA,Water Polo,1968,0,0,0,0,10,0
+BRA,Volleyball,1968,0,0,0,0,12,0
+BRA,Athletics,1968,0,1,0,1,3,8
+BRA,Rowing,1968,0,0,0,0,2,0
+BRA,Fencing,1968,0,0,0,0,7,0
+BRA,Equestrianism,1968,0,0,0,0,6,0
+BRA,Boxing,1968,0,0,1,1,2,7
+BRA,Football,1968,0,0,0,0,16,0
+BRA,Swimming,1968,0,0,0,0,9,0
+BRA,Shooting,1968,0,0,0,0,4,0
+BRA,Sailing,1968,0,0,2,2,5,14
+BRA,Weightlifting,1968,0,0,0,0,1,0
+BRA,Basketball,1968,0,0,0,0,12,0
+BRA,Judo,1964,0,0,0,0,1,0
+BRA,Swimming,1964,0,0,0,0,8,0
+BRA,Boxing,1964,0,0,0,0,3,0
+BRA,Modern Pentathlon,1964,0,0,0,0,1,0
+BRA,Sailing,1964,0,0,0,0,5,0
+BRA,Basketball,1964,0,0,12,12,12,84
+BRA,Water Polo,1964,0,0,0,0,11,0
+BRA,Volleyball,1964,0,0,0,0,10,0
+BRA,Athletics,1964,0,0,0,0,1,0
+BRA,Football,1964,0,0,0,0,12,0
+BRA,Equestrianism,1964,0,0,0,0,1,0
+BRA,Sailing,1960,0,0,0,0,5,0
+BRA,Rowing,1960,0,0,0,0,5,0
+BRA,Diving,1960,0,0,0,0,1,0
+BRA,Modern Pentathlon,1960,0,0,0,0,6,0
+BRA,Shooting,1960,0,0,0,0,5,0
+BRA,Equestrianism,1960,0,0,0,0,6,0
+BRA,Basketball,1960,0,0,12,12,12,84
+BRA,Cycling,1960,0,0,0,0,2,0
+BRA,Athletics,1960,0,0,0,0,6,0
+BRA,Water Polo,1960,0,0,0,0,9,0
+BRA,Weightlifting,1960,0,0,0,0,1,0
+BRA,Swimming,1960,0,0,1,1,9,7
+BRA,Football,1960,0,0,0,0,14,0
+BRA,Boxing,1960,0,0,0,0,5,0
+BRA,Basketball,1956,0,0,0,0,12,0
+BRA,Diving,1956,0,0,0,0,2,0
+BRA,Equestrianism,1956,0,0,0,0,6,0
+BRA,Cycling,1956,0,0,0,0,2,0
+BRA,Boxing,1956,0,0,0,0,2,0
+BRA,Rowing,1956,0,0,0,0,5,0
+BRA,Sailing,1956,0,0,0,0,3,0
+BRA,Swimming,1956,0,0,0,0,4,0
+BRA,Athletics,1956,1,0,0,1,13,10
+BRA,Weightlifting,1956,0,0,0,0,2,0
+BRA,Shooting,1956,0,0,0,0,6,0
+BRA,Modern Pentathlon,1956,0,0,0,0,6,0
+BRA,Athletics,1952,1,0,1,2,16,17
+BRA,Basketball,1952,0,0,0,0,13,0
+BRA,Football,1952,0,0,0,0,11,0
+BRA,Equestrianism,1952,0,0,0,0,7,0
+BRA,Fencing,1952,0,0,0,0,8,0
+BRA,Sailing,1952,0,0,0,0,6,0
+BRA,Rowing,1952,0,0,0,0,3,0
+BRA,Modern Pentathlon,1952,0,0,0,0,6,0
+BRA,Boxing,1952,0,0,0,0,6,0
+BRA,Weightlifting,1952,0,0,0,0,3,0
+BRA,Water Polo,1952,0,0,0,0,11,0
+BRA,Diving,1952,0,0,0,0,2,0
+BRA,Shooting,1952,0,0,0,0,10,0
+BRA,Swimming,1952,0,0,1,1,17,7
+BRA,Modern Pentathlon,1948,0,0,0,0,3,0
+BRA,Boxing,1948,0,0,0,0,3,0
+BRA,Athletics,1948,0,0,0,0,27,0
+BRA,Equestrianism,1948,0,0,0,0,12,0
+BRA,Basketball,1948,0,0,10,10,10,70
+BRA,Fencing,1948,0,0,0,0,11,0
+BRA,Swimming,1948,0,0,0,0,21,0
+BRA,Diving,1948,0,0,0,0,3,0
+BRA,Shooting,1948,0,0,0,0,8,0
+BRA,Rowing,1948,0,0,0,0,2,0
+BRA,Sailing,1948,0,0,0,0,5,0
+BRA,Fencing,1936,0,0,0,0,18,0
+BRA,Rowing,1936,0,0,0,0,22,0
+BRA,Sailing,1936,0,0,0,0,1,0
+BRA,Cycling,1936,0,0,0,0,3,0
+BRA,Athletics,1936,0,0,0,0,11,0
+BRA,Shooting,1936,0,0,0,0,4,0
+BRA,Modern Pentathlon,1936,0,0,0,0,3,0
+BRA,Swimming,1936,0,0,0,0,24,0
+BRA,Basketball,1936,0,0,0,0,8,0
+BRA,Rowing,1932,0,0,0,0,19,0
+BRA,Athletics,1932,0,0,0,0,22,0
+BRA,Water Polo,1932,0,0,0,0,8,0
+BRA,Swimming,1932,0,0,0,0,12,0
+BRA,Shooting,1932,0,0,0,0,6,0
+BRA,Shooting,1924,0,0,0,0,1,0
+BRA,Athletics,1924,0,0,0,0,14,0
+BRA,Art Competitions,1924,0,0,0,0,1,0
+BRA,Rowing,1924,0,0,0,0,2,0
+BRA,Water Polo,1920,0,0,0,0,8,0
+BRA,Shooting,1920,1,1,5,7,20,53
+BRA,Diving,1920,0,0,0,0,3,0
+BRA,Swimming,1920,0,0,0,0,2,0
+BRA,Rowing,1920,0,0,0,0,5,0
+BRA,Athletics,1900,0,0,0,0,3,0

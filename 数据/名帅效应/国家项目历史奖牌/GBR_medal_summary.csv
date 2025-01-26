@@ -1,0 +1,594 @@
+NOC,Sport,Year,gold_number,silver_number,bronze_number,total_number,athletes_number,score
+GBR,Badminton,2024,0,0,0,0,3,0
+GBR,Trampoline Gymnastics,2024,1,0,0,1,3,10
+GBR,Tennis,2024,0,0,0,0,11,0
+GBR,Triathlon,2024,1,0,1,2,5,17
+GBR,Boxing,2024,0,0,1,1,6,7
+GBR,Canoe Slalom,2024,0,2,2,4,8,30
+GBR,Taekwondo,2024,0,1,0,1,4,8
+GBR,Table Tennis,2024,0,0,0,0,2,0
+GBR,Athletics,2024,1,9,30,40,93,292
+GBR,Cycling Road,2024,0,1,0,1,8,8
+GBR,Cycling BMX Racing,2024,0,0,0,0,4,0
+GBR,Modern Pentathlon,2024,0,0,0,0,4,0
+GBR,Artistic Gymnastics,2024,0,0,2,2,76,14
+GBR,Artistic Swimming,2024,0,2,0,2,2,16
+GBR,Judo,2024,0,0,0,0,5,0
+GBR,Marathon Swimming,2024,0,0,0,0,3,0
+GBR,Hockey,2024,0,0,0,0,34,0
+GBR,Weightlifting,2024,0,0,1,1,1,7
+GBR,Archery,2024,0,0,0,0,14,0
+GBR,Golf,2024,0,1,0,1,4,8
+GBR,Equestrian,2024,8,0,6,14,22,122
+GBR,Diving,2024,0,2,7,9,16,65
+GBR,Cycling BMX Freestyle,2024,0,1,0,1,2,8
+GBR,Cycling Track,2024,4,11,9,24,40,191
+GBR,Cycling Mountain Bike,2024,0,0,0,0,3,0
+GBR,Shooting,2024,1,1,0,2,10,18
+GBR,Skateboarding,2024,0,0,1,1,3,7
+GBR,Swimming,2024,6,4,0,10,71,92
+GBR,Rugby Sevens,2024,0,0,0,0,14,0
+GBR,"Cycling Road, Cycling Mountain Bike",2024,0,0,0,0,2,0
+GBR,Rowing,2024,15,6,15,36,42,303
+GBR,Sailing,2024,1,0,1,2,14,17
+GBR,Sport Climbing,2024,1,0,0,1,4,10
+GBR,Taekwondo,2020,0,2,1,3,5,23
+GBR,Canoe Sprint,2020,0,0,1,1,6,7
+GBR,Boxing,2020,2,2,2,6,11,50
+GBR,Swimming,2020,12,7,1,20,64,183
+GBR,Shooting,2020,0,0,1,1,8,7
+GBR,Rugby Sevens,2020,0,0,0,0,26,0
+GBR,Cycling Mountain Bike,2020,1,0,0,1,2,10
+GBR,Cycling Road,2020,0,0,0,0,9,0
+GBR,Cycling Track,2020,4,12,1,17,33,143
+GBR,Modern Pentathlon,2020,2,0,0,2,4,20
+GBR,Sailing,2020,5,2,1,8,15,73
+GBR,Table Tennis,2020,0,0,0,0,3,0
+GBR,Athletics,2020,0,8,7,15,99,113
+GBR,Canoe Slalom,2020,0,1,0,1,4,8
+GBR,Triathlon,2020,5,2,0,7,10,66
+GBR,Badminton,2020,0,0,0,0,8,0
+GBR,Tennis,2020,0,0,0,0,6,0
+GBR,Trampoline Gymnastics,2020,0,0,1,1,2,7
+GBR,Rowing,2020,0,4,9,13,41,95
+GBR,Artistic Swimming,2020,0,0,0,0,2,0
+GBR,Fencing,2020,0,0,0,0,1,0
+GBR,Football,2020,0,0,0,0,22,0
+GBR,Artistic Gymnastics,2020,1,0,4,5,55,38
+GBR,Weightlifting,2020,0,1,0,1,4,8
+GBR,Archery,2020,0,0,0,0,14,0
+GBR,Skateboarding,2020,0,0,1,1,2,7
+GBR,Sport Climbing,2020,0,0,0,0,1,0
+GBR,Cycling BMX Racing,2020,1,1,0,2,2,18
+GBR,Cycling BMX Freestyle,2020,1,0,1,2,2,17
+GBR,Equestrian,2020,5,1,5,11,23,93
+GBR,Golf,2020,0,0,0,0,4,0
+GBR,Hockey,2020,0,0,18,18,36,126
+GBR,Marathon Swimming,2020,0,0,0,0,2,0
+GBR,Diving,2020,2,0,2,4,16,34
+GBR,Judo,2020,0,0,1,1,6,7
+GBR,Gymnastics,2016,2,1,3,6,47,49
+GBR,Diving,2016,2,1,2,5,15,42
+GBR,Modern Pentathlon,2016,0,0,0,0,4,0
+GBR,Golf,2016,1,0,0,1,4,10
+GBR,Judo,2016,0,0,1,1,7,7
+GBR,Weightlifting,2016,0,0,0,0,2,0
+GBR,Archery,2016,0,0,0,0,2,0
+GBR,Hockey,2016,16,0,0,16,33,160
+GBR,Taekwondo,2016,1,1,1,3,4,25
+GBR,Tennis,2016,1,0,0,1,14,10
+GBR,Boxing,2016,1,1,1,3,12,25
+GBR,Table Tennis,2016,0,0,0,0,5,0
+GBR,Badminton,2016,0,0,2,2,8,14
+GBR,Athletics,2016,2,1,11,14,86,105
+GBR,Triathlon,2016,1,1,1,3,6,25
+GBR,Trampolining,2016,0,1,0,1,3,8
+GBR,Synchronized Swimming,2016,0,0,0,0,2,0
+GBR,Cycling,2016,14,4,2,20,34,186
+GBR,Sailing,2016,3,1,0,4,15,38
+GBR,Rugby Sevens,2016,0,12,0,12,24,96
+GBR,Shooting,2016,0,0,2,2,7,14
+GBR,Rowing,2016,15,11,0,26,43,238
+GBR,Swimming,2016,1,12,0,13,54,106
+GBR,Canoeing,2016,2,4,0,6,16,52
+GBR,Equestrianism,2016,2,4,0,6,24,52
+GBR,Fencing,2016,0,0,0,0,7,0
+GBR,Equestrianism,2012,8,5,1,14,25,127
+GBR,Weightlifting,2012,0,0,0,0,5,0
+GBR,Hockey,2012,0,0,16,16,32,112
+GBR,Fencing,2012,0,0,0,0,18,0
+GBR,Archery,2012,0,0,0,0,12,0
+GBR,Football,2012,0,0,0,0,33,0
+GBR,Triathlon,2012,1,0,1,2,6,17
+GBR,Trampolining,2012,0,0,0,0,1,0
+GBR,Badminton,2012,0,0,0,0,4,0
+GBR,Athletics,2012,4,1,1,6,88,55
+GBR,Wrestling,2012,0,0,0,0,1,0
+GBR,Water Polo,2012,0,0,0,0,26,0
+GBR,Volleyball,2012,0,0,0,0,24,0
+GBR,Swimming,2012,0,1,2,3,81,22
+GBR,Judo,2012,0,1,1,2,14,15
+GBR,Rhythmic Gymnastics,2012,0,0,0,0,7,0
+GBR,Shooting,2012,1,0,0,1,16,10
+GBR,Rowing,2012,10,6,12,28,47,232
+GBR,Modern Pentathlon,2012,0,1,0,1,4,8
+GBR,Handball,2012,0,0,0,0,28,0
+GBR,Diving,2012,0,0,1,1,16,7
+GBR,Gymnastics,2012,0,1,7,8,48,57
+GBR,Cycling,2012,15,2,2,19,35,180
+GBR,Sailing,2012,1,7,0,8,16,66
+GBR,Canoeing,2012,3,2,2,7,21,60
+GBR,Taekwondo,2012,1,0,1,2,4,17
+GBR,Table Tennis,2012,0,0,0,0,8,0
+GBR,Beach Volleyball,2012,0,0,0,0,4,0
+GBR,Basketball,2012,0,0,0,0,24,0
+GBR,Boxing,2012,3,1,1,5,10,45
+GBR,Synchronized Swimming,2012,0,0,0,0,11,0
+GBR,Tennis,2012,1,2,0,3,15,26
+GBR,Synchronized Swimming,2008,0,0,0,0,2,0
+GBR,Badminton,2008,0,0,0,0,8,0
+GBR,Trampolining,2008,0,0,0,0,1,0
+GBR,Triathlon,2008,0,0,0,0,5,0
+GBR,Boxing,2008,1,0,2,3,7,24
+GBR,Swimming,2008,2,2,2,6,72,50
+GBR,Fencing,2008,0,0,0,0,3,0
+GBR,Tennis,2008,0,0,0,0,3,0
+GBR,Athletics,2008,1,2,5,8,71,61
+GBR,Cycling,2008,13,4,2,19,34,176
+GBR,Sailing,2008,7,2,1,10,18,93
+GBR,Canoeing,2008,1,1,1,3,8,25
+GBR,Modern Pentathlon,2008,0,1,0,1,4,8
+GBR,Shooting,2008,0,0,0,0,7,0
+GBR,Rowing,2008,6,13,4,23,45,192
+GBR,Judo,2008,0,0,0,0,7,0
+GBR,Gymnastics,2008,0,0,1,1,39,7
+GBR,Diving,2008,0,0,0,0,14,0
+GBR,Weightlifting,2008,0,0,0,0,1,0
+GBR,Archery,2008,0,0,0,0,12,0
+GBR,Equestrianism,2008,0,0,6,6,23,42
+GBR,Hockey,2008,0,0,0,0,32,0
+GBR,Taekwondo,2008,0,0,1,1,3,7
+GBR,Fencing,2004,0,0,0,0,2,0
+GBR,Archery,2004,0,0,1,1,7,7
+GBR,Weightlifting,2004,0,0,0,0,2,0
+GBR,Judo,2004,0,0,0,0,8,0
+GBR,Gymnastics,2004,0,0,0,0,32,0
+GBR,Hockey,2004,0,0,0,0,16,0
+GBR,Modern Pentathlon,2004,0,0,1,1,2,7
+GBR,Tennis,2004,0,0,0,0,1,0
+GBR,Athletics,2004,6,0,1,7,67,67
+GBR,Badminton,2004,0,2,0,2,13,16
+GBR,Boxing,2004,0,1,0,1,1,8
+GBR,Taekwondo,2004,0,0,0,0,4,0
+GBR,Trampolining,2004,0,0,0,0,2,0
+GBR,Triathlon,2004,0,0,0,0,6,0
+GBR,Wrestling,2004,0,0,0,0,1,0
+GBR,Equestrianism,2004,1,5,1,7,20,57
+GBR,Sailing,2004,4,2,3,9,18,77
+GBR,Swimming,2004,0,0,2,2,57,14
+GBR,Canoeing,2004,0,1,2,3,10,22
+GBR,Rhythmic Gymnastics,2004,0,0,0,0,1,0
+GBR,Rowing,2004,4,6,2,12,37,102
+GBR,Cycling,2004,2,6,2,10,35,82
+GBR,Diving,2004,0,2,0,2,12,16
+GBR,Shooting,2004,0,0,0,0,6,0
+GBR,Table Tennis,2000,0,0,0,0,1,0
+GBR,Taekwondo,2000,0,0,0,0,2,0
+GBR,Triathlon,2000,0,0,0,0,6,0
+GBR,Trampolining,2000,0,0,0,0,2,0
+GBR,Badminton,2000,0,0,2,2,16,14
+GBR,Athletics,2000,2,2,2,6,88,50
+GBR,Tennis,2000,0,0,0,0,7,0
+GBR,Boxing,2000,1,0,0,1,2,10
+GBR,Modern Pentathlon,2000,1,0,1,2,2,17
+GBR,Cycling,2000,1,3,6,10,33,76
+GBR,Rowing,2000,13,4,0,17,36,162
+GBR,Canoeing,2000,0,1,1,2,16,15
+GBR,Swimming,2000,0,0,0,0,60,0
+GBR,Sailing,2000,3,4,0,7,16,62
+GBR,Shooting,2000,1,1,0,2,6,18
+GBR,Gymnastics,2000,0,0,0,0,39,0
+GBR,Hockey,2000,0,0,0,0,32,0
+GBR,Diving,2000,0,0,0,0,12,0
+GBR,Judo,2000,0,1,0,1,9,8
+GBR,Weightlifting,2000,0,0,0,0,1,0
+GBR,Equestrianism,2000,0,4,0,4,23,32
+GBR,Fencing,2000,0,0,0,0,3,0
+GBR,Archery,2000,0,0,0,0,3,0
+GBR,Archery,1996,0,0,0,0,3,0
+GBR,Wrestling,1996,0,0,0,0,1,0
+GBR,Boxing,1996,0,0,0,0,2,0
+GBR,Table Tennis,1996,0,0,0,0,5,0
+GBR,Tennis,1996,0,2,0,2,7,16
+GBR,Equestrianism,1996,0,0,0,0,23,0
+GBR,Swimming,1996,0,1,1,2,52,15
+GBR,Beach Volleyball,1996,0,0,0,0,2,0
+GBR,Fencing,1996,0,0,0,0,2,0
+GBR,Shooting,1996,0,0,0,0,7,0
+GBR,Diving,1996,0,0,0,0,6,0
+GBR,Cycling,1996,0,0,2,2,22,14
+GBR,Gymnastics,1996,0,0,0,0,24,0
+GBR,Rowing,1996,2,0,4,6,37,48
+GBR,Weightlifting,1996,0,0,0,0,1,0
+GBR,Athletics,1996,0,9,2,11,93,86
+GBR,Badminton,1996,0,0,0,0,22,0
+GBR,Modern Pentathlon,1996,0,0,0,0,1,0
+GBR,Hockey,1996,0,0,0,0,32,0
+GBR,Judo,1996,0,0,0,0,13,0
+GBR,Canoeing,1996,0,0,0,0,20,0
+GBR,Sailing,1996,0,3,0,3,16,24
+GBR,Swimming,1992,0,0,1,1,65,7
+GBR,Equestrianism,1992,0,0,0,0,24,0
+GBR,Boxing,1992,0,0,1,1,10,7
+GBR,Archery,1992,0,0,4,4,12,28
+GBR,Judo,1992,0,2,2,4,14,30
+GBR,Hockey,1992,0,0,16,16,31,112
+GBR,Gymnastics,1992,0,0,0,0,58,0
+GBR,Fencing,1992,0,0,0,0,24,0
+GBR,Tennis,1992,0,0,0,0,9,0
+GBR,Sailing,1992,0,0,3,3,17,21
+GBR,Shooting,1992,0,0,0,0,8,0
+GBR,Canoeing,1992,0,1,0,1,27,8
+GBR,Modern Pentathlon,1992,0,0,0,0,6,0
+GBR,Athletics,1992,2,0,12,14,105,104
+GBR,Weightlifting,1992,0,0,0,0,6,0
+GBR,Badminton,1992,0,0,0,0,12,0
+GBR,Rowing,1992,5,0,0,5,46,50
+GBR,Rhythmic Gymnastics,1992,0,0,0,0,2,0
+GBR,Diving,1992,0,0,0,0,5,0
+GBR,Cycling,1992,1,0,0,1,17,10
+GBR,Table Tennis,1992,0,0,0,0,8,0
+GBR,Wrestling,1992,0,0,0,0,1,0
+GBR,Synchronized Swimming,1992,0,0,0,0,5,0
+GBR,Swimming,1988,1,1,1,3,74,25
+GBR,Shooting,1988,1,1,0,2,13,18
+GBR,Judo,1988,0,0,1,1,7,7
+GBR,Hockey,1988,16,0,0,16,32,160
+GBR,Canoeing,1988,0,0,0,0,23,0
+GBR,Tennis,1988,0,0,0,0,8,0
+GBR,Table Tennis,1988,0,0,0,0,7,0
+GBR,Synchronized Swimming,1988,0,0,0,0,5,0
+GBR,Equestrianism,1988,0,5,1,6,24,47
+GBR,Boxing,1988,0,0,1,1,8,7
+GBR,Fencing,1988,0,0,0,0,19,0
+GBR,Archery,1988,0,0,3,3,12,21
+GBR,Rowing,1988,2,0,3,5,32,41
+GBR,Wrestling,1988,0,0,0,0,6,0
+GBR,Gymnastics,1988,0,0,0,0,24,0
+GBR,Sailing,1988,2,0,0,2,15,20
+GBR,Athletics,1988,0,10,2,12,122,94
+GBR,Rhythmic Gymnastics,1988,0,0,0,0,1,0
+GBR,Diving,1988,0,0,0,0,7,0
+GBR,Cycling,1988,0,0,0,0,17,0
+GBR,Modern Pentathlon,1988,0,0,3,3,6,21
+GBR,Weightlifting,1988,0,0,0,0,10,0
+GBR,Archery,1984,0,0,0,0,6,0
+GBR,Modern Pentathlon,1984,0,0,0,0,6,0
+GBR,Rowing,1984,5,0,0,5,42,50
+GBR,Wrestling,1984,0,0,1,1,7,7
+GBR,Athletics,1984,3,10,9,22,103,173
+GBR,Weightlifting,1984,0,0,1,1,10,7
+GBR,Cycling,1984,0,0,0,0,22,0
+GBR,Canoeing,1984,0,0,0,0,23,0
+GBR,Diving,1984,0,0,0,0,7,0
+GBR,Rhythmic Gymnastics,1984,0,0,0,0,2,0
+GBR,Judo,1984,0,1,2,3,8,22
+GBR,Hockey,1984,0,0,15,15,15,105
+GBR,Gymnastics,1984,0,0,0,0,84,0
+GBR,Shooting,1984,1,0,3,4,22,31
+GBR,Sailing,1984,0,0,2,2,13,14
+GBR,Swimming,1984,0,1,7,8,69,57
+GBR,Boxing,1984,0,0,1,1,12,7
+GBR,Equestrianism,1984,0,8,1,9,21,71
+GBR,Fencing,1984,0,0,0,0,32,0
+GBR,Synchronized Swimming,1984,0,0,0,0,5,0
+GBR,Fencing,1980,0,0,0,0,23,0
+GBR,Boxing,1980,0,0,1,1,9,7
+GBR,Archery,1980,0,0,0,0,4,0
+GBR,Cycling,1980,0,0,0,0,15,0
+GBR,Modern Pentathlon,1980,0,0,0,0,6,0
+GBR,Wrestling,1980,0,0,0,0,6,0
+GBR,Gymnastics,1980,0,0,0,0,36,0
+GBR,Diving,1980,0,0,0,0,7,0
+GBR,Canoeing,1980,0,0,0,0,15,0
+GBR,Swimming,1980,1,6,6,13,66,100
+GBR,Weightlifting,1980,0,0,0,0,10,0
+GBR,Athletics,1980,4,2,10,16,80,126
+GBR,Rowing,1980,0,9,6,15,43,114
+GBR,Judo,1980,0,1,1,2,8,15
+GBR,Swimming,1976,1,1,4,6,74,46
+GBR,Wrestling,1976,0,0,0,0,7,0
+GBR,Cycling,1976,0,0,4,4,15,28
+GBR,Modern Pentathlon,1976,3,0,0,3,6,30
+GBR,Weightlifting,1976,0,0,0,0,8,0
+GBR,Rowing,1976,0,11,0,11,31,88
+GBR,Gymnastics,1976,0,0,0,0,36,0
+GBR,Diving,1976,0,0,0,0,4,0
+GBR,Equestrianism,1976,0,0,0,0,21,0
+GBR,Fencing,1976,0,0,0,0,31,0
+GBR,Boxing,1976,0,0,1,1,7,7
+GBR,Archery,1976,0,0,0,0,4,0
+GBR,Athletics,1976,0,0,1,1,66,7
+GBR,Canoeing,1976,0,0,0,0,12,0
+GBR,Sailing,1976,2,2,0,4,12,36
+GBR,Shooting,1976,0,0,0,0,13,0
+GBR,Judo,1976,0,1,1,2,6,15
+GBR,Athletics,1972,1,4,2,7,90,56
+GBR,Archery,1972,0,0,0,0,6,0
+GBR,Boxing,1972,0,0,3,3,9,21
+GBR,Equestrianism,1972,5,1,0,6,21,58
+GBR,Gymnastics,1972,0,0,0,0,57,0
+GBR,Sailing,1972,2,2,0,4,13,36
+GBR,Rowing,1972,0,0,0,0,17,0
+GBR,Hockey,1972,0,0,0,0,17,0
+GBR,Shooting,1972,0,0,1,1,15,7
+GBR,Swimming,1972,0,1,0,1,78,8
+GBR,Judo,1972,0,1,2,3,6,22
+GBR,Canoeing,1972,0,0,0,0,23,0
+GBR,Wrestling,1972,0,0,0,0,6,0
+GBR,Weightlifting,1972,0,0,0,0,9,0
+GBR,Modern Pentathlon,1972,0,0,0,0,6,0
+GBR,Cycling,1972,0,0,4,4,18,28
+GBR,Fencing,1972,0,0,0,0,32,0
+GBR,Diving,1972,0,0,0,0,10,0
+GBR,Athletics,1968,1,2,1,4,82,33
+GBR,Equestrianism,1968,4,2,1,7,20,63
+GBR,Modern Pentathlon,1968,0,0,0,0,6,0
+GBR,Weightlifting,1968,0,0,0,0,7,0
+GBR,Wrestling,1968,0,0,0,0,4,0
+GBR,Cycling,1968,0,0,0,0,16,0
+GBR,Rowing,1968,0,0,0,0,11,0
+GBR,Sailing,1968,2,0,3,5,11,41
+GBR,Gymnastics,1968,0,0,0,0,24,0
+GBR,Diving,1968,0,0,0,0,5,0
+GBR,Swimming,1968,0,1,0,1,64,8
+GBR,Canoeing,1968,0,0,0,0,10,0
+GBR,Fencing,1968,0,0,0,0,31,0
+GBR,Boxing,1968,1,0,0,1,9,10
+GBR,Hockey,1968,0,0,0,0,18,0
+GBR,Shooting,1968,1,0,0,1,10,10
+GBR,Boxing,1964,0,0,0,0,8,0
+GBR,Athletics,1964,4,10,4,18,82,148
+GBR,Weightlifting,1964,0,1,0,1,5,8
+GBR,Wrestling,1964,0,0,0,0,6,0
+GBR,Modern Pentathlon,1964,0,0,0,0,6,0
+GBR,Rowing,1964,0,4,0,4,8,32
+GBR,Sailing,1964,0,2,0,2,9,16
+GBR,Equestrianism,1964,0,0,1,1,15,7
+GBR,Gymnastics,1964,0,0,0,0,24,0
+GBR,Fencing,1964,0,1,0,1,31,8
+GBR,Judo,1964,0,0,0,0,4,0
+GBR,Canoeing,1964,0,0,0,0,6,0
+GBR,Shooting,1964,0,0,0,0,8,0
+GBR,Swimming,1964,0,1,0,1,47,8
+GBR,Cycling,1964,0,0,0,0,18,0
+GBR,Diving,1964,0,0,0,0,6,0
+GBR,Hockey,1964,0,0,0,0,18,0
+GBR,Athletics,1960,1,3,7,11,80,83
+GBR,Boxing,1960,0,0,3,3,10,21
+GBR,Football,1960,0,0,0,0,15,0
+GBR,Gymnastics,1960,0,0,0,0,84,0
+GBR,Fencing,1960,0,7,0,7,32,56
+GBR,Hockey,1960,0,0,0,0,15,0
+GBR,Canoeing,1960,0,0,0,0,8,0
+GBR,Swimming,1960,1,1,1,3,38,25
+GBR,Shooting,1960,0,0,0,0,10,0
+GBR,Modern Pentathlon,1960,0,0,0,0,6,0
+GBR,Equestrianism,1960,0,0,1,1,16,7
+GBR,Sailing,1960,0,0,0,0,11,0
+GBR,Diving,1960,0,0,2,2,8,14
+GBR,Rowing,1960,0,0,0,0,26,0
+GBR,Cycling,1960,0,0,0,0,17,0
+GBR,Wrestling,1960,0,0,0,0,6,0
+GBR,Weightlifting,1960,0,0,1,1,7,7
+GBR,Weightlifting,1956,0,0,0,0,5,0
+GBR,Water Polo,1956,0,0,0,0,9,0
+GBR,Wrestling,1956,0,0,0,0,4,0
+GBR,Rowing,1956,0,0,0,0,12,0
+GBR,Cycling,1956,0,4,5,9,16,67
+GBR,Diving,1956,0,0,0,0,10,0
+GBR,Equestrianism,1956,3,0,4,7,14,58
+GBR,Shooting,1956,0,0,0,0,11,0
+GBR,Fencing,1956,1,0,0,1,26,10
+GBR,Gymnastics,1956,0,0,0,0,19,0
+GBR,Athletics,1956,1,7,5,13,75,101
+GBR,Boxing,1956,2,1,2,5,7,42
+GBR,Football,1956,0,0,0,0,12,0
+GBR,Canoeing,1956,0,0,0,0,5,0
+GBR,Swimming,1956,1,0,1,2,26,17
+GBR,Modern Pentathlon,1956,0,0,0,0,6,0
+GBR,Hockey,1956,0,0,0,0,14,0
+GBR,Sailing,1956,0,4,5,9,12,67
+GBR,Wrestling,1952,0,0,1,1,6,7
+GBR,Hockey,1952,0,0,13,13,13,91
+GBR,Shooting,1952,0,0,0,0,14,0
+GBR,Cycling,1952,0,0,4,4,16,28
+GBR,Canoeing,1952,0,0,0,0,9,0
+GBR,Modern Pentathlon,1952,0,0,0,0,6,0
+GBR,Water Polo,1952,0,0,0,0,9,0
+GBR,Rowing,1952,0,0,0,0,23,0
+GBR,Diving,1952,0,0,0,0,11,0
+GBR,Weightlifting,1952,0,0,0,0,5,0
+GBR,Fencing,1952,0,0,0,0,29,0
+GBR,Athletics,1952,0,1,7,8,80,57
+GBR,Sailing,1952,0,1,0,1,14,8
+GBR,Swimming,1952,0,0,1,1,29,7
+GBR,Gymnastics,1952,0,0,0,0,104,0
+GBR,Football,1952,0,0,0,0,11,0
+GBR,Boxing,1952,0,0,0,0,10,0
+GBR,Equestrianism,1952,3,0,0,3,12,30
+GBR,Equestrianism,1948,0,0,3,3,12,21
+GBR,Sailing,1948,2,0,0,2,12,20
+GBR,Athletics,1948,0,9,1,10,94,79
+GBR,Shooting,1948,0,0,0,0,12,0
+GBR,Swimming,1948,0,0,1,1,35,7
+GBR,Canoeing,1948,0,0,0,0,7,0
+GBR,Cycling,1948,0,7,5,12,16,91
+GBR,Fencing,1948,0,0,0,0,29,0
+GBR,Diving,1948,0,0,0,0,12,0
+GBR,Weightlifting,1948,0,1,1,2,10,15
+GBR,Wrestling,1948,0,0,0,0,16,0
+GBR,Rowing,1948,4,9,0,13,26,112
+GBR,Gymnastics,1948,0,0,0,0,72,0
+GBR,Football,1948,0,0,0,0,19,0
+GBR,Boxing,1948,0,2,0,2,8,16
+GBR,Modern Pentathlon,1948,0,0,0,0,3,0
+GBR,Hockey,1948,0,12,0,12,12,96
+GBR,Basketball,1948,0,0,0,0,13,0
+GBR,Art Competitions,1948,1,2,1,4,111,33
+GBR,Water Polo,1948,0,0,0,0,8,0
+GBR,Diving,1936,0,0,0,0,6,0
+GBR,Polo,1936,0,4,0,4,4,32
+GBR,Equestrianism,1936,0,0,3,3,12,21
+GBR,Cycling,1936,0,0,4,4,16,28
+GBR,Canoeing,1936,0,0,0,0,3,0
+GBR,Swimming,1936,0,0,0,0,29,0
+GBR,Modern Pentathlon,1936,0,0,0,0,3,0
+GBR,Football,1936,0,0,0,0,15,0
+GBR,Water Polo,1936,0,0,0,0,11,0
+GBR,Weightlifting,1936,0,0,0,0,5,0
+GBR,Rowing,1936,2,4,0,6,18,52
+GBR,Athletics,1936,5,8,0,13,63,114
+GBR,Wrestling,1936,0,0,0,0,7,0
+GBR,Fencing,1936,0,0,0,0,28,0
+GBR,Gymnastics,1936,0,0,0,0,8,0
+GBR,Boxing,1936,0,0,0,0,8,0
+GBR,Sailing,1936,5,0,1,6,14,57
+GBR,Fencing,1932,0,1,0,1,3,8
+GBR,Wrestling,1932,0,0,0,0,2,0
+GBR,Rowing,1932,6,0,0,6,16,60
+GBR,Art Competitions,1932,1,0,0,1,36,10
+GBR,Boxing,1932,0,0,0,0,3,0
+GBR,Sailing,1932,0,2,0,2,3,16
+GBR,Cycling,1932,0,2,4,6,15,44
+GBR,Modern Pentathlon,1932,0,0,0,0,3,0
+GBR,Swimming,1932,0,0,5,5,23,35
+GBR,Athletics,1932,2,7,5,14,38,111
+GBR,Rowing,1928,4,11,1,16,23,135
+GBR,Weightlifting,1928,0,0,0,0,5,0
+GBR,Water Polo,1928,0,0,0,0,9,0
+GBR,Art Competitions,1928,1,1,0,2,45,18
+GBR,Athletics,1928,2,2,4,8,65,64
+GBR,Sailing,1928,0,0,0,0,8,0
+GBR,Boxing,1928,0,0,0,0,8,0
+GBR,Fencing,1928,0,1,0,1,28,8
+GBR,Cycling,1928,0,7,4,11,16,84
+GBR,Diving,1928,0,0,0,0,7,0
+GBR,Swimming,1928,0,5,2,7,28,54
+GBR,Gymnastics,1928,0,0,12,12,66,84
+GBR,Wrestling,1928,0,0,1,1,6,7
+GBR,Modern Pentathlon,1928,0,0,0,0,3,0
+GBR,Athletics,1924,3,11,8,22,87,174
+GBR,Weightlifting,1924,0,0,0,0,10,0
+GBR,Tennis,1924,0,2,3,5,20,37
+GBR,Art Competitions,1924,0,1,0,1,11,8
+GBR,Modern Pentathlon,1924,0,0,0,0,4,0
+GBR,Shooting,1924,4,2,0,6,35,56
+GBR,Cycling,1924,0,1,1,2,18,15
+GBR,Wrestling,1924,0,0,1,1,14,7
+GBR,Fencing,1924,0,1,0,1,33,8
+GBR,Gymnastics,1924,0,0,0,0,72,0
+GBR,Rowing,1924,5,0,0,5,21,50
+GBR,Equestrianism,1924,0,0,0,0,16,0
+GBR,Sailing,1924,0,5,0,5,6,40
+GBR,Diving,1924,0,0,1,1,13,7
+GBR,Water Polo,1924,0,0,0,0,7,0
+GBR,Polo,1924,0,0,4,4,4,28
+GBR,Boxing,1924,2,2,0,4,16,36
+GBR,Swimming,1924,1,5,1,7,36,57
+GBR,Athletics,1920,7,14,4,25,77,210
+GBR,Weightlifting,1920,0,0,0,0,2,0
+GBR,Diving,1920,0,1,0,1,5,8
+GBR,Sailing,1920,4,0,0,4,6,40
+GBR,Water Polo,1920,7,0,0,7,7,70
+GBR,Polo,1920,4,0,0,4,4,40
+GBR,Tug-Of-War,1920,8,0,0,8,8,80
+GBR,Rowing,1920,0,10,0,10,10,80
+GBR,Gymnastics,1920,0,0,0,0,27,0
+GBR,Boxing,1920,2,1,3,6,16,49
+GBR,Tennis,1920,4,5,1,10,24,87
+GBR,Art Competitions,1920,0,1,0,1,1,8
+GBR,Fencing,1920,0,0,0,0,40,0
+GBR,Figure Skating,1920,0,0,2,2,9,14
+GBR,Football,1920,0,0,0,0,11,0
+GBR,Wrestling,1920,0,0,2,2,10,14
+GBR,Swimming,1920,0,4,4,8,36,60
+GBR,Shooting,1920,0,0,0,0,8,0
+GBR,Modern Pentathlon,1920,0,0,0,0,4,0
+GBR,Cycling,1920,2,6,1,9,26,75
+GBR,Hockey,1920,14,0,0,14,14,140
+GBR,Swimming,1912,4,2,6,12,32,98
+GBR,Cycling,1912,0,13,0,13,52,104
+GBR,Modern Pentathlon,1912,0,0,0,0,3,0
+GBR,Shooting,1912,4,17,10,31,85,246
+GBR,Diving,1912,0,0,1,1,4,7
+GBR,Athletics,1912,5,1,16,22,111,170
+GBR,Wrestling,1912,0,0,0,0,12,0
+GBR,Tug-Of-War,1912,0,8,0,8,8,64
+GBR,Water Polo,1912,7,0,0,7,7,70
+GBR,Rowing,1912,10,14,0,24,24,212
+GBR,Equestrianism,1912,0,0,0,0,11,0
+GBR,Art Competitions,1912,0,0,0,0,3,0
+GBR,Fencing,1912,0,6,0,6,41,48
+GBR,Gymnastics,1912,0,0,23,23,29,161
+GBR,Football,1912,14,0,0,14,14,140
+GBR,Tennis,1912,3,3,3,9,25,75
+GBR,Tennis,1908,8,7,5,20,38,171
+GBR,Figure Skating,1908,1,3,4,8,12,62
+GBR,Football,1908,11,0,0,11,11,110
+GBR,Jeu De Paume,1908,0,1,1,2,9,15
+GBR,Archery,1908,2,2,1,5,50,43
+GBR,Fencing,1908,0,6,0,6,32,48
+GBR,Gymnastics,1908,0,1,0,1,65,8
+GBR,Lacrosse,1908,0,12,0,12,12,96
+GBR,Hockey,1908,11,12,22,45,45,360
+GBR,Motorboating,1908,6,0,0,6,16,60
+GBR,Polo,1908,4,8,0,12,12,104
+GBR,Tug-Of-War,1908,8,8,8,24,24,200
+GBR,Rowing,1908,16,7,9,32,32,279
+GBR,Water Polo,1908,7,0,0,7,7,70
+GBR,Racquets,1908,3,3,4,10,12,82
+GBR,Rugby,1908,0,15,0,15,15,120
+GBR,Diving,1908,0,0,0,0,17,0
+GBR,Sailing,1908,22,9,5,36,39,327
+GBR,Wrestling,1908,3,4,4,11,68,90
+GBR,Athletics,1908,11,7,3,21,186,187
+GBR,Cycling,1908,8,4,2,14,60,126
+GBR,Shooting,1908,14,15,16,45,131,372
+GBR,Swimming,1908,7,2,1,10,38,93
+GBR,Boxing,1908,5,4,5,14,32,117
+GBR,Diving,1906,0,0,0,0,2,0
+GBR,Athletics,1906,3,5,1,9,36,77
+GBR,Rowing,1906,0,0,0,0,1,0
+GBR,Fencing,1906,0,4,0,4,7,32
+GBR,Gymnastics,1906,0,0,0,0,4,0
+GBR,Cycling,1906,3,3,0,6,20,54
+GBR,Shooting,1906,2,0,2,4,21,34
+GBR,Football,1906,0,8,0,8,8,64
+GBR,Swimming,1906,1,2,5,8,14,61
+GBR,Fencing,1904,0,0,0,0,1,0
+GBR,Golf,1904,0,0,0,0,2,0
+GBR,Athletics,1904,1,1,0,2,3,18
+GBR,Water Polo,1900,6,0,1,7,7,67
+GBR,Athletics,1900,7,3,2,12,19,108
+GBR,Equestrianism,1900,0,0,0,0,1,0
+GBR,Rowing,1900,0,0,1,1,1,7
+GBR,Polo,1900,3,2,1,6,6,53
+GBR,Rugby,1900,0,15,0,15,15,120
+GBR,Sailing,1900,11,1,1,13,18,125
+GBR,Tennis,1900,6,2,6,14,16,118
+GBR,Fencing,1900,0,0,0,0,3,0
+GBR,Golf,1900,0,1,1,2,5,15
+GBR,Gymnastics,1900,0,0,0,0,4,0
+GBR,Shooting,1900,0,0,0,0,1,0
+GBR,Cricket,1900,12,9,0,21,21,192
+GBR,Cycling,1900,0,1,0,1,2,8
+GBR,Swimming,1900,2,0,1,3,14,27
+GBR,Football,1900,11,0,1,12,12,117
+GBR,Wrestling,1896,0,0,0,0,1,0
+GBR,Athletics,1896,0,1,1,2,7,15
+GBR,Weightlifting,1896,1,1,0,2,2,18
+GBR,Cycling,1896,0,1,1,2,5,15
+GBR,Shooting,1896,0,0,0,0,5,0
+GBR,Gymnastics,1896,0,0,0,0,1,0
+GBR,Tennis,1896,2,0,1,3,4,27

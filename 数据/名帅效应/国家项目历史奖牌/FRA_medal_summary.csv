@@ -1,0 +1,628 @@
+NOC,Sport,Year,gold_number,silver_number,bronze_number,total_number,athletes_number,score
+FRA,Archery,2024,0,3,1,4,14,31
+FRA,Hockey,2024,0,0,0,0,35,0
+FRA,Basketball,2024,0,24,0,24,24,192
+FRA,Golf,2024,0,0,0,0,4,0
+FRA,Modern Pentathlon,2024,0,1,0,1,4,8
+FRA,Marathon Swimming,2024,0,0,0,0,4,0
+FRA,Judo,2024,15,2,6,23,28,208
+FRA,Badminton,2024,0,0,0,0,10,0
+FRA,Athletics,2024,0,1,0,1,105,8
+FRA,Rhythmic Gymnastics,2024,0,0,0,0,6,0
+FRA,Tennis,2024,0,0,0,0,18,0
+FRA,Triathlon,2024,1,0,1,2,6,17
+FRA,Beach Volleyball,2024,0,0,0,0,8,0
+FRA,Boxing,2024,0,2,1,3,8,23
+FRA,Breaking,2024,0,1,0,1,4,8
+FRA,Trampoline Gymnastics,2024,0,0,0,0,2,0
+FRA,Wrestling,2024,0,0,0,0,3,0
+FRA,Artistic Swimming,2024,0,0,0,0,11,0
+FRA,3x3 Basketball,2024,0,4,0,4,8,32
+FRA,Water Polo,2024,0,0,0,0,26,0
+FRA,Volleyball,2024,13,0,0,13,26,130
+FRA,Handball,2024,0,17,0,17,33,136
+FRA,Weightlifting,2024,0,0,0,0,4,0
+FRA,Cycling BMX Racing,2024,1,1,1,3,6,25
+FRA,Swimming,2024,4,1,7,12,78,97
+FRA,"Cycling Road, Cycling Track",2024,0,0,0,0,2,0
+FRA,Sailing,2024,0,1,2,3,14,22
+FRA,Cycling BMX Freestyle,2024,0,0,1,1,2,7
+FRA,Cycling Track,2024,1,0,0,1,32,10
+FRA,Equestrian,2024,0,4,4,8,21,60
+FRA,Cycling Road,2024,0,1,1,2,9,15
+FRA,Rugby Sevens,2024,13,0,0,13,25,130
+FRA,Taekwondo,2024,1,0,1,2,4,17
+FRA,Canoe Sprint,2024,0,0,0,0,10,0
+FRA,Rowing,2024,0,0,0,0,12,0
+FRA,Football,2024,0,21,0,21,41,168
+FRA,Canoe Slalom,2024,1,2,0,3,8,26
+FRA,Table Tennis,2024,0,0,4,4,12,28
+FRA,Fencing,2024,1,7,8,16,42,122
+FRA,Artistic Gymnastics,2024,0,0,0,0,34,0
+FRA,Diving,2024,0,0,0,0,10,0
+FRA,Cycling Mountain Bike,2024,1,1,0,2,4,18
+FRA,Sport Climbing,2024,0,0,0,0,7,0
+FRA,Surfing,2024,1,0,1,2,4,17
+FRA,Shooting,2024,0,1,0,1,26,8
+FRA,Skateboarding,2024,0,0,0,0,7,0
+FRA,Canoe Slalom,2020,0,0,0,0,4,0
+FRA,Table Tennis,2020,0,0,0,0,12,0
+FRA,Fencing,2020,5,8,1,14,30,121
+FRA,Tennis,2020,0,0,0,0,20,0
+FRA,Triathlon,2020,0,0,5,5,10,35
+FRA,Judo,2020,12,3,3,18,24,165
+FRA,Trampoline Gymnastics,2020,0,0,0,0,2,0
+FRA,Athletics,2020,0,1,0,1,67,8
+FRA,Boxing,2020,0,0,0,0,5,0
+FRA,Modern Pentathlon,2020,0,0,0,0,4,0
+FRA,Golf,2020,0,0,0,0,4,0
+FRA,Marathon Swimming,2020,0,0,0,0,3,0
+FRA,Karate,2020,1,0,0,1,3,10
+FRA,3x3 Basketball,2020,0,0,0,0,4,0
+FRA,Wrestling,2020,0,0,0,0,2,0
+FRA,Badminton,2020,0,0,0,0,4,0
+FRA,Volleyball,2020,12,0,0,12,12,120
+FRA,Weightlifting,2020,0,0,0,0,4,0
+FRA,Handball,2020,32,0,0,32,32,320
+FRA,Basketball,2020,0,12,12,24,24,180
+FRA,Cycling Mountain Bike,2020,0,0,0,0,4,0
+FRA,Equestrian,2020,0,0,3,3,22,21
+FRA,Surfing,2020,0,0,0,0,4,0
+FRA,Sport Climbing,2020,0,0,0,0,4,0
+FRA,Sailing,2020,0,2,2,4,14,30
+FRA,Taekwondo,2020,0,0,1,1,2,7
+FRA,Cycling Track,2020,0,0,7,7,29,49
+FRA,Cycling BMX Freestyle,2020,0,0,0,0,1,0
+FRA,Shooting,2020,1,0,0,1,13,10
+FRA,Rugby Sevens,2020,0,13,0,13,13,104
+FRA,Diving,2020,0,0,0,0,3,0
+FRA,Cycling BMX Racing,2020,0,0,0,0,5,0
+FRA,Cycling Road,2020,0,0,0,0,8,0
+FRA,Rowing,2020,2,2,0,4,12,36
+FRA,Canoe Sprint,2020,0,0,0,0,15,0
+FRA,Football,2020,0,0,0,0,21,0
+FRA,Swimming,2020,0,1,0,1,49,8
+FRA,Skateboarding,2020,0,0,0,0,5,0
+FRA,Archery,2020,0,0,0,0,9,0
+FRA,Artistic Gymnastics,2020,0,0,0,0,33,0
+FRA,Artistic Swimming,2020,0,0,0,0,2,0
+FRA,Badminton,2016,0,0,0,0,2,0
+FRA,Volleyball,2016,0,0,0,0,10,0
+FRA,Wrestling,2016,0,0,0,0,2,0
+FRA,Equestrianism,2016,8,1,0,9,24,88
+FRA,Water Polo,2016,0,0,0,0,12,0
+FRA,Basketball,2016,0,0,0,0,24,0
+FRA,Weightlifting,2016,0,0,0,0,5,0
+FRA,Handball,2016,0,31,0,31,31,248
+FRA,Shooting,2016,0,1,1,2,14,15
+FRA,Football,2016,0,0,0,0,17,0
+FRA,Canoeing,2016,1,1,2,4,22,32
+FRA,Rugby Sevens,2016,0,0,0,0,25,0
+FRA,Rowing,2016,2,0,4,6,18,48
+FRA,Synchronized Swimming,2016,0,0,0,0,2,0
+FRA,Swimming,2016,0,7,1,8,54,63
+FRA,Table Tennis,2016,0,0,0,0,6,0
+FRA,Taekwondo,2016,0,1,0,1,4,8
+FRA,Rhythmic Gymnastics,2016,0,0,0,0,1,0
+FRA,Fencing,2016,4,4,1,9,31,79
+FRA,Tennis,2016,0,0,0,0,17,0
+FRA,Boxing,2016,2,2,2,6,10,50
+FRA,Gymnastics,2016,0,0,0,0,45,0
+FRA,Golf,2016,0,0,0,0,4,0
+FRA,Modern Pentathlon,2016,0,1,0,1,3,8
+FRA,Judo,2016,2,2,1,5,14,43
+FRA,Athletics,2016,0,3,3,6,51,45
+FRA,Trampolining,2016,0,0,0,0,2,0
+FRA,Triathlon,2016,0,0,0,0,5,0
+FRA,Diving,2016,0,0,0,0,3,0
+FRA,Cycling,2016,0,0,3,3,33,21
+FRA,Sailing,2016,1,0,3,4,15,31
+FRA,Archery,2016,0,1,0,1,6,8
+FRA,Judo,2012,2,0,5,7,14,55
+FRA,Football,2012,0,0,0,0,17,0
+FRA,Rowing,2012,0,2,0,2,14,16
+FRA,Taekwondo,2012,0,1,1,2,2,15
+FRA,Table Tennis,2012,0,0,0,0,3,0
+FRA,Swimming,2012,9,6,6,21,54,180
+FRA,Athletics,2012,1,1,4,6,52,46
+FRA,Boxing,2012,0,0,0,0,5,0
+FRA,Canoeing,2012,2,0,0,2,15,20
+FRA,Tennis,2012,0,2,2,4,11,30
+FRA,Rhythmic Gymnastics,2012,0,0,0,0,1,0
+FRA,Fencing,2012,0,0,0,0,19,0
+FRA,Triathlon,2012,0,0,0,0,6,0
+FRA,Gymnastics,2012,0,0,1,1,43,7
+FRA,Modern Pentathlon,2012,0,0,0,0,3,0
+FRA,Trampolining,2012,0,0,0,0,1,0
+FRA,Basketball,2012,0,12,0,12,24,96
+FRA,Handball,2012,15,0,0,15,29,150
+FRA,Archery,2012,0,0,0,0,7,0
+FRA,Wrestling,2012,0,0,1,1,6,7
+FRA,Badminton,2012,0,0,0,0,2,0
+FRA,Sailing,2012,0,0,1,1,16,7
+FRA,Synchronized Swimming,2012,0,0,0,0,2,0
+FRA,Cycling,2012,1,5,0,6,30,50
+FRA,Weightlifting,2012,0,0,0,0,4,0
+FRA,Equestrianism,2012,0,0,0,0,19,0
+FRA,Shooting,2012,0,1,1,2,22,15
+FRA,Diving,2012,0,0,0,0,5,0
+FRA,Swimming,2008,1,7,3,11,74,87
+FRA,Badminton,2008,0,0,0,0,2,0
+FRA,Wrestling,2008,1,0,1,2,9,17
+FRA,Archery,2008,0,0,3,3,8,21
+FRA,Canoeing,2008,0,1,2,3,18,22
+FRA,Athletics,2008,0,1,1,2,51,15
+FRA,Boxing,2008,0,2,1,3,9,23
+FRA,Modern Pentathlon,2008,0,0,0,0,3,0
+FRA,Judo,2008,0,2,2,4,13,30
+FRA,Fencing,2008,6,2,0,8,24,76
+FRA,Handball,2008,15,0,0,15,29,150
+FRA,Diving,2008,0,0,0,0,2,0
+FRA,Table Tennis,2008,0,0,0,0,4,0
+FRA,Shooting,2008,0,0,1,1,22,7
+FRA,Synchronized Swimming,2008,0,0,0,0,2,0
+FRA,Taekwondo,2008,0,0,1,1,2,7
+FRA,Trampolining,2008,0,0,0,0,1,0
+FRA,Tennis,2008,0,0,0,0,13,0
+FRA,Gymnastics,2008,0,1,1,2,66,15
+FRA,Triathlon,2008,0,0,0,0,5,0
+FRA,Cycling,2008,2,6,1,9,36,75
+FRA,Weightlifting,2008,0,1,0,1,4,8
+FRA,Sailing,2008,0,1,3,4,18,29
+FRA,Equestrianism,2008,0,0,0,0,12,0
+FRA,Rowing,2008,0,0,8,8,21,56
+FRA,Fencing,2004,8,1,5,14,31,123
+FRA,Gymnastics,2004,1,0,0,1,74,10
+FRA,Triathlon,2004,0,0,0,0,4,0
+FRA,Beach Volleyball,2004,0,0,0,0,2,0
+FRA,Boxing,2004,0,1,0,1,6,8
+FRA,Modern Pentathlon,2004,0,0,0,0,4,0
+FRA,Judo,2004,0,1,0,1,13,8
+FRA,Trampolining,2004,0,0,0,0,1,0
+FRA,Tennis,2004,0,1,0,1,16,8
+FRA,Athletics,2004,0,0,5,5,63,35
+FRA,Canoeing,2004,2,0,1,3,16,27
+FRA,Rowing,2004,2,2,0,4,21,36
+FRA,Sailing,2004,1,0,2,3,18,24
+FRA,Diving,2004,0,0,0,0,1,0
+FRA,Taekwondo,2004,0,1,1,2,4,15
+FRA,Table Tennis,2004,0,0,0,0,1,0
+FRA,Synchronized Swimming,2004,0,0,0,0,2,0
+FRA,Shooting,2004,0,0,0,0,12,0
+FRA,Swimming,2004,1,2,3,6,51,47
+FRA,Weightlifting,2004,0,0,0,0,5,0
+FRA,Cycling,2004,1,1,3,5,33,39
+FRA,Equestrianism,2004,5,0,0,5,20,50
+FRA,Handball,2004,0,0,0,0,30,0
+FRA,Badminton,2004,0,0,0,0,3,0
+FRA,Volleyball,2004,0,0,0,0,12,0
+FRA,Archery,2004,0,0,0,0,12,0
+FRA,Wrestling,2004,0,0,2,2,6,14
+FRA,Basketball,2000,0,12,0,12,24,96
+FRA,Archery,2000,0,0,0,0,8,0
+FRA,Wrestling,2000,0,0,0,0,3,0
+FRA,Weightlifting,2000,0,0,0,0,3,0
+FRA,Handball,2000,0,0,0,0,30,0
+FRA,Diving,2000,0,0,0,0,12,0
+FRA,Cycling,2000,7,2,1,10,38,93
+FRA,Shooting,2000,1,1,0,2,17,18
+FRA,Equestrianism,2000,0,0,0,0,15,0
+FRA,Swimming,2000,0,1,0,1,31,8
+FRA,Sailing,2000,0,0,0,0,12,0
+FRA,Badminton,2000,0,0,0,0,3,0
+FRA,Boxing,2000,1,0,1,2,8,17
+FRA,Athletics,2000,0,0,0,0,60,0
+FRA,Modern Pentathlon,2000,0,0,0,0,3,0
+FRA,Judo,2000,2,2,2,6,14,50
+FRA,Triathlon,2000,0,0,0,0,6,0
+FRA,Tennis,2000,0,0,1,1,11,7
+FRA,Rowing,2000,6,0,2,8,23,74
+FRA,Rhythmic Gymnastics,2000,0,0,0,0,7,0
+FRA,Trampolining,2000,0,0,0,0,1,0
+FRA,Gymnastics,2000,0,2,0,2,71,16
+FRA,Fencing,2000,4,9,1,14,28,119
+FRA,Synchronized Swimming,2000,0,0,2,2,10,14
+FRA,Taekwondo,2000,0,0,1,1,2,7
+FRA,Table Tennis,2000,0,0,2,2,8,14
+FRA,Canoeing,2000,1,1,1,3,18,25
+FRA,Beach Volleyball,2000,0,0,0,0,4,0
+FRA,Rowing,1996,0,4,6,10,21,74
+FRA,Synchronized Swimming,1996,0,0,0,0,8,0
+FRA,Rhythmic Gymnastics,1996,0,0,0,0,7,0
+FRA,Gymnastics,1996,0,0,0,0,92,0
+FRA,Tennis,1996,0,0,0,0,8,0
+FRA,Table Tennis,1996,0,0,0,0,9,0
+FRA,Boxing,1996,0,0,0,0,7,0
+FRA,Beach Volleyball,1996,0,0,0,0,4,0
+FRA,Judo,1996,3,0,3,6,14,51
+FRA,Modern Pentathlon,1996,0,0,0,0,2,0
+FRA,Canoeing,1996,2,0,2,4,19,34
+FRA,Athletics,1996,3,0,1,4,57,37
+FRA,Badminton,1996,0,0,0,0,2,0
+FRA,Fencing,1996,4,2,5,11,27,91
+FRA,Wrestling,1996,0,1,0,1,2,8
+FRA,Handball,1996,0,0,0,0,16,0
+FRA,Swimming,1996,0,0,0,0,49,0
+FRA,Equestrianism,1996,0,0,1,1,23,7
+FRA,Sailing,1996,0,0,0,0,13,0
+FRA,Football,1996,0,0,0,0,17,0
+FRA,Shooting,1996,1,0,1,2,18,17
+FRA,Cycling,1996,8,3,1,12,28,111
+FRA,Weightlifting,1996,0,0,0,0,2,0
+FRA,Archery,1996,0,0,0,0,7,0
+FRA,Diving,1996,0,0,0,0,1,0
+FRA,Equestrianism,1992,0,0,4,4,24,28
+FRA,Sailing,1992,3,0,0,3,17,30
+FRA,Diving,1992,0,0,0,0,2,0
+FRA,Archery,1992,1,0,0,1,12,10
+FRA,Weightlifting,1992,0,0,0,0,6,0
+FRA,Judo,1992,2,1,4,7,14,56
+FRA,Modern Pentathlon,1992,0,0,0,0,6,0
+FRA,Badminton,1992,0,0,0,0,6,0
+FRA,Handball,1992,0,0,16,16,16,112
+FRA,Athletics,1992,1,0,0,1,68,10
+FRA,Canoeing,1992,0,1,5,6,36,43
+FRA,Volleyball,1992,0,0,0,0,12,0
+FRA,Boxing,1992,0,0,0,0,5,0
+FRA,Rhythmic Gymnastics,1992,0,0,0,0,2,0
+FRA,Gymnastics,1992,0,0,0,0,57,0
+FRA,Rowing,1992,0,0,0,0,25,0
+FRA,Fencing,1992,2,0,7,9,32,69
+FRA,Water Polo,1992,0,0,0,0,13,0
+FRA,Cycling,1992,0,1,4,5,20,36
+FRA,Tennis,1992,0,0,0,0,10,0
+FRA,Table Tennis,1992,0,1,0,1,9,8
+FRA,Swimming,1992,0,0,3,3,56,21
+FRA,Shooting,1992,0,1,0,1,24,8
+FRA,Synchronized Swimming,1992,0,0,0,0,5,0
+FRA,Wrestling,1992,0,0,0,0,9,0
+FRA,Sailing,1988,4,0,0,4,13,40
+FRA,Archery,1988,0,0,0,0,12,0
+FRA,Wrestling,1988,0,0,0,0,9,0
+FRA,Water Polo,1988,0,0,0,0,13,0
+FRA,Diving,1988,0,0,0,0,2,0
+FRA,Weightlifting,1988,0,0,0,0,4,0
+FRA,Shooting,1988,0,1,0,1,23,8
+FRA,Swimming,1988,0,0,2,2,56,14
+FRA,Canoeing,1988,0,0,2,2,17,14
+FRA,Equestrianism,1988,1,1,4,6,22,46
+FRA,Synchronized Swimming,1988,0,0,0,0,5,0
+FRA,Cycling,1988,0,0,0,0,18,0
+FRA,Judo,1988,1,0,1,2,7,17
+FRA,Gymnastics,1988,0,0,0,0,63,0
+FRA,Modern Pentathlon,1988,0,0,0,0,6,0
+FRA,Tennis,1988,0,0,0,0,9,0
+FRA,Rowing,1988,0,0,0,0,12,0
+FRA,Fencing,1988,6,1,0,7,31,68
+FRA,Athletics,1988,0,0,4,4,70,28
+FRA,Boxing,1988,0,1,0,1,4,8
+FRA,Rhythmic Gymnastics,1988,0,0,0,0,1,0
+FRA,Table Tennis,1988,0,0,0,0,4,0
+FRA,Volleyball,1988,0,0,0,0,12,0
+FRA,Basketball,1984,0,0,0,0,12,0
+FRA,Diving,1984,0,0,0,0,1,0
+FRA,Wrestling,1984,0,0,0,0,8,0
+FRA,Archery,1984,0,0,0,0,2,0
+FRA,Weightlifting,1984,0,0,0,0,2,0
+FRA,Canoeing,1984,0,2,7,9,19,65
+FRA,Football,1984,16,0,0,16,16,160
+FRA,Sailing,1984,0,0,2,2,11,14
+FRA,Shooting,1984,1,1,0,2,18,18
+FRA,Cycling,1984,0,0,1,1,23,7
+FRA,Synchronized Swimming,1984,0,0,0,0,5,0
+FRA,Equestrianism,1984,0,0,0,0,21,0
+FRA,Swimming,1984,0,1,1,2,28,15
+FRA,Rhythmic Gymnastics,1984,0,0,0,0,1,0
+FRA,Rowing,1984,0,0,0,0,23,0
+FRA,Fencing,1984,2,10,11,23,32,177
+FRA,Athletics,1984,1,1,2,4,56,32
+FRA,Boxing,1984,0,0,1,1,4,7
+FRA,Gymnastics,1984,0,0,1,1,58,7
+FRA,Modern Pentathlon,1984,0,0,3,3,6,21
+FRA,Judo,1984,0,1,2,3,8,22
+FRA,Canoeing,1980,0,1,0,1,13,8
+FRA,Weightlifting,1980,0,0,0,0,4,0
+FRA,Diving,1980,0,0,0,0,1,0
+FRA,Cycling,1980,0,2,0,2,11,16
+FRA,Judo,1980,2,1,1,4,8,35
+FRA,Swimming,1980,0,0,0,0,22,0
+FRA,Modern Pentathlon,1980,0,0,0,0,6,0
+FRA,Fencing,1980,16,1,1,18,25,175
+FRA,Athletics,1980,0,0,4,4,40,28
+FRA,Gymnastics,1980,0,0,0,0,48,0
+FRA,Wrestling,1980,0,0,0,0,3,0
+FRA,Boxing,1980,0,0,0,0,2,0
+FRA,Rowing,1980,0,0,0,0,17,0
+FRA,Cycling,1976,0,1,0,1,15,8
+FRA,Judo,1976,0,0,1,1,6,7
+FRA,Canoeing,1976,0,0,0,0,15,0
+FRA,Weightlifting,1976,0,1,0,1,8,8
+FRA,Archery,1976,0,0,0,0,2,0
+FRA,Boxing,1976,0,0,0,0,6,0
+FRA,Wrestling,1976,0,0,0,0,7,0
+FRA,Sailing,1976,0,0,0,0,10,0
+FRA,Football,1976,0,0,0,0,15,0
+FRA,Equestrianism,1976,4,0,0,4,16,40
+FRA,Athletics,1976,1,0,0,1,50,10
+FRA,Rowing,1976,0,0,0,0,17,0
+FRA,Fencing,1976,0,5,6,11,31,82
+FRA,Gymnastics,1976,0,0,1,1,63,7
+FRA,Shooting,1976,0,0,0,0,11,0
+FRA,Swimming,1976,0,0,0,0,22,0
+FRA,Modern Pentathlon,1976,0,0,0,0,6,0
+FRA,Diving,1976,0,0,0,0,2,0
+FRA,Fencing,1972,0,1,6,7,31,50
+FRA,Rowing,1972,0,0,0,0,18,0
+FRA,Sailing,1972,1,2,0,3,12,26
+FRA,Weightlifting,1972,0,0,0,0,3,0
+FRA,Cycling,1972,1,0,0,1,18,10
+FRA,Swimming,1972,0,0,0,0,37,0
+FRA,Diving,1972,0,0,0,0,3,0
+FRA,Judo,1972,0,0,3,3,6,21
+FRA,Hockey,1972,0,0,0,0,17,0
+FRA,Modern Pentathlon,1972,0,0,0,0,6,0
+FRA,Shooting,1972,0,1,0,1,13,8
+FRA,Equestrianism,1972,0,0,0,0,16,0
+FRA,Gymnastics,1972,0,0,0,0,84,0
+FRA,Wrestling,1972,0,0,0,0,8,0
+FRA,Athletics,1972,0,1,4,5,59,36
+FRA,Boxing,1972,0,0,0,0,6,0
+FRA,Archery,1972,0,0,0,0,5,0
+FRA,Canoeing,1972,0,0,2,2,14,14
+FRA,Modern Pentathlon,1968,0,0,3,3,6,21
+FRA,Athletics,1968,1,0,4,5,53,38
+FRA,Wrestling,1968,0,2,0,2,8,16
+FRA,Boxing,1968,0,0,0,0,6,0
+FRA,Sailing,1968,0,0,0,0,9,0
+FRA,Hockey,1968,0,0,0,0,18,0
+FRA,Cycling,1968,5,0,1,6,18,57
+FRA,Weightlifting,1968,0,0,0,0,5,0
+FRA,Swimming,1968,0,0,1,1,36,7
+FRA,Canoeing,1968,0,0,0,0,6,0
+FRA,Football,1968,0,0,0,0,18,0
+FRA,Shooting,1968,0,0,0,0,8,0
+FRA,Equestrianism,1968,1,3,0,4,14,34
+FRA,Gymnastics,1968,0,0,0,0,57,0
+FRA,Fencing,1968,5,0,1,6,32,57
+FRA,Rowing,1968,0,0,0,0,17,0
+FRA,Wrestling,1964,0,0,0,0,3,0
+FRA,Canoeing,1964,0,2,0,2,2,16
+FRA,Fencing,1964,0,2,11,13,32,93
+FRA,Judo,1964,0,0,0,0,4,0
+FRA,Weightlifting,1964,0,0,0,0,2,0
+FRA,Boxing,1964,0,1,0,1,4,8
+FRA,Shooting,1964,0,0,0,0,5,0
+FRA,Sailing,1964,0,0,0,0,3,0
+FRA,Athletics,1964,0,1,4,5,51,36
+FRA,Rowing,1964,0,3,0,3,23,24
+FRA,Gymnastics,1964,0,0,0,0,36,0
+FRA,Equestrianism,1964,1,3,0,4,14,34
+FRA,Cycling,1964,0,0,2,2,18,14
+FRA,Swimming,1964,0,1,0,1,17,8
+FRA,Weightlifting,1960,0,0,0,0,6,0
+FRA,Canoeing,1960,0,0,0,0,9,0
+FRA,Fencing,1960,0,0,0,0,33,0
+FRA,Athletics,1960,0,1,1,2,45,15
+FRA,Wrestling,1960,0,0,1,1,10,7
+FRA,Basketball,1960,0,0,0,0,12,0
+FRA,Boxing,1960,0,0,0,0,8,0
+FRA,Football,1960,0,0,0,0,17,0
+FRA,Water Polo,1960,0,0,0,0,11,0
+FRA,Diving,1960,0,0,0,0,5,0
+FRA,Cycling,1960,0,0,0,0,17,0
+FRA,Hockey,1960,0,0,0,0,16,0
+FRA,Modern Pentathlon,1960,0,0,0,0,6,0
+FRA,Swimming,1960,0,0,0,0,34,0
+FRA,Gymnastics,1960,0,0,0,0,84,0
+FRA,Rowing,1960,0,5,0,5,16,40
+FRA,Equestrianism,1960,0,0,4,4,14,28
+FRA,Shooting,1960,0,0,0,0,9,0
+FRA,Sailing,1960,0,0,0,0,11,0
+FRA,Swimming,1956,0,0,0,0,29,0
+FRA,Fencing,1956,1,6,6,13,27,100
+FRA,Diving,1956,0,0,0,0,3,0
+FRA,Cycling,1956,5,5,0,10,16,90
+FRA,Modern Pentathlon,1956,0,0,0,0,1,0
+FRA,Canoeing,1956,0,2,0,2,10,16
+FRA,Gymnastics,1956,0,0,0,0,28,0
+FRA,Rowing,1956,0,0,4,4,13,28
+FRA,Sailing,1956,0,0,0,0,8,0
+FRA,Shooting,1956,0,0,0,0,8,0
+FRA,Equestrianism,1956,0,0,0,0,16,0
+FRA,Weightlifting,1956,0,0,1,1,3,7
+FRA,Boxing,1956,0,0,2,2,6,14
+FRA,Basketball,1956,0,0,0,0,12,0
+FRA,Wrestling,1956,0,0,0,0,4,0
+FRA,Athletics,1956,1,0,0,1,43,10
+FRA,Athletics,1952,0,2,0,2,71,16
+FRA,Wrestling,1952,0,0,0,0,10,0
+FRA,Basketball,1952,0,0,0,0,14,0
+FRA,Weightlifting,1952,0,0,0,0,5,0
+FRA,Football,1952,0,0,0,0,11,0
+FRA,Sailing,1952,0,0,0,0,9,0
+FRA,Modern Pentathlon,1952,0,0,0,0,6,0
+FRA,Canoeing,1952,2,0,1,3,13,27
+FRA,Cycling,1952,0,0,4,4,16,28
+FRA,Fencing,1952,7,0,6,13,30,112
+FRA,Diving,1952,0,1,0,1,6,8
+FRA,Swimming,1952,1,1,4,6,26,46
+FRA,Rowing,1952,3,4,0,7,17,62
+FRA,Gymnastics,1952,0,0,0,0,120,0
+FRA,Equestrianism,1952,1,1,1,3,18,25
+FRA,Shooting,1952,0,0,0,0,12,0
+FRA,Boxing,1952,0,0,1,1,10,7
+FRA,Hockey,1952,0,0,0,0,14,0
+FRA,Fencing,1948,13,1,0,14,30,138
+FRA,Gymnastics,1948,0,0,0,0,72,0
+FRA,Equestrianism,1948,4,1,1,6,18,55
+FRA,Diving,1948,0,0,0,0,9,0
+FRA,Wrestling,1948,0,0,1,1,11,7
+FRA,Athletics,1948,2,6,3,11,82,89
+FRA,Football,1948,0,0,0,0,12,0
+FRA,Basketball,1948,0,14,0,14,14,112
+FRA,Weightlifting,1948,0,0,0,0,9,0
+FRA,Sailing,1948,0,0,0,0,13,0
+FRA,Water Polo,1948,0,0,0,0,11,0
+FRA,Canoeing,1948,0,0,6,6,13,42
+FRA,Hockey,1948,0,0,0,0,14,0
+FRA,Modern Pentathlon,1948,0,0,0,0,3,0
+FRA,Boxing,1948,0,0,0,0,8,0
+FRA,Art Competitions,1948,1,0,2,3,34,24
+FRA,Cycling,1948,6,0,6,12,16,102
+FRA,Shooting,1948,0,0,0,0,12,0
+FRA,Swimming,1948,0,0,5,5,29,35
+FRA,Rowing,1948,0,0,0,0,22,0
+FRA,Fencing,1936,0,7,6,13,29,98
+FRA,Swimming,1936,0,0,0,0,11,0
+FRA,Shooting,1936,0,0,1,1,9,7
+FRA,Gymnastics,1936,0,0,0,0,64,0
+FRA,Rowing,1936,0,0,8,8,20,56
+FRA,Hockey,1936,0,0,0,0,18,0
+FRA,Diving,1936,0,0,0,0,3,0
+FRA,Water Polo,1936,0,0,0,0,7,0
+FRA,Wrestling,1936,1,0,0,1,10,10
+FRA,Athletics,1936,0,0,0,0,51,0
+FRA,Sailing,1936,0,0,0,0,14,0
+FRA,Weightlifting,1936,1,0,0,1,8,10
+FRA,Basketball,1936,0,0,0,0,11,0
+FRA,Boxing,1936,2,0,0,2,6,20
+FRA,Cycling,1936,9,2,3,14,16,127
+FRA,Canoeing,1936,0,1,0,1,5,8
+FRA,Equestrianism,1936,0,3,0,3,18,24
+FRA,Modern Pentathlon,1936,0,0,0,0,3,0
+FRA,Swimming,1932,0,1,0,1,7,8
+FRA,Rowing,1932,0,0,3,3,5,21
+FRA,Diving,1932,0,0,0,0,1,0
+FRA,Athletics,1932,0,0,1,1,15,7
+FRA,Wrestling,1932,1,0,1,2,6,17
+FRA,Sailing,1932,1,0,0,1,3,10
+FRA,Weightlifting,1932,3,0,0,3,5,30
+FRA,Art Competitions,1932,3,0,0,3,43,30
+FRA,Cycling,1932,2,5,1,8,15,67
+FRA,Boxing,1932,0,0,0,0,6,0
+FRA,Equestrianism,1932,4,1,0,5,6,48
+FRA,Modern Pentathlon,1932,0,0,0,0,1,0
+FRA,Fencing,1932,12,1,0,13,21,128
+FRA,Diving,1928,0,0,0,0,5,0
+FRA,Wrestling,1928,0,1,2,3,13,22
+FRA,Sailing,1928,6,0,0,6,13,60
+FRA,Weightlifting,1928,1,1,1,3,10,25
+FRA,Swimming,1928,0,0,0,0,21,0
+FRA,Fencing,1928,2,13,0,15,30,124
+FRA,Athletics,1928,1,1,1,3,71,25
+FRA,Football,1928,0,0,0,0,11,0
+FRA,Water Polo,1928,0,0,9,9,9,63
+FRA,Hockey,1928,0,0,0,0,15,0
+FRA,Cycling,1928,1,0,0,1,16,10
+FRA,Equestrianism,1928,0,2,0,2,18,16
+FRA,Modern Pentathlon,1928,0,0,0,0,3,0
+FRA,Boxing,1928,0,1,0,1,8,8
+FRA,Rowing,1928,0,3,0,3,26,24
+FRA,Gymnastics,1928,0,0,0,0,65,0
+FRA,Art Competitions,1928,1,2,1,4,35,33
+FRA,Gymnastics,1924,1,11,1,13,72,105
+FRA,Boxing,1924,0,0,1,1,16,7
+FRA,Art Competitions,1924,1,0,2,3,83,24
+FRA,Rowing,1924,0,9,0,9,26,72
+FRA,Equestrianism,1924,0,0,1,1,20,7
+FRA,Diving,1924,0,0,0,0,12,0
+FRA,Football,1924,0,0,0,0,12,0
+FRA,Rugby,1924,0,19,0,19,19,152
+FRA,Weightlifting,1924,2,0,0,2,14,20
+FRA,Sailing,1924,0,0,5,5,9,35
+FRA,Athletics,1924,0,0,8,8,99,56
+FRA,Water Polo,1924,7,0,0,7,7,70
+FRA,Wrestling,1924,1,0,0,1,24,10
+FRA,Modern Pentathlon,1924,0,0,0,0,4,0
+FRA,Tennis,1924,0,4,2,6,17,46
+FRA,Cycling,1924,8,0,2,10,18,94
+FRA,Polo,1924,0,0,0,0,5,0
+FRA,Shooting,1924,1,5,0,6,31,50
+FRA,Swimming,1924,0,0,0,0,32,0
+FRA,Fencing,1924,16,3,0,19,35,184
+FRA,Modern Pentathlon,1920,0,0,0,0,4,0
+FRA,Ice Hockey,1920,0,0,0,0,7,0
+FRA,Diving,1920,0,0,0,0,1,0
+FRA,Fencing,1920,1,14,9,24,38,185
+FRA,Art Competitions,1920,0,1,0,1,1,8
+FRA,Hockey,1920,0,0,0,0,11,0
+FRA,Swimming,1920,0,0,0,0,20,0
+FRA,Shooting,1920,0,6,0,6,60,48
+FRA,Rowing,1920,0,3,2,5,14,38
+FRA,Gymnastics,1920,0,1,27,28,32,197
+FRA,Water Polo,1920,0,0,0,0,7,0
+FRA,Athletics,1920,1,5,4,10,85,78
+FRA,Wrestling,1920,0,0,0,0,17,0
+FRA,Weightlifting,1920,2,0,1,3,10,27
+FRA,Sailing,1920,0,3,0,3,3,24
+FRA,Rugby,1920,0,15,0,15,15,120
+FRA,Football,1920,0,0,0,0,11,0
+FRA,Figure Skating,1920,0,0,0,0,2,0
+FRA,Boxing,1920,1,1,1,3,15,25
+FRA,Archery,1920,1,18,8,27,27,210
+FRA,Tennis,1920,3,0,4,7,21,58
+FRA,Cycling,1920,4,0,1,5,21,47
+FRA,Equestrianism,1920,0,4,0,4,30,32
+FRA,Water Polo,1912,0,0,0,0,8,0
+FRA,Sailing,1912,3,0,0,3,3,30
+FRA,Wrestling,1912,0,0,0,0,6,0
+FRA,Athletics,1912,0,5,0,5,56,40
+FRA,Shooting,1912,2,0,0,2,65,20
+FRA,Gymnastics,1912,0,1,0,1,6,8
+FRA,Rowing,1912,0,0,0,0,19,0
+FRA,Modern Pentathlon,1912,0,0,0,0,2,0
+FRA,Art Competitions,1912,0,1,0,1,10,8
+FRA,Tennis,1912,4,0,4,8,12,68
+FRA,Cycling,1912,0,0,0,0,24,0
+FRA,Swimming,1912,0,0,0,0,3,0
+FRA,Equestrianism,1912,1,4,1,6,18,49
+FRA,Athletics,1908,0,1,5,6,35,43
+FRA,Sailing,1908,0,0,3,3,3,21
+FRA,Tennis,1908,0,0,0,0,1,0
+FRA,Boxing,1908,0,0,0,0,7,0
+FRA,Gymnastics,1908,0,0,1,1,59,7
+FRA,Swimming,1908,0,0,0,0,4,0
+FRA,Cycling,1908,2,2,2,6,55,50
+FRA,Archery,1908,1,1,1,3,25,25
+FRA,Motorboating,1908,1,0,0,1,1,10
+FRA,Hockey,1908,0,0,0,0,12,0
+FRA,Fencing,1908,8,1,1,10,33,95
+FRA,Football,1908,0,0,0,0,22,0
+FRA,Shooting,1908,0,0,10,10,52,70
+FRA,Weightlifting,1906,0,0,1,1,2,7
+FRA,Football,1906,0,3,0,3,3,24
+FRA,Wrestling,1906,0,0,0,0,2,0
+FRA,Shooting,1906,4,3,9,16,66,127
+FRA,Athletics,1906,1,0,0,1,23,10
+FRA,Rowing,1906,1,6,11,18,24,135
+FRA,Fencing,1906,6,1,1,8,13,75
+FRA,Cycling,1906,1,2,4,7,22,54
+FRA,Tennis,1906,5,1,0,6,8,58
+FRA,Swimming,1906,0,0,0,0,3,0
+FRA,Gymnastics,1906,2,0,2,4,8,34
+FRA,Athletics,1904,0,2,0,2,2,16
+FRA,Water Polo,1900,0,0,14,14,27,98
+FRA,Archery,1900,4,5,4,13,18,108
+FRA,Shooting,1900,2,6,6,14,62,110
+FRA,Sailing,1900,8,25,29,62,191,483
+FRA,Rugby,1900,15,0,0,15,15,150
+FRA,Athletics,1900,0,8,2,10,29,78
+FRA,Football,1900,0,13,0,13,13,104
+FRA,Fencing,1900,5,5,5,15,253,125
+FRA,Gymnastics,1900,1,1,1,3,108,25
+FRA,Cycling,1900,2,1,2,5,71,42
+FRA,Equestrianism,1900,2,2,4,8,46,64
+FRA,Rowing,1900,6,7,3,16,59,137
+FRA,Swimming,1900,1,6,5,12,81,93
+FRA,Tennis,1900,0,3,2,5,19,38
+FRA,Golf,1900,0,0,0,0,7,0
+FRA,Polo,1900,0,1,3,4,8,29
+FRA,Cricket,1900,0,3,0,3,3,24
+FRA,Croquet,1900,4,2,2,8,19,70
+FRA,Tug-Of-War,1900,0,5,0,5,5,40
+FRA,Shooting,1896,0,0,0,0,1,0
+FRA,Fencing,1896,1,2,0,3,4,26
+FRA,Gymnastics,1896,0,0,0,0,1,0
+FRA,Tennis,1896,0,0,0,0,1,0
+FRA,Cycling,1896,4,1,1,6,7,55
+FRA,Athletics,1896,0,1,1,2,12,15

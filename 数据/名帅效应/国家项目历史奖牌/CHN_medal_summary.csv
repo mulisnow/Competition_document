@@ -1,0 +1,345 @@
+NOC,Sport,Year,gold_number,silver_number,bronze_number,total_number,athletes_number,score
+CHN,Wrestling,2024,0,1,4,5,12,36
+CHN,3x3 Basketball,2024,0,0,0,0,8,0
+CHN,Archery,2024,0,3,0,3,14,24
+CHN,Basketball,2024,0,0,0,0,12,0
+CHN,Beach Volleyball,2024,0,0,0,0,2,0
+CHN,Cycling BMX Freestyle,2024,1,0,0,1,2,10
+CHN,Cycling Road,2024,0,0,0,0,3,0
+CHN,Cycling Track,2024,0,0,0,0,17,0
+CHN,Cycling Mountain Bike,2024,0,0,0,0,2,0
+CHN,Table Tennis,2024,10,1,0,11,12,108
+CHN,Canoe Sprint,2024,4,0,0,4,22,40
+CHN,Breaking,2024,0,0,1,1,3,7
+CHN,Boxing,2024,3,2,0,5,8,46
+CHN,Canoe Slalom,2024,0,0,0,0,5,0
+CHN,Taekwondo,2024,0,1,1,2,6,15
+CHN,Trampoline Gymnastics,2024,0,1,1,2,4,15
+CHN,Tennis,2024,1,2,0,3,12,26
+CHN,Rowing,2024,0,0,0,0,14,0
+CHN,Sailing,2024,0,0,0,0,13,0
+CHN,Rugby Sevens,2024,0,0,0,0,14,0
+CHN,Rhythmic Gymnastics,2024,5,0,0,5,6,50
+CHN,Modern Pentathlon,2024,0,0,0,0,3,0
+CHN,Shooting,2024,6,2,4,12,33,104
+CHN,Skateboarding,2024,0,0,0,0,4,0
+CHN,Marathon Swimming,2024,0,0,0,0,1,0
+CHN,Badminton,2024,4,5,0,9,16,80
+CHN,Athletics,2024,1,1,2,4,59,32
+CHN,Artistic Gymnastics,2024,2,9,2,13,74,106
+CHN,Artistic Swimming,2024,11,0,0,11,11,110
+CHN,Volleyball,2024,0,0,0,0,13,0
+CHN,Triathlon,2024,0,0,0,0,1,0
+CHN,Water Polo,2024,0,0,0,0,13,0
+CHN,Weightlifting,2024,5,0,0,5,6,50
+CHN,Surfing,2024,0,0,0,0,1,0
+CHN,Sport Climbing,2024,0,2,0,2,7,16
+CHN,Hockey,2024,0,17,0,17,17,136
+CHN,Swimming,2024,6,8,22,36,85,278
+CHN,Diving,2024,12,2,1,15,16,143
+CHN,Equestrian,2024,0,0,0,0,2,0
+CHN,Fencing,2024,0,0,0,0,24,0
+CHN,Judo,2024,0,0,1,1,6,7
+CHN,Golf,2024,0,0,1,1,4,7
+CHN,Beach Volleyball,2020,0,0,0,0,4,0
+CHN,Table Tennis,2020,8,4,0,12,12,112
+CHN,Cycling Track,2020,3,0,0,3,10,30
+CHN,Trampoline Gymnastics,2020,1,2,0,3,4,26
+CHN,Cycling Mountain Bike,2020,0,0,0,0,2,0
+CHN,Basketball,2020,0,0,0,0,12,0
+CHN,Triathlon,2020,0,0,0,0,1,0
+CHN,Football,2020,0,0,0,0,22,0
+CHN,Fencing,2020,1,0,0,1,24,10
+CHN,Diving,2020,10,6,0,16,16,148
+CHN,Equestrian,2020,0,0,0,0,15,0
+CHN,Golf,2020,0,0,0,0,4,0
+CHN,Hockey,2020,0,0,0,0,18,0
+CHN,Judo,2020,0,0,0,0,6,0
+CHN,Cycling Road,2020,0,0,0,0,2,0
+CHN,Tennis,2020,0,0,0,0,6,0
+CHN,Taekwondo,2020,0,0,1,1,6,7
+CHN,Canoe Sprint,2020,2,3,0,5,25,44
+CHN,Archery,2020,0,0,0,0,14,0
+CHN,3x3 Basketball,2020,0,0,4,4,8,28
+CHN,Wrestling,2020,0,2,2,4,11,30
+CHN,Canoe Slalom,2020,0,0,0,0,3,0
+CHN,Boxing,2020,0,2,0,2,6,16
+CHN,Modern Pentathlon,2020,0,0,0,0,4,0
+CHN,Weightlifting,2020,7,1,0,8,8,78
+CHN,Volleyball,2020,0,0,0,0,12,0
+CHN,Water Polo,2020,0,0,0,0,13,0
+CHN,Artistic Gymnastics,2020,3,3,5,11,61,89
+CHN,Artistic Swimming,2020,0,10,0,10,10,80
+CHN,Athletics,2020,2,2,1,5,59,43
+CHN,Badminton,2020,3,7,0,10,14,86
+CHN,Sailing,2020,1,0,1,2,12,17
+CHN,Rhythmic Gymnastics,2020,0,0,0,0,5,0
+CHN,Marathon Swimming,2020,0,0,0,0,1,0
+CHN,Karate,2020,0,1,1,2,2,15
+CHN,Shooting,2020,6,1,6,13,31,110
+CHN,Skateboarding,2020,0,0,0,0,2,0
+CHN,Rugby Sevens,2020,0,0,0,0,13,0
+CHN,Rowing,2020,4,0,11,15,28,117
+CHN,Swimming,2020,8,5,1,14,66,127
+CHN,Sport Climbing,2020,0,0,0,0,2,0
+CHN,Volleyball,2016,12,0,0,12,12,120
+CHN,Weightlifting,2016,5,2,0,7,10,66
+CHN,Water Polo,2016,0,0,0,0,13,0
+CHN,Rowing,2016,0,0,3,3,17,21
+CHN,Archery,2016,0,0,0,0,12,0
+CHN,Wrestling,2016,0,0,2,2,13,14
+CHN,Taekwondo,2016,2,0,0,2,4,20
+CHN,Boxing,2016,0,1,3,4,11,29
+CHN,Table Tennis,2016,8,2,0,10,10,96
+CHN,Tennis,2016,0,0,0,0,8,0
+CHN,Cycling,2016,2,0,0,2,18,20
+CHN,Basketball,2016,0,0,0,0,24,0
+CHN,Canoeing,2016,0,0,0,0,12,0
+CHN,Beach Volleyball,2016,0,0,0,0,2,0
+CHN,Athletics,2016,2,2,2,6,57,50
+CHN,Badminton,2016,3,0,2,5,16,44
+CHN,Modern Pentathlon,2016,0,0,0,0,4,0
+CHN,Rhythmic Gymnastics,2016,0,0,0,0,6,0
+CHN,Shooting,2016,1,2,4,7,25,54
+CHN,Sailing,2016,0,1,0,1,8,8
+CHN,Gymnastics,2016,0,0,10,10,45,70
+CHN,Hockey,2016,0,0,0,0,17,0
+CHN,Synchronized Swimming,2016,0,11,0,11,11,88
+CHN,Judo,2016,0,0,2,2,8,14
+CHN,Equestrianism,2016,0,0,0,0,1,0
+CHN,Swimming,2016,1,2,3,6,75,47
+CHN,Diving,2016,10,2,2,14,16,130
+CHN,Fencing,2016,0,4,1,5,19,39
+CHN,Golf,2016,0,0,1,1,4,7
+CHN,Football,2016,0,0,0,0,15,0
+CHN,Triathlon,2016,0,0,0,0,2,0
+CHN,Trampolining,2016,0,1,2,3,4,22
+CHN,Wrestling,2012,0,1,0,1,7,8
+CHN,Canoeing,2012,0,0,0,0,21,0
+CHN,Trampolining,2012,1,1,2,4,4,32
+CHN,Archery,2012,0,3,1,4,12,31
+CHN,Badminton,2012,8,3,1,12,18,111
+CHN,Volleyball,2012,0,0,0,0,12,0
+CHN,Weightlifting,2012,5,2,0,7,10,66
+CHN,Modern Pentathlon,2012,0,1,0,1,4,8
+CHN,Sailing,2012,1,0,0,1,9,10
+CHN,Rowing,2012,0,2,0,2,18,16
+CHN,Rhythmic Gymnastics,2012,0,0,0,0,1,0
+CHN,Water Polo,2012,0,0,0,0,13,0
+CHN,Judo,2012,0,1,1,2,8,15
+CHN,Athletics,2012,1,0,5,6,52,45
+CHN,Hockey,2012,0,0,0,0,16,0
+CHN,Synchronized Swimming,2012,0,9,2,11,11,86
+CHN,Table Tennis,2012,8,2,0,10,10,96
+CHN,Diving,2012,10,3,1,14,16,131
+CHN,Shooting,2012,2,2,3,7,25,57
+CHN,Gymnastics,2012,8,3,1,12,45,111
+CHN,Fencing,2012,5,0,1,6,25,57
+CHN,Swimming,2012,5,2,8,15,77,122
+CHN,Cycling,2012,0,3,1,4,16,31
+CHN,Boxing,2012,1,1,1,3,9,25
+CHN,Beach Volleyball,2012,0,0,0,0,4,0
+CHN,Basketball,2012,0,0,0,0,24,0
+CHN,Triathlon,2012,0,0,0,0,2,0
+CHN,Taekwondo,2012,1,1,1,3,3,25
+CHN,Tennis,2012,0,0,0,0,7,0
+CHN,Wrestling,2008,1,2,0,3,16,26
+CHN,Athletics,2008,0,0,2,2,69,14
+CHN,Volleyball,2008,0,0,12,12,24,84
+CHN,Water Polo,2008,0,0,0,0,25,0
+CHN,Baseball,2008,0,0,0,0,24,0
+CHN,Badminton,2008,4,3,5,12,20,99
+CHN,Rowing,2008,4,2,0,6,31,56
+CHN,Modern Pentathlon,2008,0,0,0,0,4,0
+CHN,Weightlifting,2008,8,1,0,9,10,88
+CHN,Handball,2008,0,0,0,0,30,0
+CHN,Judo,2008,3,0,1,4,14,37
+CHN,Hockey,2008,0,16,0,16,33,128
+CHN,Shooting,2008,5,2,1,8,28,73
+CHN,Rhythmic Gymnastics,2008,0,6,0,6,7,48
+CHN,Basketball,2008,0,0,0,0,24,0
+CHN,Cycling,2008,0,0,1,1,16,7
+CHN,Boxing,2008,2,1,1,4,10,35
+CHN,Triathlon,2008,0,0,0,0,3,0
+CHN,Taekwondo,2008,1,0,1,2,4,17
+CHN,Trampolining,2008,2,0,1,3,4,27
+CHN,Tennis,2008,0,0,2,2,13,14
+CHN,Archery,2008,1,3,3,7,12,55
+CHN,Beach Volleyball,2008,0,2,2,4,6,30
+CHN,Canoeing,2008,2,0,0,2,27,20
+CHN,Football,2008,0,0,0,0,35,0
+CHN,Synchronized Swimming,2008,0,0,9,9,11,63
+CHN,Swimming,2008,1,7,6,14,65,108
+CHN,Equestrianism,2008,0,0,0,0,10,0
+CHN,Table Tennis,2008,8,2,2,12,12,110
+CHN,Fencing,2008,1,4,0,5,32,42
+CHN,Diving,2008,11,1,3,15,16,139
+CHN,Softball,2008,0,0,0,0,15,0
+CHN,Gymnastics,2008,19,1,4,24,62,226
+CHN,Sailing,2008,1,0,1,2,18,17
+CHN,Football,2004,0,0,0,0,15,0
+CHN,Cycling,2004,0,1,0,1,6,8
+CHN,Diving,2004,9,2,1,12,16,113
+CHN,Beach Volleyball,2004,0,0,0,0,4,0
+CHN,Canoeing,2004,2,0,0,2,22,20
+CHN,Taekwondo,2004,2,0,0,2,2,20
+CHN,Boxing,2004,0,0,1,1,6,7
+CHN,Tennis,2004,2,0,0,2,5,20
+CHN,Trampolining,2004,0,0,1,1,2,7
+CHN,Archery,2004,0,3,0,3,8,24
+CHN,Triathlon,2004,0,0,0,0,2,0
+CHN,Wrestling,2004,1,0,0,1,9,10
+CHN,Basketball,2004,0,0,0,0,24,0
+CHN,Fencing,2004,0,6,0,6,31,48
+CHN,Table Tennis,2004,5,1,3,9,14,79
+CHN,Shooting,2004,4,2,3,9,29,77
+CHN,Softball,2004,0,0,0,0,15,0
+CHN,Handball,2004,0,0,0,0,14,0
+CHN,Hockey,2004,0,0,0,0,16,0
+CHN,Gymnastics,2004,1,0,2,3,72,24
+CHN,Judo,2004,1,1,3,5,9,39
+CHN,Synchronized Swimming,2004,0,0,0,0,10,0
+CHN,Swimming,2004,1,5,0,6,59,50
+CHN,Weightlifting,2004,5,3,0,8,10,74
+CHN,Modern Pentathlon,2004,0,0,0,0,3,0
+CHN,Rowing,2004,0,0,0,0,17,0
+CHN,Rhythmic Gymnastics,2004,0,0,0,0,7,0
+CHN,Sailing,2004,0,1,0,1,4,8
+CHN,Volleyball,2004,12,0,0,12,12,120
+CHN,Badminton,2004,5,2,1,8,20,73
+CHN,Athletics,2004,2,0,0,2,55,20
+CHN,Sailing,2000,0,0,0,0,4,0
+CHN,Rhythmic Gymnastics,2000,0,0,0,0,1,0
+CHN,Modern Pentathlon,2000,0,0,0,0,2,0
+CHN,Weightlifting,2000,5,1,1,7,10,65
+CHN,Volleyball,2000,0,0,0,0,12,0
+CHN,Badminton,2000,6,2,4,12,20,104
+CHN,Athletics,2000,1,0,0,1,32,10
+CHN,Wrestling,2000,0,0,1,1,5,7
+CHN,Diving,2000,7,7,0,14,16,126
+CHN,Cycling,2000,0,0,1,1,4,7
+CHN,Basketball,2000,0,0,0,0,12,0
+CHN,Boxing,2000,0,0,0,0,3,0
+CHN,Triathlon,2000,0,0,0,0,2,0
+CHN,Tennis,2000,0,0,0,0,4,0
+CHN,Rowing,2000,0,0,0,0,14,0
+CHN,Softball,2000,0,0,0,0,15,0
+CHN,Gymnastics,2000,8,2,2,12,74,110
+CHN,Judo,2000,2,1,1,4,12,35
+CHN,Hockey,2000,0,0,0,0,15,0
+CHN,Shooting,2000,3,2,3,8,26,67
+CHN,Table Tennis,2000,6,5,1,12,14,107
+CHN,Synchronized Swimming,2000,0,0,0,0,11,0
+CHN,Swimming,2000,0,0,0,0,49,0
+CHN,Fencing,2000,0,3,3,6,25,45
+CHN,Archery,2000,0,0,0,0,12,0
+CHN,Beach Volleyball,2000,0,0,0,0,4,0
+CHN,Football,2000,0,0,0,0,13,0
+CHN,Taekwondo,2000,1,0,0,1,3,10
+CHN,Tennis,1996,0,0,0,0,6,0
+CHN,Athletics,1996,1,2,1,4,36,33
+CHN,Canoeing,1996,0,0,0,0,11,0
+CHN,Table Tennis,1996,6,5,1,12,14,107
+CHN,Rhythmic Gymnastics,1996,0,0,0,0,7,0
+CHN,Rowing,1996,0,2,0,2,15,16
+CHN,Sailing,1996,0,0,0,0,5,0
+CHN,Softball,1996,0,15,0,15,15,120
+CHN,Weightlifting,1996,2,1,1,4,10,35
+CHN,Volleyball,1996,0,9,0,9,9,72
+CHN,Badminton,1996,2,1,4,7,22,56
+CHN,Judo,1996,1,0,1,2,11,17
+CHN,Gymnastics,1996,1,10,1,12,91,97
+CHN,Shooting,1996,2,2,1,5,30,43
+CHN,Handball,1996,0,0,0,0,12,0
+CHN,Boxing,1996,0,0,0,0,3,0
+CHN,Basketball,1996,0,0,0,0,24,0
+CHN,Football,1996,0,15,0,15,15,120
+CHN,Fencing,1996,0,0,0,0,15,0
+CHN,Swimming,1996,1,6,5,12,48,93
+CHN,Synchronized Swimming,1996,0,0,0,0,8,0
+CHN,Wrestling,1996,0,0,1,1,5,7
+CHN,Archery,1996,0,1,0,1,12,8
+CHN,Diving,1996,3,1,1,5,8,45
+CHN,Cycling,1996,0,0,0,0,6,0
+CHN,Diving,1992,3,1,1,5,8,45
+CHN,Athletics,1992,1,1,2,4,38,32
+CHN,Swimming,1992,4,9,0,13,42,112
+CHN,Archery,1992,0,3,0,3,12,24
+CHN,Tennis,1992,0,0,0,0,6,0
+CHN,Wrestling,1992,0,0,1,1,8,7
+CHN,Judo,1992,1,0,2,3,10,24
+CHN,Rowing,1992,0,0,2,2,33,14
+CHN,Table Tennis,1992,5,3,1,9,14,81
+CHN,Fencing,1992,0,1,0,1,24,8
+CHN,Sailing,1992,0,1,0,1,3,8
+CHN,Shooting,1992,2,2,0,4,26,36
+CHN,Rhythmic Gymnastics,1992,0,0,0,0,2,0
+CHN,Modern Pentathlon,1992,0,0,0,0,1,0
+CHN,Weightlifting,1992,0,2,2,4,10,30
+CHN,Volleyball,1992,0,0,0,0,12,0
+CHN,Badminton,1992,0,2,6,8,13,58
+CHN,Gymnastics,1992,2,9,2,13,84,106
+CHN,Synchronized Swimming,1992,0,0,0,0,5,0
+CHN,Canoeing,1992,0,0,0,0,6,0
+CHN,Boxing,1992,0,0,0,0,4,0
+CHN,Cycling,1992,0,0,0,0,10,0
+CHN,Basketball,1992,0,11,0,11,23,88
+CHN,Athletics,1988,0,0,1,1,55,7
+CHN,Rowing,1988,0,5,9,14,16,103
+CHN,Rhythmic Gymnastics,1988,0,0,0,0,2,0
+CHN,Diving,1988,2,3,1,6,8,51
+CHN,Tennis,1988,0,0,0,0,2,0
+CHN,Football,1988,0,0,0,0,14,0
+CHN,Table Tennis,1988,3,3,1,7,12,61
+CHN,Fencing,1988,0,0,0,0,24,0
+CHN,Cycling,1988,0,0,0,0,11,0
+CHN,Swimming,1988,0,3,1,4,55,31
+CHN,Synchronized Swimming,1988,0,0,0,0,5,0
+CHN,Wrestling,1988,0,0,0,0,11,0
+CHN,Archery,1988,0,0,0,0,12,0
+CHN,Handball,1988,0,0,0,0,12,0
+CHN,Sailing,1988,0,0,0,0,5,0
+CHN,Volleyball,1988,0,0,11,11,11,77
+CHN,Water Polo,1988,0,0,0,0,13,0
+CHN,Weightlifting,1988,0,1,4,5,10,36
+CHN,Modern Pentathlon,1988,0,0,0,0,1,0
+CHN,Shooting,1988,0,1,1,2,27,15
+CHN,Judo,1988,0,0,0,0,5,0
+CHN,Canoeing,1988,0,0,0,0,8,0
+CHN,Boxing,1988,0,0,0,0,2,0
+CHN,Gymnastics,1988,1,0,1,2,84,17
+CHN,Basketball,1988,0,0,0,0,22,0
+CHN,Volleyball,1984,10,0,0,10,22,100
+CHN,Athletics,1984,0,0,1,1,24,7
+CHN,Archery,1984,0,1,0,1,6,8
+CHN,Diving,1984,1,1,1,3,8,25
+CHN,Swimming,1984,0,0,0,0,31,0
+CHN,Basketball,1984,0,0,12,12,23,84
+CHN,Cycling,1984,0,0,0,0,7,0
+CHN,Canoeing,1984,0,0,0,0,4,0
+CHN,Handball,1984,0,0,13,13,13,91
+CHN,Judo,1984,0,0,0,0,5,0
+CHN,Wrestling,1984,0,0,0,0,7,0
+CHN,Weightlifting,1984,4,2,0,6,10,56
+CHN,Rhythmic Gymnastics,1984,0,0,0,0,2,0
+CHN,Water Polo,1984,0,0,0,0,12,0
+CHN,Rowing,1984,0,0,0,0,9,0
+CHN,Sailing,1984,0,0,0,0,4,0
+CHN,Shooting,1984,3,0,3,6,20,51
+CHN,Gymnastics,1984,5,9,7,21,84,171
+CHN,Fencing,1984,1,0,0,1,32,10
+CHN,Swimming,1952,0,0,0,0,1,0
+CHN,Athletics,1948,0,0,0,0,5,0
+CHN,Cycling,1948,0,0,0,0,1,0
+CHN,Art Competitions,1948,0,0,0,0,5,0
+CHN,Basketball,1948,0,0,0,0,10,0
+CHN,Football,1948,0,0,0,0,11,0
+CHN,Swimming,1948,0,0,0,0,1,0
+CHN,Swimming,1936,0,0,0,0,3,0
+CHN,Athletics,1936,0,0,0,0,32,0
+CHN,Weightlifting,1936,0,0,0,0,3,0
+CHN,Basketball,1936,0,0,0,0,13,0
+CHN,Cycling,1936,0,0,0,0,1,0
+CHN,Football,1936,0,0,0,0,11,0
+CHN,Boxing,1936,0,0,0,0,2,0
+CHN,Athletics,1932,0,0,0,0,2,0

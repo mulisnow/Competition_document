@@ -1,0 +1,533 @@
+NOC,Sport,Year,gold_number,silver_number,bronze_number,total_number,athletes_number,score
+AUS,Artistic Swimming,2024,0,0,0,0,11,0
+AUS,Wrestling,2024,0,0,0,0,2,0
+AUS,3x3 Basketball,2024,0,0,0,0,4,0
+AUS,"3x3 Basketball, Basketball",2024,0,0,0,0,1,0
+AUS,Artistic Gymnastics,2024,0,0,0,0,40,0
+AUS,Rhythmic Gymnastics,2024,0,0,0,0,6,0
+AUS,Breaking,2024,0,0,0,0,2,0
+AUS,Rowing,2024,0,0,2,2,38,14
+AUS,Marathon Swimming,2024,0,0,0,0,3,0
+AUS,"Marathon Swimming, Swimming",2024,0,0,0,0,2,0
+AUS,Table Tennis,2024,0,0,0,0,12,0
+AUS,Skateboarding,2024,2,0,0,2,9,20
+AUS,Shooting,2024,0,0,1,1,15,7
+AUS,Surfing,2024,0,1,0,1,4,8
+AUS,Judo,2024,0,0,0,0,3,0
+AUS,Modern Pentathlon,2024,0,0,0,0,1,0
+AUS,Badminton,2024,0,0,0,0,3,0
+AUS,Athletics,2024,1,2,5,8,90,61
+AUS,Boxing,2024,0,0,2,2,12,14
+AUS,Canoe Slalom,2024,3,0,0,3,8,30
+AUS,Trampoline Gymnastics,2024,0,0,0,0,1,0
+AUS,Tennis,2024,2,0,0,2,15,20
+AUS,Canoe Sprint,2024,0,4,2,6,14,46
+AUS,Taekwondo,2024,0,0,0,0,3,0
+AUS,Weightlifting,2024,0,0,0,0,3,0
+AUS,Cycling Track,2024,5,2,5,12,37,101
+AUS,Cycling Road,2024,1,0,0,1,8,10
+AUS,Cycling Mountain Bike,2024,0,0,0,0,1,0
+AUS,Diving,2024,0,1,0,1,11,8
+AUS,Equestrian,2024,0,1,0,1,22,8
+AUS,Archery,2024,0,0,0,0,4,0
+AUS,Water Polo,2024,0,13,0,13,26,104
+AUS,Triathlon,2024,0,0,0,0,4,0
+AUS,Basketball,2024,0,0,11,11,23,77
+AUS,Sailing,2024,1,1,0,2,12,18
+AUS,Rugby Sevens,2024,0,0,0,0,25,0
+AUS,Cycling BMX Freestyle,2024,0,0,1,1,2,7
+AUS,Cycling BMX Racing,2024,1,0,0,1,3,10
+AUS,Swimming,2024,17,19,15,51,103,427
+AUS,Golf,2024,0,0,0,0,4,0
+AUS,Football,2024,0,0,0,0,19,0
+AUS,Hockey,2024,0,0,0,0,35,0
+AUS,Sport Climbing,2024,0,0,0,0,2,0
+AUS,Beach Volleyball,2024,0,0,0,0,6,0
+AUS,Artistic Swimming,2020,0,0,0,0,10,0
+AUS,Artistic Gymnastics,2020,0,0,0,0,12,0
+AUS,Trampoline Gymnastics,2020,0,0,0,0,2,0
+AUS,Tennis,2020,0,0,2,2,17,14
+AUS,Badminton,2020,0,0,0,0,5,0
+AUS,Rhythmic Gymnastics,2020,0,0,0,0,6,0
+AUS,Judo,2020,0,0,0,0,3,0
+AUS,Rowing,2020,8,0,8,16,40,136
+AUS,Archery,2020,0,0,0,0,9,0
+AUS,Water Polo,2020,0,0,0,0,26,0
+AUS,Triathlon,2020,0,0,0,0,12,0
+AUS,Sailing,2020,3,0,0,3,13,30
+AUS,Basketball,2020,0,0,12,12,24,84
+AUS,Weightlifting,2020,0,0,0,0,5,0
+AUS,Canoe Sprint,2020,2,0,0,2,24,20
+AUS,Cycling BMX Freestyle,2020,1,0,0,1,2,10
+AUS,Rugby Sevens,2020,0,0,0,0,26,0
+AUS,Cycling BMX Racing,2020,0,0,0,0,3,0
+AUS,Equestrian,2020,0,4,1,5,18,39
+AUS,Boxing,2020,0,0,1,1,5,7
+AUS,Sport Climbing,2020,0,0,0,0,2,0
+AUS,Shooting,2020,0,0,0,0,28,0
+AUS,Surfing,2020,0,0,1,1,4,7
+AUS,Skateboarding,2020,1,0,0,1,5,10
+AUS,Canoe Slalom,2020,1,0,1,2,4,17
+AUS,Baseball/Softball,2020,0,0,0,0,15,0
+AUS,Athletics,2020,0,1,2,3,65,22
+AUS,Karate,2020,0,0,0,0,1,0
+AUS,Marathon Swimming,2020,0,0,1,1,2,7
+AUS,Modern Pentathlon,2020,0,0,0,0,2,0
+AUS,Swimming,2020,20,3,30,53,92,434
+AUS,Table Tennis,2020,0,0,0,0,12,0
+AUS,Cycling Road,2020,0,0,1,1,11,7
+AUS,Cycling Mountain Bike,2020,0,0,0,0,2,0
+AUS,Cycling Track,2020,0,0,6,6,32,42
+AUS,Football,2020,0,0,0,0,44,0
+AUS,Diving,2020,0,0,1,1,7,7
+AUS,Golf,2020,0,0,0,0,4,0
+AUS,Hockey,2020,0,18,0,18,36,144
+AUS,Beach Volleyball,2020,0,2,0,2,4,16
+AUS,Taekwondo,2020,0,0,0,0,4,0
+AUS,Trampolining,2016,0,0,0,0,1,0
+AUS,Modern Pentathlon,2016,1,0,0,1,2,10
+AUS,Tennis,2016,0,0,0,0,14,0
+AUS,Boxing,2016,0,0,0,0,3,0
+AUS,Badminton,2016,0,0,0,0,5,0
+AUS,Judo,2016,0,0,0,0,7,0
+AUS,Rowing,2016,1,8,0,9,29,74
+AUS,Athletics,2016,0,1,1,2,65,15
+AUS,Rhythmic Gymnastics,2016,0,0,0,0,1,0
+AUS,Wrestling,2016,0,0,0,0,3,0
+AUS,Shooting,2016,1,0,0,1,23,10
+AUS,Beach Volleyball,2016,0,0,0,0,4,0
+AUS,Gymnastics,2016,0,0,0,0,2,0
+AUS,Golf,2016,0,0,0,0,4,0
+AUS,Diving,2016,0,0,2,2,10,14
+AUS,Table Tennis,2016,0,0,0,0,10,0
+AUS,Equestrianism,2016,0,0,4,4,24,28
+AUS,Synchronized Swimming,2016,0,0,0,0,11,0
+AUS,Swimming,2016,7,14,11,32,83,259
+AUS,Hockey,2016,0,0,0,0,32,0
+AUS,Football,2016,0,0,0,0,17,0
+AUS,Cycling,2016,0,5,1,6,43,47
+AUS,Taekwondo,2016,0,0,0,0,4,0
+AUS,Rugby Sevens,2016,12,0,0,12,25,120
+AUS,Weightlifting,2016,0,0,0,0,2,0
+AUS,Canoeing,2016,0,0,3,3,20,21
+AUS,Sailing,2016,1,6,0,7,11,58
+AUS,Triathlon,2016,0,0,0,0,6,0
+AUS,Basketball,2016,0,0,0,0,24,0
+AUS,Water Polo,2016,0,0,0,0,26,0
+AUS,Archery,2016,0,0,3,3,7,21
+AUS,Archery,2012,0,0,0,0,2,0
+AUS,Water Polo,2012,0,0,13,13,26,91
+AUS,Volleyball,2012,0,0,0,0,12,0
+AUS,Basketball,2012,0,0,12,12,24,84
+AUS,Sailing,2012,5,3,0,8,13,74
+AUS,Taekwondo,2012,0,0,0,0,2,0
+AUS,Canoeing,2012,4,1,0,5,27,48
+AUS,Weightlifting,2012,0,0,0,0,2,0
+AUS,Table Tennis,2012,0,0,0,0,10,0
+AUS,Synchronized Swimming,2012,0,0,0,0,10,0
+AUS,Swimming,2012,7,17,8,32,89,262
+AUS,Equestrianism,2012,0,0,0,0,24,0
+AUS,Cycling,2012,1,5,4,10,35,78
+AUS,Beach Volleyball,2012,0,0,0,0,4,0
+AUS,Hockey,2012,0,0,16,16,32,112
+AUS,Diving,2012,0,1,0,1,11,8
+AUS,Shooting,2012,0,0,0,0,22,0
+AUS,Modern Pentathlon,2012,0,0,0,0,2,0
+AUS,Boxing,2012,0,0,0,0,11,0
+AUS,Badminton,2012,0,0,0,0,5,0
+AUS,Rhythmic Gymnastics,2012,0,0,0,0,1,0
+AUS,Athletics,2012,1,2,0,3,55,26
+AUS,Rowing,2012,0,8,5,13,47,99
+AUS,Judo,2012,0,0,0,0,6,0
+AUS,Wrestling,2012,0,0,0,0,1,0
+AUS,Gymnastics,2012,0,0,0,0,25,0
+AUS,Triathlon,2012,0,0,1,1,6,7
+AUS,Trampolining,2012,0,0,0,0,1,0
+AUS,Tennis,2012,0,0,0,0,9,0
+AUS,Sailing,2008,4,2,0,6,17,56
+AUS,Water Polo,2008,0,0,13,13,26,91
+AUS,Archery,2008,0,0,0,0,8,0
+AUS,Tennis,2008,0,0,0,0,13,0
+AUS,Gymnastics,2008,0,0,0,0,33,0
+AUS,Fencing,2008,0,0,0,0,2,0
+AUS,Hockey,2008,0,0,17,17,33,119
+AUS,Diving,2008,1,2,0,3,16,26
+AUS,Trampolining,2008,0,0,0,0,1,0
+AUS,Beach Volleyball,2008,0,0,0,0,4,0
+AUS,Triathlon,2008,1,0,1,2,5,17
+AUS,Football,2008,0,0,0,0,17,0
+AUS,Judo,2008,0,0,0,0,13,0
+AUS,Rhythmic Gymnastics,2008,0,0,0,0,1,0
+AUS,Rowing,2008,4,4,0,8,48,72
+AUS,Badminton,2008,0,0,0,0,6,0
+AUS,Boxing,2008,0,0,0,0,9,0
+AUS,Modern Pentathlon,2008,0,0,0,0,1,0
+AUS,Softball,2008,0,0,15,15,15,105
+AUS,Weightlifting,2008,0,0,0,0,2,0
+AUS,Canoeing,2008,1,1,6,8,22,60
+AUS,Cycling,2008,0,1,0,1,37,8
+AUS,Taekwondo,2008,0,0,0,0,4,0
+AUS,Synchronized Swimming,2008,0,0,0,0,11,0
+AUS,Swimming,2008,19,13,22,54,91,448
+AUS,Equestrianism,2008,0,5,0,5,24,40
+AUS,Table Tennis,2008,0,0,0,0,12,0
+AUS,Basketball,2008,0,12,0,12,24,96
+AUS,Wrestling,2008,0,0,0,0,4,0
+AUS,Athletics,2008,1,2,1,4,45,33
+AUS,Shooting,2008,0,0,1,1,26,7
+AUS,Boxing,2004,0,0,0,0,9,0
+AUS,Trampolining,2004,0,0,0,0,1,0
+AUS,Baseball,2004,0,24,0,24,24,192
+AUS,Beach Volleyball,2004,0,0,0,0,8,0
+AUS,Table Tennis,2004,0,0,0,0,11,0
+AUS,Synchronized Swimming,2004,0,0,0,0,2,0
+AUS,Equestrianism,2004,0,0,0,0,13,0
+AUS,Cycling,2004,12,2,3,17,37,157
+AUS,Swimming,2004,17,11,3,31,86,279
+AUS,Sailing,2004,0,0,0,0,18,0
+AUS,Rhythmic Gymnastics,2004,0,0,0,0,1,0
+AUS,Rowing,2004,2,4,13,19,45,143
+AUS,Football,2004,0,0,0,0,32,0
+AUS,Fencing,2004,0,0,0,0,3,0
+AUS,Gymnastics,2004,0,0,0,0,36,0
+AUS,Taekwondo,2004,0,0,0,0,4,0
+AUS,Softball,2004,0,15,0,15,15,120
+AUS,Tennis,2004,0,0,1,1,11,7
+AUS,Hockey,2004,16,0,0,16,32,160
+AUS,Diving,2004,1,1,7,9,16,67
+AUS,Badminton,2004,0,0,0,0,8,0
+AUS,Shooting,2004,1,0,1,2,28,17
+AUS,Modern Pentathlon,2004,0,0,0,0,2,0
+AUS,Judo,2004,0,0,0,0,12,0
+AUS,Athletics,2004,0,4,2,6,45,46
+AUS,Weightlifting,2004,0,0,0,0,2,0
+AUS,Wrestling,2004,0,0,0,0,1,0
+AUS,Canoeing,2004,0,3,0,3,19,24
+AUS,Triathlon,2004,0,1,0,1,6,8
+AUS,Volleyball,2004,0,0,0,0,12,0
+AUS,Water Polo,2004,0,0,0,0,26,0
+AUS,Basketball,2004,0,12,0,12,24,96
+AUS,Archery,2004,0,0,1,1,12,7
+AUS,Basketball,2000,0,12,0,12,24,96
+AUS,Volleyball,2000,0,0,0,0,24,0
+AUS,Archery,2000,1,0,0,1,12,10
+AUS,Athletics,2000,1,2,0,3,104,26
+AUS,Judo,2000,0,0,1,1,14,7
+AUS,Rhythmic Gymnastics,2000,0,0,0,0,1,0
+AUS,Rowing,2000,0,15,6,21,45,162
+AUS,Badminton,2000,0,0,0,0,16,0
+AUS,Baseball,2000,0,0,0,0,24,0
+AUS,Modern Pentathlon,2000,0,0,0,0,2,0
+AUS,Softball,2000,0,0,15,15,15,105
+AUS,Trampolining,2000,0,1,0,1,2,8
+AUS,Tennis,2000,0,2,0,2,11,16
+AUS,Taekwondo,2000,1,1,0,2,8,18
+AUS,Boxing,2000,0,0,0,0,9,0
+AUS,Triathlon,2000,0,1,0,1,6,8
+AUS,Weightlifting,2000,0,0,0,0,12,0
+AUS,Canoeing,2000,0,2,1,3,22,23
+AUS,Cycling,2000,2,2,5,9,38,71
+AUS,Water Polo,2000,13,0,0,13,26,130
+AUS,Sailing,2000,4,2,1,7,18,63
+AUS,Wrestling,2000,0,0,0,0,11,0
+AUS,Table Tennis,2000,0,0,0,0,14,0
+AUS,Equestrianism,2000,4,1,0,5,23,48
+AUS,Swimming,2000,15,27,4,46,89,394
+AUS,Synchronized Swimming,2000,0,0,0,0,11,0
+AUS,Diving,2000,0,0,4,4,16,28
+AUS,Shooting,2000,1,1,1,3,32,25
+AUS,Handball,2000,0,0,0,0,30,0
+AUS,Fencing,2000,0,0,0,0,9,0
+AUS,Beach Volleyball,2000,2,0,0,2,10,20
+AUS,Football,2000,0,0,0,0,32,0
+AUS,Hockey,2000,16,0,16,32,32,272
+AUS,Gymnastics,2000,0,0,0,0,46,0
+AUS,Judo,1996,0,0,0,0,12,0
+AUS,Gymnastics,1996,0,0,0,0,55,0
+AUS,Hockey,1996,16,0,16,32,32,272
+AUS,Table Tennis,1996,0,0,0,0,7,0
+AUS,Cycling,1996,0,1,8,9,28,64
+AUS,Wrestling,1996,0,0,0,0,9,0
+AUS,Sailing,1996,0,2,2,4,16,30
+AUS,Beach Volleyball,1996,0,0,2,2,6,14
+AUS,Archery,1996,0,0,0,0,8,0
+AUS,Canoeing,1996,0,0,5,5,24,35
+AUS,Swimming,1996,2,9,14,25,78,190
+AUS,Diving,1996,0,0,0,0,7,0
+AUS,Weightlifting,1996,0,0,1,1,7,7
+AUS,Equestrianism,1996,4,0,0,4,16,40
+AUS,Rowing,1996,6,2,8,16,47,132
+AUS,Badminton,1996,0,0,0,0,13,0
+AUS,Athletics,1996,0,2,0,2,72,16
+AUS,Basketball,1996,0,0,12,12,24,84
+AUS,Boxing,1996,0,0,0,0,8,0
+AUS,Fencing,1996,0,0,0,0,1,0
+AUS,Shooting,1996,2,0,1,3,20,27
+AUS,Softball,1996,0,0,15,15,15,105
+AUS,Tennis,1996,2,0,0,2,8,20
+AUS,Football,1996,0,0,0,0,16,0
+AUS,Modern Pentathlon,1996,0,0,0,0,1,0
+AUS,Baseball,1996,0,0,0,0,20,0
+AUS,Water Polo,1992,0,0,0,0,13,0
+AUS,Wrestling,1992,0,0,0,0,2,0
+AUS,Synchronized Swimming,1992,0,0,0,0,4,0
+AUS,Cycling,1992,1,7,0,8,19,66
+AUS,Weightlifting,1992,0,0,0,0,4,0
+AUS,Athletics,1992,0,0,2,2,42,14
+AUS,Canoeing,1992,1,1,4,6,20,46
+AUS,Archery,1992,0,0,0,0,6,0
+AUS,Rowing,1992,6,0,0,6,28,60
+AUS,Tennis,1992,0,0,2,2,10,14
+AUS,Modern Pentathlon,1992,0,0,0,0,6,0
+AUS,Badminton,1992,0,0,0,0,4,0
+AUS,Basketball,1992,0,0,0,0,12,0
+AUS,Judo,1992,0,0,0,0,2,0
+AUS,Boxing,1992,0,0,0,0,6,0
+AUS,Diving,1992,0,0,0,0,8,0
+AUS,Sailing,1992,0,0,3,3,13,21
+AUS,Equestrianism,1992,5,0,0,5,9,50
+AUS,Shooting,1992,0,0,0,0,10,0
+AUS,Football,1992,0,0,0,0,19,0
+AUS,Fencing,1992,0,0,0,0,2,0
+AUS,Hockey,1992,0,16,0,16,32,128
+AUS,Gymnastics,1992,0,0,0,0,43,0
+AUS,Table Tennis,1992,0,0,0,0,3,0
+AUS,Swimming,1992,1,3,5,9,73,69
+AUS,Sailing,1988,0,0,0,0,13,0
+AUS,Table Tennis,1988,0,0,0,0,5,0
+AUS,Equestrianism,1988,0,0,0,0,17,0
+AUS,Diving,1988,0,0,0,0,6,0
+AUS,Wrestling,1988,0,0,0,0,3,0
+AUS,Water Polo,1988,0,0,0,0,13,0
+AUS,Gymnastics,1988,0,0,0,0,17,0
+AUS,Fencing,1988,0,0,0,0,3,0
+AUS,Synchronized Swimming,1988,0,0,0,0,4,0
+AUS,Canoeing,1988,0,1,2,3,10,22
+AUS,Cycling,1988,0,2,6,8,20,58
+AUS,Weightlifting,1988,0,0,0,0,4,0
+AUS,Athletics,1988,1,1,0,2,38,18
+AUS,Swimming,1988,1,1,1,3,57,25
+AUS,Modern Pentathlon,1988,0,0,0,0,1,0
+AUS,Basketball,1988,0,0,0,0,22,0
+AUS,Rowing,1988,0,0,0,0,16,0
+AUS,Boxing,1988,0,1,0,1,4,8
+AUS,Tennis,1988,0,0,2,2,10,14
+AUS,Hockey,1988,16,0,0,16,32,160
+AUS,Football,1988,0,0,0,0,17,0
+AUS,Judo,1988,0,0,0,0,3,0
+AUS,Archery,1988,0,0,0,0,6,0
+AUS,Shooting,1988,0,0,0,0,18,0
+AUS,Sailing,1984,0,0,2,2,13,14
+AUS,Water Polo,1984,0,0,0,0,13,0
+AUS,Canoeing,1984,0,0,2,2,10,14
+AUS,Weightlifting,1984,1,1,0,2,4,18
+AUS,Cycling,1984,4,0,0,4,19,40
+AUS,Wrestling,1984,0,0,0,0,3,0
+AUS,Diving,1984,0,0,0,0,6,0
+AUS,Equestrianism,1984,0,0,0,0,16,0
+AUS,Synchronized Swimming,1984,0,0,0,0,4,0
+AUS,Swimming,1984,1,8,11,20,70,151
+AUS,Fencing,1984,0,0,0,0,3,0
+AUS,Gymnastics,1984,0,0,0,0,24,0
+AUS,Judo,1984,0,0,0,0,3,0
+AUS,Hockey,1984,0,0,0,0,32,0
+AUS,Boxing,1984,0,0,0,0,5,0
+AUS,Modern Pentathlon,1984,0,0,0,0,6,0
+AUS,Basketball,1984,0,0,0,0,24,0
+AUS,Rowing,1984,0,4,14,18,25,130
+AUS,Rhythmic Gymnastics,1984,0,0,0,0,2,0
+AUS,Shooting,1984,0,0,1,1,11,7
+AUS,Athletics,1984,1,1,1,3,42,25
+AUS,Archery,1984,0,0,0,0,2,0
+AUS,Athletics,1980,0,1,0,1,25,8
+AUS,Weightlifting,1980,0,0,0,0,5,0
+AUS,Shooting,1980,0,0,0,0,2,0
+AUS,Wrestling,1980,0,0,0,0,3,0
+AUS,Rowing,1980,0,0,0,0,16,0
+AUS,Archery,1980,0,0,0,0,3,0
+AUS,Basketball,1980,0,0,0,0,12,0
+AUS,Boxing,1980,0,0,0,0,2,0
+AUS,Diving,1980,0,0,0,0,6,0
+AUS,Canoeing,1980,0,1,0,1,8,8
+AUS,Cycling,1980,0,0,0,0,15,0
+AUS,Swimming,1980,6,0,5,11,57,95
+AUS,Fencing,1980,0,0,0,0,4,0
+AUS,Gymnastics,1980,0,0,0,0,17,0
+AUS,Judo,1980,0,0,0,0,3,0
+AUS,Modern Pentathlon,1980,0,0,0,0,1,0
+AUS,Water Polo,1980,0,0,0,0,11,0
+AUS,Hockey,1976,0,15,0,15,15,120
+AUS,Judo,1976,0,0,0,0,3,0
+AUS,Gymnastics,1976,0,0,0,0,19,0
+AUS,Modern Pentathlon,1976,0,0,0,0,2,0
+AUS,Sailing,1976,0,0,3,3,12,21
+AUS,Wrestling,1976,0,0,0,0,3,0
+AUS,Athletics,1976,0,0,0,0,47,0
+AUS,Rowing,1976,0,0,0,0,13,0
+AUS,Shooting,1976,0,0,0,0,7,0
+AUS,Weightlifting,1976,0,0,0,0,3,0
+AUS,Water Polo,1976,0,0,0,0,11,0
+AUS,Cycling,1976,0,0,0,0,15,0
+AUS,Diving,1976,0,0,0,0,8,0
+AUS,Archery,1976,0,0,0,0,4,0
+AUS,Canoeing,1976,0,0,0,0,10,0
+AUS,Boxing,1976,0,0,0,0,4,0
+AUS,Basketball,1976,0,0,0,0,12,0
+AUS,Swimming,1976,0,0,1,1,68,7
+AUS,Fencing,1976,0,0,0,0,4,0
+AUS,Equestrianism,1976,0,0,4,4,14,28
+AUS,Equestrianism,1972,0,0,0,0,8,0
+AUS,Hockey,1972,0,0,0,0,16,0
+AUS,Fencing,1972,0,0,0,0,4,0
+AUS,Judo,1972,0,0,0,0,5,0
+AUS,Modern Pentathlon,1972,0,0,0,0,2,0
+AUS,Shooting,1972,0,0,0,0,4,0
+AUS,Sailing,1972,5,0,0,5,13,50
+AUS,Athletics,1972,0,2,0,2,36,16
+AUS,Wrestling,1972,0,0,0,0,3,0
+AUS,Rowing,1972,0,0,0,0,16,0
+AUS,Diving,1972,0,0,0,0,6,0
+AUS,Cycling,1972,0,3,0,3,15,24
+AUS,Weightlifting,1972,0,0,0,0,3,0
+AUS,Basketball,1972,0,0,0,0,12,0
+AUS,Boxing,1972,0,0,0,0,4,0
+AUS,Water Polo,1972,0,0,0,0,11,0
+AUS,Swimming,1972,6,2,2,10,79,90
+AUS,Archery,1972,0,0,0,0,3,0
+AUS,Canoeing,1972,0,0,0,0,7,0
+AUS,Gymnastics,1972,0,0,0,0,19,0
+AUS,Rowing,1968,0,9,0,9,11,72
+AUS,Sailing,1968,0,0,0,0,11,0
+AUS,Wrestling,1968,0,0,0,0,4,0
+AUS,Hockey,1968,0,14,0,14,14,112
+AUS,Boxing,1968,0,0,0,0,4,0
+AUS,Shooting,1968,0,0,0,0,3,0
+AUS,Athletics,1968,2,3,1,6,35,51
+AUS,Modern Pentathlon,1968,0,0,0,0,6,0
+AUS,Equestrianism,1968,0,0,4,4,14,28
+AUS,Fencing,1968,0,0,0,0,11,0
+AUS,Swimming,1968,3,9,6,18,72,144
+AUS,Gymnastics,1968,0,0,0,0,12,0
+AUS,Canoeing,1968,0,0,0,0,7,0
+AUS,Cycling,1968,0,0,0,0,14,0
+AUS,Weightlifting,1968,0,0,0,0,2,0
+AUS,Diving,1968,0,0,0,0,4,0
+AUS,Rowing,1964,0,0,0,0,26,0
+AUS,Shooting,1964,0,0,0,0,8,0
+AUS,Wrestling,1964,0,0,0,0,8,0
+AUS,Sailing,1964,3,0,0,3,11,30
+AUS,Cycling,1964,0,0,0,0,14,0
+AUS,Diving,1964,0,0,0,0,4,0
+AUS,Athletics,1964,1,1,4,6,60,46
+AUS,Weightlifting,1964,0,0,0,0,7,0
+AUS,Water Polo,1964,0,0,0,0,11,0
+AUS,Basketball,1964,0,0,0,0,12,0
+AUS,Gymnastics,1964,0,0,0,0,78,0
+AUS,Modern Pentathlon,1964,0,0,0,0,6,0
+AUS,Judo,1964,0,0,1,1,4,7
+AUS,Hockey,1964,0,0,14,14,14,98
+AUS,Canoeing,1964,0,0,0,0,12,0
+AUS,Boxing,1964,0,0,0,0,10,0
+AUS,Fencing,1964,0,0,0,0,32,0
+AUS,Equestrianism,1964,0,0,0,0,14,0
+AUS,Swimming,1964,4,5,11,20,61,157
+AUS,Weightlifting,1960,0,0,0,0,7,0
+AUS,Water Polo,1960,0,0,0,0,10,0
+AUS,Boxing,1960,0,0,2,2,10,14
+AUS,Canoeing,1960,0,0,0,0,11,0
+AUS,Equestrianism,1960,5,1,0,6,8,58
+AUS,Hockey,1960,0,0,0,0,15,0
+AUS,Shooting,1960,0,0,0,0,10,0
+AUS,Rowing,1960,0,0,0,0,25,0
+AUS,Wrestling,1960,0,0,0,0,12,0
+AUS,Athletics,1960,1,2,1,4,45,33
+AUS,Sailing,1960,0,0,0,0,11,0
+AUS,Cycling,1960,0,0,0,0,16,0
+AUS,Fencing,1960,0,0,0,0,19,0
+AUS,Diving,1960,0,0,0,0,5,0
+AUS,Modern Pentathlon,1960,0,0,0,0,6,0
+AUS,Swimming,1960,5,21,8,34,46,274
+AUS,Gymnastics,1960,0,0,0,0,24,0
+AUS,Wrestling,1956,0,0,0,0,15,0
+AUS,Athletics,1956,7,6,6,19,96,160
+AUS,Boxing,1956,0,0,1,1,9,7
+AUS,Equestrianism,1956,0,0,0,0,7,0
+AUS,Gymnastics,1956,0,0,0,0,63,0
+AUS,Fencing,1956,0,0,0,0,27,0
+AUS,Modern Pentathlon,1956,0,0,0,0,6,0
+AUS,Hockey,1956,0,0,0,0,18,0
+AUS,Swimming,1956,19,4,2,25,40,236
+AUS,Football,1956,0,0,0,0,11,0
+AUS,Diving,1956,0,0,0,0,12,0
+AUS,Canoeing,1956,0,0,2,2,13,14
+AUS,Weightlifting,1956,0,0,0,0,7,0
+AUS,Water Polo,1956,0,0,0,0,9,0
+AUS,Basketball,1956,0,0,0,0,12,0
+AUS,Cycling,1956,2,0,1,3,16,27
+AUS,Rowing,1956,0,1,11,12,26,85
+AUS,Shooting,1956,0,0,0,0,14,0
+AUS,Sailing,1956,0,2,3,5,11,37
+AUS,Weightlifting,1952,0,0,1,1,3,7
+AUS,Water Polo,1952,0,0,0,0,7,0
+AUS,Cycling,1952,3,1,0,4,16,38
+AUS,Boxing,1952,0,0,0,0,5,0
+AUS,Athletics,1952,3,0,1,4,40,37
+AUS,Swimming,1952,1,0,0,1,18,10
+AUS,Fencing,1952,0,0,0,0,23,0
+AUS,Diving,1952,0,0,0,0,3,0
+AUS,Sailing,1952,0,0,0,0,6,0
+AUS,Modern Pentathlon,1952,0,0,0,0,1,0
+AUS,Rowing,1952,0,1,9,10,14,71
+AUS,Wrestling,1952,0,0,0,0,4,0
+AUS,Water Polo,1948,0,0,0,0,10,0
+AUS,Weightlifting,1948,0,0,0,0,2,0
+AUS,Cycling,1948,0,0,0,0,14,0
+AUS,Boxing,1948,0,0,0,0,7,0
+AUS,Diving,1948,0,0,0,0,1,0
+AUS,Swimming,1948,0,2,2,4,14,30
+AUS,Shooting,1948,0,0,0,0,6,0
+AUS,Wrestling,1948,0,1,1,2,4,15
+AUS,Athletics,1948,1,6,2,9,34,72
+AUS,Rowing,1948,1,0,0,1,8,10
+AUS,Sailing,1948,0,0,0,0,3,0
+AUS,Wrestling,1936,0,0,0,0,3,0
+AUS,Rowing,1936,0,0,0,0,12,0
+AUS,Athletics,1936,0,0,1,1,8,7
+AUS,Swimming,1936,0,0,0,0,7,0
+AUS,Diving,1936,0,0,0,0,2,0
+AUS,Boxing,1936,0,0,0,0,3,0
+AUS,Cycling,1936,0,0,0,0,4,0
+AUS,Athletics,1932,0,0,0,0,5,0
+AUS,Rowing,1932,1,0,0,1,1,10
+AUS,Art Competitions,1932,0,0,0,0,1,0
+AUS,Wrestling,1932,0,0,1,1,1,7
+AUS,Cycling,1932,1,0,0,1,2,10
+AUS,Swimming,1932,1,1,0,2,9,18
+AUS,Swimming,1928,0,2,0,2,8,16
+AUS,Cycling,1928,0,0,1,1,2,7
+AUS,Diving,1928,0,0,0,0,2,0
+AUS,Athletics,1928,0,0,0,0,13,0
+AUS,Rowing,1928,1,0,0,1,1,10
+AUS,Wrestling,1928,0,0,0,0,3,0
+AUS,Athletics,1924,1,0,0,1,18,10
+AUS,Cycling,1924,0,0,0,0,6,0
+AUS,Tennis,1924,0,0,0,0,4,0
+AUS,Rowing,1924,0,0,0,0,10,0
+AUS,Wrestling,1924,0,0,0,0,1,0
+AUS,Art Competitions,1924,0,0,0,0,1,0
+AUS,Swimming,1924,1,5,2,8,15,64
+AUS,Diving,1924,1,0,0,1,2,10
+AUS,Boxing,1924,0,0,0,0,3,0
+AUS,Swimming,1920,0,5,1,6,16,47
+AUS,Athletics,1920,0,1,0,1,8,8
+AUS,Cycling,1920,0,0,0,0,3,0
+AUS,Tennis,1920,0,0,0,0,1,0
+AUS,Diving,1920,0,0,0,0,1,0
+AUS,Swimming,1906,0,0,1,1,3,7
+AUS,Athletics,1906,0,0,2,2,7,14
+AUS,Athletics,1904,0,0,0,0,2,0
+AUS,Swimming,1904,0,3,1,4,4,31
+AUS,Swimming,1900,2,0,0,2,2,20
+AUS,Athletics,1900,1,0,3,4,4,31
+AUS,Athletics,1896,2,0,0,2,3,20
+AUS,Tennis,1896,0,0,1,1,2,7

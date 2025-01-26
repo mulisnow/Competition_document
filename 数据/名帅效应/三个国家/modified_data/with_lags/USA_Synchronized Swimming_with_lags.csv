@@ -1,0 +1,16 @@
+NOC,Sport,Year,gold_number,silver_number,bronze_number,total_number,athletes_number,score,coach,coach_lag1,coach_lag2,coach_lag3,coach_lag4,coach_lag5
+USA,Synchronized Swimming,1984,3,0,0,3,5,30,0,,,,,
+USA,Synchronized Swimming,1988,0,3,0,3,5,24,0,0.0,,,,
+USA,Synchronized Swimming,1992,3,0,0,3,5,30,0,0.0,0.0,,,
+USA,Synchronized Swimming,1996,10,0,0,10,10,100,0,0.0,0.0,0.0,,
+USA,Synchronized Swimming,2000,0,0,0,0,11,0,0,0.0,0.0,0.0,0.0,
+USA,Synchronized Swimming,2004,0,0,11,11,11,77,0,0.0,0.0,0.0,0.0,0.0
+USA,Synchronized Swimming,2008,0,0,0,0,11,0,0,0.0,0.0,0.0,0.0,0.0
+USA,Synchronized Swimming,2012,0,0,0,0,2,0,0,0.0,0.0,0.0,0.0,0.0
+USA,Synchronized Swimming,2016,0,0,0,0,2,0,0,0.0,0.0,0.0,0.0,0.0
+USA,Synchronized Swimming,2028,0,0,0,0,0,0,1,0.0,0.0,0.0,0.0,0.0
+USA,Synchronized Swimming,2032,0,0,0,0,0,0,1,1.0,0.0,0.0,0.0,0.0
+USA,Synchronized Swimming,2036,0,0,0,0,0,0,1,1.0,1.0,0.0,0.0,0.0
+USA,Synchronized Swimming,2040,0,0,0,0,0,0,1,1.0,1.0,1.0,0.0,0.0
+USA,Synchronized Swimming,2044,0,0,0,0,0,0,1,1.0,1.0,1.0,1.0,0.0
+USA,Synchronized Swimming,2048,0,0,0,0,0,0,1,1.0,1.0,1.0,1.0,1.0

@@ -1,0 +1,48 @@
+Short-term Model Parameters:
+const: -229.9054735707179 (Coefficient for const)
+coach_lag1: 19.686326414231903 (Coefficient for coach_lag1)
+coach_lag2: 45.49982819823852 (Coefficient for coach_lag2)
+athletes_number: -0.06479385881490962 (Coefficient for athletes_number)
+Year: 0.1256287652481665 (Coefficient for Year)
+NOC_GBR: -10.099584873838563 (Coefficient for NOC_GBR)
+NOC_JPN: -8.424076539357955 (Coefficient for NOC_JPN)
+NOC_KOR: -35.47860457399075 (Coefficient for NOC_KOR)
+NOC_USA: -61.17010731342788 (Coefficient for NOC_USA)
+Sport_Athletics: 390.1256567985639 (Coefficient for Sport_Athletics)
+Sport_Badminton: -35.4786045739907 (Coefficient for Sport_Badminton)
+Sport_Gymnastics: 88.77011151551585 (Coefficient for Sport_Gymnastics)
+Sport_Table Tennis: -8.424076539358175 (Coefficient for Sport_Table Tennis)
+Sport_Tennis: -10.099584873838143 (Coefficient for Sport_Tennis)
+Sport_Volleyball: 112.59431579776273 (Coefficient for Sport_Volleyball)
+
+Long-term Model Parameters:
+const: -145.09799826411938 (Coefficient for const)
+coach_lag3: 36.4116287296608 (Coefficient for coach_lag3)
+coach_lag4: 23.697789205888 (Coefficient for coach_lag4)
+coach_lag5: 32.051389795485115 (Coefficient for coach_lag5)
+athletes_number: 0.14076056822775063 (Coefficient for athletes_number)
+Year: 0.08229503712946207 (Coefficient for Year)
+NOC_GBR: -6.286951488163522 (Coefficient for NOC_GBR)
+NOC_JPN: 3.066179650528867 (Coefficient for NOC_JPN)
+NOC_KOR: -38.00696979094874 (Coefficient for NOC_KOR)
+NOC_USA: -69.88422720210556 (Coefficient for NOC_USA)
+Sport_Athletics: 377.01877254086514 (Coefficient for Sport_Athletics)
+Sport_Badminton: -38.00696979094904 (Coefficient for Sport_Badminton)
+Sport_Gymnastics: 79.552381813164 (Coefficient for Sport_Gymnastics)
+Sport_Table Tennis: 3.0661796505289525 (Coefficient for Sport_Table Tennis)
+Sport_Tennis: -6.286951488163407 (Coefficient for Sport_Tennis)
+Sport_Volleyball: 133.48322129437776 (Coefficient for Sport_Volleyball)
+
+Performance Metrics:
+Short-term R-squared: 0.8432695843581494
+Short-term Adj. R-squared: 0.8245300781401019
+Short-term F-statistic: 44.999562664358045
+Short-term Prob (F-statistic): 3.3731325506013006e-32
+Short-term AIC: 1162.184862854725
+Short-term BIC: 1193.9175536444216
+Long-term R-squared: 0.8494801644506226
+Long-term Adj. R-squared: 0.8296313949276277
+Long-term F-statistic: 42.79762347315781
+Long-term Prob (F-statistic): 3.8300455172806956e-32
+Long-term AIC: 1159.9798975760477
+Long-term BIC: 1194.3569792648855

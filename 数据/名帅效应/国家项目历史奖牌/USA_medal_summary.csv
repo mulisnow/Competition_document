@@ -1,0 +1,657 @@
+NOC,Sport,Year,gold_number,silver_number,bronze_number,total_number,athletes_number,score
+USA,Archery,2024,0,1,2,3,9,22
+USA,Wrestling,2024,2,2,3,7,16,57
+USA,3x3 Basketball,2024,0,0,4,4,8,28
+USA,Artistic Swimming,2024,0,9,0,9,11,72
+USA,Artistic Gymnastics,2024,7,1,9,17,76,141
+USA,Fencing,2024,5,1,1,7,35,65
+USA,Judo,2024,0,0,0,0,4,0
+USA,Modern Pentathlon,2024,0,0,0,0,1,0
+USA,Marathon Swimming,2024,0,0,0,0,2,0
+USA,"Marathon Swimming, Swimming",2024,0,0,0,0,3,0
+USA,Breaking,2024,0,0,1,1,4,7
+USA,Boxing,2024,0,0,1,1,8,7
+USA,Rhythmic Gymnastics,2024,0,0,0,0,1,0
+USA,Rugby Sevens,2024,0,0,12,12,26,84
+USA,Trampoline Gymnastics,2024,0,0,0,0,2,0
+USA,Equestrian,2024,0,4,0,4,22,32
+USA,Tennis,2024,0,2,2,4,18,30
+USA,Taekwondo,2024,0,0,1,1,4,7
+USA,Diving,2024,0,2,0,2,14,16
+USA,Rowing,2024,4,0,9,13,42,103
+USA,Beach Volleyball,2024,0,0,0,0,8,0
+USA,Basketball,2024,24,0,0,24,24,240
+USA,Triathlon,2024,0,0,0,0,4,0
+USA,Sailing,2024,0,0,2,2,13,14
+USA,Canoe Sprint,2024,0,1,0,1,5,8
+USA,Cycling BMX Racing,2024,0,0,0,0,7,0
+USA,Canoe Slalom,2024,0,0,1,1,5,7
+USA,Table Tennis,2024,0,0,0,0,6,0
+USA,Sport Climbing,2024,0,1,1,2,8,15
+USA,Swimming,2024,27,35,7,69,111,599
+USA,Cycling Mountain Bike,2024,0,1,0,1,4,8
+USA,Skateboarding,2024,0,2,1,3,12,23
+USA,Shooting,2024,1,4,1,6,30,49
+USA,Surfing,2024,1,0,0,1,5,10
+USA,"Cycling Road, Triathlon",2024,0,0,0,0,2,0
+USA,"Cycling Road, Cycling Track",2024,0,0,0,0,5,0
+USA,Athletics,2024,33,16,9,58,154,521
+USA,Water Polo,2024,0,0,13,13,26,91
+USA,Golf,2024,1,0,0,1,7,10
+USA,Weightlifting,2024,1,0,1,2,5,17
+USA,Hockey,2024,0,0,0,0,16,0
+USA,Badminton,2024,0,0,0,0,8,0
+USA,Volleyball,2024,0,13,13,26,26,195
+USA,Football,2024,20,0,0,20,39,200
+USA,Cycling BMX Freestyle,2024,0,1,0,1,4,8
+USA,Cycling Road,2024,0,0,0,0,5,0
+USA,Cycling Track,2024,5,0,0,5,9,50
+USA,Diving,2020,0,4,1,5,14,39
+USA,Triathlon,2020,0,5,1,6,10,47
+USA,Beach Volleyball,2020,2,0,0,2,8,20
+USA,Rugby Sevens,2020,0,0,0,0,26,0
+USA,Basketball,2020,24,0,0,24,24,240
+USA,Taekwondo,2020,1,0,0,1,2,10
+USA,Equestrian,2020,0,7,0,7,22,56
+USA,Rowing,2020,0,0,0,0,37,0
+USA,Artistic Gymnastics,2020,2,5,2,9,67,74
+USA,Modern Pentathlon,2020,0,0,0,0,2,0
+USA,Fencing,2020,1,0,4,5,42,38
+USA,Wrestling,2020,3,2,4,9,15,74
+USA,3x3 Basketball,2020,4,0,0,4,4,40
+USA,Badminton,2020,0,0,0,0,4,0
+USA,Baseball/Softball,2020,0,39,0,39,39,312
+USA,Athletics,2020,21,17,14,52,160,444
+USA,Football,2020,0,0,22,22,22,154
+USA,Golf,2020,2,0,0,2,8,20
+USA,Cycling BMX Freestyle,2020,0,1,0,1,4,8
+USA,Shooting,2020,3,3,2,8,36,68
+USA,Sport Climbing,2020,0,1,0,1,4,8
+USA,Sailing,2020,0,0,0,0,13,0
+USA,Cycling Mountain Bike,2020,0,0,0,0,4,0
+USA,Volleyball,2020,12,0,0,12,24,120
+USA,Weightlifting,2020,0,1,1,2,8,15
+USA,Water Polo,2020,13,0,0,13,26,130
+USA,Table Tennis,2020,0,0,0,0,10,0
+USA,Swimming,2020,22,22,15,59,105,501
+USA,Surfing,2020,1,0,0,1,4,10
+USA,Skateboarding,2020,0,0,2,2,12,14
+USA,Boxing,2020,0,3,1,4,10,31
+USA,Rhythmic Gymnastics,2020,0,0,0,0,7,0
+USA,Artistic Swimming,2020,0,0,0,0,2,0
+USA,Archery,2020,0,0,0,0,14,0
+USA,Marathon Swimming,2020,0,0,0,0,3,0
+USA,Judo,2020,0,0,0,0,4,0
+USA,Karate,2020,0,0,1,1,4,7
+USA,Canoe Slalom,2020,0,0,0,0,4,0
+USA,Cycling Road,2020,0,0,0,0,10,0
+USA,Cycling BMX Racing,2020,0,0,0,0,5,0
+USA,Cycling Track,2020,1,0,5,6,17,45
+USA,Tennis,2020,0,0,0,0,17,0
+USA,Canoe Sprint,2020,1,0,0,1,1,10
+USA,Trampoline Gymnastics,2020,0,0,0,0,2,0
+USA,Wrestling,2016,2,0,1,3,14,27
+USA,Taekwondo,2016,0,0,1,1,4,7
+USA,Diving,2016,0,4,1,5,14,39
+USA,Rowing,2016,9,1,0,10,41,98
+USA,Rugby Sevens,2016,0,0,0,0,25,0
+USA,Trampolining,2016,0,0,0,0,2,0
+USA,Beach Volleyball,2016,0,0,2,2,8,14
+USA,Triathlon,2016,1,0,0,1,6,10
+USA,Rhythmic Gymnastics,2016,0,0,0,0,6,0
+USA,Basketball,2016,24,0,0,24,24,240
+USA,Archery,2016,0,3,1,4,7,31
+USA,Judo,2016,1,1,0,2,6,18
+USA,Hockey,2016,0,0,0,0,16,0
+USA,Equestrianism,2016,0,4,5,9,24,67
+USA,Water Polo,2016,13,0,0,13,26,130
+USA,Fencing,2016,0,2,8,10,26,72
+USA,Modern Pentathlon,2016,0,0,0,0,3,0
+USA,Shooting,2016,1,0,2,3,26,24
+USA,Cycling,2016,2,6,0,8,25,68
+USA,Boxing,2016,1,1,1,3,8,25
+USA,Sailing,2016,0,0,1,1,15,7
+USA,Tennis,2016,2,2,2,6,20,50
+USA,Synchronized Swimming,2016,0,0,0,0,2,0
+USA,Swimming,2016,48,14,9,71,99,655
+USA,Table Tennis,2016,0,0,0,0,10,0
+USA,Gymnastics,2016,8,6,2,16,49,142
+USA,Weightlifting,2016,0,0,1,1,4,7
+USA,Canoeing,2016,0,0,0,0,7,0
+USA,Football,2016,0,0,0,0,17,0
+USA,Volleyball,2016,0,0,24,24,24,168
+USA,Golf,2016,0,0,1,1,7,7
+USA,Badminton,2016,0,0,0,0,8,0
+USA,Athletics,2016,27,10,9,46,146,413
+USA,Badminton,2012,0,0,0,0,3,0
+USA,Football,2012,17,0,0,17,17,170
+USA,Volleyball,2012,0,12,0,12,24,96
+USA,Athletics,2012,19,16,7,42,141,367
+USA,Water Polo,2012,12,0,0,12,25,120
+USA,Judo,2012,1,0,1,2,5,17
+USA,Archery,2012,0,3,0,3,12,24
+USA,Wrestling,2012,2,0,2,4,17,34
+USA,Fencing,2012,0,0,4,4,32,28
+USA,Equestrianism,2012,0,0,0,0,25,0
+USA,Modern Pentathlon,2012,0,0,0,0,3,0
+USA,Basketball,2012,24,0,0,24,24,240
+USA,Rowing,2012,9,0,8,17,44,146
+USA,Rhythmic Gymnastics,2012,0,0,0,0,1,0
+USA,Diving,2012,1,2,4,7,14,54
+USA,Sailing,2012,0,0,0,0,16,0
+USA,Taekwondo,2012,0,0,2,2,4,14
+USA,Table Tennis,2012,0,0,0,0,6,0
+USA,Tennis,2012,5,0,2,7,20,64
+USA,Boxing,2012,1,0,1,2,12,17
+USA,Shooting,2012,3,0,1,4,25,37
+USA,Cycling,2012,1,5,1,7,28,57
+USA,Swimming,2012,41,16,11,68,97,615
+USA,Synchronized Swimming,2012,0,0,0,0,2,0
+USA,Canoeing,2012,0,0,0,0,8,0
+USA,Weightlifting,2012,0,0,0,0,3,0
+USA,Gymnastics,2012,7,1,2,10,50,92
+USA,Hockey,2012,0,0,0,0,16,0
+USA,Triathlon,2012,0,0,0,0,5,0
+USA,Trampolining,2012,0,0,0,0,2,0
+USA,Beach Volleyball,2012,2,2,0,4,8,36
+USA,Shooting,2008,2,2,2,6,27,50
+USA,Beach Volleyball,2008,4,0,0,4,8,40
+USA,Triathlon,2008,0,0,0,0,6,0
+USA,Diving,2008,0,0,0,0,16,0
+USA,Trampolining,2008,0,0,0,0,2,0
+USA,Sailing,2008,1,1,0,2,18,18
+USA,Rowing,2008,9,1,9,19,46,161
+USA,Cycling,2008,1,1,3,5,32,39
+USA,Wrestling,2008,1,0,2,3,16,24
+USA,Fencing,2008,1,8,4,13,22,102
+USA,Equestrianism,2008,4,1,1,6,24,55
+USA,Modern Pentathlon,2008,0,0,0,0,4,0
+USA,Basketball,2008,24,0,0,24,24,240
+USA,Swimming,2008,31,21,16,68,97,590
+USA,Table Tennis,2008,0,0,0,0,7,0
+USA,Baseball,2008,0,0,24,24,24,168
+USA,Badminton,2008,0,0,0,0,6,0
+USA,Football,2008,17,0,0,17,33,170
+USA,Hockey,2008,0,0,0,0,16,0
+USA,Athletics,2008,16,10,6,32,138,282
+USA,Volleyball,2008,12,12,0,24,24,216
+USA,Water Polo,2008,0,26,0,26,26,208
+USA,Judo,2008,0,0,1,1,10,7
+USA,Archery,2008,0,0,0,0,8,0
+USA,Synchronized Swimming,2008,0,0,0,0,11,0
+USA,Softball,2008,0,15,0,15,15,120
+USA,Canoeing,2008,0,0,0,0,8,0
+USA,Weightlifting,2008,0,0,0,0,6,0
+USA,Gymnastics,2008,2,11,7,20,63,157
+USA,Taekwondo,2008,0,1,2,3,4,22
+USA,Boxing,2008,0,0,1,1,8,7
+USA,Tennis,2008,2,0,2,4,14,34
+USA,Wrestling,2004,1,3,2,6,17,48
+USA,Archery,2004,0,0,0,0,12,0
+USA,Basketball,2004,12,0,12,24,24,204
+USA,Fencing,2004,1,0,1,2,24,17
+USA,Triathlon,2004,0,0,1,1,6,7
+USA,Beach Volleyball,2004,2,0,2,4,8,34
+USA,Rhythmic Gymnastics,2004,0,0,0,0,1,0
+USA,Diving,2004,0,0,0,0,14,0
+USA,Softball,2004,15,0,0,15,15,150
+USA,Rowing,2004,9,9,0,18,45,162
+USA,Athletics,2004,18,15,5,38,133,335
+USA,Volleyball,2004,0,0,0,0,24,0
+USA,Football,2004,17,0,0,17,17,170
+USA,Water Polo,2004,0,0,12,12,25,84
+USA,Badminton,2004,0,0,0,0,2,0
+USA,Judo,2004,0,0,1,1,12,7
+USA,Equestrianism,2004,4,2,9,15,26,119
+USA,Modern Pentathlon,2004,0,0,0,0,4,0
+USA,Taekwondo,2004,1,1,0,2,2,18
+USA,Tennis,2004,0,1,0,1,15,8
+USA,Boxing,2004,1,0,1,2,9,17
+USA,Table Tennis,2004,0,0,0,0,11,0
+USA,Shooting,2004,2,1,0,3,30,28
+USA,Swimming,2004,30,22,13,65,95,567
+USA,Synchronized Swimming,2004,0,0,11,11,11,77
+USA,Canoeing,2004,0,1,0,1,23,8
+USA,Cycling,2004,0,2,0,2,23,16
+USA,Weightlifting,2004,0,0,0,0,5,0
+USA,Gymnastics,2004,2,16,1,19,74,155
+USA,Sailing,2004,2,2,0,4,18,36
+USA,Trampolining,2004,0,0,0,0,1,0
+USA,Archery,2000,0,1,3,4,12,29
+USA,Judo,2000,0,0,0,0,14,0
+USA,Wrestling,2000,2,2,3,7,16,57
+USA,Fencing,2000,0,0,0,0,11,0
+USA,Basketball,2000,23,0,0,23,23,230
+USA,Football,2000,0,13,0,13,30,104
+USA,Athletics,2000,16,4,8,28,135,248
+USA,Baseball,2000,24,0,0,24,24,240
+USA,Water Polo,2000,0,13,0,13,26,104
+USA,Badminton,2000,0,0,0,0,1,0
+USA,Volleyball,2000,0,0,0,0,24,0
+USA,Modern Pentathlon,2000,0,1,0,1,4,8
+USA,Equestrianism,2000,1,0,8,9,23,66
+USA,Trampolining,2000,0,0,0,0,1,0
+USA,Sailing,2000,2,4,2,8,18,66
+USA,Swimming,2000,37,18,11,66,91,591
+USA,Canoeing,2000,0,0,0,0,19,0
+USA,Synchronized Swimming,2000,0,0,0,0,11,0
+USA,Weightlifting,2000,1,0,1,2,6,17
+USA,Gymnastics,2000,0,0,6,6,74,42
+USA,Cycling,2000,1,1,0,2,36,18
+USA,Table Tennis,2000,0,0,0,0,13,0
+USA,Softball,2000,15,0,0,15,15,150
+USA,Boxing,2000,0,2,2,4,12,30
+USA,Shooting,2000,1,0,2,3,34,24
+USA,Diving,2000,1,0,0,1,14,10
+USA,Triathlon,2000,0,0,0,0,6,0
+USA,Rowing,2000,0,2,4,6,48,44
+USA,Taekwondo,2000,1,0,0,1,4,10
+USA,Tennis,2000,3,0,1,4,11,37
+USA,Beach Volleyball,2000,2,0,0,2,8,20
+USA,Hockey,1996,0,0,0,0,32,0
+USA,Athletics,1996,25,9,5,39,137,357
+USA,Football,1996,15,0,0,15,30,150
+USA,Baseball,1996,0,0,20,20,20,140
+USA,Water Polo,1996,0,0,0,0,13,0
+USA,Badminton,1996,0,0,0,0,4,0
+USA,Volleyball,1996,0,0,0,0,23,0
+USA,Cycling,1996,0,2,1,3,28,23
+USA,Weightlifting,1996,0,0,0,0,10,0
+USA,Gymnastics,1996,8,2,1,11,91,103
+USA,Wrestling,1996,3,4,1,8,20,69
+USA,Synchronized Swimming,1996,10,0,0,10,10,100
+USA,Softball,1996,15,0,0,15,15,150
+USA,Swimming,1996,47,11,2,60,92,572
+USA,Handball,1996,0,0,0,0,32,0
+USA,Table Tennis,1996,0,0,0,0,8,0
+USA,Tennis,1996,4,0,0,4,10,40
+USA,Sailing,1996,0,0,4,4,16,28
+USA,Boxing,1996,1,0,5,6,12,45
+USA,Shooting,1996,1,1,1,3,31,25
+USA,Canoeing,1996,0,1,0,1,28,8
+USA,Rowing,1996,0,8,4,12,46,92
+USA,Equestrianism,1996,0,8,5,13,23,99
+USA,Basketball,1996,24,0,0,24,24,240
+USA,Beach Volleyball,1996,2,2,0,4,12,36
+USA,Modern Pentathlon,1996,0,0,0,0,1,0
+USA,Rhythmic Gymnastics,1996,0,0,0,0,7,0
+USA,Diving,1996,0,0,2,2,8,14
+USA,Fencing,1996,0,0,0,0,30,0
+USA,Judo,1996,0,0,1,1,14,7
+USA,Archery,1996,4,0,0,4,12,40
+USA,Archery,1992,0,0,0,0,12,0
+USA,Basketball,1992,12,0,12,24,24,204
+USA,Volleyball,1992,0,0,24,24,24,168
+USA,Gymnastics,1992,1,2,8,11,84,82
+USA,Handball,1992,0,0,0,0,13,0
+USA,Rhythmic Gymnastics,1992,0,0,0,0,2,0
+USA,Modern Pentathlon,1992,0,0,0,0,6,0
+USA,Boxing,1992,1,1,1,3,12,25
+USA,Tennis,1992,3,0,1,4,10,37
+USA,Football,1992,0,0,0,0,17,0
+USA,Judo,1992,0,1,0,1,13,8
+USA,Cycling,1992,0,0,2,2,20,14
+USA,Table Tennis,1992,0,0,0,0,9,0
+USA,Fencing,1992,0,0,0,0,22,0
+USA,Baseball,1992,0,0,0,0,20,0
+USA,Wrestling,1992,3,3,2,8,20,68
+USA,Weightlifting,1992,0,0,0,0,10,0
+USA,Athletics,1992,25,13,10,48,136,424
+USA,Water Polo,1992,0,0,0,0,13,0
+USA,Shooting,1992,1,1,0,2,28,18
+USA,Swimming,1992,35,9,12,56,86,506
+USA,Equestrianism,1992,0,0,5,5,24,35
+USA,Sailing,1992,2,11,3,16,17,129
+USA,Synchronized Swimming,1992,3,0,0,3,5,30
+USA,Canoeing,1992,2,0,2,4,38,34
+USA,Rowing,1992,0,8,2,10,52,78
+USA,Diving,1992,1,1,1,3,8,25
+USA,Badminton,1992,0,0,0,0,9,0
+USA,Canoeing,1988,3,0,0,3,23,30
+USA,Rhythmic Gymnastics,1988,0,0,0,0,2,0
+USA,Tennis,1988,4,1,2,7,10,62
+USA,Modern Pentathlon,1988,0,0,0,0,6,0
+USA,Rowing,1988,0,5,9,14,53,103
+USA,Table Tennis,1988,0,0,0,0,5,0
+USA,Diving,1988,2,1,2,5,8,42
+USA,Athletics,1988,22,12,6,40,135,358
+USA,Wrestling,1988,2,1,3,6,20,49
+USA,Weightlifting,1988,0,0,0,0,10,0
+USA,Sailing,1988,2,5,3,10,15,81
+USA,Equestrianism,1988,0,5,0,5,24,40
+USA,Shooting,1988,0,1,0,1,30,8
+USA,Swimming,1988,24,12,9,45,84,399
+USA,Water Polo,1988,0,13,0,13,13,104
+USA,Synchronized Swimming,1988,0,3,0,3,5,24
+USA,Judo,1988,0,1,1,2,7,15
+USA,Volleyball,1988,12,0,0,12,24,120
+USA,Basketball,1988,12,0,12,24,24,204
+USA,Handball,1988,0,0,0,0,28,0
+USA,Fencing,1988,0,0,0,0,31,0
+USA,Cycling,1988,0,0,1,1,19,7
+USA,Boxing,1988,3,3,2,8,11,68
+USA,Gymnastics,1988,0,0,1,1,84,7
+USA,Football,1988,0,0,0,0,16,0
+USA,Archery,1988,1,3,3,7,12,55
+USA,Hockey,1988,0,0,0,0,16,0
+USA,Basketball,1984,24,0,0,24,24,240
+USA,Hockey,1984,0,0,16,16,31,112
+USA,Football,1984,0,0,0,0,14,0
+USA,Handball,1984,0,0,0,0,27,0
+USA,Synchronized Swimming,1984,3,0,0,3,5,30
+USA,Canoeing,1984,0,0,1,1,23,7
+USA,Sailing,1984,7,6,0,13,13,118
+USA,Rowing,1984,11,24,3,38,54,323
+USA,Equestrianism,1984,9,2,0,11,21,106
+USA,Archery,1984,1,1,0,2,6,18
+USA,Judo,1984,0,1,1,2,8,15
+USA,Volleyball,1984,12,12,0,24,24,216
+USA,Rhythmic Gymnastics,1984,0,0,0,0,2,0
+USA,Modern Pentathlon,1984,0,3,0,3,6,24
+USA,Fencing,1984,0,0,1,1,32,7
+USA,Gymnastics,1984,10,10,6,26,84,222
+USA,Boxing,1984,9,1,1,11,12,105
+USA,Cycling,1984,4,7,5,16,24,131
+USA,Water Polo,1984,0,13,0,13,13,104
+USA,Weightlifting,1984,0,1,1,2,10,15
+USA,Athletics,1984,32,15,9,56,130,503
+USA,Swimming,1984,50,13,0,63,81,604
+USA,Diving,1984,2,3,3,8,8,65
+USA,Wrestling,1984,9,3,1,13,19,121
+USA,Shooting,1984,3,1,2,6,22,52
+USA,Basketball,1976,12,12,0,24,24,216
+USA,Rowing,1976,0,3,9,12,54,87
+USA,Swimming,1976,29,19,7,55,90,491
+USA,Equestrianism,1976,5,1,3,9,21,79
+USA,Wrestling,1976,1,3,2,6,20,48
+USA,Athletics,1976,12,11,8,31,108,264
+USA,Shooting,1976,2,1,0,3,14,28
+USA,Diving,1976,2,1,2,5,12,42
+USA,Sailing,1976,0,5,2,7,12,54
+USA,Boxing,1976,5,1,1,7,11,65
+USA,Fencing,1976,0,0,0,0,31,0
+USA,Archery,1976,2,0,0,2,4,20
+USA,Canoeing,1976,0,0,0,0,19,0
+USA,Weightlifting,1976,0,1,0,1,9,8
+USA,Judo,1976,0,0,1,1,6,7
+USA,Modern Pentathlon,1976,0,0,0,0,6,0
+USA,Cycling,1976,0,0,0,0,15,0
+USA,Handball,1976,0,0,0,0,14,0
+USA,Gymnastics,1976,0,0,1,1,84,7
+USA,Modern Pentathlon,1972,0,0,0,0,6,0
+USA,Swimming,1972,48,14,12,74,108,676
+USA,Sailing,1972,3,0,5,8,13,65
+USA,Equestrianism,1972,0,8,1,9,21,71
+USA,Rowing,1972,0,9,0,9,26,72
+USA,Shooting,1972,2,2,0,4,16,36
+USA,Water Polo,1972,0,0,11,11,11,77
+USA,Athletics,1972,9,11,8,28,109,234
+USA,Wrestling,1972,3,2,1,6,19,53
+USA,Fencing,1972,0,0,0,0,31,0
+USA,Boxing,1972,1,0,3,4,11,31
+USA,Judo,1972,0,0,0,0,6,0
+USA,Cycling,1972,0,0,0,0,18,0
+USA,Archery,1972,2,0,0,2,6,20
+USA,Weightlifting,1972,0,0,0,0,9,0
+USA,Basketball,1972,0,12,0,12,12,96
+USA,Diving,1972,1,1,1,3,12,25
+USA,Football,1972,0,0,0,0,19,0
+USA,Gymnastics,1972,0,0,0,0,84,0
+USA,Handball,1972,0,0,0,0,15,0
+USA,Canoeing,1972,0,0,1,1,26,7
+USA,Boxing,1968,2,1,4,7,11,56
+USA,Fencing,1968,0,0,0,0,32,0
+USA,Cycling,1968,0,0,0,0,18,0
+USA,Water Polo,1968,0,0,0,0,11,0
+USA,Sailing,1968,5,0,0,5,11,50
+USA,Modern Pentathlon,1968,0,0,0,0,6,0
+USA,Volleyball,1968,0,0,0,0,24,0
+USA,Gymnastics,1968,0,0,0,0,84,0
+USA,Weightlifting,1968,0,0,1,1,7,7
+USA,Basketball,1968,12,0,0,12,12,120
+USA,Canoeing,1968,0,0,0,0,13,0
+USA,Equestrianism,1968,1,4,1,6,20,49
+USA,Wrestling,1968,0,2,0,2,16,16
+USA,Rowing,1968,0,2,2,4,27,30
+USA,Diving,1968,2,0,4,6,12,48
+USA,Athletics,1968,24,6,7,37,104,337
+USA,Swimming,1968,52,15,16,83,107,752
+USA,Shooting,1968,1,2,0,3,14,26
+USA,Wrestling,1964,0,0,1,1,16,7
+USA,Modern Pentathlon,1964,0,3,0,3,6,24
+USA,Cycling,1964,0,0,0,0,18,0
+USA,Shooting,1964,2,2,3,7,12,57
+USA,Sailing,1964,0,3,8,11,11,80
+USA,Swimming,1964,45,8,8,61,76,570
+USA,Athletics,1964,20,10,3,33,99,301
+USA,Water Polo,1964,0,0,0,0,10,0
+USA,Diving,1964,3,2,3,8,12,67
+USA,Rowing,1964,12,2,5,19,27,171
+USA,Equestrianism,1964,0,4,0,4,20,32
+USA,Gymnastics,1964,0,0,0,0,84,0
+USA,Basketball,1964,12,0,0,12,12,120
+USA,Volleyball,1964,0,0,0,0,24,0
+USA,Fencing,1964,0,0,0,0,31,0
+USA,Judo,1964,0,0,1,1,4,7
+USA,Boxing,1964,1,0,3,4,10,31
+USA,Weightlifting,1964,0,1,1,2,7,15
+USA,Canoeing,1964,0,2,1,3,13,23
+USA,Cycling,1960,0,0,0,0,17,0
+USA,Modern Pentathlon,1960,0,0,4,4,6,28
+USA,Boxing,1960,3,0,1,4,10,37
+USA,Weightlifting,1960,1,4,1,6,7,49
+USA,Gymnastics,1960,0,0,0,0,84,0
+USA,Canoeing,1960,0,0,0,0,13,0
+USA,Rowing,1960,4,0,3,7,26,61
+USA,Basketball,1960,12,0,0,12,12,120
+USA,Equestrianism,1960,0,3,0,3,16,24
+USA,Athletics,1960,18,8,6,32,96,286
+USA,Water Polo,1960,0,0,0,0,10,0
+USA,Diving,1960,2,4,0,6,8,52
+USA,Wrestling,1960,3,0,0,3,16,30
+USA,Shooting,1960,1,1,0,2,12,18
+USA,Sailing,1960,3,0,2,5,11,44
+USA,Swimming,1960,34,3,3,40,51,385
+USA,Fencing,1960,0,0,1,1,33,7
+USA,Gymnastics,1956,0,0,0,0,90,0
+USA,Sailing,1956,2,0,1,3,13,27
+USA,Equestrianism,1956,0,0,0,0,14,0
+USA,Rowing,1956,14,6,1,21,26,195
+USA,Football,1956,0,0,0,0,11,0
+USA,Boxing,1956,2,1,0,3,8,28
+USA,Modern Pentathlon,1956,0,3,0,3,6,24
+USA,Basketball,1956,12,0,0,12,12,120
+USA,Canoeing,1956,0,0,0,0,12,0
+USA,Weightlifting,1956,4,2,1,7,7,63
+USA,Hockey,1956,0,0,0,0,13,0
+USA,Fencing,1956,0,0,0,0,29,0
+USA,Cycling,1956,0,0,0,0,16,0
+USA,Shooting,1956,0,0,1,1,10,7
+USA,Water Polo,1956,0,0,0,0,10,0
+USA,Diving,1956,3,4,2,9,12,76
+USA,Wrestling,1956,0,1,1,2,16,15
+USA,Athletics,1956,22,10,8,40,97,356
+USA,Swimming,1956,2,15,5,22,41,175
+USA,Weightlifting,1952,4,2,0,6,7,56
+USA,Diving,1952,4,2,3,9,12,77
+USA,Wrestling,1952,1,2,1,4,8,33
+USA,Athletics,1952,21,13,6,40,86,356
+USA,Gymnastics,1952,0,0,0,0,120,0
+USA,Basketball,1952,14,0,0,14,14,140
+USA,Sailing,1952,10,2,0,12,16,116
+USA,Shooting,1952,1,0,1,2,10,17
+USA,Swimming,1952,11,2,6,19,39,168
+USA,Equestrianism,1952,0,0,6,6,18,42
+USA,Rowing,1952,11,0,5,16,26,145
+USA,Boxing,1952,5,0,0,5,10,50
+USA,Canoeing,1952,1,0,0,1,12,10
+USA,Fencing,1952,0,0,0,0,30,0
+USA,Cycling,1952,0,0,0,0,16,0
+USA,Modern Pentathlon,1952,0,0,0,0,6,0
+USA,Football,1952,0,0,0,0,11,0
+USA,Water Polo,1952,0,0,0,0,10,0
+USA,Football,1948,0,0,0,0,11,0
+USA,Modern Pentathlon,1948,0,1,0,1,3,8
+USA,Boxing,1948,0,1,0,1,8,8
+USA,Hockey,1948,0,0,0,0,14,0
+USA,Canoeing,1948,2,3,0,5,12,44
+USA,Fencing,1948,0,0,6,6,30,42
+USA,Cycling,1948,0,0,0,0,15,0
+USA,Gymnastics,1948,0,0,8,8,71,56
+USA,Basketball,1948,14,0,0,14,14,140
+USA,Wrestling,1948,2,1,1,4,8,35
+USA,Weightlifting,1948,4,3,1,8,12,71
+USA,Water Polo,1948,0,0,0,0,8,0
+USA,Diving,1948,4,4,2,10,11,86
+USA,Athletics,1948,18,5,10,33,99,290
+USA,Swimming,1948,18,6,1,25,39,235
+USA,Equestrianism,1948,3,4,0,7,18,62
+USA,Sailing,1948,7,1,2,10,13,92
+USA,Rowing,1948,14,0,4,18,26,168
+USA,Shooting,1948,1,1,0,2,12,18
+USA,Art Competitions,1936,0,1,0,1,49,8
+USA,Boxing,1936,0,1,1,2,8,15
+USA,Football,1936,0,0,0,0,11,0
+USA,Hockey,1936,0,0,0,0,14,0
+USA,Handball,1936,0,0,0,0,13,0
+USA,Fencing,1936,0,0,0,0,30,0
+USA,Modern Pentathlon,1936,0,1,0,1,3,8
+USA,Gymnastics,1936,0,0,0,0,72,0
+USA,Canoeing,1936,0,0,1,1,14,7
+USA,Rowing,1936,9,0,1,10,26,97
+USA,Equestrianism,1936,0,1,0,1,18,8
+USA,Shooting,1936,0,0,0,0,6,0
+USA,Cycling,1936,0,0,0,0,16,0
+USA,Sailing,1936,0,0,0,0,14,0
+USA,Swimming,1936,2,8,7,17,36,133
+USA,Weightlifting,1936,1,0,0,1,10,10
+USA,Diving,1936,4,4,2,10,12,86
+USA,Water Polo,1936,0,0,0,0,9,0
+USA,Basketball,1936,14,0,0,14,14,140
+USA,Wrestling,1936,1,3,0,4,7,34
+USA,Athletics,1936,20,10,4,34,90,308
+USA,Athletics,1932,25,13,6,44,90,396
+USA,Wrestling,1932,3,2,0,5,7,46
+USA,Diving,1932,4,4,4,12,12,100
+USA,Weightlifting,1932,0,0,2,2,10,14
+USA,Water Polo,1932,0,0,7,7,7,49
+USA,Cycling,1932,0,0,0,0,15,0
+USA,Rowing,1932,14,1,0,15,26,148
+USA,Swimming,1932,8,5,3,16,33,141
+USA,Sailing,1932,14,5,0,19,21,180
+USA,Shooting,1932,0,0,0,0,6,0
+USA,Gymnastics,1932,5,10,5,20,39,165
+USA,Fencing,1932,0,1,12,13,30,92
+USA,Equestrianism,1932,3,2,4,9,18,74
+USA,Modern Pentathlon,1932,0,0,1,1,3,7
+USA,Hockey,1932,0,0,14,14,14,98
+USA,Boxing,1932,2,0,3,5,8,41
+USA,Art Competitions,1932,3,4,0,7,205,62
+USA,Rowing,1928,11,5,2,18,26,164
+USA,Football,1928,0,0,0,0,11,0
+USA,Art Competitions,1928,0,0,0,0,57,0
+USA,Gymnastics,1928,0,0,0,0,56,0
+USA,Fencing,1928,0,0,1,1,28,7
+USA,Swimming,1928,16,2,3,21,37,197
+USA,Cycling,1928,0,0,0,0,7,0
+USA,Water Polo,1928,0,0,0,0,9,0
+USA,Sailing,1928,0,0,0,0,11,0
+USA,Diving,1928,4,3,2,9,12,78
+USA,Wrestling,1928,1,1,0,2,7,18
+USA,Athletics,1928,15,11,8,34,108,294
+USA,Boxing,1928,0,2,1,3,8,23
+USA,Equestrianism,1928,0,0,0,0,12,0
+USA,Modern Pentathlon,1928,0,0,0,0,3,0
+USA,Tennis,1924,8,2,0,10,20,96
+USA,Fencing,1924,0,0,0,0,35,0
+USA,Shooting,1924,14,2,5,21,43,191
+USA,Rowing,1924,11,1,8,20,20,174
+USA,Cycling,1924,0,0,0,0,11,0
+USA,Water Polo,1924,0,0,9,9,9,63
+USA,Art Competitions,1924,0,0,0,0,2,0
+USA,Boxing,1924,2,2,2,6,16,50
+USA,Polo,1924,0,4,0,4,4,32
+USA,Gymnastics,1924,1,0,0,1,72,10
+USA,Modern Pentathlon,1924,0,0,0,0,4,0
+USA,Equestrianism,1924,0,0,1,1,16,7
+USA,Football,1924,0,0,0,0,13,0
+USA,Athletics,1924,18,15,15,48,112,405
+USA,Wrestling,1924,4,1,1,6,14,55
+USA,Rugby,1924,19,0,0,19,19,190
+USA,Swimming,1924,16,5,5,26,34,235
+USA,Diving,1924,4,4,3,11,15,93
+USA,Cycling,1920,0,0,0,0,20,0
+USA,Gymnastics,1920,0,0,0,0,4,0
+USA,Modern Pentathlon,1920,0,0,0,0,2,0
+USA,Figure Skating,1920,0,0,1,1,4,7
+USA,Rugby,1920,15,0,0,15,15,150
+USA,Rowing,1920,12,5,0,17,17,160
+USA,Swimming,1920,14,5,3,22,40,201
+USA,Shooting,1920,46,8,10,64,106,594
+USA,Athletics,1920,16,12,8,36,120,312
+USA,Wrestling,1920,1,2,3,6,20,47
+USA,Diving,1920,3,2,3,8,19,67
+USA,Fencing,1920,0,0,5,5,37,35
+USA,Ice Hockey,1920,0,11,0,11,11,88
+USA,Boxing,1920,3,0,1,4,16,37
+USA,Tug-Of-War,1920,0,0,0,0,8,0
+USA,Water Polo,1920,0,0,0,0,12,0
+USA,Equestrianism,1920,0,0,0,0,17,0
+USA,Polo,1920,0,0,4,4,4,28
+USA,Art Competitions,1912,1,0,0,1,1,10
+USA,Swimming,1912,2,4,1,7,15,59
+USA,Equestrianism,1912,0,0,4,4,13,28
+USA,Athletics,1912,23,14,12,49,183,426
+USA,Fencing,1912,0,0,0,0,30,0
+USA,Modern Pentathlon,1912,0,0,0,0,1,0
+USA,Tennis,1912,0,0,0,0,1,0
+USA,Cycling,1912,0,0,10,10,18,70
+USA,Wrestling,1912,0,0,0,0,2,0
+USA,Diving,1912,0,0,0,0,6,0
+USA,Shooting,1912,20,7,9,36,94,319
+USA,Wrestling,1908,2,0,0,2,6,20
+USA,Shooting,1908,11,2,1,14,33,133
+USA,Swimming,1908,1,0,4,5,14,38
+USA,Diving,1908,0,0,1,1,4,7
+USA,Archery,1908,0,0,1,1,2,7
+USA,Tug-Of-War,1908,0,0,0,0,8,0
+USA,Athletics,1908,19,14,8,41,143,358
+USA,Figure Skating,1908,0,0,0,0,1,0
+USA,Jeu De Paume,1908,1,0,0,1,2,10
+USA,Cycling,1908,0,0,0,0,5,0
+USA,Diving,1906,0,0,0,0,1,0
+USA,Swimming,1906,1,0,0,1,8,10
+USA,Wrestling,1906,0,0,0,0,2,0
+USA,Tennis,1906,0,0,0,0,4,0
+USA,Athletics,1906,11,6,6,23,66,200
+USA,Tug-Of-War,1904,5,5,4,14,19,118
+USA,Football,1904,0,11,12,23,23,172
+USA,Water Polo,1904,7,7,7,21,21,175
+USA,Athletics,1904,26,25,21,72,158,607
+USA,Lacrosse,1904,0,12,0,12,12,96
+USA,Rowing,1904,18,9,9,36,37,315
+USA,Cycling,1904,7,7,7,21,60,175
+USA,Diving,1904,1,0,1,2,2,17
+USA,Swimming,1904,7,7,8,22,44,182
+USA,Wrestling,1904,5,6,6,17,40,140
+USA,Weightlifting,1904,1,2,0,3,4,26
+USA,Tennis,1904,3,3,6,12,55,96
+USA,Roque,1904,1,1,1,3,4,25
+USA,Gymnastics,1904,16,13,15,44,413,369
+USA,Golf,1904,10,11,12,33,100,272
+USA,Archery,1904,12,8,8,28,70,240
+USA,Boxing,1904,7,7,4,18,24,154
+USA,Fencing,1904,2,7,4,13,20,104
+USA,Polo,1900,2,1,1,4,4,35
+USA,Swimming,1900,0,0,0,0,2,0
+USA,Rugby,1900,1,0,0,1,1,10
+USA,Cycling,1900,0,0,1,1,2,7
+USA,Sailing,1900,0,0,2,2,4,14
+USA,Golf,1900,2,1,1,4,9,35
+USA,Fencing,1900,0,0,0,0,3,0
+USA,Tennis,1900,0,1,2,3,10,22
+USA,Rowing,1900,9,0,0,9,9,90
+USA,Athletics,1900,16,13,10,39,91,334
+USA,Swimming,1896,0,0,0,0,2,0
+USA,Shooting,1896,2,1,0,3,4,28
+USA,Athletics,1896,9,6,2,17,21,152

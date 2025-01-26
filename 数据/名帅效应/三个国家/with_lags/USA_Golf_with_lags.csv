@@ -1,0 +1,6 @@
+NOC,Sport,Year,gold_number,silver_number,bronze_number,total_number,athletes_number,Unnamed: 8,coach,coach_lag1,coach_lag2,coach_lag3,coach_lag4,coach_lag5
+USA,Golf,1900,2,1,1,4,9,,0,,,,,
+USA,Golf,1904,10,11,12,33,100,,0,0.0,,,,
+USA,Golf,2016,0,0,1,1,7,,0,0.0,0.0,,,
+USA,Golf,2020,2,0,0,2,8,,0,0.0,0.0,0.0,,
+USA,Golf,2024,1,0,0,1,7,,1,0.0,0.0,0.0,0.0,

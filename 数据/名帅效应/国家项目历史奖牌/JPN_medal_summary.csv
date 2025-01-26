@@ -1,0 +1,500 @@
+NOC,Sport,Year,gold_number,silver_number,bronze_number,total_number,athletes_number,score
+JPN,Artistic Swimming,2024,0,0,0,0,11,0
+JPN,Wrestling,2024,8,1,2,11,13,102
+JPN,Athletics,2024,1,0,0,1,64,10
+JPN,Artistic Gymnastics,2024,7,0,1,8,70,77
+JPN,Sailing,2024,0,2,0,2,7,16
+JPN,Sport Climbing,2024,0,1,0,1,4,8
+JPN,Cycling Road,2024,0,0,0,0,2,0
+JPN,Cycling Mountain Bike,2024,0,0,0,0,1,0
+JPN,Tennis,2024,0,0,0,0,10,0
+JPN,Table Tennis,2024,0,3,1,4,12,31
+JPN,Golf,2024,0,0,1,1,4,7
+JPN,Marathon Swimming,2024,0,0,0,0,2,0
+JPN,Badminton,2024,0,0,4,4,12,28
+JPN,Judo,2024,3,15,3,21,28,171
+JPN,Canoe Slalom,2024,0,0,0,0,7,0
+JPN,Boxing,2024,0,0,0,0,2,0
+JPN,Breaking,2024,1,0,0,1,4,10
+JPN,Handball,2024,0,0,0,0,14,0
+JPN,Hockey,2024,0,0,0,0,16,0
+JPN,Modern Pentathlon,2024,0,1,0,1,2,8
+JPN,Rowing,2024,0,0,0,0,5,0
+JPN,Weightlifting,2024,0,0,0,0,3,0
+JPN,Beach Volleyball,2024,0,0,0,0,2,0
+JPN,Rugby Sevens,2024,0,0,0,0,26,0
+JPN,Basketball,2024,0,0,0,0,24,0
+JPN,Water Polo,2024,0,0,0,0,13,0
+JPN,Volleyball,2024,0,0,0,0,26,0
+JPN,Triathlon,2024,0,0,0,0,3,0
+JPN,Archery,2024,0,0,0,0,9,0
+JPN,Cycling BMX Racing,2024,0,0,0,0,2,0
+JPN,Cycling BMX Freestyle,2024,0,0,0,0,1,0
+JPN,Fencing,2024,5,4,8,17,30,138
+JPN,Swimming,2024,0,1,0,1,50,8
+JPN,Cycling Track,2024,0,0,0,0,34,0
+JPN,Equestrian,2024,0,0,4,4,15,28
+JPN,Shooting,2024,0,0,0,0,6,0
+JPN,Trampoline Gymnastics,2024,0,0,0,0,2,0
+JPN,Skateboarding,2024,2,2,0,4,10,36
+JPN,Surfing,2024,0,0,0,0,4,0
+JPN,Football,2024,0,0,0,0,43,0
+JPN,Diving,2024,0,1,0,1,5,8
+JPN,Swimming,2020,2,1,0,3,58,28
+JPN,Triathlon,2020,0,0,0,0,8,0
+JPN,Water Polo,2020,0,0,0,0,26,0
+JPN,Artistic Swimming,2020,0,0,0,0,10,0
+JPN,Sailing,2020,0,0,0,0,15,0
+JPN,Rowing,2020,0,0,0,0,3,0
+JPN,Athletics,2020,0,1,1,2,73,15
+JPN,Artistic Gymnastics,2020,2,4,2,8,64,66
+JPN,Wrestling,2020,5,1,1,7,12,65
+JPN,3x3 Basketball,2020,0,0,0,0,8,0
+JPN,Rhythmic Gymnastics,2020,0,0,0,0,7,0
+JPN,Cycling BMX Racing,2020,0,0,0,0,2,0
+JPN,Cycling Track,2020,0,1,0,1,12,8
+JPN,Cycling BMX Freestyle,2020,0,0,0,0,2,0
+JPN,Equestrian,2020,0,0,0,0,23,0
+JPN,Taekwondo,2020,0,0,0,0,4,0
+JPN,Trampoline Gymnastics,2020,0,0,0,0,4,0
+JPN,Cycling Mountain Bike,2020,0,0,0,0,2,0
+JPN,Sport Climbing,2020,0,1,1,2,4,15
+JPN,Tennis,2020,0,0,0,0,17,0
+JPN,Cycling Road,2020,0,0,0,0,5,0
+JPN,Table Tennis,2020,2,3,4,9,12,72
+JPN,Archery,2020,0,0,4,4,14,28
+JPN,Beach Volleyball,2020,0,0,0,0,4,0
+JPN,Rugby Sevens,2020,0,0,0,0,26,0
+JPN,Weightlifting,2020,0,0,1,1,7,7
+JPN,Basketball,2020,0,12,0,12,24,96
+JPN,Skateboarding,2020,3,1,1,5,10,45
+JPN,Surfing,2020,0,1,1,2,4,15
+JPN,Golf,2020,0,1,0,1,4,8
+JPN,Football,2020,0,0,0,0,44,0
+JPN,Marathon Swimming,2020,0,0,0,0,2,0
+JPN,Karate,2020,1,1,1,3,8,25
+JPN,Shooting,2020,0,0,0,0,25,0
+JPN,Baseball/Softball,2020,39,0,0,39,39,390
+JPN,Judo,2020,9,13,1,23,26,201
+JPN,Canoe Sprint,2020,0,0,0,0,11,0
+JPN,Handball,2020,0,0,0,0,31,0
+JPN,Boxing,2020,1,0,2,3,6,24
+JPN,Badminton,2020,0,0,2,2,14,14
+JPN,Canoe Slalom,2020,0,0,0,0,4,0
+JPN,Hockey,2020,0,0,0,0,36,0
+JPN,Modern Pentathlon,2020,0,0,0,0,3,0
+JPN,Volleyball,2020,0,0,0,0,24,0
+JPN,Fencing,2020,4,0,0,4,36,40
+JPN,Diving,2020,0,0,0,0,14,0
+JPN,Canoeing,2016,0,0,1,1,5,7
+JPN,Sailing,2016,0,0,0,0,11,0
+JPN,Wrestling,2016,4,3,0,7,10,64
+JPN,Modern Pentathlon,2016,0,0,0,0,3,0
+JPN,Rhythmic Gymnastics,2016,0,0,0,0,6,0
+JPN,Cycling,2016,0,0,0,0,11,0
+JPN,Fencing,2016,0,0,0,0,6,0
+JPN,Equestrianism,2016,0,0,0,0,18,0
+JPN,Archery,2016,0,0,0,0,7,0
+JPN,Rowing,2016,0,0,0,0,4,0
+JPN,Triathlon,2016,0,0,0,0,4,0
+JPN,Basketball,2016,0,0,0,0,12,0
+JPN,Trampolining,2016,0,0,0,0,3,0
+JPN,Shooting,2016,0,0,0,0,12,0
+JPN,Hockey,2016,0,0,0,0,16,0
+JPN,Boxing,2016,0,0,0,0,2,0
+JPN,Badminton,2016,2,0,1,3,9,27
+JPN,Judo,2016,3,1,8,12,14,94
+JPN,Weightlifting,2016,0,0,1,1,7,7
+JPN,Athletics,2016,0,4,1,5,58,39
+JPN,Rugby Sevens,2016,0,0,0,0,25,0
+JPN,Water Polo,2016,0,0,0,0,12,0
+JPN,Volleyball,2016,0,0,0,0,12,0
+JPN,Table Tennis,2016,0,3,4,7,10,52
+JPN,Tennis,2016,0,0,1,1,7,7
+JPN,Taekwondo,2016,0,0,0,0,1,0
+JPN,Golf,2016,0,0,0,0,4,0
+JPN,Football,2016,0,0,0,0,17,0
+JPN,Gymnastics,2016,6,0,1,7,49,67
+JPN,Synchronized Swimming,2016,0,0,10,10,10,70
+JPN,Diving,2016,0,0,0,0,3,0
+JPN,Swimming,2016,2,2,6,10,68,78
+JPN,Wrestling,2012,4,0,2,6,13,54
+JPN,Sailing,2012,0,0,0,0,9,0
+JPN,Modern Pentathlon,2012,0,0,0,0,3,0
+JPN,Trampolining,2012,0,0,0,0,3,0
+JPN,Taekwondo,2012,0,0,0,0,2,0
+JPN,Rhythmic Gymnastics,2012,0,0,0,0,5,0
+JPN,Boxing,2012,1,0,1,2,4,17
+JPN,Table Tennis,2012,0,3,0,3,10,24
+JPN,Tennis,2012,0,0,0,0,5,0
+JPN,Judo,2012,1,3,3,7,14,55
+JPN,Hockey,2012,0,0,0,0,16,0
+JPN,Badminton,2012,0,2,0,2,11,16
+JPN,Shooting,2012,0,0,0,0,8,0
+JPN,Athletics,2012,0,0,1,1,56,7
+JPN,Swimming,2012,0,6,11,17,53,125
+JPN,Cycling,2012,0,0,0,0,12,0
+JPN,Gymnastics,2012,1,6,0,7,48,58
+JPN,Football,2012,0,18,0,18,35,144
+JPN,Fencing,2012,0,4,0,4,16,32
+JPN,Diving,2012,0,0,0,0,1,0
+JPN,Canoeing,2012,0,0,0,0,10,0
+JPN,Equestrianism,2012,0,0,0,0,13,0
+JPN,Synchronized Swimming,2012,0,0,0,0,11,0
+JPN,Weightlifting,2012,0,1,0,1,5,8
+JPN,Rowing,2012,0,0,0,0,5,0
+JPN,Volleyball,2012,0,0,12,12,12,84
+JPN,Beach Volleyball,2012,0,0,0,0,2,0
+JPN,Triathlon,2012,0,0,0,0,5,0
+JPN,Archery,2012,0,1,3,4,12,29
+JPN,Wrestling,2008,2,2,2,6,10,50
+JPN,Rowing,2008,0,0,0,0,4,0
+JPN,Beach Volleyball,2008,0,0,0,0,4,0
+JPN,Volleyball,2008,0,0,0,0,24,0
+JPN,Athletics,2008,0,4,0,4,51,32
+JPN,Archery,2008,0,0,0,0,8,0
+JPN,Weightlifting,2008,0,0,0,0,6,0
+JPN,Taekwondo,2008,0,0,0,0,1,0
+JPN,Triathlon,2008,0,0,0,0,5,0
+JPN,Tennis,2008,0,0,0,0,5,0
+JPN,Trampolining,2008,0,0,0,0,3,0
+JPN,Football,2008,0,0,0,0,34,0
+JPN,Sailing,2008,0,0,0,0,9,0
+JPN,Modern Pentathlon,2008,0,0,0,0,1,0
+JPN,Hockey,2008,0,0,0,0,14,0
+JPN,Judo,2008,4,1,2,7,14,62
+JPN,Badminton,2008,0,0,0,0,10,0
+JPN,Baseball,2008,0,0,0,0,24,0
+JPN,Rhythmic Gymnastics,2008,0,0,0,0,6,0
+JPN,Boxing,2008,0,0,0,0,2,0
+JPN,Softball,2008,15,0,0,15,15,150
+JPN,Shooting,2008,0,0,0,0,10,0
+JPN,Gymnastics,2008,0,7,0,7,63,56
+JPN,Cycling,2008,0,0,1,1,17,7
+JPN,Fencing,2008,0,1,0,1,7,8
+JPN,Swimming,2008,2,0,6,8,64,62
+JPN,Synchronized Swimming,2008,0,0,2,2,11,14
+JPN,Table Tennis,2008,0,0,0,0,12,0
+JPN,Diving,2008,0,0,0,0,2,0
+JPN,Equestrianism,2008,0,0,0,0,9,0
+JPN,Canoeing,2008,0,0,0,0,12,0
+JPN,Volleyball,2004,0,0,0,0,11,0
+JPN,Rowing,2004,0,0,0,0,4,0
+JPN,Wrestling,2004,2,1,3,6,13,49
+JPN,Table Tennis,2004,0,0,0,0,12,0
+JPN,Beach Volleyball,2004,0,0,0,0,2,0
+JPN,Judo,2004,8,2,0,10,14,96
+JPN,Shooting,2004,0,0,0,0,15,0
+JPN,Badminton,2004,0,0,0,0,13,0
+JPN,Baseball,2004,0,0,24,24,24,168
+JPN,Boxing,2004,0,0,0,0,1,0
+JPN,Softball,2004,0,0,14,14,14,98
+JPN,Tennis,2004,0,0,0,0,8,0
+JPN,Football,2004,0,0,0,0,33,0
+JPN,Fencing,2004,0,0,0,0,5,0
+JPN,Canoeing,2004,0,0,0,0,7,0
+JPN,Athletics,2004,2,0,0,2,47,20
+JPN,Archery,2004,0,1,0,1,12,8
+JPN,Rhythmic Gymnastics,2004,0,0,0,0,1,0
+JPN,Sailing,2004,0,0,2,2,10,14
+JPN,Hockey,2004,0,0,0,0,16,0
+JPN,Trampolining,2004,0,0,0,0,1,0
+JPN,Cycling,2004,0,3,0,3,13,24
+JPN,Taekwondo,2004,0,0,0,0,1,0
+JPN,Diving,2004,0,0,0,0,2,0
+JPN,Gymnastics,2004,6,1,2,9,52,82
+JPN,Equestrianism,2004,0,0,0,0,8,0
+JPN,Triathlon,2004,0,0,0,0,5,0
+JPN,Weightlifting,2004,0,0,0,0,4,0
+JPN,Basketball,2004,0,0,0,0,12,0
+JPN,Swimming,2004,3,1,7,11,43,87
+JPN,Synchronized Swimming,2004,0,11,0,11,11,88
+JPN,Gymnastics,2000,0,0,0,0,52,0
+JPN,Rowing,2000,0,0,0,0,8,0
+JPN,Weightlifting,2000,0,0,0,0,8,0
+JPN,Beach Volleyball,2000,0,0,0,0,4,0
+JPN,Wrestling,2000,0,1,0,1,8,8
+JPN,Table Tennis,2000,0,0,0,0,14,0
+JPN,Archery,2000,0,0,0,0,8,0
+JPN,Athletics,2000,1,0,0,1,50,10
+JPN,Baseball,2000,0,0,0,0,24,0
+JPN,Sailing,2000,0,0,0,0,10,0
+JPN,Softball,2000,0,15,0,15,15,120
+JPN,Judo,2000,4,2,2,8,14,70
+JPN,Shooting,2000,0,0,0,0,15,0
+JPN,Canoeing,2000,0,0,0,0,2,0
+JPN,Trampolining,2000,0,0,0,0,2,0
+JPN,Rhythmic Gymnastics,2000,0,0,0,0,7,0
+JPN,Equestrianism,2000,0,0,0,0,13,0
+JPN,Fencing,2000,0,0,0,0,4,0
+JPN,Cycling,2000,0,0,0,0,14,0
+JPN,Swimming,2000,0,2,5,7,37,51
+JPN,Synchronized Swimming,2000,0,11,0,11,11,88
+JPN,Diving,2000,0,0,0,0,2,0
+JPN,Football,2000,0,0,0,0,16,0
+JPN,Triathlon,2000,0,0,0,0,6,0
+JPN,Tennis,2000,0,0,0,0,6,0
+JPN,Taekwondo,2000,0,0,1,1,2,7
+JPN,Boxing,2000,0,0,0,0,2,0
+JPN,Badminton,2000,0,0,0,0,9,0
+JPN,Volleyball,1996,0,0,0,0,12,0
+JPN,Archery,1996,0,0,0,0,8,0
+JPN,Canoeing,1996,0,0,0,0,10,0
+JPN,Baseball,1996,0,20,0,20,20,160
+JPN,Wrestling,1996,0,0,1,1,12,7
+JPN,Beach Volleyball,1996,0,0,0,0,6,0
+JPN,Table Tennis,1996,0,0,0,0,14,0
+JPN,Weightlifting,1996,0,0,0,0,7,0
+JPN,Basketball,1996,0,0,0,0,12,0
+JPN,Rowing,1996,0,0,0,0,11,0
+JPN,Equestrianism,1996,0,0,0,0,14,0
+JPN,Cycling,1996,0,0,1,1,9,7
+JPN,Synchronized Swimming,1996,0,0,9,9,9,63
+JPN,Diving,1996,0,0,0,0,3,0
+JPN,Swimming,1996,0,0,0,0,59,0
+JPN,Football,1996,0,0,0,0,33,0
+JPN,Fencing,1996,0,0,0,0,7,0
+JPN,Softball,1996,0,0,0,0,15,0
+JPN,Tennis,1996,0,0,0,0,8,0
+JPN,Gymnastics,1996,0,0,0,0,87,0
+JPN,Judo,1996,3,4,1,8,14,69
+JPN,Athletics,1996,0,0,1,1,39,7
+JPN,Rhythmic Gymnastics,1996,0,0,0,0,2,0
+JPN,Boxing,1996,0,0,0,0,3,0
+JPN,Badminton,1996,0,0,0,0,7,0
+JPN,Sailing,1996,0,2,0,2,10,16
+JPN,Shooting,1996,0,0,0,0,17,0
+JPN,Athletics,1992,0,2,0,2,37,16
+JPN,Archery,1992,0,0,0,0,12,0
+JPN,Modern Pentathlon,1992,0,0,0,0,1,0
+JPN,Baseball,1992,0,0,20,20,20,140
+JPN,Wrestling,1992,0,0,1,1,16,7
+JPN,Weightlifting,1992,0,0,0,0,10,0
+JPN,Rowing,1992,0,0,0,0,13,0
+JPN,Volleyball,1992,0,0,0,0,24,0
+JPN,Table Tennis,1992,0,0,0,0,14,0
+JPN,Badminton,1992,0,0,0,0,14,0
+JPN,Swimming,1992,1,0,0,1,60,10
+JPN,Gymnastics,1992,0,1,7,8,63,57
+JPN,Tennis,1992,0,0,0,0,6,0
+JPN,Equestrianism,1992,0,0,0,0,17,0
+JPN,Synchronized Swimming,1992,0,0,3,3,5,21
+JPN,Judo,1992,2,4,4,10,14,80
+JPN,Diving,1992,0,0,0,0,6,0
+JPN,Fencing,1992,0,0,0,0,6,0
+JPN,Cycling,1992,0,0,0,0,14,0
+JPN,Canoeing,1992,0,0,0,0,8,0
+JPN,Rhythmic Gymnastics,1992,0,0,0,0,2,0
+JPN,Sailing,1992,0,0,0,0,7,0
+JPN,Boxing,1992,0,0,0,0,4,0
+JPN,Shooting,1992,0,1,1,2,19,15
+JPN,Table Tennis,1988,0,0,0,0,12,0
+JPN,Rowing,1988,0,0,0,0,12,0
+JPN,Wrestling,1988,2,2,0,4,20,36
+JPN,Volleyball,1988,0,0,0,0,24,0
+JPN,Weightlifting,1988,0,0,0,0,10,0
+JPN,Synchronized Swimming,1988,0,0,3,3,5,21
+JPN,Diving,1988,0,0,0,0,8,0
+JPN,Tennis,1988,0,0,0,0,8,0
+JPN,Equestrianism,1988,0,0,0,0,18,0
+JPN,Gymnastics,1988,0,0,7,7,84,49
+JPN,Handball,1988,0,0,0,0,15,0
+JPN,Fencing,1988,0,0,0,0,16,0
+JPN,Swimming,1988,1,0,0,1,55,10
+JPN,Cycling,1988,0,0,0,0,13,0
+JPN,Judo,1988,1,0,3,4,7,31
+JPN,Boxing,1988,0,0,0,0,7,0
+JPN,Canoeing,1988,0,0,0,0,8,0
+JPN,Shooting,1988,0,1,0,1,20,8
+JPN,Rhythmic Gymnastics,1988,0,0,0,0,2,0
+JPN,Sailing,1988,0,0,0,0,13,0
+JPN,Modern Pentathlon,1988,0,0,0,0,6,0
+JPN,Athletics,1988,0,0,0,0,37,0
+JPN,Archery,1988,0,0,0,0,12,0
+JPN,Athletics,1984,0,0,0,0,27,0
+JPN,Weightlifting,1984,0,0,3,3,9,21
+JPN,Wrestling,1984,2,5,2,9,20,74
+JPN,Modern Pentathlon,1984,0,0,0,0,6,0
+JPN,Rhythmic Gymnastics,1984,0,0,0,0,2,0
+JPN,Sailing,1984,0,0,0,0,8,0
+JPN,Rowing,1984,0,0,0,0,6,0
+JPN,Swimming,1984,0,0,0,0,59,0
+JPN,Gymnastics,1984,3,3,8,14,84,110
+JPN,Shooting,1984,1,0,0,1,18,10
+JPN,Judo,1984,4,0,1,5,8,47
+JPN,Handball,1984,0,0,0,0,15,0
+JPN,Cycling,1984,0,0,1,1,11,7
+JPN,Boxing,1984,0,0,0,0,7,0
+JPN,Canoeing,1984,0,0,0,0,10,0
+JPN,Volleyball,1984,0,0,12,12,24,84
+JPN,Water Polo,1984,0,0,0,0,13,0
+JPN,Archery,1984,0,0,1,1,5,7
+JPN,Diving,1984,0,0,0,0,4,0
+JPN,Fencing,1984,0,0,0,0,15,0
+JPN,Equestrianism,1984,0,0,0,0,9,0
+JPN,Synchronized Swimming,1984,0,0,3,3,5,21
+JPN,Wrestling,1976,2,0,4,6,20,48
+JPN,Athletics,1976,0,0,0,0,16,0
+JPN,Sailing,1976,0,0,0,0,5,0
+JPN,Modern Pentathlon,1976,0,0,0,0,6,0
+JPN,Weightlifting,1976,0,0,2,2,9,14
+JPN,Swimming,1976,0,0,0,0,34,0
+JPN,Rowing,1976,0,0,0,0,9,0
+JPN,Canoeing,1976,0,0,0,0,6,0
+JPN,Diving,1976,0,0,0,0,5,0
+JPN,Shooting,1976,0,0,0,0,12,0
+JPN,Judo,1976,3,1,1,5,6,45
+JPN,Handball,1976,0,0,0,0,24,0
+JPN,Gymnastics,1976,8,4,3,15,84,133
+JPN,Basketball,1976,0,0,0,0,24,0
+JPN,Volleyball,1976,12,0,0,12,24,120
+JPN,Equestrianism,1976,0,0,0,0,13,0
+JPN,Archery,1976,0,1,0,1,4,8
+JPN,Cycling,1976,0,0,0,0,7,0
+JPN,Fencing,1976,0,0,0,0,14,0
+JPN,Boxing,1976,0,0,0,0,6,0
+JPN,Gymnastics,1972,10,5,6,21,84,182
+JPN,Shooting,1972,0,0,0,0,7,0
+JPN,Handball,1972,0,0,0,0,12,0
+JPN,Athletics,1972,0,0,0,0,22,0
+JPN,Weightlifting,1972,0,0,0,0,9,0
+JPN,Rowing,1972,0,0,0,0,3,0
+JPN,Wrestling,1972,2,2,0,4,20,36
+JPN,Sailing,1972,0,0,0,0,3,0
+JPN,Modern Pentathlon,1972,0,0,0,0,6,0
+JPN,Water Polo,1972,0,0,0,0,11,0
+JPN,Fencing,1972,0,0,0,0,8,0
+JPN,Diving,1972,0,0,0,0,4,0
+JPN,Swimming,1972,2,0,1,3,36,27
+JPN,Judo,1972,3,0,1,4,6,37
+JPN,Equestrianism,1972,0,0,0,0,8,0
+JPN,Cycling,1972,0,0,0,0,5,0
+JPN,Boxing,1972,0,0,0,0,4,0
+JPN,Canoeing,1972,0,0,0,0,5,0
+JPN,Volleyball,1972,12,12,0,24,24,216
+JPN,Archery,1972,0,0,0,0,4,0
+JPN,Basketball,1972,0,0,0,0,12,0
+JPN,Athletics,1968,0,1,0,1,25,8
+JPN,Wrestling,1968,4,1,0,5,16,48
+JPN,Rowing,1968,0,0,0,0,10,0
+JPN,Modern Pentathlon,1968,0,0,0,0,6,0
+JPN,Diving,1968,0,0,0,0,5,0
+JPN,Fencing,1968,0,0,0,0,8,0
+JPN,Football,1968,0,0,16,16,16,112
+JPN,Weightlifting,1968,1,1,1,3,7,25
+JPN,Volleyball,1968,0,20,0,20,20,160
+JPN,Water Polo,1968,0,0,0,0,9,0
+JPN,Canoeing,1968,0,0,0,0,3,0
+JPN,Cycling,1968,0,0,0,0,2,0
+JPN,Hockey,1968,0,0,0,0,14,0
+JPN,Boxing,1968,0,0,1,1,4,7
+JPN,Equestrianism,1968,0,0,0,0,7,0
+JPN,Gymnastics,1968,11,2,4,17,84,154
+JPN,Shooting,1968,0,0,0,0,6,0
+JPN,Swimming,1968,0,0,0,0,47,0
+JPN,Water Polo,1964,0,0,0,0,8,0
+JPN,Basketball,1964,0,0,0,0,12,0
+JPN,Volleyball,1964,12,0,9,21,21,183
+JPN,Fencing,1964,0,0,0,0,30,0
+JPN,Swimming,1964,0,0,5,5,54,35
+JPN,Football,1964,0,0,0,0,13,0
+JPN,Hockey,1964,0,0,0,0,13,0
+JPN,Diving,1964,0,0,0,0,11,0
+JPN,Shooting,1964,0,0,1,1,12,7
+JPN,Sailing,1964,0,0,0,0,11,0
+JPN,Rowing,1964,0,0,0,0,26,0
+JPN,Wrestling,1964,5,0,1,6,16,57
+JPN,Athletics,1964,0,0,1,1,69,7
+JPN,Canoeing,1964,0,0,0,0,12,0
+JPN,Boxing,1964,1,0,0,1,9,10
+JPN,Equestrianism,1964,0,0,0,0,20,0
+JPN,Cycling,1964,0,0,0,0,18,0
+JPN,Weightlifting,1964,1,0,2,3,7,24
+JPN,Gymnastics,1964,10,4,6,20,84,174
+JPN,Judo,1964,3,1,0,4,4,38
+JPN,Modern Pentathlon,1964,0,0,0,0,6,0
+JPN,Cycling,1960,0,0,0,0,6,0
+JPN,Basketball,1960,0,0,0,0,12,0
+JPN,Weightlifting,1960,0,1,0,1,7,8
+JPN,Water Polo,1960,0,0,0,0,7,0
+JPN,Equestrianism,1960,0,0,0,0,5,0
+JPN,Swimming,1960,0,6,7,13,37,97
+JPN,Gymnastics,1960,9,2,3,14,84,127
+JPN,Fencing,1960,0,0,0,0,21,0
+JPN,Diving,1960,0,0,0,0,8,0
+JPN,Shooting,1960,0,0,1,1,9,7
+JPN,Modern Pentathlon,1960,0,0,0,0,2,0
+JPN,Athletics,1960,0,0,0,0,25,0
+JPN,Boxing,1960,0,0,1,1,5,7
+JPN,Rowing,1960,0,0,0,0,14,0
+JPN,Hockey,1960,0,0,0,0,14,0
+JPN,Wrestling,1960,0,1,0,1,16,8
+JPN,Sailing,1960,0,0,0,0,6,0
+JPN,Rowing,1956,0,0,0,0,9,0
+JPN,Shooting,1956,0,0,0,0,10,0
+JPN,Wrestling,1956,2,1,0,3,8,28
+JPN,Athletics,1956,0,0,0,0,31,0
+JPN,Fencing,1956,0,0,0,0,3,0
+JPN,Equestrianism,1956,0,0,0,0,2,0
+JPN,Weightlifting,1956,0,0,0,0,5,0
+JPN,Cycling,1956,0,0,0,0,2,0
+JPN,Boxing,1956,0,0,0,0,3,0
+JPN,Basketball,1956,0,0,0,0,11,0
+JPN,Gymnastics,1956,1,10,5,16,90,125
+JPN,Diving,1956,0,0,0,0,8,0
+JPN,Swimming,1956,1,4,0,5,29,42
+JPN,Football,1956,0,0,0,0,11,0
+JPN,Cycling,1952,0,0,0,0,16,0
+JPN,Weightlifting,1952,0,0,0,0,1,0
+JPN,Fencing,1952,0,0,0,0,3,0
+JPN,Swimming,1952,0,6,0,6,29,48
+JPN,Gymnastics,1952,0,2,2,4,40,30
+JPN,Diving,1952,0,0,0,0,4,0
+JPN,Athletics,1952,0,0,0,0,25,0
+JPN,Sailing,1952,0,0,0,0,1,0
+JPN,Shooting,1952,0,0,0,0,1,0
+JPN,Wrestling,1952,1,1,0,2,5,18
+JPN,Equestrianism,1952,0,0,0,0,1,0
+JPN,Rowing,1952,0,0,0,0,5,0
+JPN,Boxing,1952,0,0,0,0,2,0
+JPN,Wrestling,1936,0,0,0,0,5,0
+JPN,Gymnastics,1936,0,0,0,0,64,0
+JPN,Swimming,1936,7,2,5,14,30,121
+JPN,Basketball,1936,0,0,0,0,8,0
+JPN,Hockey,1936,0,0,0,0,11,0
+JPN,Rowing,1936,0,0,0,0,17,0
+JPN,Sailing,1936,0,0,0,0,3,0
+JPN,Athletics,1936,2,2,3,7,57,57
+JPN,Art Competitions,1936,0,0,2,2,69,14
+JPN,Boxing,1936,0,0,0,0,5,0
+JPN,Equestrianism,1936,0,0,0,0,12,0
+JPN,Football,1936,0,0,0,0,12,0
+JPN,Water Polo,1936,0,0,0,0,8,0
+JPN,Diving,1936,0,0,0,0,9,0
+JPN,Art Competitions,1932,0,0,0,0,40,0
+JPN,Water Polo,1932,0,0,0,0,8,0
+JPN,Boxing,1932,0,0,0,0,5,0
+JPN,Athletics,1932,1,1,2,4,51,32
+JPN,Wrestling,1932,0,0,0,0,7,0
+JPN,Rowing,1932,0,0,0,0,14,0
+JPN,Diving,1932,0,0,0,0,5,0
+JPN,Gymnastics,1932,0,0,0,0,20,0
+JPN,Swimming,1932,8,5,2,15,29,134
+JPN,Equestrianism,1932,1,0,0,1,8,10
+JPN,Hockey,1932,0,11,0,11,11,88
+JPN,Boxing,1928,0,0,0,0,2,0
+JPN,Diving,1928,0,0,0,0,1,0
+JPN,Equestrianism,1928,0,0,0,0,4,0
+JPN,Swimming,1928,1,5,1,7,16,57
+JPN,Rowing,1928,0,0,0,0,6,0
+JPN,Athletics,1928,1,1,0,2,26,18
+JPN,Wrestling,1928,0,0,0,0,1,0
+JPN,Wrestling,1924,0,0,1,1,2,7
+JPN,Tennis,1924,0,0,0,0,8,0
+JPN,Swimming,1924,0,0,0,0,14,0
+JPN,Athletics,1924,0,0,0,0,13,0
+JPN,Athletics,1920,0,0,0,0,16,0
+JPN,Diving,1920,0,0,0,0,1,0
+JPN,Swimming,1920,0,0,0,0,5,0
+JPN,Tennis,1920,0,3,0,3,4,24
+JPN,Athletics,1912,0,0,0,0,4,0
