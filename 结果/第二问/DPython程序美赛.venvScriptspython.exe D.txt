@@ -1,0 +1,65 @@
+D:\Python程序\美赛\.venv\Scripts\python.exe D:\Python程序\美赛\第二问\模型\相关性系数.py 
+                            OLS Regression Results                            
+==============================================================================
+Dep. Variable:                  score   R-squared:                       0.853
+Model:                            OLS   Adj. R-squared:                  0.828
+Method:                 Least Squares   F-statistic:                     34.03
+Date:                Mon, 27 Jan 2025   Prob (F-statistic):           3.70e-30
+Time:                        13:36:05   Log-Likelihood:                -565.77
+No. Observations:                 104   AIC:                             1164.
+Df Residuals:                      88   BIC:                             1206.
+Df Model:                          15                                         
+Covariance Type:            nonrobust                                         
+======================================================================================
+                         coef    std err          t      P>|t|      [0.025      0.975]
+--------------------------------------------------------------------------------------
+const                361.4956    718.318      0.503      0.616   -1066.011    1789.002
+athletes_number        0.1266      0.379      0.334      0.739      -0.627       0.880
+Year                  -0.1692      0.357     -0.474      0.637      -0.879       0.540
+coach                 28.7777     30.967      0.929      0.355     -32.763      90.318
+coach_lag1            -2.2055     38.373     -0.057      0.954     -78.464      74.053
+coach_lag2            12.1955     38.385      0.318      0.751     -64.087      88.478
+coach_lag3            15.2013     39.159      0.388      0.699     -62.619      93.022
+coach_lag4            22.9681     41.183      0.558      0.578     -58.874     104.810
+coach_lag5            31.6879     36.133      0.877      0.383     -40.120     103.495
+NOC_GBR              -12.5280     16.169     -0.775      0.441     -44.660      19.604
+NOC_JPN               -7.8555     20.147     -0.390      0.698     -47.893      32.182
+NOC_KOR              -45.9112     22.744     -2.019      0.047     -91.111      -0.711
+NOC_USA              -85.5618     38.871     -2.201      0.030    -162.810      -8.313
+Sport_Athletics      377.1528     53.933      6.993      0.000     269.972     484.334
+Sport_Badminton      -45.9112     22.744     -2.019      0.047     -91.111      -0.711
+Sport_Gymnastics      79.1695     42.688      1.855      0.067      -5.663     164.002
+Sport_Table Tennis    -7.8555     20.147     -0.390      0.698     -47.893      32.182
+Sport_Tennis         -12.5280     16.169     -0.775      0.441     -44.660      19.604
+Sport_Volleyball     132.2638     47.785      2.768      0.007      37.301     227.227
+==============================================================================
+Omnibus:                       28.818   Durbin-Watson:                   1.728
+Prob(Omnibus):                  0.000   Jarque-Bera (JB):               47.884
+Skew:                           1.207   Prob(JB):                     4.00e-11
+Kurtosis:                       5.284   Cond. No.                     4.34e+19
+==============================================================================
+
+Notes:
+[1] Standard Errors assume that the covariance matrix of the errors is correctly specified.
+[2] The smallest eigenvalue is 2.18e-31. This might indicate that there are
+strong multicollinearity problems or that the design matrix is singular.
+
+Detailed Coefficients for Sport and NOC Variables:
+                    Coefficient  Standard Error  ...  95% CI Lower  95% CI Upper
+Sport_Athletics      377.152759       53.933195  ...    269.971867    484.333651
+Sport_Badminton      -45.911173       22.744438  ...    -91.110964     -0.711382
+Sport_Gymnastics      79.169528       42.687702  ...     -5.663309    164.002364
+Sport_Table Tennis    -7.855530       20.146566  ...    -47.892598     32.181537
+Sport_Tennis         -12.528008       16.168876  ...    -44.660251     19.604235
+Sport_Volleyball     132.263791       47.785070  ...     37.301005    227.226576
+NOC_GBR              -12.528008       16.168876  ...    -44.660251     19.604235
+NOC_JPN               -7.855530       20.146566  ...    -47.892598     32.181537
+NOC_KOR              -45.911173       22.744438  ...    -91.110964     -0.711382
+NOC_USA              -85.561774       38.871216  ...   -162.810149     -8.313400
+
+[10 rows x 6 columns]
+
+Total Coefficient for Sport: 87.0486
+Total Coefficient for NOC: -37.9641
+
+进程已结束，退出代码为 0
